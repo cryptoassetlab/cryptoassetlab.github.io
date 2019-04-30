@@ -38,15 +38,15 @@ seminar course, by Ferdinando Ametrano (DGI Executive Director).
 
 ## Advisory Board (_to be announced soon_)
 
-Gregorio ___________ (I__________)  
+Gregorio ......... (I.......)  
 Paolo Gianturco (Deloitte)  
-Angelo _________ (P______)  
-______ _______ (B_______)  
-Nadia ________ (C______)
+Angelo ....... (P.......)  
+....... ....... (B.......)  
+Nadia ....... (C.......)
 
 ## Save The Date
 
-*Crypto-Asset tra tecnologia e tentativi di regolazione*  
+**Crypto-Asset tra tecnologia e tentativi di regolazione**  
 _Presentazione dell’osservatorio CryptoAssetLab_
 
 5 giugno 2019, 14:30-18:00
@@ -56,9 +56,9 @@ Università Milano Bicocca, Edificio U12
 
 ## Contact Us
 
-Address: Via Bicocca degli Arcimboldi, 8, 20100 Milano (Italy)  
-Room: Building U7, 3010c  
-Email: _to be announced soon_  
+address: Via Bicocca degli Arcimboldi 8, 20100 Milano (Italy)  
+bulding, room: U7, 3010c  
+e-mail: _to be announced soon_  
 phone: _to be announced soon_
 
 ![CryptoAssetLab logo](/img/cal6.svg)
