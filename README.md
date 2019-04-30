@@ -3,7 +3,7 @@
 ![CryptoAssetLab logo](/img/cal6.svg)
 
 The CryptoAssetLab is
-a scientific and technologic R&C center
+a scientific and technologic center
 about crypto-assets, bitcoin _in primis_,
 as investment opportunity, technological innovation,
 and regulatory challenge.
@@ -16,7 +16,7 @@ possible broader applications
 We aim to be a meeting point between academia, industry,
 institutions, and regulators; we encourage students, research,
 and practitioners to join us and help with
-research, teaching, and experimentation activities.
+research, development, training, teaching, and experimentation activities.
 
 The lab is a joint initiative between the
 academic and scientific community of
