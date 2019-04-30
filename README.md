@@ -4,13 +4,13 @@
 
 The crypto-asset Laboratory is
 a scientific and technologic R&C center
-about crypto-assets, bitcoin <em>in primis</em>,
+about crypto-assets, bitcoin _in primis_,
 as investment opportunity, technological innovation,
 and regulatory challenge.
 We also pay attention to the innovations in cryptography and
-blockchain technology, their relevance for privacy and 
+blockchain technology, their relevance for privacy and
 possible broader applications
-(timestamping <em>in primis</em>, see
+(timestamping _in primis_, see
 [OpenTimestamps](www.opentimestamps.org)).
 
 We aim to be a meeting point between academia, industry,
@@ -26,7 +26,6 @@ expertise and reputation in the crypto-ecosystem:
 Milano Bicocca has been offering since 2015 a
 "Bitcoin and Blockchain Technology"
 seminar course, by Ferdinando Ametrano (DGI Executive Director).
-
 
 ## Steering Commitee
 
