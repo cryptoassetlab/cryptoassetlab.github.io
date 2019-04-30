@@ -60,3 +60,5 @@ Address: Via Bicocca degli Arcimboldi, 8, 20100 Milano (Italy)
 Room: Building U7, 3010c  
 Email: _to be announced soon_  
 phone: _to be announced soon_
+
+![CryptoAssetLab logo](/img/cal6.svg)
