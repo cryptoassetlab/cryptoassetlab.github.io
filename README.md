@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
+# Under construction
 
-You can use the [editor on GitHub](https://github.com/cryptoassetlab/cryptoassetlab.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## CryptoAssetLab
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The crypto-asset Laboratory is
+a scientific and technologic R&C center
+about crypto-assets, bitcoin <em>in primis</em>,
+as investment opportunity, technological innovation,
+and regulatory challenge.
+We also pay attention to the innovations in cryptography and
+blockchain technology, their relevance for privacy and 
+possible broader applications
+(timestamping <em>in primis</em>, see
+[OpenTimestamps](www.opentimestamps.org)).
 
-### Markdown
+We aim to be a meeting point between academia, industry,
+institutions, and regulators; we encourage students, research,
+and practitioners to join us and help with
+research, teaching, and experimentation activities.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The lab is a joint initiative between the
+academic and scientific community of
+[Milano Bicocca University](www.unimib.it) and the
+[Digital Gold Institute](www.dgi.io) (DGI) with its recognized
+expertise and reputation in the crypto-ecosystem:
+Milano Bicocca has been offering since 2015 a
+"Bitcoin and Blockchain Technology"
+seminar course, by Ferdinando Ametrano (DGI Executive Director).
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Steering Commitee
 
-- Bulleted
-- List
+[Ferdinando M. Ametrano](www.ametrano.net/about), _scientific director_ (DGI)  
+[Fabio Bellini](https://www.unimib.it/fabio-bellini) (Milano Bicocca)  
+[Paola Bongini](https://www.unimib.it/paola-agnese-bongini) (Milano Bicocca)  
+[Gianfranco Forte](https://www.unimib.it/gianfranco-forte) (Milano Bicocca)  
+[Francesca Mattasoglio](https://www.unimib.it/francesca-mattassoglio) (Milano Bicocca)  
+[Paolo Mazzocchi](https://dgi.io/#team) (DGI)  
 
-1. Numbered
-2. List
+## Advisory Board (_to be announced soon_)
 
-**Bold** and _Italic_ and `Code` text
+Gregorio ___________ (I__________)  
+Paolo Gianturco (Deloitte)  
+Angelo _________ (P______)  
+______ _______ (B_______)  
+Nadia ________ (C______)
 
-[Link](url) and ![Image](src)
-```
+## Save The Date
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+*Crypto-Asset tra tecnologia e tentativi di regolazione*  
+_Presentazione dell’osservatorio CryptoAssetLab_
 
-### Jekyll Themes
+5 giugno 2019, 14:30-18:00
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cryptoassetlab/cryptoassetlab.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Via Vizzola, 5, 20126 Milano MI  
+Università Milano Bicocca, Edificio U12
 
-### Support or Contact
+## Contact Us
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Address: Via Bicocca degli Arcimboldi, 8, 20100 Milano (Italy)  
+Room: Building U7, 3010c  
+Email: _to be announced soon_  
+phone: _to be announced soon_
