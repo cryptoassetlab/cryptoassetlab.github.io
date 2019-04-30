@@ -1,8 +1,6 @@
 # Under construction
 
-## CryptoAssetLab
-
-The crypto-asset Laboratory is
+The CryptoAssetLab is
 a scientific and technologic R&C center
 about crypto-assets, bitcoin _in primis_,
 as investment opportunity, technological innovation,
@@ -27,7 +25,7 @@ Milano Bicocca has been offering since 2015 a
 "Bitcoin and Blockchain Technology"
 seminar course, by Ferdinando Ametrano (DGI Executive Director).
 
-## Steering Commitee
+## Steering Committee
 
 [Ferdinando M. Ametrano](www.ametrano.net/about), _scientific director_ (DGI)  
 [Fabio Bellini](https://www.unimib.it/fabio-bellini) (Milano Bicocca)  
