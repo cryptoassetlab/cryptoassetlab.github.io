@@ -4,11 +4,11 @@
 
 The CryptoAssetLab is
 a scientific and technologic center
-about crypto-assets, bitcoin _in primis_,
+about crypto-assets (bitcoin _in primis_)
 as investment opportunity, technological innovation,
 and regulatory challenge.
 We also pay attention to the innovations in cryptography and
-blockchain technology, their relevance for privacy and
+blockchain technology, because of their relevance for privacy and
 possible broader applications
 (timestamping _in primis_, see
 [OpenTimestamps](http://www.opentimestamps.org)).
