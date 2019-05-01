@@ -14,7 +14,7 @@ possible broader applications
 [OpenTimestamps](http://www.opentimestamps.org)).
 
 We aim to be a meeting point between academia, industry,
-institutions, and regulators; we encourage students, research,
+institutions, and regulators; we encourage students, researchers,
 and practitioners to join us and help with
 research, development, training, teaching, and experimentation activities.
 
@@ -27,17 +27,23 @@ since 2015 Milano Bicocca has been offering a
 "Bitcoin and Blockchain Technology"
 seminar course, taught by Ferdinando Ametrano (DGI Executive Director).
 
-<img src="img/dgi-logo.png" width="160">  
-<img src="img/bicocca-logo.png">
+[<img src="img/dgi-logo.png" height="172">](http://www.dgi.io)  
+[<img src="img/bicocca-logo.png">](https://www.diseade.unimib.it/it)
 
 ## Steering Committee
 
-[Ferdinando M. Ametrano](http://ametrano.net/about), _scientific director_ (Digital Gold Institute)  
-[Fabio Bellini](http://www.unimib.it/fabio-bellini) (Milano Bicocca)  
-[Paola Bongini](http://www.unimib.it/paola-agnese-bongini) (Milano Bicocca)  
-[Gianfranco Forte](http://www.unimib.it/gianfranco-forte) (Milano Bicocca)  
-[Francesca Mattasoglio](http://www.unimib.it/francesca-mattassoglio) (Milano Bicocca)  
-[Paolo Mazzocchi](http://dgi.io/#team) (Digital Gold Institute)
+[Ferdinando M. Ametrano](http://ametrano.net/about),
+_scientific director_ (Digital Gold Institute)  
+[Fabio Bellini](http://www.unimib.it/fabio-bellini)
+(Milano Bicocca)  
+[Paola A. Bongini](http://www.unimib.it/paola-agnese-bongini)
+(Milano Bicocca)  
+[Gianfranco Forte](http://www.unimib.it/gianfranco-forte)
+(Milano Bicocca)  
+[Francesca Mattasoglio](http://www.unimib.it/francesca-mattassoglio)
+(Milano Bicocca)  
+[Paolo Mazzocchi](http://dgi.io/#team)
+(Digital Gold Institute)
 
 ## Advisory Board (_to be announced soon_)
 
