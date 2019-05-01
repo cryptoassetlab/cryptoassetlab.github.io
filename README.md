@@ -37,7 +37,11 @@ since 2015 Milano Bicocca has been offering a
 "Bitcoin and Blockchain Technology"
 seminar course, taught by Ferdinando Ametrano (DGI Executive Director).
 
+<p align="center">
+
 [<img src="img/dgi-logo.png" height="80">](http://www.dgi.io) [<img src="img/bicocca-logo.png" height="80">](https://www.diseade.unimib.it/it)
+
+</p>
 
 ## Steering Committee
 
@@ -60,6 +64,6 @@ Angelo ....... (P.......)
 ## Contact Us
 
 address: Via Bicocca degli Arcimboldi 8, 20100 Milano (Italy)  
-bulding, room: U7, 3010c  
+building, room: U7, 3010c  
 e-mail: _to be announced soon_  
 phone: _to be announced soon_
