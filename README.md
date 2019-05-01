@@ -27,6 +27,10 @@ since 2015 Milano Bicocca has been offering a
 "Bitcoin and Blockchain Technology"
 seminar course, taught by Ferdinando Ametrano (DGI Executive Director).
 
+<img src="https://github.com/cryptoassetlab/cryptoassetlab.github.io/blob/master/img/dgi-logo.png" width="160">
+
+<img src="https://github.com/cryptoassetlab/cryptoassetlab.github.io/blob/master/img/bicocca-logo.png" width="160">
+
 ## Steering Committee
 
 [Ferdinando M. Ametrano](http://ametrano.net/about), _scientific director_ (Digital Gold Institute)  
@@ -47,11 +51,11 @@ Angelo ....... (P.......)
 
 ## Save The Date
 
-**Crypto-Asset tra tecnologia e tentativi di regolazione**  
-_Presentazione dell’osservatorio CryptoAssetLab_  
-5 giugno 2019, 14:30-18:00  
-Via Vizzola, 5, 20126 Milano MI  
-Università Milano Bicocca, Edificio U12
+> **Crypto-Asset tra tecnologia e tentativi di regolazione**  
+> _Presentazione dell’osservatorio CryptoAssetLab_  
+> 5 giugno 2019, 14:30-18:00  
+> Via Vizzola, 5, 20126 Milano MI  
+> Università Milano Bicocca, Edificio U12
 
 ## Contact Us
 
