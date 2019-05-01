@@ -26,6 +26,8 @@ institutions, and regulators; we encourage students, researchers,
 and practitioners to join us and help with
 research, development, training, teaching, and experimentation activities.
 
+## A Joint Initiative
+
 The lab is a joint initiative between the
 academic and scientific community of
 [Milano Bicocca University](http://www.unimib.it) and the
