@@ -1,6 +1,6 @@
 # Under construction
 
-![CryptoAssetLab logo](/img/cal6.svg)
+![CryptoAssetLab logo](img/cal6.svg)
 
 The CryptoAssetLab is
 a scientific and technologic center
@@ -27,9 +27,9 @@ since 2015 Milano Bicocca has been offering a
 "Bitcoin and Blockchain Technology"
 seminar course, taught by Ferdinando Ametrano (DGI Executive Director).
 
-<img src="https://github.com/cryptoassetlab/cryptoassetlab.github.io/blob/master/img/dgi-logo.png" width="160">
+<img src="img/dgi-logo.png" width="160">
 
-<img src="https://github.com/cryptoassetlab/cryptoassetlab.github.io/blob/master/img/bicocca-logo.png" width="160">
+<img src="img/bicocca-logo.png" width="160">
 
 ## Steering Committee
 
