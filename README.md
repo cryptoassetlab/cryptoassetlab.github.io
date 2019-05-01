@@ -34,13 +34,14 @@ seminar course, taught by Ferdinando Ametrano (DGI Executive Director).
 [Paola Bongini](http://www.unimib.it/paola-agnese-bongini) (Milano Bicocca)  
 [Gianfranco Forte](http://www.unimib.it/gianfranco-forte) (Milano Bicocca)  
 [Francesca Mattasoglio](http://www.unimib.it/francesca-mattassoglio) (Milano Bicocca)  
-[Paolo Mazzocchi](http://dgi.io/#team) (Digital Gold Institute)  
+[Paolo Mazzocchi](http://dgi.io/#team) (Digital Gold Institute)
 
 ## Advisory Board (_to be announced soon_)
 
 Gregorio ......... (I.......)  
 Nadia ....... (C.......)  
 Paolo Gianturco (Deloitte)  
+[Antonella Sciarrone Alibrandi](https://ebi-europa.eu/wp-content/uploads/2016/12/SCIARRONE-CURRICULUM-VITAE-EN-2016-2.pdf) (European Banking Institute)  
 Angelo ....... (P.......)  
 ....... ....... (B.......)
 
