@@ -24,7 +24,8 @@ possible broader applications
 We aim to be a meeting point between academia, industry,
 institutions, and regulators; we encourage students, researchers,
 and practitioners to join us and help with
-research, development, training, teaching, and experimentation activities.
+research, development, training, teaching, and
+other experimental activities.
 
 ## A Joint Initiative
 
