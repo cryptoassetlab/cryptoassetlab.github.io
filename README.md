@@ -16,10 +16,10 @@ a scientific and technologic center about crypto-assets
 as investment opportunity, technological innovation,
 and regulatory challenge.
 We also pay attention to the innovations in cryptography and
-blockchain technology, because of their relevance for privacy and
-possible broader applications
+blockchain technology, because of their relevance for privacy,
+security and other applications
 (timestamping _in primis_, see
-[OpenTimestamps](http://www.opentimestamps.org)).
+[OpenTimestamps](https://opentimestamps.org/)).
 
 We aim to be a meeting point between academia, industry,
 institutions, and regulators; we encourage students, researchers,
