@@ -7,7 +7,7 @@ permalink: /faculty/
 
 ## Faculty
 
-Since 2015 Milano Bicocca has been offering a
+Since 2015 the University of Milano-Bicocca has been offering a
 "Bitcoin and Blockchain Technology"
 seminar course, taught by Ferdinando Ametrano;
 the lab is a joint initiative between the

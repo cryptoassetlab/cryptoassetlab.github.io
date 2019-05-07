@@ -4,7 +4,7 @@
 > _Presentazione dell’osservatorio CryptoAssetLab_  
 > 5 giugno 2019, 14:30-18:00  
 > Via Vizzola, 5, 20126 Milano MI  
-> Università Milano Bicocca, Edificio U12
+> Università di Milano-Bicocca, Edificio U12
 
 ## CryptoAssetLab
 
