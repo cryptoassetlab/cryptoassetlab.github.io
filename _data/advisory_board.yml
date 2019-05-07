@@ -2,7 +2,8 @@
   name_link: 
   photo: http://www.unimib.it/sites/default/files/default_images/transgender_1.png
   affiliation_rows: 2 
-  affiliation_row_1: 
+  affiliation_row_1: Chief Economist
+  affiliation_row_1_link:
   affiliation_row_2: I..... ........
   affiliation_row_2_link: 
   
@@ -11,6 +12,7 @@
   photo: http://www.unimib.it/sites/default/files/default_images/transgender_1.png
   affiliation_rows: 2 
   affiliation_row_1: Equity Partner
+  affiliation_row_1_link:
   affiliation_row_2: Deloitte Consulting
   affiliation_row_2_link: http://www2.deloitte.com/it/it/pages/strategy/solutions/consulting.html
 
@@ -19,6 +21,7 @@
   photo: http://www.unimib.it/sites/default/files/default_images/transgender_1.png
   affiliation_rows: 2 
   affiliation_row_1: Academic Board
+  affiliation_row_1_link:
   affiliation_row_2: European Banking Institute
   affiliation_row_2_link: https://ebi-europa.eu/
  
@@ -27,6 +30,7 @@
   photo: http://www.unimib.it/sites/default/files/default_images/transgender_1.png
   affiliation_rows: 2 
   affiliation_row_1: Head of Global Buy-Side & Market Analysis and Italy Regulation
+  affiliation_row_1_link:
   affiliation_row_2: Borsa Italiana
   affiliation_row_2_link: http://www.borsaitaliana.it/
 
@@ -34,6 +38,7 @@
   name_link: 
   photo: http://www.unimib.it/sites/default/files/default_images/transgender_1.png
   affiliation_rows: 2 
-  affiliation_row_1: 
+  affiliation_row_1: Founder and President
+  affiliation_row_1_link:
   affiliation_row_2: P........
   affiliation_row_2_link: 
