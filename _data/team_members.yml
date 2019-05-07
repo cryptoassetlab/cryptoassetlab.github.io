@@ -4,6 +4,7 @@
   photo: Ametrano
   affiliation_rows: 2
   affiliation_row_1: Executive Director
+  affiliation_row_1_link:
   affiliation_row_2: Digital Gold Institute
   affiliation_row_2_link: http://dgi.io
   
@@ -12,7 +13,9 @@
   photo: Bellini
   affiliation_rows: 3
   affiliation_row_1: Full Professor
+  affiliation_row_1_link:
   affiliation_row_2: Department of Statistics and Quantitative Methods
+  affiliation_row_2_link:
   affiliation_row_3: Milano Bicocca University
   affiliation_row_3_link: http://www.unimib.it/
 
@@ -21,7 +24,9 @@
   photo: Bongini
   affiliation_rows: 3
   affiliation_row_1: Full Professor
+  affiliation_row_1_link:
   affiliation_row_2: Dipartimento di Scienze Economico-aziendali e Diritto per l'Economia
+  affiliation_row_2_link:
   affiliation_row_3: Milano Bicocca University
   affiliation_row_3_link: http://www.unimib.it/
  
@@ -30,7 +35,9 @@
   photo: unknown
   affiliation_rows: 3
   affiliation_row_1: XXX
+  affiliation_row_1_link:
   affiliation_row_2: Dipartimento di Scienze Economico-aziendali e Diritto per l'Economia
+  affiliation_row_2_link:
   affiliation_row_3: Milano Bicocca University
   affiliation_row_3_link: http://www.unimib.it/
 
@@ -39,7 +46,9 @@
   photo: Mattasoglio
   affiliation_rows: 3
   affiliation_row_1: XXX
+  affiliation_row_1_link:
   affiliation_row_2: Dipartimento di Scienze Economico-aziendali e Diritto per l'Economia
+  affiliation_row_2_link:
   affiliation_row_3: Milano Bicocca University
   affiliation_row_3_link: http://www.unimib.it/
  
@@ -48,5 +57,6 @@
   photo: Mazzocchi
   affiliation_rows: 2 
   affiliation_row_1: Chief Operating Officer
+  affiliation_row_1_link:
   affiliation_row_2: Digital Gold Institute
   affiliation_row_2_link: http://dgi.io

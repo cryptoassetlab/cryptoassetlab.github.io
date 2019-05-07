@@ -5,6 +5,6 @@ excerpt: "Advisory Board"
 permalink: /advisory-board/
 ---
 
-## Advisory Board (_to be announced soon_)
+## Advisory Board
 
 {% include team.html %}
