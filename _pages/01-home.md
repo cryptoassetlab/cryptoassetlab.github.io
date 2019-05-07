@@ -15,7 +15,7 @@ and regulatory challenge.
 We also pay attention to the innovations in cryptography and
 blockchain technology, because of their relevance for privacy,
 security, and other applications
-(timestamping _in primis_, see
+([timestamping](https://dgi.io/ots/) _in primis_, see
 [OpenTimestamps](https://opentimestamps.org/)).
 
 We aim to be a meeting point between academia, industry,
