@@ -5,7 +5,7 @@ excerpt: "News Page"
 permalink: /news/
 ---
 
-# News
+## News
 
 {% for article in site.data.news %}
 <p>{{ article.date }} <br>

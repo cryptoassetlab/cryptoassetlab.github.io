@@ -1,0 +1,73 @@
+{% assign number_printed = 0 %}
+
+{% if page.title == 'About Us' %}
+{% assign data = site.data.team_members %}
+{% else %}
+{% assign data = site.data.advisory_board %}
+{% endif %}
+
+{% for member in data %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4><a href="{{ member.name_link }}">{{ member.name }}</a></h4>
+<ul>
+  {% if member.affiliation_rows == 1 %}
+    {% if member.affiliation_row_1_link %}
+    <a href="{{ member.affiliation_row_1_link }}"><i>{{ member.affiliation_row_1 }}</i></a><br>
+    {% else %}
+    <i>{{ member.affiliation_row_1 }}</i> <br>
+    {% endif %}
+  {% endif %}
+
+  {% if member.affiliation_rows == 2 %}
+    {% if member.affiliation_row_1_link %}
+    <a href="{{ member.affiliation_row_1_link }}"><i>{{ member.affiliation_row_1 }}</i></a><br>
+    {% else %}
+    <i>{{ member.affiliation_row_1 }}</i> <br>
+    {% endif %}
+    {% if member.affiliation_row_2_link %}
+    <a href="{{ member.affiliation_row_2_link }}"><i>{{ member.affiliation_row_2 }}</i></a><br>
+    {% else %}
+    <i>{{ member.affiliation_row_2 }}</i>
+    {% endif %}
+  {% endif %}
+
+  {% if member.affiliation_rows == 3 %}
+    {% if member.affiliation_row_1_link %}
+    <a href="{{ member.affiliation_row_1_link }}"><i>{{ member.affiliation_row_1 }}</i></a><br>
+    {% else %}
+    <i>{{ member.affiliation_row_1 }}</i> <br>
+    {% endif %}
+    {% if member.affiliation_row_2_link %}
+    <a href="{{ member.affiliation_row_2_link }}"><i>{{ member.affiliation_row_2 }}</i></a><br>
+    {% else %}
+    <i>{{ member.affiliation_row_2 }}</i>
+    {% endif %}
+    {% if member.affiliation_row_3_link %}
+    <a href="{{ member.affiliation_row_3_link }}"><i>{{ member.affiliation_row_3 }}</i></a><br>
+    {% else %}
+    <i>{{ member.affiliation_row_3 }}</i>
+    {% endif %}
+  {% endif %}
+</ul>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
