@@ -1,0 +1,39 @@
+- name: Gregorio .. ......
+  name_link: 
+  photo: Koen.jpg
+  affiliation_rows: 2 
+  affiliation_row_1: 
+  affiliation_row_2: I..... ........
+  affiliation_row_2_link: 
+  
+- name: Paolo Gianturco
+  name_link: http://www2.deloitte.com/it/it/profiles/gx-paolo-gianturco.html 
+  photo: Koen.jpg
+  affiliation_rows: 2 
+  affiliation_row_1: Equity Partner
+  affiliation_row_2: Deloitte Consulting
+  affiliation_row_2_link: http://www2.deloitte.com/it/it/pages/strategy/solutions/consulting.html
+
+- name: Antonella Sciarrone Alibrandi
+  name_link: https://ebi-europa.eu/wp-content/uploads/2016/12/SCIARRONE-CURRICULUM-VITAE-EN-2016-2.pdf
+  photo: Koen.jpg
+  affiliation_rows: 2 
+  affiliation_row_1: Academic Board
+  affiliation_row_2: European Banking Institute
+  affiliation_row_2_link: https://ebi-europa.eu/
+ 
+- name: Valentina Sidoti
+  name_link: https://www.linkedin.com/in/valentina-sidoti/
+  photo: Koen.jpg
+  affiliation_rows: 2 
+  affiliation_row_1: Head of Global Buy-Side & Market Analysis and Italy Regulation
+  affiliation_row_2: Borsa Italiana
+  affiliation_row_2_link: http://www.unimib.it/
+
+- name: Angelo ........
+  name_link: 
+  photo: Maarten.png
+  affiliation_rows: 2 
+  affiliation_row_1: 
+  affiliation_row_2: P........
+  affiliation_row_2_link: 
