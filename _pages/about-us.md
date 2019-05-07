@@ -1,0 +1,88 @@
+---
+title: "About Us"
+layout: gridlay
+excerpt: "About Us"
+permalink: /about-us/
+---
+
+## A Joint Initiative
+
+The lab is a joint initiative between the
+academic and scientific community of
+[Milano Bicocca University](http://www.unimib.it) and the
+[Digital Gold Institute](http://www.dgi.io) (DGI) with its recognized
+expertise and reputation in the crypto-ecosystem:
+since 2015 Milano Bicocca has been offering a
+"Bitcoin and Blockchain Technology"
+seminar course, taught by Ferdinando Ametrano (DGI Executive Director).
+
+[<img src="{{ site.url }}{{ site.baseurl }}/images/bicocca-logo.png" height="80">](https://www.diseade.unimib.it/it)
+[<img src="{{ site.url }}{{ site.baseurl }}/images/dgi-logo.png" height="80">](http://www.dgi.io)
+
+## Team
+{% assign number_printed = 0 %}
+{% for member in site.data.team_members %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4><a href="{{ member.name_link }}">{{ member.name }}</a></h4>
+<ul>
+  {% if member.affiliation_rows == 1 %}
+    {% if member.affiliation_row_1_link %}
+    <a href="{{ member.affiliation_row_1_link }}"><i>{{ member.affiliation_row_1 }}</i></a><br>
+    {% else %}
+    <i>{{ member.affiliation_row_1 }}</i> <br>
+    {% endif %}
+  {% endif %}
+
+  {% if member.affiliation_rows == 2 %}
+    {% if member.affiliation_row_1_link %}
+    <a href="{{ member.affiliation_row_1_link }}"><i>{{ member.affiliation_row_1 }}</i></a><br>
+    {% else %}
+    <i>{{ member.affiliation_row_1 }}</i> <br>
+    {% endif %}
+    {% if member.affiliation_row_2_link %}
+    <a href="{{ member.affiliation_row_2_link }}"><i>{{ member.affiliation_row_2 }}</i></a><br>
+    {% else %}
+    <i>{{ member.affiliation_row_2 }}</i>
+    {% endif %}
+  {% endif %}
+
+  {% if member.affiliation_rows == 3 %}
+    {% if member.affiliation_row_1_link %}
+    <a href="{{ member.affiliation_row_1_link }}"><i>{{ member.affiliation_row_1 }}</i></a><br>
+    {% else %}
+    <i>{{ member.affiliation_row_1 }}</i> <br>
+    {% endif %}
+    {% if member.affiliation_row_2_link %}
+    <a href="{{ member.affiliation_row_2_link }}"><i>{{ member.affiliation_row_2 }}</i></a><br>
+    {% else %}
+    <i>{{ member.affiliation_row_2 }}</i>
+    {% endif %}
+    {% if member.affiliation_row_3_link %}
+    <a href="{{ member.affiliation_row_3_link }}"><i>{{ member.affiliation_row_3 }}</i></a><br>
+    {% else %}
+    <i>{{ member.affiliation_row_3 }}</i>
+    {% endif %}
+  {% endif %}
+</ul>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}

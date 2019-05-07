@@ -1,10 +1,17 @@
 # Site settings
 title: CryptoAssetLab
 email:
-description: # this means to ignore newlines until "baseurl:"
+description: Website for the CryptoAssetLab
 #baseurl: "" # the subpath of your site, e.g. /blog/
-url: http://cryptoassetlab.diseade.unimib.it/
-logo:
+baseurl: ""
+url: ""
+
+include:
+  - .htaccess
+  - _pages
+
+sass:
+  sass_dir: _sass
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
@@ -15,10 +22,21 @@ google_analytics:
 
 # Build settings
 markdown: kramdown
+excerpt_separator: "\n\n"
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+  parse_block_html: true # default for kramdown is false. This will enable using Markdown links
 
 # Use the following plug-ins
 plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-
-theme: jekyll-theme-slate
