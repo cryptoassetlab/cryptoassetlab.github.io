@@ -7,6 +7,11 @@ permalink: /advisory-board/
 
 ## Advisory Board
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The Advisory Board purpose is to support the Crypto Asset Lab
+[faculty](/faculty/) in carrying out its
+[core mission](#mission-statement).
+It periodically reviews and assesses potential, planned, continuing, and
+completed activities, to help ensure that the overall engagement is
+effectively advancing the lab’s objectives.
 
 {% include team.html %}
