@@ -18,18 +18,27 @@
   
 - name: Paolo Gianturco
   name_link: http://www2.deloitte.com/it/it/profiles/gx-paolo-gianturco.html 
-  photo: advisory_board/unknown.jpg
+  photo: advisory_board/Gianturco.jpg
   affiliation_rows: 2 
   affiliation_row_1: Equity Partner
   affiliation_row_1_link:
   affiliation_row_2: Deloitte Consulting
   affiliation_row_2_link: http://www2.deloitte.com/it/it/pages/strategy/solutions/consulting.html
 
-- name: Valentina Sidoti
-  name_link: https://www.linkedin.com/in/valentina-sidoti/
+- name: Nadia ........
+  name_link: 
   photo: advisory_board/unknown.jpg
   affiliation_rows: 2 
-  affiliation_row_1: Head of Global Buy-Side & Market Analysis and Italy Regulation
+  affiliation_row_1: 
+  affiliation_row_1_link:
+  affiliation_row_2: C.....
+  affiliation_row_2_link: 
+
+- name: Valentina Sidoti
+  name_link: https://www.linkedin.com/in/valentina-sidoti/
+  photo: advisory_board/Sidoti.jpg
+  affiliation_rows: 2 
+  affiliation_row_1: Head of Global Buy-Side & Market Analysis and Italian Regulation
   affiliation_row_1_link:
   affiliation_row_2: Borsa Italiana
   affiliation_row_2_link: http://www.borsaitaliana.it/
