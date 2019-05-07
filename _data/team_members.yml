@@ -2,6 +2,7 @@
 - name: Ferdinando M. Ametrano
   name_link: http://www.ametrano.net
   photo: team/Ametrano.jpg
+  role: Scientific Director
   affiliation_rows: 2
   affiliation_row_1: Executive Director
   affiliation_row_1_link:
@@ -60,3 +61,4 @@
   affiliation_row_1_link:
   affiliation_row_2: Digital Gold Institute
   affiliation_row_2_link: http://dgi.io
+

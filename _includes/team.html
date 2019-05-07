@@ -17,7 +17,12 @@
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   
-  <h4><a href="{{ member.name_link }}">{{ member.name }}</a></h4>
+  <h4>
+    <a href="{{ member.name_link }}">{{ member.name }}</a>
+    {% if member.role %}
+    (<i>{{ member.role }}</i>)
+    {% endif %}
+  </h4>
 <ul>
   {% if member.affiliation_rows == 1 %}
     {% if member.affiliation_row_1_link %}
