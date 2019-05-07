@@ -2,7 +2,7 @@
 
 {% if page.title == 'About Us' %}
 {% assign data = site.data.team_members %}
-{% else %}
+{% else if page.title == 'Advisory Board' %}
 {% assign data = site.data.advisory_board %}
 {% endif %}
 

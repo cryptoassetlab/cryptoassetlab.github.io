@@ -17,4 +17,5 @@ since 2015 Milano Bicocca has been offering a
 seminar course, taught by Ferdinando Ametrano.
 
 ## Team
+
 {% include team.html %}

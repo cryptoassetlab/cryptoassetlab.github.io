@@ -6,5 +6,5 @@ permalink: /advisory-board/
 ---
 
 ## Advisory Board (_to be announced soon_)
-{% include team.html %}
 
+{% include team.html %}
