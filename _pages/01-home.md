@@ -8,9 +8,9 @@ permalink: /
 ## Mission Statement
 
 The Crypto Asset Lab is
-a scientific and technologic center about crypto assets
+a scientific research center about crypto assets
 ([bitcoin](http://bitcoincore.org/) _in primis_)
-as investment opportunity, technological innovation,
+as investment opportunity, fintech innovation,
 and regulatory challenge.
 We also pay attention to the innovations in cryptography and
 blockchain technology, because of their relevance for privacy,
