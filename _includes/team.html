@@ -15,11 +15,7 @@
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-    {% if page.title == 'About Us' %}
-    <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.photo }}.jpg" class="img-responsive" width="25%" style="float: left" />
-    {% else if page.title == 'Advisory Board' %}
-    <img src="{{ site.url }}{{ site.baseurl }}/images/advisory_board/{{ member.photo }}.jpg" class="img-responsive" width="25%" style="float: left" />
-    {% endif %}
+  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   
   <h4><a href="{{ member.name_link }}">{{ member.name }}</a></h4>
 <ul>

@@ -1,7 +1,7 @@
 
 - name: Ferdinando M. Ametrano
   name_link: http://www.ametrano.net
-  photo: Ametrano
+  photo: team/Ametrano.jpg
   affiliation_rows: 2
   affiliation_row_1: Executive Director
   affiliation_row_1_link:
@@ -10,7 +10,7 @@
   
 - name: Fabio Bellini
   name_link: http://www.unimib.it/fabio-bellini 
-  photo: Bellini
+  photo: team/Bellini.jpg
   affiliation_rows: 3
   affiliation_row_1: Full Professor
   affiliation_row_1_link:
@@ -21,7 +21,7 @@
 
 - name: Paola A. Bongini
   name_link: http://www.unimib.it/paola-agnese-bongini
-  photo: Bongini
+  photo: team/Bongini.jpg
   affiliation_rows: 3
   affiliation_row_1: Full Professor
   affiliation_row_1_link:
@@ -32,7 +32,7 @@
  
 - name: Gianfranco Forte
   name_link: http://www.unimib.it/gianfranco-forte
-  photo: unknown
+  photo: team/Forte.jpg
   affiliation_rows: 3
   affiliation_row_1: XXX
   affiliation_row_1_link:
@@ -43,7 +43,7 @@
 
 - name: Francesca Mattasoglio
   name_link: http://www.unimib.it/francesca-mattassoglio
-  photo: Mattasoglio
+  photo: team/Mattasoglio.jpg
   affiliation_rows: 3
   affiliation_row_1: XXX
   affiliation_row_1_link:
@@ -54,7 +54,7 @@
  
 - name: Paolo Mazzocchi
   name_link: http://dgi.io/full-team/
-  photo: Mazzocchi
+  photo: team/Mazzocchi.jpg
   affiliation_rows: 2 
   affiliation_row_1: Chief Operating Officer
   affiliation_row_1_link:
