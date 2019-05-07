@@ -5,8 +5,10 @@ layout: homelay
 permalink: /
 ---
 
-The CryptoAssetLab is
-a scientific and technologic center about crypto-assets
+## Mission Statement
+
+The Crypto Asset Lab is
+a scientific and technologic center about crypto assets
 ([bitcoin](https://bitcoincore.org/) _in primis_)
 as investment opportunity, technological innovation,
 and regulatory challenge.
