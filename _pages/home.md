@@ -5,8 +5,6 @@ layout: homelay
 permalink: /
 ---
 
-## Crypto Asset Lab
-
 The CryptoAssetLab is
 a scientific and technologic center about crypto-assets
 ([bitcoin](https://bitcoincore.org/) _in primis_)
