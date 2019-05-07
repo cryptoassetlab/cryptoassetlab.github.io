@@ -1,11 +1,11 @@
 - name: Antonella Sciarrone Alibrandi
-  name_link: https://ebi-europa.eu/wp-content/uploads/2016/12/SCIARRONE-CURRICULUM-VITAE-EN-2016-2.pdf
+  name_link: http://ebi-europa.eu/wp-content/uploads/2016/12/SCIARRONE-CURRICULUM-VITAE-EN-2016-2.pdf
   photo: advisory_board/Sciarrone.jpg
   affiliation_rows: 2 
   affiliation_row_1: Academic Board
   affiliation_row_1_link:
   affiliation_row_2: European Banking Institute
-  affiliation_row_2_link: https://ebi-europa.eu/
+  affiliation_row_2_link: http://ebi-europa.eu/
  
 - name: Gregorio .. ......
   name_link: 
@@ -35,7 +35,7 @@
   affiliation_row_2_link: 
 
 - name: Valentina Sidoti
-  name_link: https://www.linkedin.com/in/valentina-sidoti/
+  name_link: http://www.linkedin.com/in/valentina-sidoti/
   photo: advisory_board/Sidoti.jpg
   affiliation_rows: 2 
   affiliation_row_1: Head of Global Buy-Side & Market Analysis and Italian Regulation
