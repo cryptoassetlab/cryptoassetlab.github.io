@@ -36,7 +36,8 @@ La presentazione dell’osservatorio Crypto Asset Lab avverrà il giorno **5 giu
 *Conclusioni e saluti (oppure tavola rotonda)*
 * 18:00 aperitivo in terrazza
 
-#### Per iscriversi all'evento è necessario compilare il modulo di [iscrizione](https://docs.google.com/document/d/1nslR3ejhNgAtTSjCagyAh8RCdAg09DzZM-tx9XkQT9c/edit?usp=sharing)
+Per iscriversi all'evento è necessario compilare il modulo di [iscrizione](https://docs.google.com/document/d/1nslR3ejhNgAtTSjCagyAh8RCdAg09DzZM-tx9XkQT9c/edit?usp=sharing)
 
 #### Indirizzo evento:
+
 <div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="250" id="gmap_canvas" src="https://maps.google.com/maps?q=Via%20Vizzola%205%2C%20Milano%20MI%2C%20Edificio%20U12%2C%20Universit%C3%A0%20Milano%20Bicocca&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.emojilib.com">emojilib.com</a></div><style>.mapouter{position:relative;text-align:right;height:250px;width:300px;}.gmap_canvas {overflow:hidden;background:none!important;height:250px;width:300px;}</style></div>

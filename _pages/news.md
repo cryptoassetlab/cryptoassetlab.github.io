@@ -13,6 +13,7 @@ permalink: /news/
     [{{ post.title }}]({{ post.url }})
 </h1>
 {{ post.date | date: "%b %e, %Y" }}
+
 {{ post.excerpt }}
   
 {% endfor %}
