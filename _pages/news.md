@@ -7,7 +7,12 @@ permalink: /news/
 
 ## News
 
-{% for article in site.data.news %}
-<p>{{ article.date }} <br>
-<em>{{ article.headline }}</em></p>
+{% for post in site.posts %}
+
+<h1 class="post-title">
+    [{{ post.title }}]({{ post.url }})
+</h1>
+{{ post.date | date: "%b %e, %Y" }}
+{{ post.excerpt }}
+  
 {% endfor %}

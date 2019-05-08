@@ -1,0 +1,15 @@
+---
+layout: homelay
+---
+
+<article class="post">
+    <h1>{{ page.title }}</h1>
+    <p>
+        {{ page.date | date: "%b %e, %Y" }}
+        {% if page.author %}
+        |<i> {{ page.author }}</i>
+        {% endif %}
+    </p>
+    <h3>{{ page.subtitle }}</h3>
+    <p>{{ content }}</p>
+</article>
