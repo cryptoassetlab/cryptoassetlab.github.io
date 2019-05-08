@@ -6,7 +6,7 @@ subtitle: "Presentazione dell’osservatorio Crypto Asset Lab"
 date: 01 May 2019
 author: first
 
-published: true
+published: false
 ---
 
 La presentazione dell’osservatorio Crypto Asset Lab avverrà il giorno **5 giugno 2019** dalle **14:30** alle **18:00** in *Via Vizzola 5, Milano MI, Edificio U12, Università Milano Bicocca*
