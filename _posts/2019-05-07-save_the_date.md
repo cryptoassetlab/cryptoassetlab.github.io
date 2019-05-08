@@ -24,15 +24,15 @@ La presentazione dell’osservatorio Crypto Asset Lab avverrà il giorno **5 giu
 *La creazione di un indice rappresentativo di investimenti in crypto asset: gli orientamenti del Crypto Asset Lab*
 * 16:15 **Paolo Mazzocchi**, Digital Gold Institute  
 *Applicazioni non monetarie della blockchain: la marcatura temporale*
-* 16:45 **Antonella Sciarrone Alibrandi**\*, European Banking Institute  
+* 16:45 **Antonella Sciarrone Alibrandi**\*, Membro Academic Board, European Banking Institute  
 *[titolo da confermare]*
 * 17:00 **Paolo Gianturco**, Senior Partner Deloitte Italia  
 *[titolo da confermare]*
-* 17:15 **Angelo Tantazzi**\*, Prometeia  
+* 17:15 **Angelo Tantazzi**\*, Fondatore e Presidente, Prometeia  
 *[titolo da confermare]*
 * 17:45 **Nadia ……..**\*, C……..  
 *[titolo da confermare]*
-* 18:00 **Paola A. Bongini**, Università di Milano-Bicocca  
+* 18:00 **Paola A. Bongini**, Professore Ordinario, Università di Milano-Bicocca  
 *Conclusioni e saluti (oppure tavola rotonda)*
 * 18:00 aperitivo in terrazza
 
