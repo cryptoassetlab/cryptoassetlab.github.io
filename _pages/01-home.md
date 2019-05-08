@@ -24,4 +24,18 @@ and practitioners to join us and help with
 research, development, training, teaching, and
 other experimental activities.
 
-![CryptoAssetLab logo](images/cal6.svg)
+## About
+
+The University of Milano-Bicocca has been offering a
+"Bitcoin and Blockchain Technology"
+course since
+[2015/2016](http://www.ametrano.net/courses/#past-university-courses),
+taught by Ferdinando Ametrano;
+the lab is a joint initiative between the
+academic and scientific community of the
+[University of Milano-Bicocca](http://www.unimib.it)
+and the team of the
+[Digital Gold Institute](http://www.dgi.io) with its
+expert understanding of the crypto-ecosystem.
+
+<a href="http://www.diseade.unimib.it/it"><img src="{{ site.url }}{{ site.baseurl }}/images/bicocca-logo.png" height="80"></a><a href="http://dgi.io"><img src="{{ site.url }}{{ site.baseurl }}/images/dgi-logo.png" height="80"></a>
