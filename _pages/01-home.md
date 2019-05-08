@@ -27,10 +27,9 @@ other experimental activities.
 ## About
 
 The University of Milano-Bicocca has been offering a
-"Bitcoin and Blockchain Technology"
+["Bitcoin and Blockchain Technology"](http://www.ametrano.net/bbt/)
 course since
-[2015/2016](http://www.ametrano.net/courses/#past-university-courses),
-taught by Ferdinando Ametrano;
+[2015/2016](http://www.ametrano.net/courses/#past-university-courses);
 the lab is a joint initiative between the
 academic and scientific community of the
 [University of Milano-Bicocca](http://www.unimib.it)
