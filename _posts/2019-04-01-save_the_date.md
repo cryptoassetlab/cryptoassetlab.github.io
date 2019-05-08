@@ -1,0 +1,12 @@
+---
+layout: post
+comments: false
+title: "Empty test news"
+subtitle: "it should not be published"
+date: 01 April 2019
+author: fool's joke
+
+published: false
+---
+
+Empty test news - it should not be published
