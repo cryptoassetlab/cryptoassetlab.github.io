@@ -2,11 +2,12 @@
     <h4>News</h4>
 
     {% for post in site.posts limit:3 %}
-    {{ post.date | date: "%b %e, %Y" }}
-    <h3 class="post-title">
+    <h4 class="post-title">
         <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-    </h3>
+    </h4>
+    {{ post.date | date: "%b %e, %Y" }}
     {{ post.excerpt }}
+    <br>
     {% endfor %}
 
     <h4><a href="{{ site.url }}{{ site.baseurl }}/news">... see all News</a></h4>

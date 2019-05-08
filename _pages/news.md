@@ -1,6 +1,6 @@
 ---
 title: "News"
-layout: textlay
+layout: newslay
 excerpt: "News Page"
 permalink: /news/
 ---
@@ -9,9 +9,9 @@ permalink: /news/
 
 {% for post in site.posts %}
 
-<h1 class="post-title">
+<h3 class="post-title">
     [{{ post.title }}]({{ post.url }})
-</h1>
+</h3>
 {{ post.date | date: "%b %e, %Y" }}
 
 {{ post.excerpt }}
