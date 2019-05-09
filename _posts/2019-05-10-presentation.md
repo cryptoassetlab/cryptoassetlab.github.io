@@ -9,33 +9,33 @@ author: Staff
 published: true
 ---
 
-**5 giugno 2019**, **14:30-18:00**
+5 giugno 2019, 14:30-18:00  
+Università di Milano-Bicocca, Edificio U12  
+Via Vizzola 5, 20126 Milano
 
-*Università di Milano-Bicocca, Edificio U12, Via Vizzola 5, 20126 Milano*
-
-[Programma](https://www.google.com/url?q=http://cryptoassetlab.diseade.unimib.it/docs/20190605-presentazione-cal.pdf&sa=D&ust=1557443334984000&usg=AFQjCNEEoz2kJKuOFxYLVQuk1gs6yehYQQ) del workshop
+[Programma](https://www.google.com/url?q=http://cryptoassetlab.diseade.unimib.it/docs/20190605-presentazione-cal.pdf&sa=D&ust=1557443334984000&usg=AFQjCNEEoz2kJKuOFxYLVQuk1gs6yehYQQ) del workshop  
 (*aggiornato al 10 maggio, \*in attesa di conferma*):
 
-- Paolo Cherubini, Prorettore Vicario, Università di Milano-Bicocca.  
-Saluto istituzionale.
-- Ferdinando Ametrano, Executive Director, Digital Gold Institute.  
-Presentazione dell’osservatorio Crypto Asset Lab.
-- Francesca Mattassoglio, Ricercatore di Diritto dell’Economia, Università di Milano-Bicocca.  
-La risposta del Crypto Asset Lab alla consultazione Consob “Le offerte iniziali e gli scambi di cripto-attività”.
-- Gianfranco Forte, Ricercatore di Economia degli Intermediari Finanziari, Università di Milano-Bicocca.  
-La creazione di un indice rappresentativo di investimenti in crypto asset: gli orientamenti del Crypto Asset Lab.
-- Paolo Mazzocchi, Digital Gold Institute.  
-Applicazioni non monetarie della blockchain: la marcatura temporale.
-- Tavola rotonda con la [Faculty](/faculty/) e l’[Advisory Board](/advisory-board/) del Crypto Asset Lab, coordinata da Paola Bongini (Professore Ordinario di Economia degli Intermediari Finanziari, Università di Milano-Bicocca). Intervengono tra gli altri:
-  - Paolo Cherubini, Prorettore Vicario, Università di Milano-Bicocca
-  - Antonella Sciarrone Alibrandi*, Academic Board, European Banking Institute
-  - Paolo Gianturco, Senior Partner, Head of FinTech & FS Tech, Deloitte Italia
-  - Angelo Tantazzi*, Fondatore e Presidente, Prometeia
-  - Nadia Linciano*, Consob
+- **Paolo Cherubini**, Prorettore Vicario, Università di Milano-Bicocca.  
+*Saluto istituzionale.*
+- **Ferdinando Ametrano**, Executive Director, Digital Gold Institute.  
+*Presentazione dell’osservatorio Crypto Asset Lab.*
+- **Francesca Mattassoglio**, Ricercatore di Diritto dell’Economia, Università di Milano-Bicocca.  
+*La risposta del Crypto Asset Lab alla consultazione Consob “Le offerte iniziali e gli scambi di cripto-attività”.*
+- **Gianfranco Forte**, Ricercatore di Economia degli Intermediari Finanziari, Università di Milano-Bicocca.  
+*La creazione di un indice rappresentativo di investimenti in crypto asset: gli orientamenti del Crypto Asset Lab.*
+- **Paolo Mazzocchi**, Digital Gold Institute.  
+*Applicazioni non monetarie della blockchain: la marcatura temporale.*
+- *Tavola rotonda* con la [Faculty](/faculty/) e l’[Advisory Board](/advisory-board/) del Crypto Asset Lab, coordinata da **Paola Bongini** (Professore Ordinario di Economia degli Intermediari Finanziari, Università di Milano-Bicocca). Intervengono tra gli altri:
+  - **Paolo Cherubini**, Prorettore Vicario, Università di Milano-Bicocca
+  - **Antonella Sciarrone Alibrandi**\*, Academic Board, European Banking Institute
+  - **Paolo Gianturco**, Senior Partner, Head of FinTech & FS Tech, Deloitte Italia
+  - **Angelo Tantazzi**\*, Fondatore e Presidente, Prometeia
+  - **Nadia Linciano**\*, Consob
 
 A conclusione dei lavori sarà servito un aperitivo in terrazza.
 
-Il workshop è principalmente rivolto a professionisti, aziende, istituzioni, docenti e ricercatori coinvolti nel fenomeno crypto asset: sono benvenuti anche studenti e semplici interessati. La partecipazione è gratuita, previa registrazione tramite l’apposito [modulo online](https://docs.google.com/forms/d/e/1FAIpQLSeI4YDiaNdSCOr2h0QXa9qDUSmmsFqtdgsk6j4_x8FcVgK84Q/viewform)
+Il workshop è principalmente rivolto a professionisti, aziende, istituzioni, docenti e ricercatori coinvolti nel fenomeno crypto asset: sono benvenuti anche studenti e semplici interessati. La partecipazione è gratuita, previa registrazione tramite l’apposito [modulo online](https://docs.google.com/forms/d/e/1FAIpQLSeI4YDiaNdSCOr2h0QXa9qDUSmmsFqtdgsk6j4_x8FcVgK84Q/viewform).
 
 #### Indirizzo evento
 
