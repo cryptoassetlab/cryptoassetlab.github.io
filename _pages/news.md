@@ -9,20 +9,17 @@ permalink: /news/
 
 {% for post in site.posts %}
 
-<h3 class="post-title">
-    [{{ post.title }}]({{ post.url }})
-</h3>
+### [{{ post.title }}]({{ post.url }})
 
 {{ post.date | date: "%b %e, %Y" }}
-{% if post.author %}|* {{ post.author }}*
-{% endif %}
+{% if post.author %}| *{{ post.author }}*{% endif %}
 
 {% if post.subtitle %}
-<h4>{{ post.subtitle }}</h4>
+#### {{ post.subtitle }}
 {% endif %}
 
 {{ post.excerpt }}
 
-<a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
+[Read more]({{ site.baseurl }}{{ post.url }})
   
 {% endfor %}
