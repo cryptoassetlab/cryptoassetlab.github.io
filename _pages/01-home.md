@@ -31,7 +31,7 @@ has been offering a
 ["Bitcoin and Blockchain Technology"](http://www.ametrano.net/bbt/)
 course since
 [2015/2016](http://www.ametrano.net/courses/#past-university-courses);
-the lab is a joint initiative between its
+the lab is a joint initiative between our
 academic and scientific community and the
 [Digital Gold Institute](http://www.dgi.io).
 
