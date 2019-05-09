@@ -14,7 +14,7 @@ permalink: /news/
 </h3>
 
 {{ post.date | date: "%b %e, %Y" }}
-{% if post.author %}|<i> {{ post.author }}</i>
+{% if post.author %}|* {{ post.author }}*
 {% endif %}
 
 {% if post.subtitle %}
