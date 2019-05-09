@@ -13,7 +13,7 @@ published: true
 Università di Milano-Bicocca, Edificio U12  
 Via Vizzola 5, 20126 Milano
 
-[Programma](https://www.google.com/url?q=http://cryptoassetlab.diseade.unimib.it/docs/20190605-presentazione-cal.pdf&sa=D&ust=1557443334984000&usg=AFQjCNEEoz2kJKuOFxYLVQuk1gs6yehYQQ) del workshop  
+[Programma](http://cryptoassetlab.diseade.unimib.it/docs/20190605-presentazione-cal.pdf) del workshop  
 (*aggiornato al 10 maggio, \*in attesa di conferma*):
 
 - **Paolo Cherubini**, Prorettore Vicario, Università di Milano-Bicocca.  
