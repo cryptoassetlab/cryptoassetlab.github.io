@@ -12,3 +12,6 @@
 
 - social: fas fa-rss
   link: 'https://cryptoassetlab.diseade.unimib.it/feed.xml'
+
+- social: fas fa-envelope
+  link: 'mailto:cryptoassetlab@unimib.it'
