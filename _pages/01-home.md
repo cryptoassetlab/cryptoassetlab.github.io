@@ -26,16 +26,14 @@ other experimental activities.
 
 ## About
 
-The University of Milano-Bicocca has been offering a
+The [University of Milano-Bicocca](http://www.unimib.it)
+has been offering a
 ["Bitcoin and Blockchain Technology"](http://www.ametrano.net/bbt/)
 course since
 [2015/2016](http://www.ametrano.net/courses/#past-university-courses);
-the lab is a joint initiative between the
-academic and scientific community of the
-[University of Milano-Bicocca](http://www.unimib.it)
-and the team of the
-[Digital Gold Institute](http://www.dgi.io) with its
-expert understanding of the crypto-ecosystem.
+the lab is a joint initiative between its
+academic and scientific community and the
+[Digital Gold Institute](http://www.dgi.io).
 
 <a href="http://www.diseade.unimib.it/it">
     <img src="{{ site.url }}{{ site.baseurl }}/images/bicocca-logo.png" height="80">
