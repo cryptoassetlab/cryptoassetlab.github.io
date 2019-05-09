@@ -13,7 +13,9 @@ published: true
 Università di Milano-Bicocca, Edificio U12  
 Via Vizzola 5, 20126 Milano
 
-[Programma](http://cryptoassetlab.diseade.unimib.it/docs/20190605-presentazione-cal.pdf) del workshop  
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2795.724730599951!2d9.210350970159201!3d45.51561964392843!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4786c7462e865061%3A0x34595440cca7155a!2s11%C2%B0+Piano+Residenza+Universitaria+Bicocca+U12!5e0!3m2!1sen!2sit!4v1557329984145!5m2!1sen!2sit"  width="100%" height="auto" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+**[Programma](http://cryptoassetlab.diseade.unimib.it/docs/20190605-presentazione-cal.pdf) del workshop**  
 (*aggiornato al 10 maggio, \*in attesa di conferma*):
 
 - **Paolo Cherubini**, Prorettore Vicario, Università di Milano-Bicocca.  
@@ -36,7 +38,3 @@ Via Vizzola 5, 20126 Milano
 A conclusione dei lavori sarà servito un aperitivo in terrazza.
 
 Il workshop è principalmente rivolto a professionisti, aziende, istituzioni, docenti e ricercatori coinvolti nel fenomeno crypto asset: sono benvenuti anche studenti e semplici interessati. La partecipazione è gratuita, previa registrazione tramite l’apposito [modulo online](https://docs.google.com/forms/d/e/1FAIpQLSeI4YDiaNdSCOr2h0QXa9qDUSmmsFqtdgsk6j4_x8FcVgK84Q/viewform).
-
-#### Indirizzo evento
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2795.724730599951!2d9.210350970159201!3d45.51561964392843!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4786c7462e865061%3A0x34595440cca7155a!2s11%C2%B0+Piano+Residenza+Universitaria+Bicocca+U12!5e0!3m2!1sen!2sit!4v1557329984145!5m2!1sen!2sit"  width="100%" height="auto" frameborder="0" style="border:0" allowfullscreen></iframe>
