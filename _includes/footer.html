@@ -7,10 +7,20 @@
 						<img src="{{ site.url }}{{ site.baseurl }}/images/cal6.svg" height="100" class="center">
 					</a>
 				</div>
+				<div class="col-sm-12">
+					<ul class="list-inline social-buttons" style="text-align:center">
+						{% for account in site.data.social %}
+						<li class="list-inline-item">
+							<a href="{{ account.link }}">
+								<i class="{{ account.social }}"></i>
+							</a>
+						</li>
+						{% endfor %}
+					</ul>
+				</div>
 			</div>
 		</div>
 	</div>
-</div>
 </div>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
