@@ -29,7 +29,7 @@ other experimental activities.
 
 ## About
 
-The [University of Milano-Bicocca](http://www.unimib.it)
+[University of Milano-Bicocca](http://www.unimib.it)
 has been offering a
 ["Bitcoin and Blockchain Technology"](http://www.ametrano.net/bbt/)
 course since
