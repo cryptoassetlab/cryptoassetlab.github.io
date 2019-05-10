@@ -1,5 +1,5 @@
 # Site settings
-title: Crypto Asset Lab
+title: Crypto Asset Lab - Research Initiative on Digital Assets
 email:
 description: Research initiative on crypto assets (bitcoin in primis) as investment opportunity, fintech innovation, and regulatory challenge.
 #baseurl: "" # the subpath of your site, e.g. /blog/
@@ -41,4 +41,3 @@ kramdown:
 plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-  
