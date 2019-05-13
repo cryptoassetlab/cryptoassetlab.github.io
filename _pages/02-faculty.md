@@ -7,5 +7,4 @@ permalink: /faculty/
 
 ## Faculty
 
-
 {% include team.html %}
