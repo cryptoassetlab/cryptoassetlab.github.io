@@ -30,11 +30,13 @@ Via Vizzola 5, 20126 Milano
 *Applicazioni non monetarie della blockchain: la marcatura temporale.*
 - *Tavola rotonda* con la [Faculty](/faculty/) e l’[Advisory Board](/advisory-board/) del Crypto Asset Lab, coordinata da **Paola Bongini** (Professore Ordinario di Economia degli Intermediari Finanziari, Università di Milano-Bicocca). Intervengono tra gli altri:
   - **Paolo Cherubini**, Prorettore Vicario, Università di Milano-Bicocca.
-  - **Antonella Sciarrone Alibrandi**\*, Academic Board, European Banking Institute.
+  - **Antonella Sciarrone Alibrandi**, Academic Board, European Banking Institute.
   - **Paolo Gianturco**, Senior Partner, Head of FinTech & FS Tech, Deloitte Italia.
   - **Angelo Tantazzi**\*, Fondatore e Presidente, Prometeia.
   - **Nadia Linciano**\*, Consob.
 
 A conclusione dei lavori sarà servito un aperitivo in terrazza.
 
-Il workshop è principalmente rivolto a professionisti, aziende, istituzioni, docenti e ricercatori coinvolti nel fenomeno crypto asset: sono benvenuti anche studenti e semplici interessati. La partecipazione è gratuita, previa registrazione tramite l’apposito [modulo online](https://docs.google.com/forms/d/e/1FAIpQLSeI4YDiaNdSCOr2h0QXa9qDUSmmsFqtdgsk6j4_x8FcVgK84Q/viewform).
+Il workshop è principalmente rivolto a professionisti, aziende, istituzioni, docenti e ricercatori coinvolti nel fenomeno crypto asset: sono benvenuti anche studenti e semplici interessati.
+
+**La partecipazione è gratuita, previa registrazione tramite l’apposito [modulo online](https://docs.google.com/forms/d/e/1FAIpQLSeI4YDiaNdSCOr2h0QXa9qDUSmmsFqtdgsk6j4_x8FcVgK84Q/viewform)**.
