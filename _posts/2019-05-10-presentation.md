@@ -34,7 +34,7 @@ Superando l’hype su blockchain, diventa sempre più rilevante il tema dei cryp
   - **Matteo Bertazzo**, Project Manager, Responsabile area Digital Education, CINECA
   - **Paolo Cherubini**, Prorettore Vicario, Università di Milano-Bicocca
   - **Paolo Gianturco**, Senior Partner, Head of FinTech & FS Tech, Deloitte Italia
-  - **Nadia Linciano**\*, Consob
+  - **Nadia Linciano**\*, Responsabile dell'Ufficio Studi Economici, Consob
   - **Antonella Sciarrone Alibrandi**, Prorettore, Università Cattolica del Sacro Cuore
 
 A conclusione dei lavori sarà servito un aperitivo in terrazza.
