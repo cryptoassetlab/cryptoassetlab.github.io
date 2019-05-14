@@ -3,61 +3,53 @@
   name_link: http://www.ametrano.net
   photo: team/Ametrano.jpg
   role: Scientific Director
-  affiliation_rows: 2
-  affiliation_row_1: Executive Director,
-  affiliation_row_1_link:
-  affiliation_row_2: Digital Gold Institute
-  affiliation_row_2_link: http://dgi.io
+  affiliations: 1
+  affiliation1_role: Executive Director
+  affiliation1_role_link:
+  affiliation1_company: Digital Gold Institute
+  affiliation1_company_link: http://dgi.io
   
 - name: Fabio Bellini
   name_link: http://www.unimib.it/fabio-bellini 
   photo: team/Bellini.jpg
-  affiliation_rows: 3
-  affiliation_row_1: Full Professor of Mathematical Methods of Economy, Finance and Actuarial Sciences,
-  affiliation_row_1_link:
-  affiliation_row_2: Department of Statistics and Quantitative Methods,
-  affiliation_row_2_link:
-  affiliation_row_3: University of Milano-Bicocca
-  affiliation_row_3_link: http://www.unimib.it/
+  affiliations: 1
+  affiliation1_role: Full Professor of Mathematical Methods of Economy, Finance and Actuarial Sciences, Department of Statistics and Quantitative Methods
+  affiliation1_role_link:
+  affiliation1_company: University of Milano-Bicocca
+  affiliation1_company_link: http://www.unimib.it/
 
 - name: Paola A. Bongini
   name_link: http://www.unimib.it/paola-agnese-bongini
   photo: team/Bongini.jpg
-  affiliation_rows: 3
-  affiliation_row_1: Full Professor of Banking and Finance,
-  affiliation_row_1_link:
-  affiliation_row_2: Department of Business and Law,
-  affiliation_row_2_link:
-  affiliation_row_3: University of Milano-Bicocca
-  affiliation_row_3_link: http://www.unimib.it/
+  affiliations: 1
+  affiliation1_role: Full Professor of Banking and Finance, Department of Business and Law
+  affiliation1_role_link:
+  affiliation1_company: University of Milano-Bicocca
+  affiliation1_company_link: http://www.unimib.it/
  
 - name: Gianfranco Forte
   name_link: http://www.unimib.it/gianfranco-forte
   photo: team/Forte.jpg
-  affiliation_rows: 3
-  affiliation_row_1: Assistant Professor of Banking and Finance,
-  affiliation_row_1_link:
-  affiliation_row_2: Department of Business and Law,
-  affiliation_row_2_link:
-  affiliation_row_3: University of Milano-Bicocca
-  affiliation_row_3_link: http://www.unimib.it/
+  affiliations: 1
+  affiliation1_role: Assistant Professor of Banking and Finance, Department of Business and Law
+  affiliation1_role_link:
+  affiliation1_company: University of Milano-Bicocca
+  affiliation1_company_link: http://www.unimib.it/
 
 - name: Francesca Mattassoglio
   name_link: http://www.unimib.it/francesca-mattassoglio
   photo: team/Mattassoglio.jpg
-  affiliation_rows: 3
-  affiliation_row_1: Assistant Professor of Economic Law,
-  affiliation_row_1_link:
-  affiliation_row_2: Department of Business and Law,
-  affiliation_row_2_link:
-  affiliation_row_3: University of Milano-Bicocca
-  affiliation_row_3_link: http://www.unimib.it/
+  affiliations: 1
+  affiliation1_role: Assistant Professor of Economic Law, Department of Business and Law
+  affiliation1_role_link:
+  affiliation1_company: University of Milano-Bicocca
+  affiliation1_company_link: http://www.unimib.it/
  
 - name: Paolo Mazzocchi
   name_link: http://dgi.io/full-team/
   photo: team/Mazzocchi.jpg
-  affiliation_rows: 2 
-  affiliation_row_1: Chief Operating Officer,
-  affiliation_row_1_link:
-  affiliation_row_2: Digital Gold Institute
-  affiliation_row_2_link: http://dgi.io
+  affiliations: 1 
+  affiliation1_role: Chief Operating Officer
+  affiliation1_role_link:
+  affiliation1_company: Digital Gold Institute
+  affiliation1_company_link: http://dgi.io

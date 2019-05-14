@@ -1,53 +1,53 @@
-- name: Gregorio De Felice
-  name_link: https://www.linkedin.com/in/gregorio-de-felice-734244/
-  photo: advisory_board/DeFelice.jpg
-  affiliation_rows: 2 
-  affiliation_row_1: Chief Economist
-  affiliation_row_1_link:
-  affiliation_row_2: Intesa Sanpaolo
-  affiliation_row_2_link: http://www.group.intesasanpaolo.com/
-  
-- name: Paolo Gianturco
-  name_link: http://www2.deloitte.com/it/it/profiles/gx-paolo-gianturco.html 
-  photo: advisory_board/Gianturco.jpg
-  affiliation_rows: 2 
-  affiliation_row_1: Senior Partner, Head of FinTech & FS Tech
-  affiliation_row_1_link:
-  affiliation_row_2: Deloitte Consulting
-  affiliation_row_2_link: http://www2.deloitte.com/it/it/pages/strategy/solutions/consulting.html
+- name: "To be announced soon"
+  name_link: "https://cryptoassetlab.diseade.unimib.it/"
+  photo: "advisory_board/unknown-200.jpg"
+  affiliations: 1
+  affiliation1_role: "Head of Economic Studies Department"
+  affiliation1_role_link:
+  affiliation1_company: "To be announced soon"
+  affiliation1_company_link: "https://cryptoassetlab.diseade.unimib.it/advisory-board/"
 
-- name: To be announced soon
-  name_link: 
-  photo: advisory_board/unknown.jpg
-  affiliation_rows: 2 
-  affiliation_row_1: Head of Economic Studies Department
-  affiliation_row_1_link:
-  affiliation_row_2: To be announced soon
-  affiliation_row_2_link: 
+- name: "Gregorio De Felice"
+  name_link: "https://www.linkedin.com/in/gregorio-de-felice-734244/"
+  photo: "advisory_board/DeFelice-200.jpg"
+  affiliations: 1
+  affiliation1_role: "Chief Economist"
+  affiliation1_role_link:
+  affiliation1_company: "Intesa Sanpaolo"
+  affiliation1_company_link: "http://www.group.intesasanpaolo.com/"
 
-- name: Antonella Sciarrone Alibrandi
+- name: "Paolo Gianturco"
+  name_link: "http://www2.deloitte.com/it/it/profiles/gx-paolo-gianturco.html"
+  photo: "advisory_board/Gianturco-200.jpg"
+  affiliations: 1
+  affiliation1_role: "Senior Partner, Head of FinTech & FS Tech"
+  affiliation1_role_link:
+  affiliation1_company: "Deloitte Consulting"
+  affiliation1_company_link: "http://www2.deloitte.com/it/it/pages/strategy/solutions/consulting.html"
+
+- name: "Antonella Sciarrone Alibrandi"
   name_link: "http://cryptoassetlab.diseade.unimib.it/docs/2019-SCIARRONE-CV-SHORT-EN.pdf"
-  photo: advisory_board/Sciarrone.jpg
-  affiliation_rows: 2 
-  affiliation_row_1: Vice-rector, Full professor of Banking Law
-  affiliation_row_1_link:
-  affiliation_row_2: Università Cattolica del Sacro Cuore
-  affiliation_row_2_link: https://www.unicatt.it/
- 
-- name: Valentina Sidoti
-  name_link: http://www.linkedin.com/in/valentina-sidoti/
-  photo: advisory_board/Sidoti.jpg
-  affiliation_rows: 2 
-  affiliation_row_1: Head of Global Buy-Side & Market Analysis and Italian Regulation
-  affiliation_row_1_link:
-  affiliation_row_2: Borsa Italiana
-  affiliation_row_2_link: http://www.borsaitaliana.it/
+  photo: "advisory_board/Sciarrone-200.jpg"
+  affiliations: 1
+  affiliation1_role: "Vice-rector, Full professor of Banking Law"
+  affiliation1_role_link:
+  affiliation1_company: "Università Cattolica del Sacro Cuore"
+  affiliation1_company_link: "https://www.unicatt.it/"
+  
+- name: "Valentina Sidoti"
+  name_link: "http://www.linkedin.com/in/valentina-sidoti/"
+  photo: "advisory_board/Sidoti-200.jpg"
+  affiliations: 1
+  affiliation1_role: "Head of Global Buy-Side & Market Analysis and Italian Regulation"
+  affiliation1_role_link:
+  affiliation1_company: "Borsa Italiana"
+  affiliation1_company_link: "http://www.borsaitaliana.it/"
 
-- name: Angelo Tantazzi
-  name_link: http://www.prometeia.it/en/team-angelo-tantazzi
-  photo: advisory_board/Tantazzi.jpg
-  affiliation_rows: 2 
-  affiliation_row_1: Founder and President
-  affiliation_row_1_link:
-  affiliation_row_2: Prometeia
-  affiliation_row_2_link: http://www.prometeia.it
+- name: "Angelo Tantazzi"
+  name_link: "http://www.prometeia.it/en/team-angelo-tantazzi"
+  photo: "advisory_board/Tantazzi-200.jpg"
+  affiliations: 1
+  affiliation1_role: "Founder and President"
+  affiliation1_role_link:
+  affiliation1_company: "Prometeia"
+  affiliation1_company_link: "http://www.prometeia.it"
