@@ -1,12 +1,3 @@
-- name: Antonella Sciarrone Alibrandi
-  name_link: http://cryptoassetlab.diseade.unimib.it/docs/2019 SCIARRONE CV SHORT EN.pdf
-  photo: advisory_board/Sciarrone.jpg
-  affiliation_rows: 2 
-  affiliation_row_1: Vice-rector, Full professor of Banking law
-  affiliation_row_1_link:
-  affiliation_row_2: Università Cattolica del Sacro Cuore
-  affiliation_row_2_link: https://www.unicatt.it/
- 
 - name: Gregorio De Felice
   name_link: https://www.linkedin.com/in/gregorio-de-felice-734244/
   photo: advisory_board/DeFelice.jpg
@@ -34,6 +25,15 @@
   affiliation_row_2: To be announced soon
   affiliation_row_2_link: 
 
+- name: Antonella Sciarrone Alibrandi
+  name_link: http://cryptoassetlab.diseade.unimib.it/docs/2019 SCIARRONE CV SHORT EN.pdf
+  photo: advisory_board/Sciarrone.jpg
+  affiliation_rows: 2 
+  affiliation_row_1: Vice-rector, Full professor of Banking Law
+  affiliation_row_1_link:
+  affiliation_row_2: Università Cattolica del Sacro Cuore
+  affiliation_row_2_link: https://www.unicatt.it/
+ 
 - name: Valentina Sidoti
   name_link: http://www.linkedin.com/in/valentina-sidoti/
   photo: advisory_board/Sidoti.jpg

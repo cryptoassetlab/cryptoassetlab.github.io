@@ -29,11 +29,11 @@ Via Vizzola 5, 20126 Milano
 - **Paolo Mazzocchi**, Digital Gold Institute.  
 *Applicazioni non monetarie della blockchain: la marcatura temporale.*
 - *Tavola rotonda* con la [Faculty](/faculty/) e l’[Advisory Board](/advisory-board/) del Crypto Asset Lab, coordinata da **Paola Bongini** (Professore Ordinario di Economia degli Intermediari Finanziari, Università di Milano-Bicocca). Intervengono tra gli altri:
-  - **Paolo Cherubini**, Prorettore Vicario, Università di Milano-Bicocca.
-  - **Antonella Sciarrone Alibrandi**, Academic Board, European Banking Institute.
-  - **Paolo Gianturco**, Senior Partner, Head of FinTech & FS Tech, Deloitte Italia.
-  - **Angelo Tantazzi**\*, Fondatore e Presidente, Prometeia.
-  - **Nadia Linciano**\*, Consob.
+  - **Matteo Bertazzo**, Project Manager, Responsabile area Digital Education, CINECA
+  - **Paolo Cherubini**, Prorettore Vicario, Università di Milano-Bicocca
+  - **Paolo Gianturco**, Senior Partner, Head of FinTech & FS Tech, Deloitte Italia
+  - **Nadia Linciano**\*, Consob
+  - **Antonella Sciarrone Alibrandi**, Prorettore, Università Cattolica del Sacro Cuore
 
 A conclusione dei lavori sarà servito un aperitivo in terrazza.
 
