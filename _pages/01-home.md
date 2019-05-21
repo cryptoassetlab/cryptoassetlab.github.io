@@ -21,7 +21,7 @@ security, and other applications
 ([timestamping](http://dgi.io/ots/) _in primis_, see
 [OpenTimestamps](http://opentimestamps.org/)).
 
-Our aim is to be a meeting point between academia, industry,
+We are a meeting point between academia, industry,
 institutions, and regulators; we encourage students, researchers,
 and practitioners to join us and help with
 research, development, training, teaching, and
