@@ -17,8 +17,7 @@ Via Vizzola 5, 20126 Milano
 
 Superando l’hype su blockchain, diventa sempre più rilevante il tema dei crypto asset, bitcoin _in primis_: sono da indagare le loro caratteristiche come strumenti di investimento, innovazione tecnologica, sicurezza crittografica, sfida regolamentare ed il loro ruolo nella storia della moneta. L’*Università degli Studi di Milano-Bicocca* è sempre stata all’avanguardia in questo campo, offrendo ai propri studenti un corso seminariale sull’argomento di cui si è appena conclusa la quarta edizione. Per l’importanza scientifica e culturale del tema nasce oggi, da un'iniziativa congiunta con il *[Digital Gold Institute](http://dgi.io/)*, il *Crypto Asset Lab* (*CAL*), luogo di incontro tra accademia, industria e regolatori.
 
-**[Programma](http://cryptoassetlab.diseade.unimib.it/docs/20190605-presentazione-cal.pdf) del workshop**  
-(*aggiornato al 14 maggio, \*in attesa di conferma*)
+**[Programma](http://cryptoassetlab.diseade.unimib.it/docs/20190605-presentazione-cal.pdf) del workshop**
 
 - **Paolo Cherubini**, Prorettore Vicario, Università di Milano-Bicocca.  
 *Saluto istituzionale.*
@@ -34,7 +33,6 @@ Superando l’hype su blockchain, diventa sempre più rilevante il tema dei cryp
   - **Matteo Bertazzo**, Project Manager, Responsabile area Digital Education, CINECA
   - **Paolo Cherubini**, Prorettore Vicario, Università di Milano-Bicocca
   - **Paolo Gianturco**, Senior Partner, Head of FinTech & FS Tech, Deloitte Italia
-  - **Nadia Linciano**\*, Responsabile dell'Ufficio Studi Economici, Consob
   - **Antonella Sciarrone Alibrandi**, Prorettore, Università Cattolica del Sacro Cuore
 
 A conclusione dei lavori sarà servito un aperitivo in terrazza.
