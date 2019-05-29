@@ -35,6 +35,6 @@ Superando l’hype su blockchain, diventa sempre più rilevante il tema dei cryp
   - **Paolo Gianturco**, Senior Partner, Head of FinTech & FS Tech, Deloitte Italia
   - **Antonella Sciarrone Alibrandi**, Prorettore, Università Cattolica del Sacro Cuore
 
-A conclusione dei lavori sarà servito un aperitivo in terrazza.
+A conclusione dei lavori sarà servito un aperitivo.
 
 Il workshop è principalmente rivolto a professionisti, aziende, istituzioni, docenti e ricercatori coinvolti nel fenomeno crypto asset: sono benvenuti anche studenti e semplici interessati. **La partecipazione è gratuita, previa registrazione** tramite il [modulo online](https://docs.google.com/forms/d/e/1FAIpQLSeI4YDiaNdSCOr2h0QXa9qDUSmmsFqtdgsk6j4_x8FcVgK84Q/viewform).
