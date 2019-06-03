@@ -1,11 +1,11 @@
-- name: "To be announced soon"
-  name_link: "https://cryptoassetlab.diseade.unimib.it/"
-  photo: "advisory_board/unknown-200.jpg"
-  affiliations: 1
-  affiliation1_role: "Head of Economic Studies Department"
-  affiliation1_role_link:
-  affiliation1_company: "To be announced soon"
-  affiliation1_company_link: "https://cryptoassetlab.diseade.unimib.it/advisory-board/"
+#- name: "To be announced soon"
+  #name_link: "https://cryptoassetlab.diseade.unimib.it/"
+  #photo: "advisory_board/unknown-200.jpg"
+  #affiliations: 1
+  #affiliation1_role: "Head of Economic Studies Department"
+  #affiliation1_role_link:
+  #affiliation1_company: "To be announced soon"
+  #affiliation1_company_link: "https://cryptoassetlab.diseade.unimib.it/advisory-board/"
 
 - name: "Gregorio De Felice"
   name_link: "https://www.linkedin.com/in/gregorio-de-felice-734244/"
