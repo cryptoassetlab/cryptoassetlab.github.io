@@ -37,8 +37,8 @@ the lab is a joint initiative between our
 academic and scientific community and the
 [Digital Gold Institute](http://www.dgi.io).
 
-[<img src="{{ site.url }}{{ site.baseurl }}/images/bicocca-logo.png" height="80">](http://www.diseade.unimib.it/it)
-[<img src="{{ site.url }}{{ site.baseurl }}/images/dgi-logo.png" height="80">](http://dgi.io)
+[<img src="/img/bicocca-logo.png" height="80">](http://www.diseade.unimib.it/it)
+[<img src="/img/dgi-logo.png" height="80">](http://dgi.io)
 
 ## Address
 
