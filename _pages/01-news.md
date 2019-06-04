@@ -15,7 +15,9 @@ permalink: /news/
 {% if post.author %}| *{{ post.author }}*{% endif %}
 
 {% if post.subtitle %}
+
 #### {{ post.subtitle }}
+
 {% endif %}
 
 {{ post.excerpt }}
