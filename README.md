@@ -1,6 +1,6 @@
 ---
-title: CryptoAssetLab
-excerpt: Website of the CryptoAssetLab
+title: Crypto Asset Lab
+excerpt: Website of the Crypto Asset Lab
 layout: homelay
 permalink: /
 ---
