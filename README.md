@@ -11,7 +11,9 @@ The [Crypto Asset Lab](https://cryptoassetlab.diseade.unimib.it/) is a
 research initiative
 on crypto assets
 as investment opportunity, fintech innovation,
-and regulatory challenge.
+and regulatory challenge,
+with special regard for their disruptive role
+in the future of money and finance.
 We also pay attention to the innovations in cryptography and
 blockchain technology,
 given
