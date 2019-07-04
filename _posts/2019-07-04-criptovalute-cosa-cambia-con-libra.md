@@ -3,10 +3,10 @@ layout: post
 comments: false
 title: "Criptovalute, cosa cambia con Libra"
 subtitle: "11 luglio 2019 dalle ore 18.00 alle ore 20.00"
-date: 4 luglio 2019
+date: 4 July 2019
 author: Staff
 
-published: false
+published: true
 ---
 
 11 luglio 2019, 18.00 alle ore 20.00 
@@ -27,6 +27,6 @@ Intervengono:
 
 Organizzato da [Istituto Bruno Leoni](http://www.brunoleoni.it/) e da [Crypto Asset Lab](https://cryptoassetlab.diseade.unimib.it/)
 
--  Partecipazione gratuita previa iscrizione: https://www.eventbrite.it/e/biglietti-criptovalute-cosa-cambia-con-libra-64718684327
+- Partecipazione gratuita previa iscrizione: https://www.eventbrite.it/e/biglietti-criptovalute-cosa-cambia-con-libra-64718684327
 
 - Per informazioni: [cryptoassetlab@unimib.it](mailto:cryptoassetlab@unimib.it) prof. Ferdinando Ametrano
