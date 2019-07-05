@@ -3,7 +3,7 @@ layout: post
 comments: false
 title: "Criptovalute, cosa cambia con Libra"
 subtitle: "11 luglio 2019 dalle ore 18.00 alle ore 20.00"
-date: 4 July 2019
+date: 5 July 2019
 author: Staff
 
 published: true
