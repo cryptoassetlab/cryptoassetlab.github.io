@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: false
-title: "[ITA] Crypto Asset tra tecnologia e tentativi di regolazione"
+title: "Crypto Asset tra tecnologia e tentativi di regolazione"
 subtitle: "Presentazione dell’osservatorio Crypto Asset Lab"
 date: 10 May 2019
 author: Staff
