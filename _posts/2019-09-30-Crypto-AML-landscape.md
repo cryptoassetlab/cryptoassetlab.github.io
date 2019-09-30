@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: false
-title: "The future of Anty Money Laundering"
+title: "Crypto-AML landscape: between regulatory aspect and future scenarios"
 subtitle: "The foresight of Crypto Asset Lab"
 date: 30 September 2019
 author: Staff
