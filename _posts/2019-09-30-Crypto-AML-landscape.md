@@ -16,7 +16,7 @@ In this perspective, the [contribution paper](https://cryptoassetlab.diseade.uni
 
 Starting from the FATF guidelines on cross-border transactions and applying by analogia legis ,the measures imposed by 4AMLD for the payment services industry, the Lab suggested, for foreign VASP operating in a host jurisdiction in forms other than a branch, to appoint a central contact point in order to be compliant with local anti-money laundering information required under national law.
 
-At the following [link]({{ site.baseurl }}/docs/20190930-CAL-Audition-Paper-UIF.pdf) you can find a technical paper.
+At the following [link]({{ site.baseurl }}/docs/20190930-CAL-Audition-Paper-UIF_en.pdf) you can find a technical paper.
 
 ----
 
