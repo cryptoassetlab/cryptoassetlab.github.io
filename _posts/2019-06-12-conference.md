@@ -1,8 +1,8 @@
 ---
 layout: post
 comments: false
-title: "Presentazione del Crypto Asset Lab e delle sue attività"
-subtitle: "Prima conferenza del Crypto Asset Lab"
+title: "Prima conferenza del Crypto Asset Lab"
+subtitle: "Presentazione del Crypto Asset Lab e delle sue attività"
 date: 12 June 2019
 author: Staff
 
