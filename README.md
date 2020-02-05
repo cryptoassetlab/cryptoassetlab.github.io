@@ -36,10 +36,11 @@ has been offering a
 ["Bitcoin and Blockchain Technology"](http://www.ametrano.net/bbt/)
 course since
 [2015/2016](http://www.ametrano.net/courses/#past-university-courses);
-Crypto Asset Lab is a joint initiative between our
-academic and scientific community and the
-[Digital Gold Institute](http://www.dgi.io).
-We also promote a [yearly conference]({{ site.baseurl }}/cal2020)
+Crypto Asset Lab is a joint initiative of
+the [Digital Gold Institute](http://www.dgi.io)
+and
+our academic and scientific community.
+We also promote a [yearly conference]({{ site.baseurl }}/cal2020).
 
 [<img src="/img/bicocca-logo.png" height="80">](http://www.diseade.unimib.it/it)
 [<img src="/img/dgi-logo.png" height="80">](http://dgi.io)
