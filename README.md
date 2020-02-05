@@ -7,20 +7,21 @@ permalink: /
 
 ## Mission Statement
 
-The [Crypto Asset Lab](https://cryptoassetlab.diseade.unimib.it/) is a
-research initiative
-on crypto assets
+The [Crypto Asset Lab](https://cryptoassetlab.diseade.unimib.it/) (CAL)
+is a research initiative
+on bitcoin and crypto assets
 as investment opportunity, fintech innovation,
 and regulatory challenge,
 with special regard for their disruptive role
 in the future of money and finance.
-We also pay attention to the innovations in cryptography and
-blockchain technology,
-given
-their relevance for privacy,
+We also pay attention to the innovations
+in cryptography and blockchain technology,
+given their relevance for privacy,
 security, and other applications
 (e.g. [timestamping](http://dgi.io/ots/), see
-[OpenTimestamps](http://opentimestamps.org/)).
+[OpenTimestamps](http://opentimestamps.org/))
+but we do not subscribe to the widespread hype
+about blockchain potential beyond crypto assets.
 
 We are a meeting point between academia, industry,
 institutions, and regulators; we encourage students, researchers,
@@ -35,9 +36,10 @@ has been offering a
 ["Bitcoin and Blockchain Technology"](http://www.ametrano.net/bbt/)
 course since
 [2015/2016](http://www.ametrano.net/courses/#past-university-courses);
-the lab is a joint initiative between our
+Crypto Asset Lab is a joint initiative between our
 academic and scientific community and the
 [Digital Gold Institute](http://www.dgi.io).
+We also promote a [yearly conference]({{ site.baseurl }}/cal2020)
 
 [<img src="/img/bicocca-logo.png" height="80">](http://www.diseade.unimib.it/it)
 [<img src="/img/dgi-logo.png" height="80">](http://dgi.io)
