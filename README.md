@@ -33,16 +33,18 @@ other experimental activities.
 
 [University of Milano-Bicocca](http://www.unimib.it)
 has been offering a
-["Bitcoin and Blockchain Technology"](http://www.ametrano.net/bbt/)
-course since
-[2015/2016](http://www.ametrano.net/courses/#past-university-courses);
-Crypto Asset Lab is a joint initiative of
+"[Bitcoin and Blockchain Technology](http://www.ametrano.net/bbt/)"
+course since the 2015/2016 academic year.
+Crypto Asset Lab (CAL) is a joint initiative of
 the [Digital Gold Institute](http://www.dgi.io)
 and
-our academic and scientific community.
-We also promote a [yearly conference]({{ site.baseurl }}/cal2020).
+our academic and scientific community;
+we promote the [CAL yearly conference]({{ site.baseurl }}/cal2020).
 
+[<img src="/img/cal.png" height="80">]({{ site.baseurl }})
+**==**
 [<img src="/img/bicocca-logo.png" height="80">](http://www.diseade.unimib.it/it)
+**+**
 [<img src="/img/dgi-logo.png" height="80">](http://dgi.io)
 
 ## Address
