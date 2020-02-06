@@ -7,20 +7,21 @@ permalink: /
 
 ## Mission Statement
 
-The [Crypto Asset Lab](https://cryptoassetlab.diseade.unimib.it/) is a
-research initiative
-on crypto assets
+The [Crypto Asset Lab](https://cryptoassetlab.diseade.unimib.it/) (CAL)
+is a research initiative
+on bitcoin and crypto assets
 as investment opportunity, fintech innovation,
 and regulatory challenge,
 with special regard for their disruptive role
 in the future of money and finance.
-We also pay attention to the innovations in cryptography and
-blockchain technology,
-given
-their relevance for privacy,
+We also pay attention to the innovations
+in cryptography and blockchain technology,
+given their relevance for privacy,
 security, and other applications
 (e.g. [timestamping](http://dgi.io/ots/), see
-[OpenTimestamps](http://opentimestamps.org/)).
+[OpenTimestamps](http://opentimestamps.org/))
+but we do not subscribe to the widespread hype
+about blockchain potential beyond crypto assets.
 
 We are a meeting point between academia, industry,
 institutions, and regulators; we encourage students, researchers,
@@ -32,14 +33,18 @@ other experimental activities.
 
 [University of Milano-Bicocca](http://www.unimib.it)
 has been offering a
-["Bitcoin and Blockchain Technology"](http://www.ametrano.net/bbt/)
-course since
-[2015/2016](http://www.ametrano.net/courses/#past-university-courses);
-the lab is a joint initiative between our
-academic and scientific community and the
-[Digital Gold Institute](http://www.dgi.io).
+"[Bitcoin and Blockchain Technology](http://www.ametrano.net/bbt/)"
+course since the 2015/2016 academic year.
+Crypto Asset Lab (CAL) is a joint initiative of
+the [Digital Gold Institute](http://www.dgi.io)
+and
+our academic and scientific community;
+we promote the [CAL yearly conference]({{ site.baseurl }}/cal2020).
 
+[<img src="/img/cal.png" height="80">]({{ site.baseurl }})
+**==**
 [<img src="/img/bicocca-logo.png" height="80">](http://www.diseade.unimib.it/it)
+**+**
 [<img src="/img/dgi-logo.png" height="80">](http://dgi.io)
 
 ## Address

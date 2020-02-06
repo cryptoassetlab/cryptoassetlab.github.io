@@ -1,7 +1,7 @@
 # Site settings
-title: Crypto Asset Lab - Research Initiative on Digital Assets
+title: Crypto Asset Lab
 email:
-description: Research initiative on crypto assets (bitcoin in primis) as investment opportunity, fintech innovation, and regulatory challenge.
+description: Research initiative on bitcoin and crypto assets as investment opportunity, fintech innovation, and regulatory challenge.
 #baseurl: "" # the subpath of your site, e.g. /blog/
 baseurl: ""
 url: ""
