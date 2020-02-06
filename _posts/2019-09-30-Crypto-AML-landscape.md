@@ -14,7 +14,7 @@ To ensure the protection of public order and avoid regulatory arbitrage, Italian
 
 In this perspective, the [contribution paper](https://cryptoassetlab.diseade.unimib.it/2019/09/06/global-digital-finance-consultation.html), provided by the Crypto Asset Lab on August 30th 2019 to the [consultation](https://www.gdf.io/docsconsultations/part-viii-code-of-conduct-principles-for-know-your-customer-kyc-anti-money-laundering-aml/) launched by Global Digital Finance (UK) concerning the provision of a code of conduct on Virtual Asset Service Provider for KYC/AML rules, was foresight placed according to [FATF Paper](https://www.fatf-gafi.org/publications/fatfrecommendations/documents/guidance-rba-virtual-assets.html) published on  June 21st 2019.
 
-Starting from the FATF guidelines on cross-border transactions and applying by analogia legis ,the measures imposed by 4AMLD for the payment services industry, the Lab suggested, for foreign VASP operating in a host jurisdiction in forms other than a branch, to appoint a central contact point in order to be compliant with local anti-money laundering information required under national law.
+Starting from the FATF guidelines on cross-border transactions and applying by analogia legis, the measures imposed by 4AMLD for the payment services industry, the Lab suggested, for foreign VASP operating in a host jurisdiction in forms other than a branch, to appoint a central contact point in order to be compliant with local anti-money laundering information required under national law.
 
 At the following [link]({{ site.baseurl }}/docs/20190930-CAL-Audition-Paper-UIF_en.pdf) you can find a technical paper.
 
