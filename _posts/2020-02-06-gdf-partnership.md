@@ -5,7 +5,7 @@ title: "Crypto Asset Lab Joins Global Digital Finance"
 subtitle: "Announcing the strategic partnership with Global Digital Finance"
 date: 6 February 2020
 author: Staff
-published: true
+published: false
 ---
 
 Crypto Asset Lab  successfully joined [Global Digital Finance](https://www.gdf.io/) (GDF).
