@@ -44,8 +44,8 @@ di finanza digitale e permette il mutuo scambio in
 materia industriale, tecnologica e accademica.
 
 GDF è in prima linea nel seguire le attività di FAFT,
-cruciai per il futuro regolamentare dell'ecosistema crypto asset.
-La partnership CAL/GDF nasce proprio da questo area di lavoro comune,
+cruciali per il futuro regolamentare dell'ecosistema crypto asset.
+La partnership CAL/GDF nasce proprio da questa area di lavoro comune,
 in particolare dal documento di
 *G. L. Aleo*, *V. Barbera* e *A. Castronuovo*,
 contributo da CAL come risposta alla recente
