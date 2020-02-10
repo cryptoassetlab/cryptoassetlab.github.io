@@ -5,6 +5,18 @@ layout: homelay
 permalink: /
 ---
 
+---
+
+---
+
+### ___2ND CRYPTO ASSET LAB CONFERENCE: MILAN (ITALY), JUNE 10, 2020___
+
+[cryptoassetlab.diseade.unimib.it/cal2020]({{ site.baseurl }}/cal2020)
+
+---
+
+---
+
 ## Mission Statement
 
 The [Crypto Asset Lab](https://cryptoassetlab.diseade.unimib.it/) (CAL)
@@ -29,17 +41,17 @@ and practitioners to join us and help with
 research, development, training, teaching, and
 other experimental activities.
 
+We promote the [CAL yearly conference]({{ site.baseurl }}/cal2020)
+
 ## About
 
 [University of Milano-Bicocca](http://www.unimib.it)
 has been offering a
 "[Bitcoin and Blockchain Technology](http://www.ametrano.net/bbt/)"
 course since the 2015/2016 academic year.
-Crypto Asset Lab (CAL) is a joint initiative of
+Crypto Asset Lab is a joint initiative of
 the [Digital Gold Institute](http://www.dgi.io)
-and
-our academic and scientific community;
-we promote the [CAL yearly conference]({{ site.baseurl }}/cal2020).
+and our academic and scientific community.
 
 [<img src="/img/cal.png" height="80">]({{ site.baseurl }})
 **==**

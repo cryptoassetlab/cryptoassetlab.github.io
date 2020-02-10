@@ -2,7 +2,7 @@
 layout: post
 comments: false
 title: "Crypto Asset tra tecnologia e tentativi di regolazione"
-subtitle: "Conferenza di presentazione dell’osservatorio Crypto Asset Lab"
+subtitle: "Conferenza di presentazione del Crypto Asset Lab"
 date: 10 May 2019
 author: Staff
 
@@ -22,7 +22,7 @@ Superando l’hype su blockchain, diventa sempre più rilevante il tema dei cryp
 - **Paolo Cherubini**, Prorettore Vicario, Università di Milano-Bicocca.  
 *Saluto istituzionale.*
 - **Ferdinando Ametrano**, Executive Director, Digital Gold Institute.  
-*Presentazione dell’osservatorio Crypto Asset Lab.*
+*Presentazione del Crypto Asset Lab.*
 - **Francesca Mattassoglio**, Ricercatore di Diritto dell’Economia, Università di Milano-Bicocca.  
 *La risposta del Crypto Asset Lab alla consultazione Consob “Le offerte iniziali e gli scambi di cripto-attività”.*
 - **Gianfranco Forte**, Ricercatore di Economia degli Intermediari Finanziari, Università di Milano-Bicocca.  
