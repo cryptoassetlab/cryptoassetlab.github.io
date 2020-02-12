@@ -5,19 +5,7 @@ layout: homelay
 permalink: /
 ---
 
----
-
----
-
-### ___2ND CRYPTO ASSET LAB CONFERENCE: MILAN (ITALY), JUNE 10, 2020___
-
-[cryptoassetlab.diseade.unimib.it/cal2020]({{ site.baseurl }}/cal2020)
-
----
-
----
-
-## Mission Statement
+### Mission Statement
 
 The [Crypto Asset Lab](https://cryptoassetlab.diseade.unimib.it/) (CAL)
 is a research initiative
