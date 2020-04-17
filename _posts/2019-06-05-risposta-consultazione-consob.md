@@ -14,11 +14,11 @@ salienti:
 
 - Il fenomeno delle ICO ha avuto successo perché ha permesso a una significativa liquidità,
 disponibile nella forma di criptovalute, di diversificare su investimenti non regolamentati.
-- Questi capitali sono stati raccolti da start-up che hanno disintermediato gli attori tradizionali
-come Venture Capitalist, banche e regolatori. Sebbene il contesto in cui questo è avvenuto sia
+- Questi capitali sono stati raccolti da _start-up_ che hanno disintermediato gli attori tradizionali
+come _Venture Capitalist_, banche e regolatori. Sebbene il contesto in cui questo è avvenuto sia
 discutibile, il fenomeno è indubbiamente interessante: promuovere nuovi canali di finanziamento
-per le PMI è obiettivo strategico dell’UE nell’ambito della Capital Markets Union.
-- Queste forme di investimento si prefigurano come utility token fondamentalmente per
+per le PMI è obiettivo strategico dell’UE nell’ambito della _Capital Markets Union_.
+- Queste forme di investimento si prefigurano come _utility token_ fondamentalmente per
 evitare la classificazione di security. Nella gran parte sono state deludenti come investimento,
 fallimentari come progetto imprenditoriale, talvolta configurandosi persino come
 vere e proprie frodi. D’altronde non si tratta qui di proibire fenomeni difficilmente
@@ -29,22 +29,22 @@ per le registrazioni digitali rappresentative di diritti, negoziate all’intern
 più sistemi di scambio. L’investitore beneficerebbe di maggiori tutele se il regolatore
 fornisse un quadro di riferimento che consenta di identificare le ICO strutturalmente più affidabili.
 - L’utilizzo di tecnologia blockchain di per sé non qualifica l’asset scambiato:
-in particolare blockchain private permissioned che identificano le controparti in nulla
+in particolare blockchain private _permissioned_ che identificano le controparti in nulla
 sembrano diversificarsi dai tradizionali sistemi. Al massimo si potrebbe trattare di
 una innovazione di processo, neutrale per il regolatore.
 - Appare opportuno ribadire invece l’elemento chiave del successo delle ICO:
-blockchain pubbliche permissionless, con controparti che operano sul secondario
+blockchain pubbliche _permissionless_, con controparti che operano sul secondario
 non necessariamente identificate. Questa sembra essere la ricetta per ottenere
 liquidità e afflusso di capitali. In questo caso, evidentemente, l’identificazione degli
 attori può avvenire solo in fase di emissione e ovunque lo scambio coinvolga valute
 tradizionali a corso legale, per le quali sono già chiariti i presidi in termini di KYC
 (identificazione degli attori) e AML (presidi antiriciclaggio).
 - In questa sede, noi abbiamo inteso che Consob voglia indirizzare la sua attenzione
-verso la categoria dei c.d. hybrid token, ossia quei token che offrono agli investitori
+verso la categoria dei c.d. **hybrid token**, ossia quei token che offrono agli investitori
 la possibilità di fruire di un servizio o di un bene (utility token), implicando però
 anche un profilo/elemento finanziario (che a sua volta ne giustifica la negoziabilità
 in un mercato secondario).
-- È auspicabile che gli hybrid token possano, tramite procedure di opt-in,
+- È auspicabile che gli _hybrid token_ possano, tramite procedure di _opt-in_,
 essere offerti su piattaforme regolate ed ottenere quindi la certificazione se capaci di
 soddisfare alcuni criteri minimi di qualità. Non si tratta di creare presidi per la
 selezione dei progetti imprenditoriali meritevoli di accedere alle ICO,
@@ -68,12 +68,12 @@ attori, presidi antiriciclaggio e di contrasto al finanziamento del terrorismo; 
 permissionless (l’unica finora esistente) non possono essere regolate.
 - In fase di secondario sarebbero opportune regole di condotta che le piattaforme di
 scambio devono essere tenute a rispettare nel rapporto con gli investitori, di nuovo
-tramite opt-in. Le garanzie che dovrebbero essere fornite per qualificarsi includono:
+tramite _opt-in_. Le garanzie che dovrebbero essere fornite per qualificarsi includono:
   - continuità e sicurezza informatica circa l’operatività della piattaforma;
   - trasparenza sulle metodologie di custodia e le coperture assicurative collegate.
   Qui sarebbe da auspicare l’emergere di un processo di custodia aperto e standardizzato,
   che possa essere sottoposto all’audit di terze parti.
 - Sembra essenziale per la liquidità del secondario consentire la contrattazione anche
-su blockchain pubbliche permissionless, altrimenti sarebbe snaturata la caratteristica innovativa delle ICO, diminuendone l’appeal.
+su blockchain pubbliche _permissionless_, altrimenti sarebbe snaturata la caratteristica innovativa delle ICO, diminuendone l’appeal.
 
 Consulta qui la [risposta integrale](https://cryptoassetlab.diseade.unimib.it/docs/20190605/Risposta-Consob.pdf).
