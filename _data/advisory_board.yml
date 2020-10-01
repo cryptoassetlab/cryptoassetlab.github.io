@@ -7,6 +7,15 @@
   #affiliation1_company: "To be announced soon"
   #affiliation1_company_link: "https://cryptoassetlab.diseade.unimib.it/advisory-board/"
 
+- name: "Lucia Alessi"
+  name_link: "http://linkedin.com/in/lucia-alessi-78961a5"
+  photo: "advisory_board/Alessi-200.jpg"
+  affiliations: 1
+  affiliation1_role: "Project Leader – Financial stability and risks"
+  affiliation1_role_link:
+  affiliation1_company: "European Commission – Joint Research Centre"
+  affiliation1_company_link: "http://www.jrc.ec.europa.eu"
+
 - name: "Gregorio De Felice"
   name_link: "https://www.linkedin.com/in/gregorio-de-felice-734244/"
   photo: "advisory_board/DeFelice-200.jpg"
