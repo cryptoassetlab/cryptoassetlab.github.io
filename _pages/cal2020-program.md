@@ -33,31 +33,29 @@ permalink: /cal2020-program/
 
 ## __15:00 - Plenary Session__
 
-Web link: [TBA]()
+[web-link TBA]()
 
-### Crypto Asset Lab Conference Introduction_
+### _Crypto Asset Lab Conference Introduction_
 
     Lucia Alessi, European Commission – Joint Research Centre  
     Ferdinando M. Ametrano, Digital Gold Institute  
     Paola A. Bongini, University of Milano-Bicocca
 
-### Welcome Address_
+### _Welcome Address_
 
     Giovanna Iannantuoni, Rector, University of Milano-Bicocca
 
-### Keynote Speech_
+### _Keynote Speech_
 
     Bloggers and Bitcoin Prices: A Textual Machine Learning Analysis
     Prof. Eric Ghysels, University of North Carolina at Chapel Hill
 
 ## __16:00 - Parallel Stream Sessions__
 
-Web link: [TBA]()
-
   <table width="100%">
     <tbody>
       <tr>
-        <td width="25%"><h3><i>Stream A</i></h3></td>
+        <td width="25%"><h3><i>Stream A <a href ="">web-link TBA</a></i></h3></td>
         <td width="75%"><h3><i>Investments</i></h3></td>
       </tr>
       <tr>
@@ -85,7 +83,7 @@ Web link: [TBA]()
         </td>
       </tr>
       <tr>
-        <td width="25%"><h3><i>Stream B</i></h3></td>
+        <td width="25%"><h3><i>Stream B <a href ="">web-link TBA</a></i></h3></td>
         <td width="75%"><h3><i>Legal and Regulatory</i></h3></td>
       </tr>
       <tr>
@@ -107,7 +105,7 @@ Web link: [TBA]()
         </td>
       </tr>
       <tr>
-        <td width="25%"><h3><i>Stream C</i></h3></td>
+        <td width="25%"><h3><i>Stream C <a href ="">web-link TBA</a></i></h3></td>
         <td width="75%"><h3><i>Crypto-Economics</i></h3></td>
       </tr>
       <tr>
@@ -142,7 +140,7 @@ Web link: [TBA]()
         </td>
       </tr>
       <tr>
-        <td width="25%"><h3><i>Stream D</i></h3></td>
+        <td width="25%"><h3><i>Stream D <a href ="">web-link TBA</a></i></h3></td>
         <td width="75%"><h3><i>Quantitative Modelling</i></h3></td>
       </tr>
       <tr>
@@ -174,7 +172,7 @@ Web link: [TBA]()
 
 ### __18:00 - Panel__
 
-Web link: [TBA]()
+[web-link TBA]()
 
 Moderator: Antonella Sciarrone Alibrandi, Università Cattolica del Sacro Cuore
 
