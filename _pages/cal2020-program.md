@@ -66,7 +66,7 @@ permalink: /cal2020-program/
       </tr>
       <tr>
         <td width="25%"></td>
-        <td width="100%"><b>On the performance of cryptocurrency funds</b><br>
+        <td width="75%"><b>On the performance of cryptocurrency funds</b><br>
         <i>Daniele Bianchi, Mykola Babiak</i>
         </td>
       </tr>
@@ -94,7 +94,7 @@ permalink: /cal2020-program/
       </tr>
       <tr>
         <td width="25%"></td>
-        <td width="100%">Cryptocurrency Regulation in the EU AML Regime: the path towards effective harmonisation?</b><br>
+        <td width="75%">Cryptocurrency Regulation in the EU AML Regime: the path towards effective harmonisation?</b><br>
         <i>Eduardo Silva de Freitas</i>
         </td>
       </tr>
@@ -109,15 +109,14 @@ permalink: /cal2020-program/
         <td width="75%"><h3><i>Crypto-Economics</i></h3></td>
       </tr>
       <tr>
-        <td width="25%">Moderator:<br><i>Paola A. Bongini</i>,<br>University of Milano-Bicocca
-        </td>
+        <td width="25%">Moderator:<br><i>Paola A. Bongini</i>,<br>University of Milano-Bicocca</td>
         <td width="75%"><b>What makes private stablecoins stable?</b><br>
         <i>Mario Bellia, Sebastian Schich</i>
         </td>
       </tr>
       <tr>
         <td width="25%"></td>
-        <td width="100%"><b>Libra or Librae? Basket based stablecoins to mitigate foreign exchange volatility</b><br>
+        <td width="75%"><b>Libra or Librae? Basket based stablecoins to mitigate foreign exchange volatility</b><br>
         <i>Paolo Giudici, Thomas Leach, Paolo Pagnottoni</i>
         </td>
       </tr>
@@ -128,8 +127,8 @@ permalink: /cal2020-program/
         </td>
       </tr>
       <tr>
-        <td width="35%"></td>
-        <td width="65%"><b>Crypto CIP Deviations</b><br>
+        <td width="25%"></td>
+        <td width="75%"><b>Crypto CIP Deviations</b><br>
          <i>Friedrich-Carl Franz, Alexander Valentin</i>
         </td>
       </tr>
@@ -151,7 +150,7 @@ permalink: /cal2020-program/
       </tr>
       <tr>
         <td width="25%"></td>
-        <td width="100%"><b>The Changing Nature of Cryptocurrencies: An Analysis of Bitcoin and Its Copies During Their Clonings</b><br>
+        <td width="75%"><b>The Changing Nature of Cryptocurrencies: An Analysis of Bitcoin and Its Copies During Their Clonings</b><br>
         <i>Thomas H. A. Joubert</i>
         </td>
       </tr>
@@ -174,7 +173,7 @@ permalink: /cal2020-program/
 
 [web-link TBA]()
 
-Moderator: Antonella Sciarrone Alibrandi, Università Cattolica del Sacro Cuore
+Moderator: _Antonella Sciarrone Alibrandi_, Università Cattolica del Sacro Cuore
 
     Filippo Annunziata, Bocconi University
     XXX, European Central Bank
