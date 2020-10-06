@@ -1,5 +1,5 @@
 ---
-title: "CAL Conference"
+title: "CAL2020 Program"
 excerpt: The 2nd Crypto Asset Lab International Conference
 layout: homelay
 permalink: /cal2020-program/
@@ -27,63 +27,90 @@ permalink: /cal2020-program/
   <img src="/img/cal2020/facebook.png" width="30" height="30%">
 </a>
 
-### Tentative program
+# Provisional Program
 
-15:00 - __Welcome Speech__
+## Plenary Session
 
-      Rettore, University of Milano-Bicocca
+### 15:00 - __Crypto Asset Lab Conference Introduction__
 
-15:15 - __Program Chairs__
+Web link: TBA
 
-      Ferdinando M. Ametrano, Digital Gold Institute
-      Paola A. Bongini, University of Milano-Bicocca
+    Lucia Alessi, European Commission – Joint Research Centre  
+    Ferdinando M. Ametrano, Digital Gold Institute  
+    Paola A. Bongini, University of Milano-Bicocca
 
-15:30 - __Keynote Talk__
+### 15:15 - __Welcome Address__
 
-      Bloggers and Bitcoin Prices: A Textual Machine Learning Analysis
-      Prof. Eric Ghysels, University of North Carolina at Chapel Hill
+Web link: TBA
 
-16:00 - __Paper presentation__
+    Giovanna Iannantuoni, Rector, University of Milano-Bicocca
 
-__Investments__
-  * Gianfranco Forte, University of Milano-Bicocca
+### 15:30 - __Keynote Talk__
 
-__Legal and Regulatory__
-  * Francesca Mattassoglio, University of Milano-Bicocca
+Web link: TBA
 
-__Crypto-Economics__
-  * Paolo Giudici, University of Pavia
-  * Gianna Figà-Talamanca, University of Perugia
+    Bloggers and Bitcoin Prices: A Textual Machine Learning Analysis
+    Prof. Eric Ghysels, University of North Carolina at Chapel Hill
 
-__Quantitative Modelling__
-  * Paola A. Bongini, University of Milano-Bicocca
+## Parallel Stream Sessions
 
-18:00 - __Panel__
-  * Lucia Alessi, European Commission – Joint Research Centre, CefES – Center for European Studies (University of Milano-Bicocca)
-  * Filippo Annunziata, Bocconi University
-  * Marco Petracco, European Commission - Joint Research Centre
-  * Antonella Sciarrone Alibrandi, Università Cattolica del Sacro Cuore
+### 16:00 - __Stream A: Investments__
 
-### Attendance
+Web link: TBA
 
-The Conference will be held online via zoom streaming.
-Attending the conference 
+Moderator: Gianfranco Forte, University of Milano-Bicocca
 
-Attending the conference is free.
-Registration and ticketing on [**eventbrite's conference page**](https://www.eventbrite.com/e/the-2nd-crypto-asset-lab-conference-registration-114668123444)
+    paper 1  
+    paper 2  
+    paper 3
 
-### Web and e-mail
+### 16:00 - __Stream B: Legal and Regulatory__
 
-* [cryptoassetlab.diseade.unimib.it/cal2020]({{ site.baseurl }}/cal2020)
-* [cryptoassetlab+conf2020@unimib.it](mailto:cryptoassetlab+conf2020@unimib.it)
+Web link: TBA
 
-### Conference Sponsors
+Moderator: Francesca Mattassoglio, University of Milano-Bicocca
+
+    paper 1  
+    paper 2  
+    paper 3
+
+### 16:00 - __Stream C: Crypto-Economics__
+
+Web link: TBA
+
+Moderator: Paola A. Bongini, University of Milano-Bicocca
+
+    paper 1  
+    paper 2  
+    paper 3
+
+### 16:00 - __Stream D: Quantitative Modelling__
+
+Web link: TBA
+
+Moderator: Gianna Figà-Talamanca, University of Perugia
+
+    paper 1
+    paper 2
+    paper 3
+
+## Plenary Session
+
+### 16:00 - __Panel__
+
+Web link: TBA
+
+Moderator: Antonella Sciarrone Alibrandi, Università Cattolica del Sacro Cuore
+
+    Filippo Annunziata, Bocconi University
+    XXX, European Central Bank
+    XXX, OECD
+    Marco Petracco, European Commission - Joint Research Centre (or XXX, European Commission - FISMA)
+
+# Conference Sponsors
 
 **Gold sponsor** [<img src="/img/cal2020/CheckSig-logo-transparent.png" height="75">](http://checksig.io)
 
 **Silver sponsor** [<img src="/img/cal2020/trt-logo.png" height="50">](http://www.therocktrading.com/en/)
 
 **Bronze sponsor** [<img src="/img/cal2020/deloitte-logo.png" height="25">](http://www2.deloitte.com/it)
-
-To sponsor the conference please contact the general chair at
-[cryptoassetlab+conf2020-chairs@unimib.it](mailto:cryptoassetlab+conf2020-chairs@unimib.it)
