@@ -87,15 +87,15 @@ permalink: /cal2020-program-old/
         <td width="75%"><h3><i>Legal and Regulatory</i></h3></td>
       </tr>
       <tr>
-        <td width="25%">Moderator:<br><i>Francesca Mattassoglio</i>,<br>University of Milano-Bicocca</td>
-        <td width="75%"><b>The classification of tokens and its regulatory implications</b><br>
-        <i>R. de Caria</i>
+        <td width="25%"></td>
+        <td width="75%"><b>Cryptocurrency Regulation in the EU AML Regime: the path towards effective harmonisation?</b><br>
+        <i>Eduardo Silva de Freitas</i>
         </td>
       </tr>
       <tr>
-        <td width="25%"></td>
-        <td width="75%">Cryptocurrency Regulation in the EU AML Regime: the path towards effective harmonisation?</b><br>
-        <i>Eduardo Silva de Freitas</i>
+        <td width="25%">Moderator:<br><i>Francesca Mattassoglio</i>,<br>University of Milano-Bicocca</td>
+        <td width="75%"><b>The classification of tokens and its regulatory implications</b><br>
+        <i>R. de Caria</i>
         </td>
       </tr>
       <tr>
@@ -109,9 +109,9 @@ permalink: /cal2020-program-old/
         <td width="75%"><h3><i>Crypto-Economics</i></h3></td>
       </tr>
       <tr>
-        <td width="25%">Moderator:<br><i>Paola A. Bongini</i>,<br>University of Milano-Bicocca</td>
-        <td width="75%"><b>What makes private stablecoins stable?</b><br>
-        <i>Mario Bellia, Sebastian Schich</i>
+        <td width="25%"></td>
+        <td width="75%"><b>The Cryptocurrency Frontier in Commodity Monetary Standard</b><br>
+        <i>Ferdinando Maria Ametrano</i>
         </td>
       </tr>
       <tr>
@@ -121,9 +121,9 @@ permalink: /cal2020-program-old/
         </td>
       </tr>
       <tr>
-        <td width="25%"></td>
-        <td width="75%"><b>The Cryptocurrency Frontier in Commodity Monetary Standard</b><br>
-        <i>Ferdinando Maria Ametrano</i>
+        <td width="25%">Moderator:<br><i>Paola A. Bongini</i>,<br>University of Milano-Bicocca</td>
+        <td width="75%"><b>What makes private stablecoins stable?</b><br>
+        <i>Mario Bellia, Sebastian Schich</i>
         </td>
       </tr>
       <tr>
