@@ -61,31 +61,27 @@ Web link: [TBA]()
         <td width="75%"><h3><i>Investments</i></h3></td>
       </tr>
       <tr>
-        <td width="25%"><b>Moderator</b>:<br><i>Gianfranco Forte</i>,<br>University of Milano-Bicocca</td>
-        <td width="75%"><b>Paper 1</b><br>
-        Monetary flows in cryptocurrency markets: Effects of stablecoin transfers on Bitcoin returns and trading volume<br>
-        Lennart Ante, Ingo Fiedler, Elias Strehle
+        <td width="25%">Moderator:<br><i>Gianfranco Forte</i>,<br>University of Milano-Bicocca</td>
+        <td width="75%"><b>Monetary flows in cryptocurrency markets: Effects of stablecoin transfers on Bitcoin returns and trading volume</b><br>
+        <i>Lennart Ante, Ingo Fiedler, Elias Strehle</i>
         </td>
       </tr>
       <tr>
         <td width="25%"></td>
-        <td width="100%"><b>Paper 2</b><br>
-        On the performance of cryptocurrency funds<br>
-        Daniele Bianchi, Mykola Babiak
+        <td width="100%"><b>On the performance of cryptocurrency funds</b><br>
+        <i>Daniele Bianchi, Mykola Babiak</i>
         </td>
       </tr>
       <tr>
         <td width="25%"></td>
-        <td width="75%"><b>Paper 3</b><br>
-        Herding behaviour in cryptocurrency markets<br>
-        Dr. Nikolaos A. Kyriazis
+        <td width="75%"><b>Herding behaviour in cryptocurrency markets</b><br>
+        <i>Dr. Nikolaos A. Kyriazis</i>
         </td>
       </tr>
       <tr>
         <td width="25%"></td>
-        <td width="75%"><b>Paper 4</b><br>
-         Does mining fuel bubbles? An experimental study on cryptocurrency market<br>
-         Marco Lambrecht, Andis Sofianos, Yilong Xu
+        <td width="75%"><b>Does mining fuel bubbles? An experimental study on cryptocurrency market</b><br>
+         <i>Marco Lambrecht, Andis Sofianos, Yilong Xu</i>
         </td>
       </tr>
       <tr>
@@ -93,24 +89,21 @@ Web link: [TBA]()
         <td width="75%"><h3><i>Legal and Regulatory</i></h3></td>
       </tr>
       <tr>
-        <td width="25%"><b>Moderator</b>:<br><i>Francesca Mattassoglio</i>,<br>University of Milano-Bicocca</td>
-        <td width="75%"><b>Paper 1</b><br>
-        The classification of tokens and its regulatory implications<br>
-        R. de Caria
+        <td width="25%">Moderator:<br><i>Francesca Mattassoglio</i>,<br>University of Milano-Bicocca</td>
+        <td width="75%"><b>The classification of tokens and its regulatory implications</b><br>
+        <i>R. de Caria</i>
         </td>
       </tr>
       <tr>
         <td width="25%"></td>
-        <td width="100%"><b>Paper 2</b><br>
-        Cryptocurrency Regulation in the EU AML Regime: the path towards effective harmonisation?<br>
-        Eduardo Silva de Freitas
+        <td width="100%">Cryptocurrency Regulation in the EU AML Regime: the path towards effective harmonisation?</b><br>
+        <i>Eduardo Silva de Freitas</i>
         </td>
       </tr>
       <tr>
         <td width="25%"></td>
-        <td width="75%"><b>Paper 3</b><br>
-        “Corp-tech”: company law during the blockchain revolution<br>
-        Raffaele Lener, Salvatore L. Furnari
+        <td width="75%"><b>“Corp-tech”: company law during the blockchain revolution</b><br>
+        <i>Raffaele Lener, Salvatore L. Furnari</i>
         </td>
       </tr>
       <tr>
@@ -118,39 +111,34 @@ Web link: [TBA]()
         <td width="75%"><h3><i>Crypto-Economics</i></h3></td>
       </tr>
       <tr>
-        <td width="25%"><b>Moderator</b>:<br><i>Paola A. Bongini</i>,<br>University of Milano-Bicocca
+        <td width="25%">Moderator:<br><i>Paola A. Bongini</i>,<br>University of Milano-Bicocca
         </td>
-        <td width="75%"><b>Paper 1</b><br>
-        What makes private stablecoins stable?<br>
-        Mario Bellia, Sebastian Schich
-        </td>
-      </tr>
-      <tr>
-        <td width="25%"></td>
-        <td width="100%"><b>Paper 2</b><br>
-        Libra or Librae? Basket based stablecoins to mitigate foreign exchange volatility<br>
-        Paolo Giudici, Thomas Leach, Paolo Pagnottoni
+        <td width="75%"><b>What makes private stablecoins stable?</b><br>
+        <i>Mario Bellia, Sebastian Schich</i>
         </td>
       </tr>
       <tr>
         <td width="25%"></td>
-        <td width="75%"><b>Paper 3</b><br>
-        The Cryptocurrency Frontier in Commodity Monetary Standard<br>
-        Ferdinando Maria Ametrano
+        <td width="100%"><b>Libra or Librae? Basket based stablecoins to mitigate foreign exchange volatility</b><br>
+        <i>Paolo Giudici, Thomas Leach, Paolo Pagnottoni</i>
+        </td>
+      </tr>
+      <tr>
+        <td width="25%"></td>
+        <td width="75%"><b>The Cryptocurrency Frontier in Commodity Monetary Standard</b><br>
+        <i>Ferdinando Maria Ametrano</i>
         </td>
       </tr>
       <tr>
         <td width="35%"></td>
-        <td width="65%"><b>Paper 4</b><br>
-         Crypto CIP Deviations<br>
-         Friedrich-Carl Franz; Alexander Valentin
+        <td width="65%"><b>Crypto CIP Deviations</b><br>
+         <i>Friedrich-Carl Franz, Alexander Valentin</i>
         </td>
       </tr>
       <tr>
         <td width="25%"></td>
-        <td width="75%"><b>Paper 5</b><br>
-         Why Fixed Costs Matter for Proof-of-Work Based Cryptocurrencies<br>
-         Rodney Garratt, Maarten van Oordt
+        <td width="75%"><b>Why Fixed Costs Matter for Proof-of-Work Based Cryptocurrencies</b><br>
+         <i>Rodney Garratt, Maarten van Oordt</i>
         </td>
       </tr>
       <tr>
@@ -158,31 +146,27 @@ Web link: [TBA]()
         <td width="75%"><h3><i>Quantitative Modelling</i></h3></td>
       </tr>
       <tr>
-        <td width="25%"><b>Moderator</b>:<br><i>Gianna Figà-Talamanca</i>,<br>University of Perugia</td>
-        <td width="75%"><b>Paper 1</b><br>
-        Financial Risk Management for Cryptocurrencies<br>
-        Eline Van der Auwera, Wim Schoutens, Marco Petracco and Lucia Alessi
+        <td width="25%">Moderator:<br><i>Gianna Figà-Talamanca</i>,<br>University of Perugia</td>
+        <td width="75%"><b>Financial Risk Management for Cryptocurrencies</b><br>
+        <i>Eline Van der Auwera, Wim Schoutens, Marco Petracco and Lucia Alessi</i>
         </td>
       </tr>
       <tr>
         <td width="25%"></td>
-        <td width="100%"><b>Paper 2</b><br>
-        The Changing Nature of Cryptocurrencies: An Analysis of Bitcoin and Its Copies During Their Clonings<br>
-        Thomas H. A. Joubert
+        <td width="100%"><b>The Changing Nature of Cryptocurrencies: An Analysis of Bitcoin and Its Copies During Their Clonings</b><br>
+        <i>Thomas H. A. Joubert</i>
         </td>
       </tr>
       <tr>
         <td width="25%"></td>
-        <td width="75%"><b>Paper 3</b><br>
-        Multivariate Hidden Markov model for cryptocurrency<br>
-        Ferdinando M. Ametrano, Francesco Bartolucci, Gianfranco Forte, Fulvia Pennoni
+        <td width="75%"><b>Multivariate Hidden Markov model for cryptocurrency</b><br>
+        <i>Ferdinando M. Ametrano, Francesco Bartolucci, Gianfranco Forte, Fulvia Pennoni</i>
         </td>
       </tr>
       <tr>
         <td width="25%"></td>
-        <td width="75%"><b>Paper 4</b><br>
-         Coexistence of Physical and Crypto Assets in a Stochastic Endogenous Growth Model<br>
-         Alexis Derviz
+        <td width="75%"><b>Coexistence of Physical and Crypto Assets in a Stochastic Endogenous Growth Model</b><br>
+         <i>Alexis Derviz</i>
         </td>
       </tr>
     </tbody>
