@@ -1,0 +1,267 @@
+---
+layout: conference
+lang: en
+title: CAL2020 Program
+description: The 2nd Crypto Asset Lab International Conference
+permalink: /cal2020-program/
+---
+
+<section id=conference>
+
+    <div class=container id="intro">
+
+      <h1><b>The 2nd Crypto Asset Lab Conference</b></h1>
+      <h2>October 27, Web Streaming</h2>
+ 
+      <img src="/img/cal2020/CAL2020_call_for_paper_JRCV1.jpg" width="70%" class="img-responsive">
+        
+      <a href="https://inomics.com/conference/2nd-crypto-asset-lab-conference-1478634">
+        <img src="/img/cal2020/inomics.jpg" width="100" height="100%">
+      </a> 
+      <a href="https://www.eventbrite.com/e/the-2nd-crypto-asset-lab-conference-tickets-114668123444">
+        <img src="/img/cal2020/eventbrite.png" 
+        width="30" height="30%">
+      </a> 
+      <a href="https://twitter.com/CryptoAssetLab/status/1288498668891525125">
+        <img src="/img/cal2020/twitter.png" width="30" height="30%">
+      </a> 
+      <a href="https://www.linkedin.com/events/6694264839734382592">
+        <img src="/img/cal2020/Linkedin.png" width="30" height="30%">
+      </a> 
+      <a href="https://www.facebook.com/events/227957534980496">
+        <img src="/img/cal2020/facebook.png" width="30" height="30%">
+      </a>
+
+      <h3><b>Provisional Program</b></h3> 
+      <hr class="primary">
+
+    </div>
+    
+    <div class=container id="program">
+      <div class="row col-lg-9 col-md-3">
+
+          <h3><b>Plenary Session</b></h3>
+          <h4>3 PM CEST (UTC+2)</h4>
+
+          <td width="15%"><a href="" class="btn btn-primary btn-xl">Connect</a></td>
+          
+          <table width="100%">
+              <tr>
+                <td width="15%"><h4><i>15:00</i></h4></td>
+                <td width="85%"><h4><b>Crypto Asset Lab Conference Introduction</b></h4></td>
+              </tr>
+              <tr>
+                <td width="15%"></td>
+                <td width="85%"><i><b></b>Lucia Alessi</b></i>, European Commission – Joint Research Centre</td>
+              </tr>
+              <tr>
+                <td width="15%"></td>
+                <td width="85%"><i>Ferdinando M. Ametrano</i>, Digital Gold Institute</td>
+              </tr>
+              <tr>
+                <td width="15%"></td>
+                <td width="85%"><i>Paola A. Bongini</i>, University of Milano-Bicocca</td>
+              </tr>
+              <tr>
+                <td width="15%"><h4><i>15:15</i></h4></td>
+                <td width="85%"><h4><b>Welcome Address</b></h4></td>
+              </tr>
+              <tr>
+                <td width="15%"></td>
+                <td width="85%"><i>Giovanna Iannantuoni</i>, Rector, University of Milano-Bicocca</td>
+              </tr>
+              <tr>
+                <td width="15%"><h4><i>15:30</i></h4></td>
+                <td width="85%"><h4><b>Keynote Talk</b></h4></td>
+              </tr>
+              <tr>
+                <td width="15%"></td>
+                <td width="85%"><i><b>Bloggers and Bitcoin Prices: A Textual Machine Learning Analysis</b></i></td>
+              </tr>
+              <tr>
+                <td width="15%"></td>
+                <td width="85%"><i>Prof. Eric Ghysels</i>, University of North Carolina at Chapel Hill</td>
+              </tr>
+          </table>
+
+          <h3><b>Paralles Stream Session</b></h3>
+          <h4>4 PM CEST (UTC+2)</h4>
+          
+          <table width="100%">
+              <tr>
+                <td width="15%"><h4><i>Stream A</i></h4></td>
+                <td width="85%"><h4><b>Investments</b></h4></td>
+              </tr>
+              <tr>
+                <td width="15%"><a href="" class="btn btn-primary btn-xl">Connect</a></td>
+                <td width="85%"><b>Moderator</b>: <i>Gianfranco Forte</i>, University of Milano-Bicocca<br></td>
+              </tr>
+              {% for member in site.data.cal2020_papers %}
+              {% if member.stream == 'A' %}
+              <tr>
+                <td width="15%"></td>
+                <td width="85%"><b>{{ member.paper }}</b><br>
+                <i>{{ member.author1 }}</i> 
+                {% if member.affiliation1 %} ,{{ member.affiliation1 }} {% endif %}
+                {% if member.author2 %} <br>{{ member.author2 }} {% endif %}
+                {% if member.affiliation2 %} ,{{ member.affiliation2 }} {% endif %}
+                {% if member.author3 %} <br>{{ member.author3 }} {% endif %}
+                {% if member.affiliation3 %} ,{{ member.affiliation3 }} {% endif %}
+                {% if member.author4 %} <br>{{ member.author4 }} {% endif %}
+                {% if member.affiliation4 %} ,{{ member.affiliation4 }} {% endif %}<br>
+                {% if member.presenter %}Presented by {{ member.presenter }} {% endif %}
+                <br>
+                </td>
+              </tr>
+              {% endif %}
+              {% endfor %}
+              <tr>
+                <td width="15%"><h4><i>Stream B</i></h4></td>
+                <td width="85%"><h4><b>Legal and Regulatory</b></h4></td>
+              </tr>
+              <tr>
+                <td width="15%"><a href="" class="btn btn-primary btn-xl">Connect</a></td>
+                <td width="85%"><b>Moderator</b>: <i>Francesca Mattassoglio</i>, University of Milano-Bicocca<br></td>
+              </tr>
+              {% for member in site.data.cal2020_papers %}
+              {% if member.stream == 'B' %}
+              <tr>
+                <td width="15%"></td>
+                <td width="85%"><b>{{ member.paper }}</b><br>
+                {{ member.author1 }} 
+                {% if member.affiliation1 %} ,{{ member.affiliation1 }} {% endif %}
+                {% if member.author2 %} <br>{{ member.author2 }} {% endif %}
+                {% if member.affiliation2 %} ,{{ member.affiliation2 }} {% endif %}
+                {% if member.author3 %} <br>{{ member.author3 }} {% endif %}
+                {% if member.affiliation3 %} ,{{ member.affiliation3 }} {% endif %}
+                {% if member.author4 %} <br>{{ member.author4 }} {% endif %}
+                {% if member.affiliation4 %} ,{{ member.affiliation4 }} {% endif %}<br>
+                {% if member.presenter %}Presented by {{ member.presenter }} {% endif %}
+                <br>
+                </td>
+              </tr>
+              {% endif %}
+              {% endfor %}
+              <tr>
+                <td width="15%"><h4><i>Stream C</i></h4></td>
+                <td width="85%"><h4><b>Crypto-Economics</b></h4></td>
+              </tr>
+              <tr>
+                <td width="15%"><a href="" class="btn btn-primary btn-xl">Connect</a></td>
+                <td width="85%"><b>Moderator</b>: <i>Paola A. Bongini</i>, University of Milano-Bicocca<br></td>
+              <tr>
+              {% for member in site.data.cal2020_papers %}
+              {% if member.stream == 'C' %}
+              <tr>
+                <td width="15%"></td>
+                <td width="85%"><b>{{ member.paper }}</b><br>
+                {{ member.author1 }} 
+                {% if member.affiliation1 %} ,{{ member.affiliation1 }} {% endif %}
+                {% if member.author2 %} <br>{{ member.author2 }} {% endif %}
+                {% if member.affiliation2 %} ,{{ member.affiliation2 }} {% endif %}
+                {% if member.author3 %} <br>{{ member.author3 }} {% endif %}
+                {% if member.affiliation3 %} ,{{ member.affiliation3 }} {% endif %}
+                {% if member.author4 %} <br>{{ member.author4 }} {% endif %}
+                {% if member.affiliation4 %} ,{{ member.affiliation4 }} {% endif %}<br>
+                {% if member.presenter %}Presented by {{ member.presenter }} {% endif %}
+                <br>
+                </td>
+              </tr>
+              {% endif %}
+              {% endfor %}
+                <td width="15%"><h4><i><b>Stream D</b></i></h4></td>
+                <td width="85%"><h4><b>Quantitative Modelling</b></h4></td>
+              </tr>
+              <tr>
+                <td width="15%"><a href="" class="btn btn-primary btn-xl">Connect</a></td>
+                <td width="85%"><b>Moderator</b>:<i> Gianna Figà-Talamanca</i>, University of Perugia</td>
+              </tr>
+              {% for member in site.data.cal2020_papers %}
+              {% if member.stream == 'D' %}
+              <tr>
+                <td width="15%"></td>
+                <td width="85%"><b>{{ member.paper }}</b><br>
+                {{ member.author1 }} 
+                {% if member.affiliation1 %} ,{{ member.affiliation1 }} {% endif %}
+                {% if member.author2 %} <br>{{ member.author2 }} {% endif %}
+                {% if member.affiliation2 %} ,{{ member.affiliation2 }} {% endif %}
+                {% if member.author3 %} <br>{{ member.author3 }} {% endif %}
+                {% if member.affiliation3 %} ,{{ member.affiliation3 }} {% endif %}
+                {% if member.author4 %} <br>{{ member.author4 }} {% endif %}
+                {% if member.affiliation4 %} ,{{ member.affiliation4 }} {% endif %}<br>
+                {% if member.presenter %}<b>Presented by</b> {{ member.presenter }} {% endif %}
+                <br>
+                </td>
+              </tr>
+              {% endif %}
+              {% endfor %}
+          </table>
+
+        <h3><b>Panel Session</b></h3>
+        <h4>6 PM CEST (UTC+2)</h4>
+        
+        <table width="100%">
+            <tr>
+              <td width="15%"><h4><i>18:00</i></h4></td>
+              <td width="85%"><h4><b>Title</b></h4></td>
+            </tr>
+            <tr>
+              <td width="15%"><a href="" class="btn btn-primary btn-xl">Connect</a></td>
+              <td width="85%"><b>Moderator</b>: <i>Antonella Sciarrone Alibrandi</i>, Università Cattolica del Sacro Cuore<br></h4></td>
+            </tr>
+            <tr>
+              <td width="15%"></td>
+              <td width="85%"><i>Filippo Annunziata</i>, Bocconi University<br></td>
+            </tr>
+            <tr>
+              <td width="15%"></td>
+              <td width="85%"><i>xxx</i>, European Central Bank<br></td>
+            </tr>
+            <tr>
+              <td width="15%"></td>
+              <td width="85%"><i>XXX</i>, OECD<br></td>
+            </tr>            
+            <tr>
+              <td width="15%"></td>
+              <td width="85%"><i>Marco Petracco</i>, European Commission - Joint Research Centre<br></td>
+            </tr>
+            <tr>
+              <td width="15%"></td>
+              <td width="85%"><i>XXX</i>, European Commission - FISMA<br></td>
+            </tr>
+        </table>
+      </div>
+
+      <div class="row col-lg-3 col-md-9">
+        <div class="well" text_align="center">
+                        
+          <h3><b>Sponsors</b></h3>
+
+          <a href="http://checksig.io"><img src="/img/cal2020/CheckSig-logo-transparent.png" height="50"></a>
+          <a href="http://www.therocktrading.com/en/"><img src="/img/cal2020/trt-logo.png" height="50"></a>
+          <a href="http://www2.deloitte.com/it"><img src="/img/cal2020/deloitte-logo.png" height="50"></a>
+        
+        </div>
+      </div>  
+    </div> 
+
+    <div class=container id="requirements">
+      
+      <hr class="primary">
+      <h3><b>Technical Requirements</b></h3>
+      <h4>The Conference will be held online in web streaming via <b>Zoom Meeting</b>.
+      <br></h4>
+      <h4><b><a href="https://zoom.us/download">Download Zoom</a></b><br></h4> 
+
+    </div>
+
+    <div class=container id="contact">
+      
+      <hr class="primary">
+      <h3><b>Enquires</b></h3>
+      <h4>For any information please visit the <a href="{{ site.baseurl }}/cal2020">Conference main page</a> 
+        or contact us via <a href="mailto:cryptoassetlab+conf2020@unimib.it">mail</a>.<br><br></h4>
+    
+    </div>
+
+</section>

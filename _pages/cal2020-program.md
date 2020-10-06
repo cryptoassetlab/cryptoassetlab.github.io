@@ -2,7 +2,7 @@
 title: "CAL2020 Program"
 excerpt: The 2nd Crypto Asset Lab International Conference
 layout: homelay
-permalink: /cal2020-program/
+permalink: /cal2020-program-old/
 ---
 
 # __The 2nd Crypto Asset Lab Conference__
