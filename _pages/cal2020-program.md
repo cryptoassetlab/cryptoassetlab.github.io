@@ -5,8 +5,7 @@ layout: homelay
 permalink: /cal2020-program/
 ---
 
-## __The 2nd Crypto Asset Lab Conference__
-### Zoom Streaming, October 27
+# __The 2nd Crypto Asset Lab Conference__
 
 ![CAL2020](/img/cal2020/CAL2020_call_for_paper_JRCV1.jpg){:class="img-responsive"}
 
@@ -29,32 +28,28 @@ permalink: /cal2020-program/
 
 # Provisional Program
 
-## Plenary Session
-
-### 15:00 - __Crypto Asset Lab Conference Introduction__
+## __15:00 - Plenary Session__
 
 Web link: TBA
+
+### _15:00 - Crypto Asset Lab Conference Introduction_
 
     Lucia Alessi, European Commission – Joint Research Centre  
     Ferdinando M. Ametrano, Digital Gold Institute  
     Paola A. Bongini, University of Milano-Bicocca
 
-### 15:15 - __Welcome Address__
-
-Web link: TBA
+### _15:15 - Welcome Address_
 
     Giovanna Iannantuoni, Rector, University of Milano-Bicocca
 
-### 15:30 - __Keynote Talk__
-
-Web link: TBA
+### _15:30 - Keynote Talk_
 
     Bloggers and Bitcoin Prices: A Textual Machine Learning Analysis
     Prof. Eric Ghysels, University of North Carolina at Chapel Hill
 
-## Parallel Stream Sessions
+## 2 - __Parallel Stream Sessions__
 
-### 16:00 - __Stream A: Investments__
+### _16:00 - Stream A: Investments_
 
 Web link: TBA
 
@@ -64,7 +59,7 @@ Moderator: Gianfranco Forte, University of Milano-Bicocca
     paper 2  
     paper 3
 
-### 16:00 - __Stream B: Legal and Regulatory__
+### _16:00 - Stream B: Legal and Regulatory_
 
 Web link: TBA
 
@@ -74,7 +69,7 @@ Moderator: Francesca Mattassoglio, University of Milano-Bicocca
     paper 2  
     paper 3
 
-### 16:00 - __Stream C: Crypto-Economics__
+### _16:00 - Stream C: Crypto-Economics_
 
 Web link: TBA
 
@@ -84,7 +79,7 @@ Moderator: Paola A. Bongini, University of Milano-Bicocca
     paper 2  
     paper 3
 
-### 16:00 - __Stream D: Quantitative Modelling__
+### _16:00 - Stream D: Quantitative Modelling_
 
 Web link: TBA
 
@@ -94,11 +89,11 @@ Moderator: Gianna Figà-Talamanca, University of Perugia
     paper 2
     paper 3
 
-## Plenary Session
-
-### 16:00 - __Panel__
+## 3 - __Plenary Session__
 
 Web link: TBA
+
+### 16:00 - __Panel__
 
 Moderator: Antonella Sciarrone Alibrandi, Università Cattolica del Sacro Cuore
 
