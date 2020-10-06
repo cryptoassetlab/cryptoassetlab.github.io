@@ -28,30 +28,31 @@ permalink: /cal2020-program/
 
 # Provisional Program
 
-## October 27, 3 PM CEST (UTC+2)
+
+## October 27, all times are CEST (UTC+2)
 
 ## __15:00 - Plenary Session__
 
-Web link: TBA
+Web link: [TBA]()
 
-### _15:00 - Crypto Asset Lab Conference Introduction_
+### Crypto Asset Lab Conference Introduction_
 
     Lucia Alessi, European Commission – Joint Research Centre  
     Ferdinando M. Ametrano, Digital Gold Institute  
     Paola A. Bongini, University of Milano-Bicocca
 
-### _15:15 - Welcome Address_
+### Welcome Address_
 
     Giovanna Iannantuoni, Rector, University of Milano-Bicocca
 
-### _15:30 - Keynote Talk_
+### Keynote Speech_
 
     Bloggers and Bitcoin Prices: A Textual Machine Learning Analysis
     Prof. Eric Ghysels, University of North Carolina at Chapel Hill
 
 ## __16:00 - Parallel Stream Sessions__
 
-Web link: TBA
+Web link: [TBA]()
 
   <table width="100%">
     <tbody>
@@ -189,7 +190,7 @@ Web link: TBA
 
 ### __18:00 - Panel__
 
-Web link: TBA
+Web link: [TBA]()
 
 Moderator: Antonella Sciarrone Alibrandi, Università Cattolica del Sacro Cuore
 
