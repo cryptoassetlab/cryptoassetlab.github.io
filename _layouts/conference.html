@@ -1,22 +1,16 @@
-<!DOCTYPE html>
-<html>
+---
+layout: default
+---
 
-  {% include head.html %}
+<div id="homeid" class="col-sm-9">
 
-  <body>
+  {{ content }}
 
-    {% include header.html %}
+</div>
+<div id="sponsorsid" class="col-sm-3">
 
-    <div class="container-fluid">
-      <div class="row">
-        {{ content }}
-      </div>
-    </div>
+  <h3><b>Sponsors</b></h3>
+  {% include sponsors_bar.html %}
 
-    {% include header.html %}
-    
-    {% include footer.html %}
 
-  </body>
-
-</html>
+</div>
