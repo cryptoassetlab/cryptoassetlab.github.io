@@ -59,6 +59,7 @@
   link: 
   author1: Riccardo de Caria
   affiliation1: University of Turin
+  affiliation1:
   author2: 
   affiliation2:
   author3: 
@@ -69,7 +70,7 @@
   stream: Legal
   economic-note: true
   
-- paper: Cryptocurrency Regulation in the EU AML Regime, the path towards effective harmonisation?
+- paper: Cryptocurrency regulation in the EU AML regime, the path towards effective harmonisation?
   link: 
   author1: Eduardo Silva de Freitas
   affiliation1:
@@ -125,7 +126,7 @@
   stream: Crypto-Economics
   economic-note: 
   
-- paper: The Cryptocurrency Frontier in Commodity Monetary Standard 
+- paper: The cryptocurrency frontier in commodity monetary standard 
   link: 
   author1: Ferdinando Maria Ametrano
   affiliation1:
@@ -139,7 +140,7 @@
   stream: Crypto-Economics
   economic-note: 
   
-- paper: Crypto CIP Deviations
+- paper: Crypto CIP deviations
   link: 
   author1: Friedrich-Carl Franz
   affiliation1:
@@ -153,7 +154,7 @@
   stream: Crypto-Economics
   economic-note: 
 
-- paper: Why Fixed Costs Matter for Proof-of-Work Based Cryptocurrencies
+- paper: Why fixed costs matter for Proof-of-Work based cryptocurrencies
   link: 
   author1: Maarten van Oordt
   affiliation1: Bank of Canada
@@ -167,7 +168,7 @@
   stream: Crypto-Economics
   economic-note: false
   
-- paper: Financial Risk Management for Cryptocurrencies
+- paper: Financial risk management for cryptocurrencies
   link: 
   author1: Eline Van der Auwera
   affiliation1:
@@ -181,7 +182,7 @@
   stream: Quantitative Modelling
   economic-note: 
   
-- paper: The Changing Nature of Cryptocurrencies. An Analysis of Bitcoin and Its Copies During Their Clonings
+- paper: The changing nature of cryptocurrencies. An analysis of Bitcoin and its copies during their clonings
   link: 
   author1: Thomas H. A. Joubert
   affiliation1:
@@ -195,7 +196,7 @@
   stream: Quantitative Modelling
   economic-note: 
 
-- paper: Multivariate Hidden Markov model for cryptocurrency
+- paper: Multivariate hidden Markov model for cryptocurrency
   link: 
   author1: Ferdinando M. Ametrano
   affiliation1:
@@ -209,7 +210,7 @@
   stream: Quantitative Modelling
   economic-note: 
 
-- paper: Coexistence of Physical and Crypto Assets in a Stochastic Endogenous Growth Model
+- paper: Coexistence of physical and crypto assets in a stochastic endogenous growth model
   link: 
   author1: Alexis Derviz
   affiliation1:
