@@ -11,19 +11,21 @@
   affiliation4:
   presenter: 
   stream: Investments
+  economic-note: 
   
 - paper: On the performance of cryptocurrency funds
   link: 
   author1: Daniele Bianchi
-  affiliation1:
+  affiliation1: School of Economics and Finance, Queen Mary, University of London
   author2: Mykola Babiak
-  affiliation2:
+  affiliation2: Lancaster School of Management
   author3: 
   affiliation3:
   author4: 
   affiliation4:
-  presenter: 
+  presenter: Daniele Bianchi
   stream: Investments
+  economic-note: false
    
 - paper: Herding behaviour in cryptocurrency markets
   link: 
@@ -37,32 +39,35 @@
   affiliation4:
   presenter: 
   stream: Investments
+  economic-note: 
 
-- paper: Does mining fuel bubbles? An experimental study on cryptocurrency market
+- paper: Does mining fuel bubbles? An experimental study on cryptocurrency markets
   link: 
   author1: Marco Lambrecht
-  affiliation1:
+  affiliation1: University of Heidelberg / Hanken School of Economics (Helsinki)
   author2: Andis Sofianos
-  affiliation2:
+  affiliation2: University of Heidelberg
   author3: Yilong Xu
-  affiliation3:
+  affiliation3: University of Heidelberg
   author4: 
   affiliation4:
-  presenter: 
+  presenter: Marco Lambrecht
   stream: Investments
+  economic-note: false
 
 - paper: The classification of tokens and its regulatory implications
   link: 
-  author1: R. de Caria
-  affiliation1:
+  author1: Riccardo de Caria
+  affiliation1: University of Turin
   author2: 
   affiliation2:
   author3: 
   affiliation3:
   author4: 
   affiliation4:
-  presenter: 
+  presenter: Riccardo de Caria
   stream: Legal
+  economic-note: true
   
 - paper: Cryptocurrency Regulation in the EU AML Regime, the path towards effective harmonisation?
   link: 
@@ -76,6 +81,7 @@
   affiliation4:
   presenter: 
   stream: Legal
+  economic-note: 
   
 - paper: Corp-tech, company law during the blockchain revolution
   link: 
@@ -89,6 +95,7 @@
   affiliation4:
   presenter: 
   stream: Legal
+  economic-note: 
   
 - paper: What makes private stablecoins stable?
   link: 
@@ -102,6 +109,7 @@
   affiliation4:
   presenter: 
   stream: Crypto-Economics
+  economic-note: 
   
 - paper: Libra or Librae? Basket based stablecoins to mitigate foreign exchange volatility
   link: 
@@ -115,6 +123,7 @@
   affiliation4:
   presenter: 
   stream: Crypto-Economics
+  economic-note: 
   
 - paper: The Cryptocurrency Frontier in Commodity Monetary Standard 
   link: 
@@ -128,6 +137,7 @@
   affiliation4:
   presenter: 
   stream: Crypto-Economics
+  economic-note: 
   
 - paper: Crypto CIP Deviations
   link: 
@@ -141,19 +151,21 @@
   affiliation4:
   presenter: 
   stream: Crypto-Economics
+  economic-note: 
 
 - paper: Why Fixed Costs Matter for Proof-of-Work Based Cryptocurrencies
   link: 
-  author1: Rodney Garratt
-  affiliation1:
-  author2: Maarten van Oordt
-  affiliation2:
+  author1: Maarten van Oordt
+  affiliation1: Bank of Canada
+  author2: Rodney Garratt
+  affiliation2: University of California, Santa Barbara
   author3: 
   affiliation3:
   author4: 
   affiliation4:
-  presenter: 
+  presenter:  Maarten van Oordt
   stream: Crypto-Economics
+  economic-note: false
   
 - paper: Financial Risk Management for Cryptocurrencies
   link: 
@@ -167,6 +179,7 @@
   affiliation4:
   presenter: 
   stream: Quantitative Modelling
+  economic-note: 
   
 - paper: The Changing Nature of Cryptocurrencies. An Analysis of Bitcoin and Its Copies During Their Clonings
   link: 
@@ -180,6 +193,7 @@
   affiliation4:
   presenter: 
   stream: Quantitative Modelling
+  economic-note: 
 
 - paper: Multivariate Hidden Markov model for cryptocurrency
   link: 
@@ -193,6 +207,7 @@
   affiliation4:
   presenter: Fulvia Pennoni
   stream: Quantitative Modelling
+  economic-note: 
 
 - paper: Coexistence of Physical and Crypto Assets in a Stochastic Endogenous Growth Model
   link: 
@@ -206,4 +221,4 @@
   affiliation4:
   presenter: 
   stream: Quantitative Modelling
-  
+  economic-note: 
