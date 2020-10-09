@@ -1,17 +1,17 @@
 
-- paper: Monetary flows in cryptocurrency markets. Effects of stablecoin transfers on Bitcoin returns and trading volume
+- paper: "Monetary flows and feedback trading in cryptocurrency markets: Effects of stablecoin transfers on Bitcoin returns and trading volume"
   link: 
   author1: Lennart Ante
-  affiliation1:
-  author2: Ingo Fiedler
-  affiliation2:
-  author3: Elias Strehle
-  affiliation3:
+  affiliation1: Blockchain Research Lab, University of Hamburg
+  author2: Dr. Ingo Fiedler
+  affiliation2:  Blockchain Research Lab, University of Hamburg, Concordia University
+  author3: Dr. Elias Strehle
+  affiliation3:  Blockchain Research Lab
   author4: 
   affiliation4:
-  presenter: 
+  presenter: Lennart Ante
   stream: Investments
-  economic-note: 
+  economic-note: true
   
 - paper: On the performance of cryptocurrency funds
   link: 
@@ -69,61 +69,61 @@
   stream: Legal
   economic-note: true
   
-- paper: Cryptocurrency regulation in the EU AML regime, the path towards effective harmonisation?
+- paper: "Cryptocurrency Regulation in the EU AML Regime: the path towards effective harmonization?"
   link: 
-  author1: Eduardo Silva de Freitas
-  affiliation1:
+  author1: Eduardo SIlva de Freitas
+  affiliation1: LL.M., Faculty of Law, KU Leuven
   author2: 
   affiliation2:
   author3: 
   affiliation3:
   author4: 
   affiliation4:
-  presenter: 
+  presenter: Eduardo SIlva de Freitas
   stream: Legal
-  economic-note: 
+  economic-note: false
   
-- paper: Corp-tech, company law during the blockchain revolution
+- paper: "Company Law during the Blockchain Revolution. The rise of “CorpTech”"
   link: 
-  author1: Raffaele Lener
-  affiliation1:
-  author2: Salvatore L. Furnari
-  affiliation2:
+  author1:  Salvatore Luciano Furnari
+  affiliation1: Università di Roma Tor Vergata, Studio Legale Lener & Partners
+  author2: Prof. Raffaele Lener
+  affiliation2: Università di Roma Tor Vergata, Studio Legale Lener & Partners
   author3: 
   affiliation3:
   author4: 
   affiliation4:
-  presenter: 
+  presenter: Salvatore Luciano Furnari
   stream: Legal
-  economic-note: 
+  economic-note: true
   
 - paper: What makes private stablecoins stable?
   link: 
   author1: Mario Bellia
-  affiliation1:
+  affiliation1: European Commission Joint Research Centre (JRC)
   author2: Sebastian Schich
-  affiliation2:
+  affiliation2: Organisation for Economic Co-operation and Development (OECD)
   author3: 
   affiliation3:
   author4: 
   affiliation4:
-  presenter: 
+  presenter: Mario Bellia
   stream: Crypto-Economics
-  economic-note: 
+  economic-note: true
   
-- paper: Libra or Librae? Basket based stablecoins to mitigate foreign exchange volatility
+- paper: Libra or Librae? Basket based stablecoins to mitigate foreign exchange volatility spillovers
   link: 
-  author1: Paolo Giudici
-  affiliation1:
-  author2: Thomas Leach
-  affiliation2:
-  author3: Paolo Pagnottoni
-  affiliation3:
+  author1: Paolo Pagnottoni
+  affiliation1: Politecnico di Milano
+  author2: Paolo Giudici
+  affiliation2: Università degli Studi di Pavia
+  author3: Thomas Leach
+  affiliation3: Università degli Studi di Pavia
   author4: 
   affiliation4:
-  presenter: 
+  presenter: Paolo Pagnottoni
   stream: Crypto-Economics
-  economic-note: 
+  economic-note: true
   
 - paper: The cryptocurrency frontier in commodity monetary standard 
   link: 
@@ -139,19 +139,19 @@
   stream: Crypto-Economics
   economic-note: 
   
-- paper: Crypto CIP deviations
+- paper: Crypto Covered Interest Parity Deviations
   link: 
-  author1: Friedrich-Carl Franz
-  affiliation1:
-  author2: Alexander Valentin
-  affiliation2:
+  author1: Alexander Valentin
+  affiliation1: Goethe University Frankfurt
+  author2: Friedrich-Carl Franz
+  affiliation2: Goethe University Frankfurt
   author3: 
   affiliation3:
   author4: 
   affiliation4:
-  presenter: 
+  presenter: Alexander Valentin
   stream: Crypto-Economics
-  economic-note: 
+  economic-note: false
 
 - paper: Why fixed costs matter for Proof-of-Work based cryptocurrencies
   link: 
@@ -209,16 +209,16 @@
   stream: Quantitative Modelling
   economic-note: 
 
-- paper: Coexistence of physical and crypto assets in a stochastic endogenous growth model
+- paper: Coexistence of Physical and Crypto Assets in a Stochastic Endogenous Growth Model
   link: 
   author1: Alexis Derviz
-  affiliation1:
+  affiliation1:  Czech National Bank, Monetary Dept
   author2: 
   affiliation2:
   author3: 
   affiliation3:
   author4: 
   affiliation4:
-  presenter: 
+  presenter: Alexis Derviz
   stream: Quantitative Modelling
-  economic-note: 
+  economic-note: true
