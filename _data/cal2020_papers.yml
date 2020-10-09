@@ -10,7 +10,7 @@
   author4: 
   affiliation4:
   presenter: 
-  stream: A
+  stream: Investments
   
 - paper: On the performance of cryptocurrency funds
   link: 
@@ -23,7 +23,7 @@
   author4: 
   affiliation4:
   presenter: 
-  stream: A
+  stream: Investments
    
 - paper: Herding behaviour in cryptocurrency markets
   link: 
@@ -36,7 +36,7 @@
   author4: 
   affiliation4:
   presenter: 
-  stream: A
+  stream: Investments
 
 - paper: Does mining fuel bubbles? An experimental study on cryptocurrency market
   link: 
@@ -49,7 +49,7 @@
   author4: 
   affiliation4:
   presenter: 
-  stream: A
+  stream: Investments
 
 - paper: The classification of tokens and its regulatory implications
   link: 
@@ -62,7 +62,7 @@
   author4: 
   affiliation4:
   presenter: 
-  stream: B
+  stream: Legal
   
 - paper: Cryptocurrency Regulation in the EU AML Regime, the path towards effective harmonisation?
   link: 
@@ -75,7 +75,7 @@
   author4: 
   affiliation4:
   presenter: 
-  stream: B
+  stream: Legal
   
 - paper: Corp-tech, company law during the blockchain revolution
   link: 
@@ -88,7 +88,7 @@
   author4: 
   affiliation4:
   presenter: 
-  stream: B
+  stream: Legal
   
 - paper: What makes private stablecoins stable?
   link: 
@@ -101,7 +101,7 @@
   author4: 
   affiliation4:
   presenter: 
-  stream: C
+  stream: Crypto-Economics
   
 - paper: Libra or Librae? Basket based stablecoins to mitigate foreign exchange volatility
   link: 
@@ -114,7 +114,7 @@
   author4: 
   affiliation4:
   presenter: 
-  stream: C
+  stream: Crypto-Economics
   
 - paper: The Cryptocurrency Frontier in Commodity Monetary Standard 
   link: 
@@ -127,7 +127,7 @@
   author4: 
   affiliation4:
   presenter: 
-  stream: C
+  stream: Crypto-Economics
   
 - paper: Crypto CIP Deviations
   link: 
@@ -140,7 +140,7 @@
   author4: 
   affiliation4:
   presenter: 
-  stream: C
+  stream: Crypto-Economics
 
 - paper: Why Fixed Costs Matter for Proof-of-Work Based Cryptocurrencies
   link: 
@@ -153,7 +153,7 @@
   author4: 
   affiliation4:
   presenter: 
-  stream: C
+  stream: Crypto-Economics
   
 - paper: Financial Risk Management for Cryptocurrencies
   link: 
@@ -166,7 +166,7 @@
   author4: Lucia Alessi
   affiliation4:
   presenter: 
-  stream: D
+  stream: Quantitative Modelling
   
 - paper: The Changing Nature of Cryptocurrencies. An Analysis of Bitcoin and Its Copies During Their Clonings
   link: 
@@ -179,7 +179,7 @@
   author4: 
   affiliation4:
   presenter: 
-  stream: D
+  stream: Quantitative Modelling
 
 - paper: Multivariate Hidden Markov model for cryptocurrency
   link: 
@@ -192,7 +192,7 @@
   author4: Fulvia Pennoni
   affiliation4:
   presenter: Fulvia Pennoni
-  stream: D
+  stream: Quantitative Modelling
 
 - paper: Coexistence of Physical and Crypto Assets in a Stochastic Endogenous Growth Model
   link: 
@@ -205,5 +205,5 @@
   author4: 
   affiliation4:
   presenter: 
-  stream: D
+  stream: Quantitative Modelling
   

@@ -89,33 +89,11 @@ permalink: /cal2020-program/
           
       <table width="100%">
         <tr>
-          <td width="15%"><h4><i>Investments</i></h4></td>
-          <td width="85%"><h5>Moderator: <a href="https://www.unimib.it/gianfranco-forte"><i>Gianfranco Forte</i></a>, University of Milano-Bicocca<br></h5></td>
-        </tr>
-        {% for member in site.data.cal2020_papers %}
-        {% if member.stream == 'A' %}
+          <td width="15%"><h4><i>Stream A</i></h4></td>
+          <td width="85%"><h5><b>Crypto-Economics</b></br>Moderator: <a href="https://www.unimib.it/paola-agnese-bongini"><i>Paola A. Bongini</i></a>, University of Milano-Bicocca<br></h5></td>
         <tr>
-          <td width="15%"></td>
-          <td width="85%"></br><b>{{ member.paper }}</b><br>
-          <i>{{ member.author1 }}</i> 
-          {% if member.affiliation1 %} ,{{ member.affiliation1 }} {% endif %}
-          {% if member.author2 %} <br>{{ member.author2 }} {% endif %}
-          {% if member.affiliation2 %} ,{{ member.affiliation2 }} {% endif %}
-          {% if member.author3 %} <br>{{ member.author3 }} {% endif %}
-          {% if member.affiliation3 %} ,{{ member.affiliation3 }} {% endif %}
-          {% if member.author4 %} <br>{{ member.author4 }} {% endif %}
-          {% if member.affiliation4 %} ,{{ member.affiliation4 }} {% endif %}<br>
-          {% if member.presenter %}Presented by {{ member.presenter }} {% endif %}
-          </td>
-        </tr>
-        {% endif %}
-        {% endfor %}
-        <tr>
-          <td width="15%"><h4><i>Legal and Regulatory</i></h4></td>
-          <td width="85%"><h5>Moderator: <a href="https://www.unimib.it/francesca-mattassoglio"><i>Francesca Mattassoglio</i></a>, University of Milano-Bicocca<br></h5></td>
-        </tr>
         {% for member in site.data.cal2020_papers %}
-        {% if member.stream == 'B' %}
+        {% if member.stream == 'Crypto-Economics' %}
         <tr>
           <td width="15%"></td>
           <td width="85%"></br><b>{{ member.paper }}</b><br>
@@ -133,11 +111,11 @@ permalink: /cal2020-program/
         {% endif %}
         {% endfor %}
         <tr>
-          <td width="15%"><h4><b>Crypto-Economics</b></h4></td>
-          <td width="85%"><h5>Moderator: <a href="https://www.unimib.it/paola-agnese-bongini"><i>Paola A. Bongini</i></a>, University of Milano-Bicocca<br></h5></td>
-        <tr>
+          <td width="15%"><h4><i>Stream B</i></h4></td>
+          <td width="85%"><h5><b>Legal and Regulatory</b></br>Moderator: <a href="https://www.unimib.it/francesca-mattassoglio"><i>Francesca Mattassoglio</i></a>, University of Milano-Bicocca<br></h5></td>
+        </tr>
         {% for member in site.data.cal2020_papers %}
-        {% if member.stream == 'C' %}
+        {% if member.stream == 'Legal' %}
         <tr>
           <td width="15%"></td>
           <td width="85%"></br><b>{{ member.paper }}</b><br>
@@ -155,15 +133,15 @@ permalink: /cal2020-program/
         {% endif %}
         {% endfor %}
         <tr>
-          <td width="15%"><h4><i><b>Quantitative Modelling</b></i></h4></td>
-          <td width="85%"><h5>Moderator:<a href="https://www.unipg.it/personale/gianna.figatalamanca/"><i>Gianna Figà-Talamanca</i></a>, University of Perugia<br></h5></td>
+          <td width="15%"><h4><i>Stream C</i></h4></td>
+          <td width="85%"><h5><b>Quantitative Modelling</b></br>Moderator:<a href="https://www.unipg.it/personale/gianna.figatalamanca/"><i>Gianna Figà-Talamanca</i></a>, University of Perugia<br></h5></td>
         </tr>
         {% for member in site.data.cal2020_papers %}
-        {% if member.stream == 'D' %}
+        {% if member.stream == 'Quantitative Modelling' %}
         <tr>
           <td width="15%"></td>
           <td width="85%"></br><b>{{ member.paper }}</b><br>
-            <i>{{ member.author1 }}</i> 
+          <i>{{ member.author1 }}</i> 
           {% if member.affiliation1 %} ,{{ member.affiliation1 }} {% endif %}
           {% if member.author2 %} <br><i>{{ member.author2 }}</i> {% endif %}
           {% if member.affiliation2 %} ,{{ member.affiliation2 }} {% endif %}
@@ -171,7 +149,29 @@ permalink: /cal2020-program/
           {% if member.affiliation3 %} ,{{ member.affiliation3 }} {% endif %}
           {% if member.author4 %} <br><i>{{ member.author4 }}</i> {% endif %}
           {% if member.affiliation4 %} ,{{ member.affiliation4 }} {% endif %}<br>
-          {% if member.presenter %}<b>Presented by</b> {{ member.presenter }} {% endif %}
+          {% if member.presenter %}Presented by {{ member.presenter }} {% endif %}
+          </td>
+        </tr>
+        {% endif %}
+        {% endfor %}
+        <tr>
+          <td width="15%"><h4><i>Stream D</i></h4></td>
+          <td width="85%"><h5><b>Investments</b></br>Moderator: <a href="https://www.unimib.it/gianfranco-forte"><i>Gianfranco Forte</i></a>, University of Milano-Bicocca<br></h5></td>
+        </tr>
+        {% for member in site.data.cal2020_papers %}
+        {% if member.stream == 'Investments' %}
+        <tr>
+          <td width="15%"></td>
+          <td width="85%"></br><b>{{ member.paper }}</b><br>
+          <i>{{ member.author1 }}</i> 
+          {% if member.affiliation1 %} ,{{ member.affiliation1 }} {% endif %}
+          {% if member.author2 %} <br><i>{{ member.author2 }}</i> {% endif %}
+          {% if member.affiliation2 %} ,{{ member.affiliation2 }} {% endif %}
+          {% if member.author3 %} <br><i>{{ member.author3 }}</i> {% endif %}
+          {% if member.affiliation3 %} ,{{ member.affiliation3 }} {% endif %}
+          {% if member.author4 %} <br><i>{{ member.author4 }}</i> {% endif %}
+          {% if member.affiliation4 %} ,{{ member.affiliation4 }} {% endif %}<br>
+          {% if member.presenter %}Presented by {{ member.presenter }} {% endif %}
           </td>
         </tr>
         {% endif %}
@@ -183,7 +183,7 @@ permalink: /cal2020-program/
       <table width="100%">
         <tr>
           <td width="15%"></td>
-          <td width="85%"><h5><b>Recent Development In Crypto-Assets Regulation </br>Moderator</b>: <a href="https://docenti.unicatt.it/ppd2/it/docenti/03701/antonella-sciarrone-alibrandi/profilo"><i>Antonella Sciarrone Alibrandi</i></a>, Università Cattolica del Sacro Cuore<br></h5></td>
+          <td width="85%"><h5><b>Recent Development In Crypto-Assets Regulation</b></br>Moderator: <a href="https://docenti.unicatt.it/ppd2/it/docenti/03701/antonella-sciarrone-alibrandi/profilo"><i>Antonella Sciarrone Alibrandi</i></a>, Università Cattolica del Sacro Cuore<br></h5></td>
         </tr>
         <tr>
           <td width="15%"></td>
