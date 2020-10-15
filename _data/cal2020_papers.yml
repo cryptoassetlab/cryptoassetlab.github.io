@@ -4,9 +4,9 @@
   author1: Lennart Ante
   affiliation1: Blockchain Research Lab, University of Hamburg
   author2: Ingo Fiedler
-  affiliation2:  Blockchain Research Lab, University of Hamburg, Concordia University
+  affiliation2: Blockchain Research Lab, University of Hamburg, Concordia University
   author3: Elias Strehle
-  affiliation3:  Blockchain Research Lab
+  affiliation3: Blockchain Research Lab
   author4: 
   affiliation4:
   presenter: Lennart Ante
@@ -30,7 +30,7 @@
 - paper: Herding behaviour in cryptocurrency markets
   link: 
   author1: Nikolaos A. Kyriazis
-  affiliation1:
+  affiliation1: Department of Economics, University of Thessaly
   author2: 
   affiliation2:
   author3: 
@@ -65,7 +65,7 @@
   affiliation3:
   author4: 
   affiliation4:
-  presenter: Riccardo de Caria
+  presenter:
   stream: Legal
   economic-note: true
   
@@ -85,7 +85,7 @@
   
 - paper: "Company Law during the Blockchain Revolution. The rise of “CorpTech”"
   link: 
-  author1:  Salvatore Luciano Furnari
+  author1: Salvatore Luciano Furnari
   affiliation1: Università di Roma Tor Vergata, Studio Legale Lener & Partners
   author2: Raffaele Lener
   affiliation2: Università di Roma Tor Vergata, Studio Legale Lener & Partners
@@ -163,7 +163,7 @@
   affiliation3:
   author4: 
   affiliation4:
-  presenter:  Maarten van Oordt
+  presenter: Maarten van Oordt
   stream: Crypto-Economics
   economic-note: false
   
@@ -174,9 +174,9 @@
   author2: Wim Schoutens
   affiliation2:
   author3: Marco Petracco
-  affiliation3:
+  affiliation3: European Commission – Joint Research Centre
   author4: Lucia Alessi
-  affiliation4:
+  affiliation4: European Commission – Joint Research Centre
   presenter: 
   stream: Quantitative Modelling
   economic-note: 
@@ -184,7 +184,7 @@
 - paper: The changing nature of cryptocurrencies. An analysis of Bitcoin and its copies during their clonings
   link: 
   author1: Thomas H. A. Joubert
-  affiliation1:
+  affiliation1: LEMMA, Université Paris 2, Panthéon-Assas
   author2: 
   affiliation2:
   author3: 
@@ -198,13 +198,13 @@
 - paper: Multivariate hidden Markov model for cryptocurrency
   link: 
   author1: Fulvia Pennoni
-  affiliation1:
+  affiliation1: University of Milano-Bicocca
   author2: Francesco Bartolucci
-  affiliation2:
+  affiliation2: University of Perugia
   author3: Gianfranco Forte
-  affiliation3:
+  affiliation3: University of Milano-Bicocca
   author4: Ferdinando M. Ametrano
-  affiliation4:
+  affiliation4: University of Milano-Bicocca, Digital Gold Institute
   presenter: Fulvia Pennoni
   stream: Quantitative Modelling
   economic-note: 
@@ -212,7 +212,7 @@
 - paper: Coexistence of Physical and Crypto Assets in a Stochastic Endogenous Growth Model
   link: 
   author1: Alexis Derviz
-  affiliation1:  Czech National Bank, Monetary Dept
+  affiliation1: Czech National Bank, Monetary Dept
   author2: 
   affiliation2:
   author3: 
