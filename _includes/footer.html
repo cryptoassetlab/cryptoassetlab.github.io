@@ -2,13 +2,15 @@
 	<div class="panel-footer">
 		<div class="container-fluid">
 			<div class="row">
-				<div class="col-sm-12">
+				<div class="col-sm-3">
 					<a href="{{ site.url }}{{ site.baseurl }}/">
-						<img src="{{ site.url }}{{ site.baseurl }}/img/cal.svg" height="100" class="center">
+						<img src="{{ site.url }}{{ site.baseurl }}/img/cal.svg" height="85" class="left">
 					</a>
 				</div>
-				<div class="col-sm-12">
-					<ul class="list-inline social-buttons" style="text-align:center">
+				<div class="col-sm-9">
+					<ul class="list-inline social-buttons" style="text-align:right">
+						<br>
+						<br>
 						{% for account in site.data.social %}
 						<li class="list-inline-item">
 							<a href="{{ account.link }}">
