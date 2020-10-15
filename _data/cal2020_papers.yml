@@ -79,7 +79,7 @@
   affiliation3:
   author4: 
   affiliation4:
-  presenter: Eduardo Silva de Freitas
+  presenter:
   stream: Legal
   economic-note: false
   
@@ -219,6 +219,6 @@
   affiliation3:
   author4: 
   affiliation4:
-  presenter: Alexis Derviz
+  presenter:
   stream: Quantitative Modelling
   economic-note: true
