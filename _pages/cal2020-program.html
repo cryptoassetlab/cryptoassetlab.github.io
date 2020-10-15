@@ -1,0 +1,235 @@
+---
+layout: conference
+lang: en
+title: CAL2020 Program
+description: The 2nd Crypto Asset Lab International Conference
+permalink: /cal2020-program/
+---
+
+<section id=conference>
+
+    <div class="img-responsive" id="intro">
+
+      <!--h3><b>The 2nd Crypto Asset Lab Conference</b></h3-->
+ 
+      <img src="/img/cal2020/CAL2020_call_for_paper_JRCV2.jpg" width="100%" class="img-responsive">
+        
+      
+      <a href="https://inomics.com/conference/2nd-crypto-asset-lab-conference-1478634">
+        <img src="/img/cal2020/inomics.jpg" width="100" height="100%">
+      </a> 
+      <a href="https://www.eventbrite.com/e/the-2nd-crypto-asset-lab-conference-tickets-114668123444">
+        <img src="/img/cal2020/eventbrite.png" 
+        width="30" height="30%">
+      </a> 
+      <a href="https://twitter.com/CryptoAssetLab/status/1288498668891525125">
+        <img src="/img/cal2020/twitter.png" width="30" height="30%">
+      </a> 
+      <a href="https://www.linkedin.com/events/6694264839734382592">
+        <img src="/img/cal2020/LinkedIn.png" width="30" height="30%">
+      </a> 
+      <a href="https://www.facebook.com/events/227957534980496">
+        <img src="/img/cal2020/facebook.png" width="30" height="30%">
+      </a>
+      <a href="https://www.eventbrite.com/e/the-2nd-crypto-asset-lab-conference-registration-114668123444" class="btn btn-primary btn-xl" text-align="right">Free Registration</a>
+      <a href="{{ site.baseurl }}/cal2020" class="btn btn-primary btn-xl" text-align="right">Conference Page</a>
+      
+      <h3><b>CAL2020 Provisional Program</b></h3> 
+      <h4>October 27</h4>
+      <p>
+        The webinar for registered attendees will use <a href="https://zoom.us/download">Zoom</a>;
+        streaming for the (unregistered) general public will be on YouTube.</a>
+      </p>
+      
+      <hr class="primary">
+
+    </div>
+    
+  <div class="img-responsive" id="program">
+
+    <h3><b>Plenary Session, 15:00 CEST (UTC+2)</b></h4>
+
+      <td width="15%"><!--a href="" class="btn btn-primary btn-xl">Connect</a--></td>
+          
+      <table width="100%">
+        <tr>
+          <td width="15%"><h4><i></i></h4></td>
+          <td width="85%"><h4><b>Crypto Asset Lab Conference Introduction</b></h4></td>
+        </tr>
+        <tr>
+          <td width="15%"></td>
+          <td width="85%"><i><b>Lucia Alessi</b></i>, European Commission – Joint Research Centre</td>
+        </tr>
+        <tr>
+          <td width="15%"></td>
+          <td width="85%"><a href="http://www.ametrano.net/"><i>Ferdinando M. Ametrano</i></a>, Digital Gold Institute</td>
+        </tr>
+        <tr>
+          <td width="15%"></td>
+          <td width="85%"><a href="https://www.unimib.it/paola-agnese-bongini"><i>Paola A. Bongini</i></a>, University of Milano-Bicocca</td>
+        </tr>
+        <tr>
+          <td width="15%"><h4><i></i></h4></td>
+          <td width="85%"><h4><b>Welcome Address</b></h4></td>
+        </tr>
+        <tr>
+          <td width="15%"></td>
+          <td width="85%"><a href="https://www.unimib.it/giovanna-iannantuoni"><i>Giovanna Iannantuoni</i></a>, Rector, University of Milano-Bicocca</td>
+        </tr>
+        <tr>
+          <td width="15%"><h4><i></i></h4></td>
+          <td width="85%"><h4><b>Keynote Speech</b></h4></td>
+        </tr>
+        <tr>
+          <td width="15%"></td>
+          <td width="85%"><i><b>Bloggers and Bitcoin Prices: A Textual Machine Learning Analysis</b></i></td>
+        </tr>
+        <tr>
+          <td width="15%"></td>
+          <td width="85%"><a href="https://www.kenan-flagler.unc.edu/faculty/directory/eric-ghysels/"><i>Prof. Eric Ghysels</i></a>, University of North Carolina at Chapel Hill</td>
+        </tr>
+      </table>
+
+      <h3><b>Parallel Stream Sessions, 16:00 CEST (UTC+2)</b></h4>
+          
+      <table width="100%">
+        <tr>
+          <td width="15%"><h4><i>Stream A</i></h4></td>
+          <td width="85%"><h4><b>Crypto-Economics</b></h4><h5>Moderator: <a href="https://www.unimib.it/paola-agnese-bongini"><i>Paola A. Bongini</i></a>, University of Milano-Bicocca<br></h5></td>
+        <tr>
+        {% for member in site.data.cal2020_papers %}
+        {% if member.stream == 'Crypto-Economics' %}
+        <tr>
+          <td width="15%"></td>
+          <td width="85%"></br><b>{{ member.paper }}</b><br>
+          <i>{{ member.author1 }}</i> 
+          {% if member.affiliation1 %}, {{ member.affiliation1 }} {% endif %}
+          {% if member.author2 %} <br><i>{{ member.author2 }}</i> {% endif %}
+          {% if member.affiliation2 %}, {{ member.affiliation2 }} {% endif %}
+          {% if member.author3 %} <br><i>{{ member.author3 }}</i> {% endif %}
+          {% if member.affiliation3 %}, {{ member.affiliation3 }} {% endif %}
+          {% if member.author4 %} <br><i>{{ member.author4 }}</i> {% endif %}
+          {% if member.affiliation4 %}, {{ member.affiliation4 }} {% endif %}<br>
+          {% if member.presenter %}Presented by {{ member.presenter }} {% endif %}
+          </td>
+        </tr>
+        {% endif %}
+        {% endfor %}
+      </table>
+      <hr>
+      <table width="100%">
+        <tr>
+          <td width="15%"><h4><i>Stream B</i></h4></td>
+          <td width="85%"><h4><b>Legal and Regulatory</b></h4><h5>Moderator: <a href="https://www.unimib.it/francesca-mattassoglio"><i>Francesca Mattassoglio</i></a>, University of Milano-Bicocca<br></h5></td>
+        </tr>
+        {% for member in site.data.cal2020_papers %}
+        {% if member.stream == 'Legal' %}
+        <tr>
+          <td width="15%"></td>
+          <td width="85%"></br><b>{{ member.paper }}</b><br>
+          <i>{{ member.author1 }}</i> 
+          {% if member.affiliation1 %}, {{ member.affiliation1 }} {% endif %}
+          {% if member.author2 %} <br><i>{{ member.author2 }}</i> {% endif %}
+          {% if member.affiliation2 %}, {{ member.affiliation2 }} {% endif %}
+          {% if member.author3 %} <br><i>{{ member.author3 }}</i> {% endif %}
+          {% if member.affiliation3 %}, {{ member.affiliation3 }} {% endif %}
+          {% if member.author4 %} <br><i>{{ member.author4 }}</i> {% endif %}
+          {% if member.affiliation4 %}, {{ member.affiliation4 }} {% endif %}<br>
+          {% if member.presenter %}Presented by {{ member.presenter }} {% endif %}
+          </td>
+        </tr>
+        {% endif %}
+        {% endfor %}
+      </table>
+      <hr>
+      <table width="100%">
+        <tr>
+          <td width="15%"><h4><i>Stream C</i></h4></td>
+          <td width="85%"><h4><b>Quantitative Modelling</b></h4><h5>Moderator: <a href="https://www.unipg.it/personale/gianna.figatalamanca/"><i>Gianna Figà-Talamanca</i></a>, University of Perugia<br></h5></td>
+        </tr>
+        {% for member in site.data.cal2020_papers %}
+        {% if member.stream == 'Quantitative Modelling' %}
+        <tr>
+          <td width="15%"></td>
+          <td width="85%"></br><b>{{ member.paper }}</b><br>
+          <i>{{ member.author1 }}</i> 
+          {% if member.affiliation1 %}, {{ member.affiliation1 }} {% endif %}
+          {% if member.author2 %} <br><i>{{ member.author2 }}</i> {% endif %}
+          {% if member.affiliation2 %}, {{ member.affiliation2 }} {% endif %}
+          {% if member.author3 %} <br><i>{{ member.author3 }}</i> {% endif %}
+          {% if member.affiliation3 %}, {{ member.affiliation3 }} {% endif %}
+          {% if member.author4 %} <br><i>{{ member.author4 }}</i> {% endif %}
+          {% if member.affiliation4 %}, {{ member.affiliation4 }} {% endif %}<br>
+          {% if member.presenter %}Presented by {{ member.presenter }} {% endif %}
+          </td>
+        </tr>
+        {% endif %}
+        {% endfor %}
+      </table>
+      <hr>
+      <table width="100%">
+        <tr>
+          <td width="15%"><h4><i>Stream D</i></h4></td>
+          <td width="85%"><h4><b>Investments</b></h4><h5>Moderator: <a href="https://www.unimib.it/gianfranco-forte"><i>Gianfranco Forte</i></a>, University of Milano-Bicocca<br></h5></td>
+        </tr>
+        {% for member in site.data.cal2020_papers %}
+        {% if member.stream == 'Investments' %}
+        <tr>
+          <td width="15%"></td>
+          <td width="85%"></br><b>{{ member.paper }}</b><br>
+          <i>{{ member.author1 }}</i> 
+          {% if member.affiliation1 %}, {{ member.affiliation1 }} {% endif %}
+          {% if member.author2 %} <br><i>{{ member.author2 }}</i> {% endif %}
+          {% if member.affiliation2 %}, {{ member.affiliation2 }} {% endif %}
+          {% if member.author3 %} <br><i>{{ member.author3 }}</i> {% endif %}
+          {% if member.affiliation3 %}, {{ member.affiliation3 }} {% endif %}
+          {% if member.author4 %} <br><i>{{ member.author4 }}</i> {% endif %}
+          {% if member.affiliation4 %}, {{ member.affiliation4 }} {% endif %}<br>
+          {% if member.presenter %}Presented by {{ member.presenter }} {% endif %}
+          </td>
+        </tr>
+        {% endif %}
+        {% endfor %}
+      </table>
+
+      <h3><b>Panel Session, 18:00 CEST (UTC+2)</b></h4>
+          
+      <table width="100%">
+        <tr>
+          <td width="15%"></td>
+          <td width="85%"><h4><b>Developments in Crypto-Assets Policy and Regulation</b></h4><h5>Moderator: <a href="https://docenti.unicatt.it/ppd2/it/docenti/03701/antonella-sciarrone-alibrandi/profilo"><i>Antonella Sciarrone Alibrandi</i></a>, Università Cattolica del Sacro Cuore<br><br></h5></td>
+        </tr>
+        <tr>
+          <td width="15%"></td>
+          <td width="85%"><a href="http://faculty.unibocconi.it/filippoannunziata/"><i>Filippo Annunziata</i></a>, Bocconi University<br></td>
+        </tr>
+        <tr>
+          <td width="15%"></td>
+          <td width="85%"><a href="https://www.ecb.europa.eu/pub/research/authors/profiles/maria-teresa-chimienti.en.html"><i>Maria Teresa Chimienti</i></a>, Internal Crypto Assets Task Force, European Central Bank<br></td>
+        </tr>
+        <tr>
+          <td width="15%"></td>
+        <td width="85%"><a href="https://www.linkedin.com/in/sebastian-schich-098795a/?originalSubdomain=fr"><i>Sebastian Schich</i></a>, Directorate Of Corporate and Financial Affairs, Organisation For Economic Cooperation and Development<br></td>
+        </tr>            
+        <tr>
+          <td width="15%"></td>
+          <td width="85%"><i>Marco Petracco</i>, European Commission - Joint Research Centre<br></td>
+        </tr>
+        <!--tr>
+          <td width="15%"></td>
+          <td width="85%"><i>tbc</i>, European Commission<br></td>
+        </tr-->
+      </table>
+  </div>
+
+
+  <div class="img-responsive" id="contact">
+        
+    <hr class="primary">
+    <h3><b>Enquires</b></h3>
+    <h4>For any information please visit the <a href="{{ site.baseurl }}/cal2020">conference main page</a> 
+      or contact us via <a href="mailto:cryptoassetlab+conf2020@unimib.it">mail</a>.<br><br></h4>
+
+  </div>
+
+</section>
