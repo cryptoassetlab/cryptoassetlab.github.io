@@ -1,104 +1,5 @@
-
-- paper: "Monetary flows and feedback trading in cryptocurrency markets: Effects of stablecoin transfers on Bitcoin returns and trading volume"
-  link: Investments_1
-  author1: Lennart Ante
-  affiliation1: Blockchain Research Lab, University of Hamburg
-  author2: Ingo Fiedler
-  affiliation2: Blockchain Research Lab, University of Hamburg, Concordia University
-  author3: Elias Strehle
-  affiliation3: Blockchain Research Lab
-  author4: 
-  affiliation4:
-  presenter: Lennart Ante
-  stream: Investments
-  economic-note: true
-  
-- paper: On the performance of cryptocurrency funds
-  link: Investments_2
-  author1: Daniele Bianchi
-  affiliation1: School of Economics and Finance, Queen Mary, University of London
-  author2: Mykola Babiak
-  affiliation2: Lancaster School of Management
-  author3: 
-  affiliation3:
-  author4: 
-  affiliation4:
-  presenter: Daniele Bianchi
-  stream: Investments
-  economic-note: false
-   
-- paper: Herding behaviour in cryptocurrency markets
-  link: Investments_3
-  author1: Nikolaos A. Kyriazis
-  affiliation1: Department of Economics, University of Thessaly
-  author2: 
-  affiliation2:
-  author3: 
-  affiliation3:
-  author4: 
-  affiliation4:
-  presenter: 
-  stream: Investments
-  economic-note: 
-
-- paper: Does mining fuel bubbles? An experimental study on cryptocurrency markets
-  link: Investments_4
-  author1: Marco Lambrecht
-  affiliation1: University of Heidelberg and Hanken School of Economics (Helsinki)
-  author2: Andis Sofianos
-  affiliation2: University of Heidelberg
-  author3: Yilong Xu
-  affiliation3: University of Heidelberg
-  author4: 
-  affiliation4:
-  presenter: Marco Lambrecht
-  stream: Investments
-  economic-note: false
-
-- paper: The classification of tokens and its regulatory implications
-  link: Legal_1
-  author1: Riccardo de Caria
-  affiliation1: University of Turin
-  author2: 
-  affiliation2:
-  author3: 
-  affiliation3:
-  author4: 
-  affiliation4:
-  presenter:
-  stream: Legal
-  economic-note: true
-  
-- paper: "Cryptocurrency Regulation in the EU AML Regime: the path towards effective harmonization?"
-  link: Legal_2
-  author1: Eduardo Silva de Freitas
-  affiliation1: Faculty of Law, KU Leuven
-  author2: 
-  affiliation2:
-  author3: 
-  affiliation3:
-  author4: 
-  affiliation4:
-  presenter:
-  stream: Legal
-  economic-note: false
-  
-- paper: "Company Law during the Blockchain Revolution. The rise of “CorpTech”"
-  link: Legal_3
-  author1: Salvatore Luciano Furnari
-  affiliation1: Università di Roma Tor Vergata, Studio Legale Lener & Partners
-  author2: Raffaele Lener
-  affiliation2: Università di Roma Tor Vergata, Studio Legale Lener & Partners
-  author3: 
-  affiliation3:
-  author4: 
-  affiliation4:
-  presenter: Salvatore Luciano Furnari
-  stream: Legal
-  economic-note: true
-  
 - paper: What makes private stablecoins stable?
-  link: Crypto-Economics_1
+  link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2020/Crypto-Economics_1.pdf
   author1: Mario Bellia
   affiliation1: DG Joint Research Centre, European Commission
   author2: Sebastian Schich
@@ -112,7 +13,7 @@
   economic-note: true
   
 - paper: Libra or Librae? Basket based stablecoins to mitigate foreign exchange volatility spillovers
-  link: Crypto-Economics_2
+  link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2020/Crypto-Economics_2.pdf
   author1: Paolo Pagnottoni
   affiliation1: Politecnico di Milano
   author2: Paolo Giudici
@@ -140,7 +41,7 @@
   economic-note: 
   
 - paper: Crypto Covered Interest Parity Deviations
-  link: Crypto-Economics_4
+  link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2020/Crypto-Economics_4.pdf
   author1: Alexander Valentin
   affiliation1: Goethe University Frankfurt
   author2: Friedrich-Carl Franz
@@ -166,9 +67,51 @@
   presenter: Maarten van Oordt
   stream: Crypto-Economics
   economic-note: false
+
+- paper: The classification of tokens and its regulatory implications
+  link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2020/Legal_1.pdf
+  author1: Riccardo de Caria
+  affiliation1: University of Turin
+  author2: 
+  affiliation2:
+  author3: 
+  affiliation3:
+  author4: 
+  affiliation4:
+  presenter:
+  stream: Legal
+  economic-note: true
+  
+- paper: "Cryptocurrency Regulation in the EU AML Regime: the path towards effective harmonization?"
+  link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2020/Legal_2.pdf
+  author1: Eduardo Silva de Freitas
+  affiliation1: Faculty of Law, KU Leuven
+  author2: 
+  affiliation2:
+  author3: 
+  affiliation3:
+  author4: 
+  affiliation4:
+  presenter:
+  stream: Legal
+  economic-note: false
+  
+- paper: "Company Law during the Blockchain Revolution. The rise of “CorpTech”"
+  link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2020/Legal_3.pdf
+  author1: Salvatore Luciano Furnari
+  affiliation1: Università di Roma Tor Vergata, Studio Legale Lener & Partners
+  author2: Raffaele Lener
+  affiliation2: Università di Roma Tor Vergata, Studio Legale Lener & Partners
+  author3: 
+  affiliation3:
+  author4: 
+  affiliation4:
+  presenter: Salvatore Luciano Furnari
+  stream: Legal
+  economic-note: true
   
 - paper: Financial risk management for cryptocurrencies
-  link: Quantitative_Modelling_1
+  link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2020/Quantitative_Modelling_1.pdf
   author1: Eline Van der Auwera
   affiliation1:
   author2: Wim Schoutens
@@ -182,7 +125,7 @@
   economic-note: 
   
 - paper: The changing nature of cryptocurrencies. An analysis of Bitcoin and its copies during their clonings
-  link: Quantitative_Modelling_2
+  link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2020/Quantitative_Modelling_2.pdf
   author1: Thomas H. A. Joubert
   affiliation1: LEMMA, Université Paris 2, Panthéon-Assas
   author2: 
@@ -210,7 +153,7 @@
   economic-note: 
 
 - paper: Coexistence of Physical and Crypto Assets in a Stochastic Endogenous Growth Model
-  link: Quantitative_Modelling_4
+  link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2020/Quantitative_Modelling_4.pdf
   author1: Alexis Derviz
   affiliation1: Czech National Bank, Monetary Dept
   author2: 
@@ -222,3 +165,59 @@
   presenter:
   stream: Quantitative Modelling
   economic-note: true
+    
+- paper: "Monetary flows and feedback trading in cryptocurrency markets: Effects of stablecoin transfers on Bitcoin returns and trading volume"
+  link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2020/Investments_1.pdf
+  author1: Lennart Ante
+  affiliation1: Blockchain Research Lab, University of Hamburg
+  author2: Ingo Fiedler
+  affiliation2: Blockchain Research Lab, University of Hamburg, Concordia University
+  author3: Elias Strehle
+  affiliation3: Blockchain Research Lab
+  author4: 
+  affiliation4:
+  presenter: Lennart Ante
+  stream: Investments
+  economic-note: true
+  
+- paper: On the performance of cryptocurrency funds
+  link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2020/Investments_2.pdf
+  author1: Daniele Bianchi
+  affiliation1: School of Economics and Finance, Queen Mary, University of London
+  author2: Mykola Babiak
+  affiliation2: Lancaster School of Management
+  author3: 
+  affiliation3:
+  author4: 
+  affiliation4:
+  presenter: Daniele Bianchi
+  stream: Investments
+  economic-note: false
+   
+- paper: Herding behaviour in cryptocurrency markets
+  link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2020/Investments_3.pdf
+  author1: Nikolaos A. Kyriazis
+  affiliation1: Department of Economics, University of Thessaly
+  author2: 
+  affiliation2:
+  author3: 
+  affiliation3:
+  author4: 
+  affiliation4:
+  presenter: 
+  stream: Investments
+  economic-note: 
+
+- paper: Does mining fuel bubbles? An experimental study on cryptocurrency markets
+  link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2020/Investments_4.pdf
+  author1: Marco Lambrecht
+  affiliation1: University of Heidelberg and Hanken School of Economics (Helsinki)
+  author2: Andis Sofianos
+  affiliation2: University of Heidelberg
+  author3: Yilong Xu
+  affiliation3: University of Heidelberg
+  author4: 
+  affiliation4:
+  presenter: Marco Lambrecht
+  stream: Investments
+  economic-note: false
