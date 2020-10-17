@@ -71,6 +71,7 @@
   presenter: Maarten van Oordt
   stream: Crypto-Economics
   economic-note: false
+  slide: 
 
 - paper: The classification of tokens and its regulatory implications
   link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2020/Legal_1.pdf
@@ -85,6 +86,7 @@
   presenter:
   stream: Legal
   economic-note: true
+  slide: 
   
 - paper: "Cryptocurrency Regulation in the EU AML Regime: the path towards effective harmonization?"
   link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2020/Legal_2.pdf
@@ -99,7 +101,8 @@
   presenter:
   stream: Legal
   economic-note: false
-  
+  slide: 
+
 - paper: "Company Law during the Blockchain Revolution. The rise of “CorpTech”"
   link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2020/Legal_3.pdf
   author1: Salvatore Luciano Furnari
@@ -113,6 +116,7 @@
   presenter: Salvatore Luciano Furnari
   stream: Legal
   economic-note: true
+  slide: 
   
 - paper: Financial risk management for cryptocurrencies
   link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2020/Quantitative_Modelling_1.pdf
