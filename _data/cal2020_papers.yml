@@ -178,58 +178,62 @@
   economic-note: true
   slide: 
 
-  - paper: "Monetary flows and feedback trading in cryptocurrency markets: Effects of stablecoin transfers on Bitcoin returns and trading volume"
-    link: Investments_1
-    author1: Lennart Ante
-    affiliation1: Blockchain Research Lab, University of Hamburg
-    author2: Ingo Fiedler
-    affiliation2: Blockchain Research Lab, University of Hamburg, Concordia University
-    author3: Elias Strehle
-    affiliation3: Blockchain Research Lab
-    author4: 
-    affiliation4:
-    presenter: Lennart Ante
-    stream: Investments
-    economic-note: true
-    
-  - paper: On the performance of cryptocurrency funds
-    link: Investments_2
-    author1: Daniele Bianchi
-    affiliation1: School of Economics and Finance, Queen Mary, University of London
-    author2: Mykola Babiak
-    affiliation2: Lancaster School of Management
-    author3: 
-    affiliation3:
-    author4: 
-    affiliation4:
-    presenter: Daniele Bianchi
-    stream: Investments
-    economic-note: false
-     
-  - paper: Herding behaviour in cryptocurrency markets
-    link: Investments_3
-    author1: Nikolaos A. Kyriazis
-    affiliation1: Department of Economics, University of Thessaly
-    author2: 
-    affiliation2:
-    author3: 
-    affiliation3:
-    author4: 
-    affiliation4:
-    presenter: 
-    stream: Investments
-    economic-note: 
+- paper: "Monetary flows and feedback trading in cryptocurrency markets: Effects of stablecoin transfers on Bitcoin returns and trading volume"
+  link: Investments_1
+  author1: Lennart Ante
+  affiliation1: Blockchain Research Lab, University of Hamburg
+  author2: Ingo Fiedler
+  affiliation2: Blockchain Research Lab, University of Hamburg, Concordia University
+  author3: Elias Strehle
+  affiliation3: Blockchain Research Lab
+  author4: 
+  affiliation4:
+  presenter: Lennart Ante
+  stream: Investments
+  economic-note: true
+  slide:
   
-  - paper: Does mining fuel bubbles? An experimental study on cryptocurrency markets
-    link: Investments_4
-    author1: Marco Lambrecht
-    affiliation1: University of Heidelberg and Hanken School of Economics (Helsinki)
-    author2: Andis Sofianos
-    affiliation2: University of Heidelberg
-    author3: Yilong Xu
-    affiliation3: University of Heidelberg
-    author4: 
-    affiliation4:
-    presenter: Marco Lambrecht
-    stream: Investments
-    economic-note: false
+- paper: On the performance of cryptocurrency funds
+  link: Investments_2
+  author1: Daniele Bianchi
+  affiliation1: School of Economics and Finance, Queen Mary, University of London
+  author2: Mykola Babiak
+  affiliation2: Lancaster School of Management
+  author3: 
+  affiliation3:
+  author4: 
+  affiliation4:
+  presenter: Daniele Bianchi
+  stream: Investments
+  economic-note: false
+  slide:
+   
+- paper: Herding behaviour in cryptocurrency markets
+  link: Investments_3
+  author1: Nikolaos A. Kyriazis
+  affiliation1: Department of Economics, University of Thessaly
+  author2: 
+  affiliation2:
+  author3: 
+  affiliation3:
+  author4: 
+  affiliation4:
+  presenter: 
+  stream: Investments
+  economic-note: 
+  slide:
+
+- paper: Does mining fuel bubbles? An experimental study on cryptocurrency markets
+  link: Investments_4
+  author1: Marco Lambrecht
+  affiliation1: University of Heidelberg and Hanken School of Economics (Helsinki)
+  author2: Andis Sofianos
+  affiliation2: University of Heidelberg
+  author3: Yilong Xu
+  affiliation3: University of Heidelberg
+  author4: 
+  affiliation4:
+  presenter: Marco Lambrecht
+  stream: Investments
+  economic-note: false
+  slide:
