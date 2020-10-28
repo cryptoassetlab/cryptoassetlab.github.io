@@ -103,34 +103,39 @@ permalink: /cal2020-program/
             {% if member.stream == 'Crypto-Economics' %}
           <tr>
             <td width="15%"></td>
-            <td width="85%"><br><a href="{{ member.link }}"><b>{{ member.paper }}</b></a><br>
-              {% if member.author1 %}
-              {% if member.affiliation1 %}
-              <i>{{ member.author1 }}</i>, {{ member.affiliation1 }}<br>
+            <td width="85%"><br>
+              {% if member.slides %}
+                <a href="{{ member.link }}"><b>{{ member.paper }}</b></a>, (<a href="{{ member.slides }}">slides</a>)<br>
               {% else %}
-              <i>{{ member.author1 }}</i><br>
+                <a href="{{ member.link }}"><b>{{ member.paper }}</b></a><br>
               {% endif %}
+              {% if member.author1 %}
+                {% if member.affiliation1 %}
+                  <i>{{ member.author1 }}</i>, {{ member.affiliation1 }}<br>
+                {% else %}
+                  <i>{{ member.author1 }}</i><br>
+                {% endif %}
               {% endif %}
               {% if member.author2 %}
-              {% if member.affiliation2 %}
-              <i>{{ member.author2 }}</i>, {{ member.affiliation2 }}<br>
-              {% else %}
-              <i>{{ member.author2 }}</i><br>
-              {% endif %}
+                {% if member.affiliation2 %}
+                  <i>{{ member.author2 }}</i>, {{ member.affiliation2 }}<br>
+                {% else %}
+                  <i>{{ member.author2 }}</i><br>
+                {% endif %}
               {% endif %}
               {% if member.author3 %}
-              {% if member.affiliation3 %}
-              <i>{{ member.author3 }}</i>, {{ member.affiliation3 }}<br>
-              {% else %}
-              <i>{{ member.author3 }}</i><br>
-              {% endif %}
+                {% if member.affiliation3 %}
+                  <i>{{ member.author3 }}</i>, {{ member.affiliation3 }}<br>
+                {% else %}
+                  <i>{{ member.author3 }}</i><br>
+                {% endif %}
               {% endif %}
               {% if member.author4 %}
-              {% if member.affiliation4 %}
-              <i>{{ member.author4 }}</i>, {{ member.affiliation4 }}<br>
-              {% else %}
-              <i>{{ member.author4 }}</i><br>
-              {% endif %}
+                {% if member.affiliation4 %}
+                  <i>{{ member.author4 }}</i>, {{ member.affiliation4 }}<br>
+                {% else %}
+                  <i>{{ member.author4 }}</i><br>
+                {% endif %}
               {% endif %}
               {% if member.presenter %}Presented by {{ member.presenter }} {% endif %}
             </td>

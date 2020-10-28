@@ -11,7 +11,7 @@
   presenter: Mario Bellia
   stream: Crypto-Economics
   economic-note: true
-  slide: 
+  slides: 
   
 - paper: Libra or Librae? Basket based stablecoins to mitigate foreign exchange volatility spillovers
   link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2020/Crypto-Economics_2.pdf
@@ -26,7 +26,7 @@
   presenter: Paolo Pagnottoni
   stream: Crypto-Economics
   economic-note: true
-  slide: 
+  slides: 
   
 - paper: The cryptocurrency frontier in monetary engineering 
   link: https://ssrn.com/abstract=2508296
@@ -41,7 +41,7 @@
   presenter: 
   stream: Crypto-Economics
   economic-note: 
-  slide: https://cryptoassetlab.diseade.unimib.it/docs/CAL2020/Monetary Engineering.pdf
+  slides: https://cryptoassetlab.diseade.unimib.it/docs/CAL2020/Monetary Engineering.pdf
   
 - paper: Crypto Covered Interest Parity Deviations
   link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2020/Crypto-Economics_4.pdf
@@ -56,7 +56,7 @@
   presenter: Alexander Valentin
   stream: Crypto-Economics
   economic-note: false
-  slide: 
+  slides: 
 
 - paper: Why fixed costs matter for Proof-of-Work based cryptocurrencies
   link: https://www.bankofcanada.ca/2020/07/staff-working-paper-2020-27/
@@ -71,7 +71,7 @@
   presenter: Maarten van Oordt
   stream: Crypto-Economics
   economic-note: false
-  slide: 
+  slides: 
 
 - paper: The classification of tokens and its regulatory implications
   link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2020/Legal_1.pdf
@@ -86,7 +86,7 @@
   presenter:
   stream: Legal
   economic-note: true
-  slide: 
+  slides: 
   
 - paper: "Cryptocurrency Regulation in the EU AML Regime: the path towards effective harmonization?"
   link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2020/Legal_2.pdf
@@ -101,7 +101,7 @@
   presenter:
   stream: Legal
   economic-note: false
-  slide: 
+  slides: 
 
 - paper: "Company Law during the Blockchain Revolution. The rise of “CorpTech”"
   link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2020/Legal_3.pdf
@@ -116,7 +116,7 @@
   presenter: Salvatore Luciano Furnari
   stream: Legal
   economic-note: true
-  slide: 
+  slides: 
   
 - paper: "Financial risk management for cryptocurrencies: a quantitative analysis​"
   link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2020/Quantitative_Modelling_1.pdf
@@ -131,7 +131,7 @@
   presenter: Eline Van der Auwera
   stream: Quantitative Modelling
   economic-note: 
-  slide: 
+  slides: 
   
 - paper: The changing nature of cryptocurrencies. An analysis of Bitcoin and its copies during their clonings
   link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2020/Quantitative_Modelling_2.pdf
@@ -146,7 +146,7 @@
   presenter: 
   stream: Quantitative Modelling
   economic-note: 
-  slide: 
+  slides: 
 
 - paper: Multivariate hidden Markov model for cryptocurrency
   link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2020/Quantitative_Modelling_3.pdf
@@ -161,7 +161,7 @@
   presenter: Fulvia Pennoni
   stream: Quantitative Modelling
   economic-note: 
-  slide: 
+  slides: 
 
 - paper: Coexistence of Physical and Crypto Assets in a Stochastic Endogenous Growth Model
   link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2020/Quantitative_Modelling_4.pdf
@@ -176,7 +176,7 @@
   presenter:
   stream: Quantitative Modelling
   economic-note: true
-  slide: 
+  slides: 
 
 - paper: "Monetary flows and feedback trading in cryptocurrency markets: Effects of stablecoin transfers on Bitcoin returns and trading volume"
   link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2020/Investments_1.pdf
