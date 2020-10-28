@@ -41,7 +41,7 @@
   presenter: 
   stream: Crypto-Economics
   economic-note: 
-  slide: 
+  slide: https://cryptoassetlab.diseade.unimib.it/docs/CAL2020/Monetary Engineering.pdf
   
 - paper: Crypto Covered Interest Parity Deviations
   link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2020/Crypto-Economics_4.pdf
