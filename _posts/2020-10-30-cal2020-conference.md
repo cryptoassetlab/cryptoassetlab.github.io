@@ -27,7 +27,7 @@ It was then the turn of the papers' presentation. Based on the numerous high-qua
 - Crypto-economics, moderated by  **Paola Bongini**, University of Milano-Bicocca;
 - Legal and regulatory, moderated by **Francesca Mattassoglio**, University of Milano-Bicocca and [faculty](/faculty/) member;
 - Quantitative modelling, moderated by **Gianna Figà-Talamanca**, University of Perugia;
-- Investments, moderated by  **Gianfranco Forte**, University of Milano-Bicocca
+- Investments, moderated by  **Gianfranco Forte**, University of Milano-Bicocca and [faculty](/faculty/) member,
 
 A round table on the developments in crypto-assets policy and regulation was then held, coordinated by **Antonella Sciarrone Alibrandi**, Università Cattolica del Sacro Cuore. The panel has seen the interventions of **Marco Petracco Giudici**, DG Joint Research Centre of the European Commission, **Dirk Andreas Zetzsche**, University of Luxembourg, **Filippo Annunziata**, Bocconi University, and **Maria Teresa Chimienti**, European Central Bank.
 
