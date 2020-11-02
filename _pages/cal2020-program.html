@@ -105,7 +105,7 @@ permalink: /cal2020-program/
             <td width="15%"></td>
             <td width="85%"><br>
               {% if member.slides %}
-                <a href="{{ member.link }}"><b>{{ member.paper }}</b></a>, (<a href="{{ member.slides }}">slides</a>)<br>
+                <a href="{{ member.link }}"><b>{{ member.paper }}</b></a>, (<a href="{{ site.baseurl }}/docs/CAL2020/slides/{{ member.slides }}.pdf">slides</a>)<br>
               {% else %}
                 <a href="{{ member.link }}"><b>{{ member.paper }}</b></a><br>
               {% endif %}
@@ -157,7 +157,12 @@ permalink: /cal2020-program/
           {% if member.stream == 'Legal' %}
           <tr>
             <td width="15%"></td>
-            <td width="85%"><br><a href="{{ member.link }}"><b>{{ member.paper }}</b></a><br>
+            <td width="85%"><br>
+              {% if member.slides %}
+                <a href="{{ member.link }}"><b>{{ member.paper }}</b></a>, (<a href="{{ site.baseurl }}/docs/CAL2020/slides/{{ member.slides }}.pdf">slides</a>)<br>
+              {% else %}
+                <a href="{{ member.link }}"><b>{{ member.paper }}</b></a><br>
+              {% endif %}
               {% if member.author1 %}
               {% if member.affiliation1 %}
               <i>{{ member.author1 }}</i>, {{ member.affiliation1 }}<br>
@@ -207,7 +212,12 @@ permalink: /cal2020-program/
           {% if member.stream == 'Quantitative Modelling' %}
           <tr>
             <td width="15%"></td>
-            <td width="85%"><br><a href="{{ member.link }}"><b>{{ member.paper }}</b></a><br>
+            <td width="85%"><br>
+              {% if member.slides %}
+                <a href="{{ member.link }}"><b>{{ member.paper }}</b></a>, (<a href="{{ site.baseurl }}/docs/CAL2020/slides/{{ member.slides }}.pdf">slides</a>)<br>
+              {% else %}
+                <a href="{{ member.link }}"><b>{{ member.paper }}</b></a><br>
+              {% endif %}
               {% if member.author1 %}
               {% if member.affiliation1 %}
               <i>{{ member.author1 }}</i>, {{ member.affiliation1 }}<br>
@@ -258,7 +268,12 @@ permalink: /cal2020-program/
           {% if member.stream == 'Investments' %}
           <tr>
             <td width="15%"></td>
-            <td width="85%"><br><a href="{{ member.link }}"><b>{{ member.paper }}</b></a><br>
+            <td width="85%"><br>
+              {% if member.slides %}
+                <a href="{{ member.link }}"><b>{{ member.paper }}</b></a>, (<a href="{{ site.baseurl }}/docs/CAL2020/slides/{{ member.slides }}.pdf">slides</a>)<br>
+              {% else %}
+                <a href="{{ member.link }}"><b>{{ member.paper }}</b></a><br>
+              {% endif %}
               {% if member.author1 %}
               {% if member.affiliation1 %}
               <i>{{ member.author1 }}</i>, {{ member.affiliation1 }}<br>
