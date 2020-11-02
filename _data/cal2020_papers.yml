@@ -131,7 +131,7 @@
   presenter: Eline Van der Auwera
   stream: Quantitative Modelling
   economic-note: 
-  slides: 
+  slides: "presentation conferencecal_eline_pres1"
   
 - paper: The changing nature of cryptocurrencies. An analysis of Bitcoin and its copies during their clonings
   link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2020/Quantitative_Modelling_2.pdf
@@ -146,7 +146,7 @@
   presenter: 
   stream: Quantitative Modelling
   economic-note: 
-  slides: 
+  slides: "cal 2020 pres. tj_pres2"
 
 - paper: Multivariate hidden Markov model for cryptocurrency
   link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2020/Quantitative_Modelling_3.pdf
@@ -161,7 +161,7 @@
   presenter: Fulvia Pennoni
   stream: Quantitative Modelling
   economic-note: 
-  slides: 
+  slides: "crypto_2020pennoni_pres_3"
 
 - paper: Coexistence of Physical and Crypto Assets in a Stochastic Endogenous Growth Model
   link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2020/Quantitative_Modelling_4.pdf
@@ -176,7 +176,7 @@
   presenter:
   stream: Quantitative Modelling
   economic-note: true
-  slides: 
+  slides: "derviz-cal2020pres_4"
 
 - paper: "Monetary flows and feedback trading in cryptocurrency markets: Effects of stablecoin transfers on Bitcoin returns and trading volume"
   link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2020/Investments_1.pdf
