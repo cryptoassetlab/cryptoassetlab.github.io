@@ -191,7 +191,7 @@
   presenter: Lennart Ante
   stream: Investments
   economic-note: true
-  slide: "CAL2020 - Presentation"
+  slides: "CAL2020 - Presentation"
   
 - paper: On the performance of cryptocurrency funds
   link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2020/Investments_2.pdf
@@ -206,7 +206,7 @@
   presenter: Daniele Bianchi
   stream: Investments
   economic-note: false
-  slide: "PresentationCAL_2020"
+  slides: "PresentationCAL_2020"
    
 - paper: Herding behaviour in cryptocurrency markets
   link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2020/Investments_3.pdf
@@ -221,7 +221,7 @@
   presenter: 
   stream: Investments
   economic-note: 
-  slide: "Kyriazis_2nd Crypto Asset Lab"
+  slides: "Kyriazis_2nd Crypto Asset Lab"
 
 - paper: Does mining fuel bubbles? An experimental study on cryptocurrency markets
   link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2020/Investments_4.pdf
@@ -236,4 +236,4 @@
   presenter: Marco Lambrecht
   stream: Investments
   economic-note: false
-  slide: "PresentationCAL2020"
+  slides: "PresentationCAL2020"
