@@ -2,7 +2,7 @@
 title: "CAL2020 Conference"
 excerpt: The 2nd Crypto Asset Lab International Conference
 layout: conference
-permalink: /cal2020/
+permalink: /calconf/
 ---
 
 ![CAL2020](/img/cal2020/CAL2020_call_for_paper_JRCV2.jpg){:class="img-responsive"}
@@ -44,11 +44,11 @@ Relevant dates:
 
 ### Program
 
-The conference program is available at the [dedicated page]({{ site.baseurl }}/cal2020-program/)
+The CAL 2020 conference program is available at the [dedicated page]({{ site.baseurl }}/cal2020/)
 
 ### Venue and Attendance
 
-The Conference will be held online in web streaming.
+The CAL 2020 conference will be held online in web streaming.
 
 Attending the conference is *free*.
 Registration and ticketing on [eventbrite's conference page](https://www.eventbrite.com/e/the-2nd-crypto-asset-lab-conference-registration-114668123444)
@@ -144,8 +144,8 @@ In case of doubt contact the program chair for any clarifications at
 
 ### Contact
 
-* [cryptoassetlab.diseade.unimib.it/cal2020]({{ site.baseurl }}/cal2020)
-* [cryptoassetlab+conf2020@unimib.it](mailto:cryptoassetlab+conf2020@unimib.it)
+* [cryptoassetlab.diseade.unimib.it/calconf]({{ site.baseurl }}/calconf)
+* [cryptoassetlab+conf2020@unimib.it](mailto:cryptoassetlab+conf@unimib.it)
 
 <!--
 ### Conference Sponsors
