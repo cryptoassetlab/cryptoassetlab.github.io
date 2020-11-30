@@ -33,7 +33,7 @@ permalink: /calconf/
 
 ### Summer, 2021
 
-#### Investment, Economics, and Regulation for Bitcoin and Crypto Assets
+#### Investments, Economics, and Regulation for Bitcoin and Crypto Assets
 
 <!--
 Relevant dates:
