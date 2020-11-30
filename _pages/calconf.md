@@ -29,11 +29,12 @@ permalink: /calconf/
 
 ## __The 3rd Crypto Asset Lab Conference__
 
+#### Investments, Economics, and Regulation for Bitcoin and Crypto Assets
+
 #### A joint event with [DG Joint Research Centre, European Commission](https://ec.europa.eu/knowledge4policy/organisation/jrc-joint-research-centre_en)
 
 ### Summer, 2021
 
-#### Investments, Economics, and Regulation for Bitcoin and Crypto Assets
 
 <!--
 Relevant dates:
