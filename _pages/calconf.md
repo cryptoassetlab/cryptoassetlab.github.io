@@ -16,6 +16,7 @@ permalink: /calconf/
 <a href="https://www.facebook.com/events/227957534980496">
   <img src="/img/cal2020/facebook.png" width="30" height="30%">
 </a>
+<!--
 <a href="https://inomics.com/conference/2nd-crypto-asset-lab-conference-1478634">
   <img src="/img/cal2020/inomics.jpg" width="100" height="100%">
 </a>
@@ -24,15 +25,17 @@ permalink: /calconf/
   width="30" height="30%">
 </a>
 <a href="https://www.eventbrite.com/e/the-2nd-crypto-asset-lab-conference-registration-114668123444" class="btn btn-primary btn-xl" text-align="right">Free Registration</a>
-<!--a href="{{ site.baseurl }}/cal2020-program/" class="btn btn-primary btn-xl">Conference Program</a-->
+-->
 
-## __The 2nd Crypto Asset Lab Conference__
+## __The 3rd Crypto Asset Lab Conference__
 
 #### A joint event with [DG Joint Research Centre, European Commission](https://ec.europa.eu/knowledge4policy/organisation/jrc-joint-research-centre_en)
 
-### October 27, 2020
-<!--### Investment, Economics, and Regulation for Bitcoin and Crypto Assets
+### Summer, 2021
 
+#### Investment, Economics, and Regulation for Bitcoin and Crypto Assets
+
+<!--
 Relevant dates:
 
 * ~~Abstract submission: August 15, 2020~~
@@ -44,15 +47,16 @@ Relevant dates:
 
 ### Program
 
-The CAL 2020 conference program is available at the [dedicated page]({{ site.baseurl }}/cal2020/)
+The CAL 2021 conference program will be available at the [dedicated page]({{ site.baseurl }}/cal2021/)
 
 ### Venue and Attendance
 
-The CAL 2020 conference will be held online in web streaming.
+The CAL 2021 conference will be held online in web streaming.
 
 Attending the conference is *free*.
+<!--
 Registration and ticketing on [eventbrite's conference page](https://www.eventbrite.com/e/the-2nd-crypto-asset-lab-conference-registration-114668123444)
-
+-->
 
 ### Theme and Topics
 
