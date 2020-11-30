@@ -28,10 +28,10 @@ permalink: /calconf/
 
 ## __The 2nd Crypto Asset Lab Conference__
 
+#### A joint event with [DG Joint Research Centre, European Commission](https://ec.europa.eu/knowledge4policy/organisation/jrc-joint-research-centre_en)
+
 ### October 27, 2020
 <!--### Investment, Economics, and Regulation for Bitcoin and Crypto Assets
-
-#### CAL2020 is a joint event with [DG Joint Research Centre, European Commission](https://ec.europa.eu/knowledge4policy/organisation/jrc-joint-research-centre_en)
 
 Relevant dates:
 
@@ -142,10 +142,15 @@ In case of doubt contact the program chair for any clarifications at
   * Paolo Gianturco, Deloitte Consulting
   * Elaine Ou, Global Financial Access
 
+### Previous editions
+
+* [CAL2020]({{ site.baseurl }}/cal2020/)
+* [CAL2019]({{ site.baseurl }}/2019/06/12/conference.html)
+
 ### Contact
 
 * [cryptoassetlab.diseade.unimib.it/calconf]({{ site.baseurl }}/calconf)
-* [cryptoassetlab+conf2020@unimib.it](mailto:cryptoassetlab+conf@unimib.it)
+* [cryptoassetlab+conf@unimib.it](mailto:cryptoassetlab+conf@unimib.it)
 
 <!--
 ### Conference Sponsors
