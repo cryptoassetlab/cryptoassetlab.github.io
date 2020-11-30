@@ -142,12 +142,12 @@ In case of doubt contact the program chair for any clarifications at
   * Paolo Gianturco, Deloitte Consulting
   * Elaine Ou, Global Financial Access
 
-### Previous editions
+### Previous Editions
 
 * [CAL2020]({{ site.baseurl }}/cal2020/)
 * [CAL2019]({{ site.baseurl }}/2019/06/12/conference.html)
 
-### Contact
+### Enquires
 
 * [cryptoassetlab.diseade.unimib.it/calconf]({{ site.baseurl }}/calconf)
 * [cryptoassetlab+conf@unimib.it](mailto:cryptoassetlab+conf@unimib.it)
