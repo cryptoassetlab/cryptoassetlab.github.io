@@ -2,7 +2,7 @@
 title: "CAL2020 Conference"
 excerpt: The 2nd Crypto Asset Lab International Conference
 layout: conference
-permalink: /cal2020/
+permalink: /calconf/
 ---
 
 ![CAL2020](/img/cal2020/CAL2020_call_for_paper_JRCV2.jpg){:class="img-responsive"}
@@ -16,6 +16,7 @@ permalink: /cal2020/
 <a href="https://www.facebook.com/events/227957534980496">
   <img src="/img/cal2020/facebook.png" width="30" height="30%">
 </a>
+<!--
 <a href="https://inomics.com/conference/2nd-crypto-asset-lab-conference-1478634">
   <img src="/img/cal2020/inomics.jpg" width="100" height="100%">
 </a>
@@ -24,15 +25,18 @@ permalink: /cal2020/
   width="30" height="30%">
 </a>
 <a href="https://www.eventbrite.com/e/the-2nd-crypto-asset-lab-conference-registration-114668123444" class="btn btn-primary btn-xl" text-align="right">Free Registration</a>
-<!--a href="{{ site.baseurl }}/cal2020-program/" class="btn btn-primary btn-xl">Conference Program</a-->
+-->
 
-## __The 2nd Crypto Asset Lab Conference__
+## __The 3rd Crypto Asset Lab Conference__
 
-### October 27, 2020
-<!--### Investment, Economics, and Regulation for Bitcoin and Crypto Assets
+#### Investments, Economics, and Regulation for Bitcoin and Crypto Assets
 
-#### CAL2020 is a joint event with [DG Joint Research Centre, European Commission](https://ec.europa.eu/knowledge4policy/organisation/jrc-joint-research-centre_en)
+#### A joint event with [DG Joint Research Centre, European Commission](https://ec.europa.eu/knowledge4policy/organisation/jrc-joint-research-centre_en)
 
+### Summer, 2021
+
+
+<!--
 Relevant dates:
 
 * ~~Abstract submission: August 15, 2020~~
@@ -44,15 +48,16 @@ Relevant dates:
 
 ### Program
 
-The conference program is available at the [dedicated page]({{ site.baseurl }}/cal2020-program/)
+The CAL 2021 conference program will be available at the [dedicated page]({{ site.baseurl }}/cal2021/)
 
 ### Venue and Attendance
 
-The Conference will be held online in web streaming.
+The CAL 2021 conference will be held online in web streaming.
 
 Attending the conference is *free*.
+<!--
 Registration and ticketing on [eventbrite's conference page](https://www.eventbrite.com/e/the-2nd-crypto-asset-lab-conference-registration-114668123444)
-
+-->
 
 ### Theme and Topics
 
@@ -142,10 +147,15 @@ In case of doubt contact the program chair for any clarifications at
   * Paolo Gianturco, Deloitte Consulting
   * Elaine Ou, Global Financial Access
 
-### Contact
+### Previous Editions
 
-* [cryptoassetlab.diseade.unimib.it/cal2020]({{ site.baseurl }}/cal2020)
-* [cryptoassetlab+conf2020@unimib.it](mailto:cryptoassetlab+conf2020@unimib.it)
+* [CAL2020]({{ site.baseurl }}/cal2020/)
+* [CAL2019]({{ site.baseurl }}/2019/06/12/conference.html)
+
+### Enquires
+
+* [cryptoassetlab.diseade.unimib.it/calconf]({{ site.baseurl }}/calconf)
+* [cryptoassetlab+conf@unimib.it](mailto:cryptoassetlab+conf@unimib.it)
 
 <!--
 ### Conference Sponsors
