@@ -56,8 +56,8 @@
   presenter: Alexander Valentin
   stream: Crypto-Economics
   economic-note: false
-  slides: 
-
+  slides: "Crypto_CIP_Deviations_CAL2020_Present"
+  
 - paper: Why fixed costs matter for Proof-of-Work based cryptocurrencies
   link: https://www.bankofcanada.ca/2020/07/staff-working-paper-2020-27/
   author1: Maarten van Oordt
@@ -71,7 +71,7 @@
   presenter: Maarten van Oordt
   stream: Crypto-Economics
   economic-note: false
-  slides: 
+  slides: "Cal2020 slides"
 
 - paper: The classification of tokens and its regulatory implications
   link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2020/Legal_1.pdf
@@ -161,7 +161,7 @@
   presenter: Fulvia Pennoni
   stream: Quantitative Modelling
   economic-note: 
-  slides: "crypto_2020pennoni_pres_3"
+  slides: "Crypto_2020FP2"
 
 - paper: Coexistence of Physical and Crypto Assets in a Stochastic Endogenous Growth Model
   link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2020/Quantitative_Modelling_4.pdf
