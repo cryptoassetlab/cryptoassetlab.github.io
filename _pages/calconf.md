@@ -5,7 +5,7 @@ layout: conference
 permalink: /calconf/
 ---
 
-![CAL2020](/img/cal2020/CAL2020_call_for_paper_JRCV2.jpg){:class="img-responsive"}
+[![CAL2020](/img/cal2020/CAL2020_call_for_paper_JRCV2.jpg){:class="img-responsive"}]({{ site.baseurl }}/cal2020/)
 
 <a href="https://twitter.com/CryptoAssetLab/status/1288498668891525125">
   <img src="/img/cal2020/twitter.png" width="30" height="30%">
@@ -27,24 +27,24 @@ permalink: /calconf/
 <a href="https://www.eventbrite.com/e/the-2nd-crypto-asset-lab-conference-registration-114668123444" class="btn btn-primary btn-xl" text-align="right">Free Registration</a>
 -->
 
-## __The 3rd Crypto Asset Lab Conference__
+## __The Crypto Asset Lab Conference__
 
-#### Investments, Economics, and Regulation for Bitcoin and Crypto Assets
+### Investments, Economics, and Regulation for Bitcoin and Crypto Assets
 
-#### A joint event with [DG Joint Research Centre, European Commission](https://ec.europa.eu/knowledge4policy/organisation/jrc-joint-research-centre_en)
+### A joint event with [DG Joint Research Centre, European Commission](https://ec.europa.eu/knowledge4policy/organisation/jrc-joint-research-centre_en)
 
-### Summer, 2021
+#### Previous Edition: 27 October, 2020
 
+See the CAL 2020 conference [page]({{ site.baseurl }}/cal2020/)
 
-<!--
+### Next Edition: Summer, 2021
+
 Relevant dates:
 
-* ~~Abstract submission: August 15, 2020~~
-* ~~Abstract acceptance: August 27, 2020~~
-* ~~Paper submission: September 27, 2020~~
-* Conference: October 27, 2020
--->
-
+* Abstract submission: winter, 2021
+* Abstract acceptance: early spring, 2021
+* Paper submission: late spring, 2020
+* Conference: summer, 2021
 
 ### Program
 
