@@ -40,7 +40,7 @@ Relevant dates:
 * Abstract submission: June 30, 2021
 * Abstract acceptance: July 30, 2021
 * Paper submission: September 3, 2021
-* Paper acceptance: October 1 spring, 2021
+* Paper acceptance: October 1, 2021
 
 ### Program
 
@@ -143,15 +143,15 @@ In case of doubt contact the program chair for any clarifications at
 * [cryptoassetlab.diseade.unimib.it/calconf]({{ site.baseurl }}/calconf)
 * [cryptoassetlab+conf@unimib.it](mailto:cryptoassetlab+conf@unimib.it)
 
-<!--
 ### Conference Sponsors
 
+<!--
 **Gold sponsor** [<img src="/img/cal2020/CheckSig-logo-transparent.png" height="75">](http://checksig.io)
 
 **Silver sponsor** [<img src="/img/cal2020/trt-logo.png" height="50">](http://www.therocktrading.com/en/)
 
 **Bronze sponsor** [<img src="/img/cal2020/deloitte-logo.png" height="25">](http://www2.deloitte.com/it)
+-->
 
 To sponsor the conference please contact the general chair at
-[cryptoassetlab+conf2020-chairs@unimib.it](mailto:cryptoassetlab+conf2020-chairs@unimib.it)
--->
+[cryptoassetlab+conf2021-chairs@unimib.it](mailto:cryptoassetlab+conf2021-chairs@unimib.it)
