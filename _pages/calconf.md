@@ -145,9 +145,9 @@ In case of doubt contact the program chair for any clarifications at
 
 ### Conference Sponsors
 
-<!--
 **Gold sponsor** [<img src="/img/cal2020/CheckSig-logo-transparent.png" height="75">](http://checksig.io)
 
+<!--
 **Silver sponsor** [<img src="/img/cal2020/trt-logo.png" height="50">](http://www.therocktrading.com/en/)
 
 **Bronze sponsor** [<img src="/img/cal2020/deloitte-logo.png" height="25">](http://www2.deloitte.com/it)
