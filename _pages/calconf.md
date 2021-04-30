@@ -1,6 +1,6 @@
 ---
-title: "CAL2020 Conference"
-excerpt: The 2nd Crypto Asset Lab International Conference
+title: "CAL Conference"
+excerpt: The Crypto Asset Lab International Conference
 layout: conference
 permalink: /calconf/
 ---
@@ -33,18 +33,14 @@ permalink: /calconf/
 
 ### A joint event with [DG Joint Research Centre, European Commission](https://ec.europa.eu/knowledge4policy/organisation/jrc-joint-research-centre_en)
 
-#### Previous Edition: 27 October, 2020
-
-See the CAL 2020 conference [page]({{ site.baseurl }}/cal2020/)
-
-### Next Edition: Summer, 2021
+### October 28-29, 2021
 
 Relevant dates:
 
-* Abstract submission: winter, 2021
-* Abstract acceptance: early spring, 2021
-* Paper submission: late spring, 2020
-* Conference: summer, 2021
+* Abstract submission: June 30, 2021
+* Abstract acceptance: July 30, 2021
+* Paper submission: September 3, 2021
+* Paper acceptance: October 1 spring, 2021
 
 ### Program
 
@@ -61,7 +57,8 @@ Registration and ticketing on [eventbrite's conference page](https://www.eventbr
 
 ### Theme and Topics
 
-The conference focuses on all aspects of bitcoin and crypto assets, with a special interest in investment, banking, finance, monetary economics, and regulation.
+The conference focuses on all aspects of bitcoin and crypto assets,
+with a special interest in investment, banking, finance, financial services, monetary economics, and regulation.
 
 <!--Empirical works, fundamental theory approaches, and real-world case studies are all encouraged, with interdisciplinary efforts being particularly appreciated.-->
 
@@ -71,33 +68,23 @@ Topics include, but are not limited to:
 * Cryptocurrency adoption and transition dynamics
 * Relation of cryptocurrencies to other payment systems
 * Digital cash and payment systems
+* Stablecoins
+* Central Bank Digital Currencies
 * The Bitcoin protocol and extensions
 * Proof-of-work, -stake, -burn
 * Applications using or built on top of Bitcoin
 * Distributed consensus protocols
 * Permissioned and permissionless distributed ledgers
 * Blockchain and cryptography applications
-* Scriptural money
 * Economics and/or game theoretic analysis of cryptocurrency protocols
 * Economic and monetary aspects of cryptocurrencies
-* Stablecoins
 * Legal and regulatory issues
 * Legal, ethical, and societal aspects of (decentralized) cryptocurrencies
 * Security and utility tokens
 * Smart contracts and financial instruments
 * Forensics and monitoring
+* Financial services for crypto-assets
 
-### Publication Opportunity
-
-Selected high quality papers presented at the conference are invited for submission to the special issue of the [Economic Notes](https://onlinelibrary.wiley.com/page/journal/14680300/homepage/productinformation.html) (EN) journal on “[*Special issue on Crypto-assets in finance, law and regulation where do we stand?*]({{ site.baseurl }}/docs/CAL2020-ER-EC-JRC.pdf)” and related topics, scheduled for publication in early 2022.
-
-**Call for paper is now** [**open**]({{ site.baseurl }}/docs/CAL2020-ER-EC-JRC.pdf).
-
-Contributors wishing to participate in this thematic issue should express their interest and submit their paper by February 2021, using the [*Journal website*](https://mc.manuscriptcentral.com/ecno) and choosing “*Special issue paper*” option.
-
-Submitted papers are subject to the standard EN review process: to verify consistency with the scope of EN, that is to provide a forum for rigorous theoretical and empirical macro and micro economic and financial analysis of the development, evolutions, and perspectives of crypto assets.
-
-<!--
 ### Abstract Submission
 
 Abstracts must be submitted using the dedicated
@@ -117,8 +104,7 @@ research fraud and will treat it as such. Note that it is acceptable
 for papers to appear in non-peer-reviewed formats
 (for example, as technical reports or in online archives such as ePrint).
 In case of doubt contact the program chair for any clarifications at
-[cryptoassetlab+conf2020-chairs@unimib.it](mailto:cryptoassetlab+conf2020-chairs@unimib.it)
--->
+[cryptoassetlab+conf2021-chairs@unimib.it](mailto:cryptoassetlab+conf2021-chairs@unimib.it)
 
 ### Organizing Committee
 
