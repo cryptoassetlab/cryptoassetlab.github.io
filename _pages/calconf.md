@@ -152,11 +152,9 @@ In case of doubt contact the program chair for any clarifications at
 
 **Gold sponsor** [<img src="/img/cal2020/CheckSig-logo-transparent.png" height="75">](http://checksig.io)
 
-<!--
 **Silver sponsor** [<img src="/img/cal2020/trt-logo.png" height="50">](http://www.therocktrading.com/en/)
 
 **Bronze sponsor** [<img src="/img/cal2020/deloitte-logo.png" height="25">](http://www2.deloitte.com/it)
--->
 
 To sponsor the conference please contact the general chair at
 [cryptoassetlab+conf2021-chairs@unimib.it](mailto:cryptoassetlab+conf2021-chairs@unimib.it)
