@@ -80,7 +80,7 @@ Topics include, but are not limited to:
 * The Bitcoin protocol and extensions
 * Proof-of-work, -stake, -burn
 * Second layer application
-° Decentralized Finance (DeFi)
+* Decentralized Finance (DeFi)
 * Distributed consensus protocols
 * Permissioned and permissionless distributed ledgers
 * Blockchain and cryptography applications
@@ -103,22 +103,27 @@ Topics include, but are not limited to:
   * Paolo Mazzocchi, Digital Gold Institute
 * __Program Committee - Academic Perspective__
   * Lucia Alessi, DG Joint Research Centre, European Commission
-  * Filippo Annunziata, Bocconi University
-  * Fabio Bellini, University of Milano-Bicocca
-  * Luca Fantacci, Bocconi University
   * Gianna Figà-Talamanca, University of Perugia
   * Gianfranco Forte, University of Milano-Bicocca
-  * Paolo Giudici, University of Pavia
-  * Daniele Marazzina, Politecnico di Milano
   * Francesca Mattassoglio, University of Milano-Bicocca
-  * Andrea Perrone, Università Cattolica del Sacro Cuore
   * Marco Petracco, DG Joint Research Centre, European Commission
-  * Antonella Sciarrone Alibrandi, Università Cattolica del Sacro Cuore
 * __Program Committee - Business and Technical Perspective__
-  * Riccardo Casatta, Blockstream
-  * Gregorio De Felice, Intesa Sanpaolo
+  * Diego Giubertoni, CheckSig
   * Paolo Gianturco, Deloitte Consulting
-  * Elaine Ou, Global Financial Access
+
+<!--
+  * Filippo Annunziata, Bocconi University (TBC)
+  * Fabio Bellini, University of Milano-Bicocca (TBC)
+  * Luca Fantacci, Bocconi University (TBC)
+  * Paolo Giudici, University of Pavia (TBC)
+  * Daniele Marazzina, Politecnico di Milano (TBC)
+  * Andrea Perrone, Università Cattolica del Sacro Cuore (TBC)
+  * Antonella Sciarrone Alibrandi, Università Cattolica del Sacro Cuore
+
+  * Riccardo Casatta, Blockstream (TBC)
+  * Gregorio De Felice, Intesa Sanpaolo (TBC)
+  * Elaine Ou, Global Financial Access (TBC)
+-->
 
 ### Program
 
