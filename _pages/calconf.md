@@ -44,18 +44,19 @@ The CAL 2021 conference program is available at the [dedicated page]({{ site.bas
 
 ### Venue and Attendance
 
-The CAL 2021 conference will be held online (web streaming
+The CAL 2021 conference will be held online (web streaming)
 and in person at the University of Milano-Bicocca.
 
-Attending the conference is *free*.
+Attending the conference is free, but registration is required.
+More details will be available in the next months.
 <!--
 Registration and ticketing on [eventbrite's conference page](https://www.eventbrite.com/e/the-2nd-crypto-asset-lab-conference-registration-114668123444)
 -->
 
 ### Theme and Topics
 
-The conference focuses on all aspects of bitcoin and crypto assets,
-with a special interest in investment, banking, finance, financial services, monetary economics, and regulation.
+The conference focuses on all aspects of bitcoin and crypto-assets,
+with a special interest in investment, banking, finance, financial services, monetary theory, and regulation.
 
 <!--Empirical works, fundamental theory approaches, and real-world case studies are all encouraged, with interdisciplinary efforts being particularly appreciated.-->
 
@@ -69,7 +70,8 @@ Topics include, but are not limited to:
 * Central Bank Digital Currencies
 * The Bitcoin protocol and extensions
 * Proof-of-work, -stake, -burn
-* Applications using or built on top of Bitcoin
+* Second layer application
+° Decentralized Finance (DeFi)
 * Distributed consensus protocols
 * Permissioned and permissionless distributed ledgers
 * Blockchain and cryptography applications
@@ -103,8 +105,7 @@ of the research, and the academic quality of the research design.
 Authors may submit only work that does not substantially overlap
 with work that is currently submitted or has been accepted for
 publication to any other peer-reviewed conference/workshop with
-proceedings or a journal. We consider double submission serious
-research fraud and will treat it as such. Note that it is acceptable
+proceedings or a journal. Note that it is acceptable
 for papers to appear in non-peer-reviewed formats
 (for example, as technical reports or in online archives such as ePrint).
 In case of doubt contact the program chair for any clarifications at
