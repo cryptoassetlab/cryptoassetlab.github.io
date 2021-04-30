@@ -5,6 +5,7 @@ layout: conference
 permalink: /calconf/
 ---
 
+<!--
 [![CAL2020](/img/cal2020/CAL2020_call_for_paper_JRCV2.jpg){:class="img-responsive"}]({{ site.baseurl }}/cal2020/)
 
 <a href="https://twitter.com/CryptoAssetLab/status/1288498668891525125">
@@ -16,7 +17,6 @@ permalink: /calconf/
 <a href="https://www.facebook.com/events/227957534980496">
   <img src="/img/cal2020/facebook.png" width="30" height="30%">
 </a>
-<!--
 <a href="https://inomics.com/conference/2nd-crypto-asset-lab-conference-1478634">
   <img src="/img/cal2020/inomics.jpg" width="100" height="100%">
 </a>
@@ -33,7 +33,7 @@ permalink: /calconf/
 
 ### A joint event with [DG Joint Research Centre, European Commission](https://ec.europa.eu/knowledge4policy/organisation/jrc-joint-research-centre_en)
 
-### October 28-29, 2021
+### Milan and online, October 28-29, 2021
 
 Relevant dates:
 
@@ -48,7 +48,8 @@ The CAL 2021 conference program will be available at the [dedicated page]({{ sit
 
 ### Venue and Attendance
 
-The CAL 2021 conference will be held online in web streaming.
+The CAL 2021 conference will be held online (web streaming
+and in person at the University of Milano-Bicocca.
 
 Attending the conference is *free*.
 <!--
