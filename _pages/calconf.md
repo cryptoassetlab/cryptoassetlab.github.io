@@ -33,18 +33,15 @@ permalink: /calconf/
 
 ### A joint event with [DG Joint Research Centre, European Commission](https://ec.europa.eu/knowledge4policy/organisation/jrc-joint-research-centre_en)
 
-#### Previous Edition: 27 October, 2020
-
-See the CAL 2020 conference [page]({{ site.baseurl }}/cal2020/)
-
-### Next Edition: Summer, 2021
+### CAL2021: October 27-28, 2021
 
 Relevant dates:
 
-* Abstract submission: winter, 2021
-* Abstract acceptance: early spring, 2021
-* Paper submission: late spring, 2020
-* Conference: summer, 2021
+* Abstract submission: June 30, 2021
+* Abstract acceptance: July 30, 2021
+* Paper submission: September 3, 2021
+* Paper acceptance: October 1, 2021
+* Conference: October 27-28, 2021
 
 ### Program
 
