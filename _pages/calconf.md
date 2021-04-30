@@ -1,7 +1,7 @@
 ---
 title: "CAL Conference"
 excerpt: The Crypto Asset Lab International Conference
-layout: conference_new
+layout: conference
 permalink: /calconf/
 ---
 
