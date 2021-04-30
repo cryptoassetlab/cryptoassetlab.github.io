@@ -35,13 +35,6 @@ permalink: /calconf/
 
 ### Milan and online, October 28-29, 2021
 
-Relevant dates:
-
-* Abstract submission: June 30, 2021
-* Abstract acceptance: July 30, 2021
-* Paper submission: September 3, 2021
-* Paper acceptance: October 1, 2021
-
 ### Program
 
 The CAL 2021 conference program will be available late September or early October.
@@ -88,6 +81,13 @@ Topics include, but are not limited to:
 * Smart contracts and financial instruments
 * Forensics and monitoring
 * Financial services for crypto-assets
+
+### Relevant dates
+
+* Abstract submission: June 30, 2021
+* Abstract acceptance: July 30, 2021
+* Paper submission: September 3, 2021
+* Paper acceptance: October 1, 2021
 
 ### Abstract Submission
 
