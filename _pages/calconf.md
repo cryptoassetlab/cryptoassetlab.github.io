@@ -29,29 +29,38 @@ permalink: /calconf/
 
 ## __The Crypto Asset Lab Conference__
 
-### Investments, Economics, and Regulation for Bitcoin and Crypto Assets
+### Investments, Economics, and Regulation for Bitcoin and Crypto-Assets
 
-### A joint event with [DG Joint Research Centre, European Commission](https://ec.europa.eu/knowledge4policy/organisation/jrc-joint-research-centre_en)
+### A joint event with the [DG Joint Research Centre, European Commission](https://ec.europa.eu/knowledge4policy/organisation/jrc-joint-research-centre_en)
 
 ### Milan and online, October 28-29, 2021
 
-### Program
+### Relevant dates
 
-The CAL 2021 conference program will be available late September or early October.
-<!--
-The CAL 2021 conference program is available at the [dedicated page]({{ site.baseurl }}/cal2021/)
--->
+* Abstract submission: June 30, 2021
+* Abstract acceptance: July 30, 2021
+* Paper submission: September 3, 2021
+* Paper acceptance: October 1, 2021
 
-### Venue and Attendance
+### Abstract Submission
 
-The CAL 2021 conference will be held online (web streaming)
-and in person at the University of Milano-Bicocca.
+Abstracts must be submitted using the dedicated
+[web form](https://forms.gle/r8GFncNuSgjqWbEn7).
 
-Attending the conference is free, but registration is required.
-More details will be available in the next months.
-<!--
-Registration and ticketing on [eventbrite's conference page](https://www.eventbrite.com/e/the-2nd-crypto-asset-lab-conference-registration-114668123444)
--->
+Abstract submissions must include titles, authors, abstracts,
+topics, etc.
+(everything except the final PDF of the paper).
+The program selection criteria include
+the nature of the research topic, the economic implications
+of the research, and the academic quality of the research design.
+Authors may submit only work that does not substantially overlap
+with work that is currently submitted or has been accepted for
+publication to any other peer-reviewed conference/workshop with
+proceedings or a journal. Note that it is acceptable
+for papers to appear in non-peer-reviewed formats
+(for example, as technical reports or in online archives such as ePrint).
+In case of doubt contact the program chair for any clarifications at
+[cryptoassetlab+conf2021-chairs@unimib.it](mailto:cryptoassetlab+conf2021-chairs@unimib.it)
 
 ### Theme and Topics
 
@@ -84,33 +93,6 @@ Topics include, but are not limited to:
 * Forensics and monitoring
 * Financial services for crypto-assets
 
-### Relevant dates
-
-* Abstract submission: June 30, 2021
-* Abstract acceptance: July 30, 2021
-* Paper submission: September 3, 2021
-* Paper acceptance: October 1, 2021
-
-### Abstract Submission
-
-Abstracts must be submitted using the dedicated
-[web form](https://forms.gle/r8GFncNuSgjqWbEn7).
-
-Abstract submissions must include titles, authors, abstracts,
-topics, etc.
-(everything except the final PDF of the paper).
-The program selection criteria include
-the nature of the research topic, the economic implications
-of the research, and the academic quality of the research design.
-Authors may submit only work that does not substantially overlap
-with work that is currently submitted or has been accepted for
-publication to any other peer-reviewed conference/workshop with
-proceedings or a journal. Note that it is acceptable
-for papers to appear in non-peer-reviewed formats
-(for example, as technical reports or in online archives such as ePrint).
-In case of doubt contact the program chair for any clarifications at
-[cryptoassetlab+conf2021-chairs@unimib.it](mailto:cryptoassetlab+conf2021-chairs@unimib.it)
-
 ### Organizing Committee
 
 * __Program Chairs__
@@ -137,6 +119,24 @@ In case of doubt contact the program chair for any clarifications at
   * Gregorio De Felice, Intesa Sanpaolo
   * Paolo Gianturco, Deloitte Consulting
   * Elaine Ou, Global Financial Access
+
+### Program
+
+The CAL 2021 conference program will be available late September or early October.
+<!--
+The CAL 2021 conference program is available at the [dedicated page]({{ site.baseurl }}/cal2021/)
+-->
+
+### Venue and Attendance
+
+The CAL 2021 conference will be held online (web streaming)
+and in person at the University of Milano-Bicocca.
+
+Attending the conference is free, but registration is required.
+More details will be available in the next months.
+<!--
+Registration and ticketing on [eventbrite's conference page](https://www.eventbrite.com/e/the-2nd-crypto-asset-lab-conference-registration-114668123444)
+-->
 
 ### Previous Editions
 
