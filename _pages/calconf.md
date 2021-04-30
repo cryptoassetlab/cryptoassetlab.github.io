@@ -44,7 +44,10 @@ Relevant dates:
 
 ### Program
 
-The CAL 2021 conference program will be available at the [dedicated page]({{ site.baseurl }}/cal2021/)
+The CAL 2021 conference program will be available late September or early October.
+<!--
+The CAL 2021 conference program is available at the [dedicated page]({{ site.baseurl }}/cal2021/)
+-->
 
 ### Venue and Attendance
 
