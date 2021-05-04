@@ -29,7 +29,7 @@ and practitioners to join us and help with
 research, development, training, teaching, and
 other experimental activities.
 
-We promote the [CAL yearly conference]({{ site.baseurl }}/cal2020)
+We promote the [CAL yearly conference]({{ site.baseurl }}/calconf)
 
 ## About
 
