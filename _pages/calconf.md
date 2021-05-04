@@ -107,8 +107,8 @@ Topics include, but are not limited to:
   * Gianna Figà-Talamanca, University of Perugia
   * Gianfranco Forte, University of Milano-Bicocca
   * Paolo Giudici, University of Pavia
-  * Francesca Mattassoglio, University of Milano-Bicocca
   * Daniele Marazzina, Politecnico di Milano
+  * Francesca Mattassoglio, University of Milano-Bicocca
   * Marco Petracco, DG Joint Research Centre, European Commission
 * __Program Committee - Business and Technical Perspective__
   * Diego Giubertoni, CheckSig
