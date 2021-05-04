@@ -106,6 +106,7 @@ Topics include, but are not limited to:
   * Lucia Alessi, DG Joint Research Centre, European Commission
   * Gianna Figà-Talamanca, University of Perugia
   * Gianfranco Forte, University of Milano-Bicocca
+  * Paolo Giudici, University of Pavia
   * Francesca Mattassoglio, University of Milano-Bicocca
   * Daniele Marazzina, Politecnico di Milano
   * Marco Petracco, DG Joint Research Centre, European Commission
@@ -115,15 +116,13 @@ Topics include, but are not limited to:
   * Elaine Ou, Global Financial Access
 
 <!--
-  * Filippo Annunziata, Bocconi University (TBC)
-  * Fabio Bellini, University of Milano-Bicocca (TBC)
-  * Luca Fantacci, Bocconi University (TBC)
-  * Paolo Giudici, University of Pavia (TBC)
-  * Andrea Perrone, Università Cattolica del Sacro Cuore (TBC)
+  * Filippo Annunziata, Bocconi University
+  * Luca Fantacci, Bocconi University
+  * Andrea Perrone, Università Cattolica del Sacro Cuore
   * Antonella Sciarrone Alibrandi, Università Cattolica del Sacro Cuore
 
-  * Riccardo Casatta, Blockstream (TBC)
-  * Gregorio De Felice, Intesa Sanpaolo (TBC)
+  * Riccardo Casatta, Blockstream
+  * Gregorio De Felice, Intesa Sanpaolo
 -->
 
 ### Program
