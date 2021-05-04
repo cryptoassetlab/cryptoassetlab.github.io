@@ -5,9 +5,10 @@ layout: conference
 permalink: /calconf/
 ---
 
-<!--
-[![CAL2020](/img/cal2020/CAL2020_call_for_paper_JRCV2.jpg){:class="img-responsive"}]({{ site.baseurl }}/cal2020/)
 
+![CAL202](/img/cal2021/cal2021.jpg){:class="img-responsive"}
+
+<!--
 <a href="https://twitter.com/CryptoAssetLab/status/1288498668891525125">
   <img src="/img/cal2020/twitter.png" width="30" height="30%">
 </a>
