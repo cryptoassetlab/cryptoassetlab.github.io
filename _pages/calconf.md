@@ -34,7 +34,7 @@ permalink: /calconf/
 
 ### A joint event with the [DG Joint Research Centre, European Commission](https://ec.europa.eu/knowledge4policy/organisation/jrc-joint-research-centre_en)
 
-### Milan and online, October 28-29, 2021
+### Milan (Italy) and web streaming, October 28-29, 2021
 
 ### Relevant dates
 
