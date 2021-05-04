@@ -106,23 +106,23 @@ Topics include, but are not limited to:
   * Gianna Figà-Talamanca, University of Perugia
   * Gianfranco Forte, University of Milano-Bicocca
   * Francesca Mattassoglio, University of Milano-Bicocca
+  * Daniele Marazzina, Politecnico di Milano
   * Marco Petracco, DG Joint Research Centre, European Commission
 * __Program Committee - Business and Technical Perspective__
   * Diego Giubertoni, CheckSig
   * Paolo Gianturco, Deloitte Consulting
+  * Elaine Ou, Global Financial Access
 
 <!--
   * Filippo Annunziata, Bocconi University (TBC)
   * Fabio Bellini, University of Milano-Bicocca (TBC)
   * Luca Fantacci, Bocconi University (TBC)
   * Paolo Giudici, University of Pavia (TBC)
-  * Daniele Marazzina, Politecnico di Milano (TBC)
   * Andrea Perrone, Università Cattolica del Sacro Cuore (TBC)
   * Antonella Sciarrone Alibrandi, Università Cattolica del Sacro Cuore
 
   * Riccardo Casatta, Blockstream (TBC)
   * Gregorio De Felice, Intesa Sanpaolo (TBC)
-  * Elaine Ou, Global Financial Access (TBC)
 -->
 
 ### Program
