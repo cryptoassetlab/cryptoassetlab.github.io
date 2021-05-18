@@ -110,9 +110,10 @@ Topics include, but are not limited to:
   * Daniele Marazzina, Politecnico di Milano
   * Francesca Mattassoglio, University of Milano-Bicocca
   * Marco Petracco, DG Joint Research Centre, European Commission
+  * Angela Walch, St. Mary's University School of Law
 * __Program Committee - Business and Technical Perspective__
-  * Diego Giubertoni, CheckSig
   * Paolo Gianturco, Deloitte Consulting
+  * Diego Giubertoni, CheckSig
   * Elaine Ou, Global Financial Access
 
 <!--
