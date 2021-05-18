@@ -8,22 +8,20 @@ permalink: /calconf/
 
 ![CAL2021](/img/cal2021/cal2021.jpg){:class="img-responsive"}
 
-<!--
-<a href="https://twitter.com/CryptoAssetLab/status/1288498668891525125">
+<a href="https://twitter.com/CryptoAssetLab">
   <img src="/img/cal2020/twitter.png" width="30" height="30%">
 </a>
-<a href="https://www.linkedin.com/events/6694264839734382592">
+<a href="http://www.linkedin.com/company/cryptoassetlab">
   <img src="/img/cal2020/LinkedIn.png" width="30" height="30%">
 </a>
-<a href="https://www.facebook.com/events/227957534980496">
+<a href="http://www.linkedin.com/company/cryptoassetlab">
   <img src="/img/cal2020/facebook.png" width="30" height="30%">
 </a>
-<a href="https://inomics.com/conference/2nd-crypto-asset-lab-conference-1478634">
+<a href="https://inomics.com/conference/the-crypto-asset-lab-conference-1512733">
   <img src="/img/cal2020/inomics.jpg" width="100" height="100%">
 </a>
-<a href="https://www.eventbrite.com/e/the-2nd-crypto-asset-lab-conference-tickets-114668123444">
-  <img src="/img/cal2020/eventbrite.png" 
-  width="30" height="30%">
+<!--<a href="https://www.eventbrite.com/e/the-2nd-crypto-asset-lab-conference-tickets-114668123444">
+  <img src="/img/cal2020/eventbrite.png" width="30" height="30%">
 </a>
 <a href="https://www.eventbrite.com/e/the-2nd-crypto-asset-lab-conference-registration-114668123444" class="btn btn-primary btn-xl" text-align="right">Free Registration</a>
 -->
