@@ -6,7 +6,7 @@ permalink: /calconf/
 ---
 
 
-![CAL202](/img/cal2021/cal2021.jpg){:class="img-responsive"}
+![CAL2021](/img/cal2021/cal2021.jpg){:class="img-responsive"}
 
 <!--
 <a href="https://twitter.com/CryptoAssetLab/status/1288498668891525125">
@@ -34,14 +34,14 @@ permalink: /calconf/
 
 ### A joint event with the [DG Joint Research Centre, European Commission](https://ec.europa.eu/knowledge4policy/organisation/jrc-joint-research-centre_en)
 
-### Milan (Italy) and web streaming, October 28-29, 2021
+### Milan (Italy) and web streaming, November 4-5, 2021
 
 ### Relevant dates
 
 * Abstract submission: June 30, 2021
-* Abstract acceptance: July 30, 2021
-* Paper submission: September 3, 2021
-* Paper acceptance: October 1, 2021
+* Abstract acceptance: July 16, 2021
+* Paper submission: September 17, 2021
+* Paper acceptance: October 8, 2021
 
 ### Abstract Submission
 
@@ -127,7 +127,7 @@ Topics include, but are not limited to:
 
 ### Program
 
-The CAL 2021 conference program will be available late September or early October.
+The CAL 2021 conference program will be available early October.
 <!--
 The CAL 2021 conference program is available at the [dedicated page]({{ site.baseurl }}/cal2021/)
 -->
