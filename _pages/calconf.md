@@ -35,7 +35,7 @@ permalink: /calconf/
 
 ### Relevant dates
 
-*** Abstract submission: June 30, 2021**
+* **Abstract submission: June 30, 2021**
 * Abstract acceptance: July 16, 2021
 * Paper submission: September 17, 2021
 * Paper acceptance: October 8, 2021
