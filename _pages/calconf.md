@@ -11,10 +11,10 @@ permalink: /calconf/
 <a href="https://twitter.com/CryptoAssetLab">
   <img src="/img/cal2020/twitter.png" width="30" height="30%">
 </a>
-<a href="http://www.linkedin.com/company/cryptoassetlab">
+<a href="https://www.linkedin.com/events/the3ndcryptoassetlabconference6802637922232283136/">
   <img src="/img/cal2020/LinkedIn.png" width="30" height="30%">
 </a>
-<a href="http://www.linkedin.com/company/cryptoassetlab">
+<a href="https://www.facebook.com/events/1049598178901312">
   <img src="/img/cal2020/facebook.png" width="30" height="30%">
 </a>
 <a href="https://inomics.com/conference/the-crypto-asset-lab-conference-1512733">
