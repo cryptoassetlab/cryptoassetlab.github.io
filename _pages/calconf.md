@@ -35,7 +35,7 @@ permalink: /calconf/
 
 ### Relevant dates
 
-* Abstract submission: June 30, 2021
+*** Abstract submission: June 30, 2021**
 * Abstract acceptance: July 16, 2021
 * Paper submission: September 17, 2021
 * Paper acceptance: October 8, 2021
@@ -135,11 +135,9 @@ The CAL 2021 conference program is available at the [dedicated page]({{ site.bas
 The CAL 2021 conference will be held online (web streaming)
 and in person at the University of Milano-Bicocca.
 
-Attending the conference is free, but registration is required.
-More details will be available in the next months.
-<!--
-Registration and ticketing on [eventbrite's conference page](https://www.eventbrite.com/e/the-2nd-crypto-asset-lab-conference-registration-114668123444)
--->
+Attending the conference is _free_, but registration is required.
+
+Registration and ticketing on [eventbrite's conference page](https://www.eventbrite.com/e/the-3nd-crypto-asset-lab-conference-registration-155774506743)
 
 ### Previous Editions
 
