@@ -20,11 +20,10 @@ permalink: /calconf/
 <a href="https://inomics.com/conference/the-crypto-asset-lab-conference-1512733">
   <img src="/img/cal2020/inomics.jpg" width="100" height="100%">
 </a>
-<!--<a href="https://www.eventbrite.com/e/the-2nd-crypto-asset-lab-conference-tickets-114668123444">
+<a href="https://www.eventbrite.com/e/the-3nd-crypto-asset-lab-conference-registration-155774506743">
   <img src="/img/cal2020/eventbrite.png" width="30" height="30%">
 </a>
-<a href="https://www.eventbrite.com/e/the-2nd-crypto-asset-lab-conference-registration-114668123444" class="btn btn-primary btn-xl" text-align="right">Free Registration</a>
--->
+<a href="https://www.eventbrite.com/e/the-3nd-crypto-asset-lab-conference-registration-155774506743" class="btn btn-primary btn-xl" text-align="right">Free Registration</a>
 
 ## __The Crypto Asset Lab Conference__
 
