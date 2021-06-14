@@ -35,10 +35,10 @@ permalink: /calconf/
 
 ### Relevant dates
 
-* **Abstract submission: June 30, 2021**
-* Abstract acceptance: July 16, 2021
-* Paper submission: September 17, 2021
-* Paper acceptance: October 8, 2021
+* **Abstract submission: July 16, 2021**
+* Abstract acceptance: July 30, 2021
+* Paper submission: September 30, 2021
+* Paper acceptance: October 22, 2021
 
 ### Abstract Submission
 
@@ -51,14 +51,6 @@ topics, etc.
 The program selection criteria include
 the nature of the research topic, the economic implications
 of the research, and the academic quality of the research design.
-Authors may submit only work that does not substantially overlap
-with work that is currently submitted or has been accepted for
-publication to any other peer-reviewed conference/workshop with
-proceedings or a journal. Note that it is acceptable
-for papers to appear in non-peer-reviewed formats
-(for example, as technical reports or in online archives such as ePrint).
-In case of doubt contact the program chair for any clarifications at
-[cryptoassetlab+conf2021-chairs@unimib.it](mailto:cryptoassetlab+conf2021-chairs@unimib.it)
 
 ### Theme and Topics
 
