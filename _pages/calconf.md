@@ -90,7 +90,6 @@ Topics include, but are not limited to:
   * Paola A. Bongini, University of Milano-Bicocca
 * __General Chair__
   * Lucia Mandelli, Digital Gold Institute
-  * Paolo Mazzocchi, Digital Gold Institute
 * __Program Committee - Academic Perspective__
   * Lucia Alessi, DG Joint Research Centre, European Commission
   * Gianna Figà-Talamanca, University of Perugia
@@ -99,6 +98,7 @@ Topics include, but are not limited to:
   * Daniele Marazzina, Politecnico di Milano
   * Francesca Mattassoglio, University of Milano-Bicocca
   * Marco Petracco, DG Joint Research Centre, European Commission
+  * Gina Pieters, University of Chicago
   * Angela Walch, St. Mary's University School of Law
 * __Program Committee - Business and Technical Perspective__
   * Paolo Gianturco, Deloitte Consulting
