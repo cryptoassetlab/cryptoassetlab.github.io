@@ -99,7 +99,7 @@ Topics include, but are not limited to:
   * Francesca Mattassoglio, University of Milano-Bicocca
   * Marco Petracco, DG Joint Research Centre, European Commission
   * Gina Pieters, University of Chicago
-  * Win Schoutens, University of Leuven
+  * Wim Schoutens, University of Leuven
   * Angela Walch, St. Mary's University School of Law
 * __Program Committee - Business and Technical Perspective__
   * Paolo Gianturco, Deloitte Consulting
