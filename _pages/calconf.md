@@ -90,30 +90,25 @@ Topics include, but are not limited to:
   * Paola A. Bongini, University of Milano-Bicocca
 * __General Chair__
   * Lucia Mandelli, Digital Gold Institute
-* __Program Committee - Academic Perspective__
+* __Program Committee__
   * Lucia Alessi, DG Joint Research Centre, European Commission
   * Gianna Figà-Talamanca, University of Perugia
   * Gianfranco Forte, University of Milano-Bicocca
+  * Paolo Gianturco, Deloitte Consulting
   * Paolo Giudici, University of Pavia
   * Daniele Marazzina, Politecnico di Milano
   * Francesca Mattassoglio, University of Milano-Bicocca
+  * Elaine Ou, Global Financial Access
   * Marco Petracco, DG Joint Research Centre, European Commission
   * Gina Pieters, University of Chicago
   * Wim Schoutens, University of Leuven
+  * Antonella Sciarrone Alibrandi, Università Cattolica del Sacro Cuore
   * Angela Walch, St. Mary's University School of Law
-* __Program Committee - Business and Technical Perspective__
-  * Paolo Gianturco, Deloitte Consulting
-  * Diego Giubertoni, CheckSig
-  * Elaine Ou, Global Financial Access
 
 <!--
+  * marteen
+  * reyes
   * Filippo Annunziata, Bocconi University
-  * Luca Fantacci, Bocconi University
-  * Andrea Perrone, Università Cattolica del Sacro Cuore
-  * Antonella Sciarrone Alibrandi, Università Cattolica del Sacro Cuore
-
-  * Riccardo Casatta, Blockstream
-  * Gregorio De Felice, Intesa Sanpaolo
 -->
 
 ### Program
