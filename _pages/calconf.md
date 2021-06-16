@@ -92,6 +92,7 @@ Topics include, but are not limited to:
   * Lucia Mandelli, Digital Gold Institute
 * __Program Committee__
   * Lucia Alessi, DG Joint Research Centre, European Commission
+  * Filippo Annunziata, Bocconi University
   * Gianna Figà-Talamanca, University of Perugia
   * Gianfranco Forte, University of Milano-Bicocca
   * Paolo Gianturco, Deloitte Consulting
@@ -101,6 +102,7 @@ Topics include, but are not limited to:
   * Elaine Ou, Global Financial Access
   * Marco Petracco, DG Joint Research Centre, European Commission
   * Gina Pieters, University of Chicago
+  * Carla Reyes, Southern Methodist University
   * Wim Schoutens, University of Leuven
   * Antonella Sciarrone Alibrandi, Università Cattolica del Sacro Cuore
   * Angela Walch, St. Mary's University School of Law
@@ -108,7 +110,6 @@ Topics include, but are not limited to:
 <!--
   * marteen
   * reyes
-  * Filippo Annunziata, Bocconi University
 -->
 
 ### Program
