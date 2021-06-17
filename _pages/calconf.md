@@ -95,7 +95,6 @@ Topics include, but are not limited to:
   * Filippo Annunziata, Bocconi University
   * Gianna Figà-Talamanca, University of Perugia
   * Gianfranco Forte, University of Milano-Bicocca
-  * Paolo Gianturco, Deloitte Consulting
   * Paolo Giudici, University of Pavia
   * Daniele Marazzina, Politecnico di Milano
   * Francesca Mattassoglio, University of Milano-Bicocca
