@@ -86,38 +86,41 @@ Topics include, but are not limited to:
 ### Organizing Committee
 
 * __Program Chairs__
-  * Ferdinando M. Ametrano, Digital Gold Institute and University of Milano-Bicocca
+  * Ferdinando M. Ametrano, Digital Gold Institute
   * Paola A. Bongini, University of Milano-Bicocca
 * __General Chair__
   * Lucia Mandelli, Digital Gold Institute
-  * Paolo Mazzocchi, Digital Gold Institute
-* __Program Committee - Academic Perspective__
-  * Lucia Alessi, DG Joint Research Centre, European Commission
+* __Program Committee__
+  * Lucia Alessi, DG Joint Research Centre - European Commission
+  * Filippo Annunziata, Bocconi University
   * Gianna Figà-Talamanca, University of Perugia
   * Gianfranco Forte, University of Milano-Bicocca
+  * Paolo Gianturco, Deloitte Consulting
   * Paolo Giudici, University of Pavia
   * Daniele Marazzina, Politecnico di Milano
   * Francesca Mattassoglio, University of Milano-Bicocca
-  * Marco Petracco, DG Joint Research Centre, European Commission
-  * Angela Walch, St. Mary's University School of Law
-* __Program Committee - Business and Technical Perspective__
-  * Paolo Gianturco, Deloitte Consulting
-  * Diego Giubertoni, CheckSig
   * Elaine Ou, Global Financial Access
-
-<!--
-  * Filippo Annunziata, Bocconi University
-  * Luca Fantacci, Bocconi University
-  * Andrea Perrone, Università Cattolica del Sacro Cuore
+  * Marco Petracco, DG Joint Research Centre - European Commission
+  * Gina Pieters, University of Chicago
+  * Carla Reyes, Southern Methodist University
+  * Wim Schoutens, University of Leuven
   * Antonella Sciarrone Alibrandi, Università Cattolica del Sacro Cuore
-
-  * Riccardo Casatta, Blockstream
-  * Gregorio De Felice, Intesa Sanpaolo
--->
+  * Maarten van Oordt, Bank of Canada
+  * Angela Walch, St. Mary's University School of Law
 
 ### Program
 
-The CAL 2021 conference program will be available early October.
+* November 4, 15:00-19:00 CET  
+* November 5, 15:00-19:00 CET
+
+The conference program will be available early October.
+
+### Keynote speakers
+
+* Ricardo Pérez-Marco, French National Centre for Scientific Research
+* TBA
+
+
 <!--
 The CAL 2021 conference program is available at the [dedicated page]({{ site.baseurl }}/cal2021/)
 -->
@@ -125,11 +128,13 @@ The CAL 2021 conference program is available at the [dedicated page]({{ site.bas
 ### Venue and Attendance
 
 The CAL 2021 conference will be held online (web streaming)
-and in person at the University of Milano-Bicocca.
+and in person (with limited attendance)
+at the University of Milano-Bicocca.
+Attending the online conference is _free_, but registration is required.
+Details about in person attendance will be available in October.
 
-Attending the conference is _free_, but registration is required.
-
-Registration and ticketing on [eventbrite's conference page](https://www.eventbrite.com/e/the-3nd-crypto-asset-lab-conference-registration-155774506743)
+Registration and ticketing on
+[eventbrite's conference page](https://www.eventbrite.com/e/the-3nd-crypto-asset-lab-conference-registration-155774506743).
 
 ### Previous Editions
 
