@@ -86,7 +86,7 @@ Topics include, but are not limited to:
 ### Organizing Committee
 
 * __Program Chairs__
-  * Ferdinando M. Ametrano, Digital Gold Institute and University of Milano-Bicocca
+  * Ferdinando M. Ametrano, Digital Gold Institute
   * Paola A. Bongini, University of Milano-Bicocca
 * __General Chair__
   * Lucia Mandelli, Digital Gold Institute
