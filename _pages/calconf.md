@@ -112,9 +112,11 @@ Topics include, but are not limited to:
 
 The CAL 2021 conference program will be available early October.
 
-Keynote speakers:
-- Ricardo Pérez-Marco, French National Centre for Scientific Research
-- TBA
+### Keynote speakers
+
+* Ricardo Pérez-Marco, French National Centre for Scientific Research
+* TBA
+
 
 <!--
 The CAL 2021 conference program is available at the [dedicated page]({{ site.baseurl }}/cal2021/)
@@ -123,9 +125,11 @@ The CAL 2021 conference program is available at the [dedicated page]({{ site.bas
 ### Venue and Attendance
 
 The CAL 2021 conference will be held online (web streaming)
-and in person at the University of Milano-Bicocca.
+and in person (with limited attendance)
+at the University of Milano-Bicocca.
 
-Attending the conference is _free_, but registration is required.
+Attending the online conference is _free_, but registration is required.
+Details about in person attendance will be available in October
 
 Registration and ticketing on [eventbrite's conference page](https://www.eventbrite.com/e/the-3nd-crypto-asset-lab-conference-registration-155774506743)
 
