@@ -130,11 +130,11 @@ The CAL 2021 conference program is available at the [dedicated page]({{ site.bas
 The CAL 2021 conference will be held online (web streaming)
 and in person (with limited attendance)
 at the University of Milano-Bicocca.
-
 Attending the online conference is _free_, but registration is required.
-Details about in person attendance will be available in October
+Details about in person attendance will be available in October.
 
-Registration and ticketing on [eventbrite's conference page](https://www.eventbrite.com/e/the-3nd-crypto-asset-lab-conference-registration-155774506743)
+Registration and ticketing on
+[eventbrite's conference page](https://www.eventbrite.com/e/the-3nd-crypto-asset-lab-conference-registration-155774506743).
 
 ### Previous Editions
 
