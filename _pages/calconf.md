@@ -91,7 +91,7 @@ Topics include, but are not limited to:
 * __General Chair__
   * Lucia Mandelli, Digital Gold Institute
 * __Program Committee__
-  * Lucia Alessi, DG Joint Research Centre, European Commission
+  * Lucia Alessi, DG Joint Research Centre - European Commission
   * Filippo Annunziata, Bocconi University
   * Gianna Figà-Talamanca, University of Perugia
   * Gianfranco Forte, University of Milano-Bicocca
@@ -100,21 +100,22 @@ Topics include, but are not limited to:
   * Daniele Marazzina, Politecnico di Milano
   * Francesca Mattassoglio, University of Milano-Bicocca
   * Elaine Ou, Global Financial Access
-  * Marco Petracco, DG Joint Research Centre, European Commission
+  * Marco Petracco, DG Joint Research Centre - European Commission
   * Gina Pieters, University of Chicago
   * Carla Reyes, Southern Methodist University
   * Wim Schoutens, University of Leuven
   * Antonella Sciarrone Alibrandi, Università Cattolica del Sacro Cuore
+  * Maarten van Oordt, Bank of Canada
   * Angela Walch, St. Mary's University School of Law
-
-<!--
-  * marteen
-  * reyes
--->
 
 ### Program
 
 The CAL 2021 conference program will be available early October.
+
+Keynote speakers:
+- Ricardo Pérez-Marco, French National Centre for Scientific Research
+- TBA
+
 <!--
 The CAL 2021 conference program is available at the [dedicated page]({{ site.baseurl }}/cal2021/)
 -->
