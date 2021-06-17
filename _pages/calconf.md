@@ -111,7 +111,6 @@ Topics include, but are not limited to:
 ### Program
 
 * November 4, 15:00-19:00 CET  
-  keynote speaker:
 * November 5, 15:00-19:00 CET
 
 The conference program will be available early October.
