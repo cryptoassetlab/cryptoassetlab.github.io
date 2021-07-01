@@ -102,6 +102,7 @@ Topics include, but are not limited to:
   * Marco Petracco, DG Joint Research Centre - European Commission
   * Gina Pieters, University of Chicago
   * Carla Reyes, Southern Methodist University
+  * Sandra Ro, Global Blockchain Business Council 
   * Wim Schoutens, University of Leuven
   * Antonella Sciarrone Alibrandi, Università Cattolica del Sacro Cuore
   * Maarten van Oordt, Bank of Canada
