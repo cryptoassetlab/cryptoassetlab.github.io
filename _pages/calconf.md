@@ -35,11 +35,12 @@ permalink: /calconf/
 
 ### Relevant dates
 
-* **Abstract submission: July 16, 2021**
-* Abstract acceptance: July 30, 2021
-* Paper submission: September 30, 2021
+* ~~Abstract submission: July 16, 2021~~ (40 abstracts received)
+* ~~Abstract acceptance: August 6, 2021~~ (29 abstracts accepted)
+* **Paper submission: September 30, 2021**
 * Paper acceptance: October 22, 2021
 
+<!--
 ### Abstract Submission
 
 Abstracts must be submitted using the dedicated
@@ -51,7 +52,7 @@ topics, etc.
 The program selection criteria include
 the nature of the research topic, the economic implications
 of the research, and the academic quality of the research design.
-
+-->
 ### Theme and Topics
 
 The conference focuses on all aspects of bitcoin and crypto-assets,
@@ -119,7 +120,6 @@ The conference program will be available early October.
 
 * Ricardo Pérez-Marco, French National Centre for Scientific Research
 * TBA
-
 
 <!--
 The CAL 2021 conference program is available at the [dedicated page]({{ site.baseurl }}/cal2021/)
