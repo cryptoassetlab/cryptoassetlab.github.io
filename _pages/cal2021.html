@@ -1,0 +1,453 @@
+---
+layout: conference
+lang: en
+title: CAL2021 Program
+description: The 3rd Crypto Asset Lab Conference
+permalink: /cal2021tentative/
+---
+<section id=cal2021>
+
+  <div class="img-responsive" id="intro">
+
+    <img src="/img/cal2021/cal2021.jpg" width="100%" class="img-responsive">
+
+
+    <a href="https://twitter.com/CryptoAssetLab">
+      <img src="/img/cal2020/twitter.png" width="30" height="30%">
+    </a>
+    <a href="https://www.linkedin.com/events/the3ndcryptoassetlabconference6802637922232283136/">
+      <img src="/img/cal2020/LinkedIn.png" width="30" height="30%">
+    </a>
+    <a href="https://www.facebook.com/events/1049598178901312">
+      <img src="/img/cal2020/facebook.png" width="30" height="30%">
+    </a>
+    <a href="https://inomics.com/conference/the-crypto-asset-lab-conference-1512733">
+      <img src="/img/cal2020/inomics.jpg" width="100" height="100%">
+    </a>
+    <a href="https://www.eventbrite.com/e/the-3nd-crypto-asset-lab-conference-registration-155774506743">
+      <img src="/img/cal2020/eventbrite.png" width="30" height="30%">
+    </a>
+    <a href="https://www.eventbrite.com/e/the-3nd-crypto-asset-lab-conference-registration-155774506743" class="btn btn-primary btn-xl" text-align="right">Free Registration</a>
+    <a href="{{ site.baseurl }}/calconf" class="btn btn-primary btn-xl" text-align="right">Conference Page</a>
+
+    <h3><b>The 3rd Crypto Asset Lab Conference Program</b></h3>
+    <h4>CAL2021 is a joint event with
+      <a href="https://ec.europa.eu/knowledge4policy/organisation/jrc-joint-research-centre_en">DG Joint Research Centre, European Commission</a>
+    </h4>
+    <h4><b>Milan (Italy) and web streaming, November 4-5, 2021</b></h3>
+    <hr class="primary">
+  </div>
+
+  <div>
+    <h3><b>Program:</b></h3>
+    <ul>
+      <li><a href="#program-day1"><h4>November 4, 15:00-19:00 CET</h4></a></li>
+      <li><a href="#program-day2"><h4>November 5, 15:00-19:00 CET</h4></a></li>
+    </ul>
+    <hr class="primary">
+  </div>
+
+  <div class="img-responsive" id="program-day1">
+    <h3><b>Day 1</h3>
+    <h3>Opening Session</b></h3>
+    <h4>November 4, 15:00 CET (UTC+1)</h4>
+    <hr class="primary">
+    <p id="Opening">
+      <h4><b>Introduction</b></h4>
+      <a href="http://linkedin.com/in/lucia-alessi-78961a5"><i>Lucia Alessi</i></a>, DG Joint Research Centre, European Commission
+      <br>
+      <a href="http://www.ametrano.net/"><i>Ferdinando M. Ametrano</i></a>, Digital Gold Institute and University of Milano-Bicocca
+      <br>
+      <a href="https://www.unimib.it/paola-agnese-bongini"><i>Paola A. Bongini</i></a>, University of Milano-Bicocca
+      <br><br>
+      <h4><b>Welcome Address</b></h4>
+      <a href="https://www.unimib.it/giovanna-iannantuoni"><i>Giovanna Iannantuoni</i></a>, University of Milano-Bicocca
+      <br><br>
+    </p>
+
+    <h3><b>Crypto-Economics</b></h3>
+    <h4>November 4, 15:30 CET (UTC+1)</h4>
+    <hr class="primary">
+    <p id="crypto-economics">
+      {% for member in site.data.cal2021_papers %}
+        {% if member.stream == 'Crypto-economics' and member.approval == true %}
+          {% if member.slides %}
+            <a href="{{ member.link }}"><b>{{ member.paper }}</b></a>, (<a href="{{ site.baseurl }}/docs/cal2021/slides/{{ member.slides }}.pdf">slides</a>)<br>
+          {% else %}
+            {% if member.link %}
+            <a href="{{ member.link }}"><b>{{ member.paper }}</b></a><br>
+            {% else %}
+            <b>{{ member.paper }}</b><br>
+            {% endif %}
+          {% endif %}
+          {% if member.author1 %}
+            {% if member.affiliation1 %}
+              <i>{{ member.author1 }}</i>, {{ member.affiliation1 }}<br>
+            {% else %}
+              <i>{{ member.author1 }}</i><br>
+            {% endif %}
+          {% endif %}
+          {% if member.author2 %}
+            {% if member.affiliation2 %}
+              <i>{{ member.author2 }}</i>, {{ member.affiliation2 }}<br>
+            {% else %}
+              <i>{{ member.author2 }}</i><br>
+            {% endif %}
+          {% endif %}
+          {% if member.author3 %}
+            {% if member.affiliation3 %}
+              <i>{{ member.author3 }}</i>, {{ member.affiliation3 }}<br>
+            {% else %}
+              <i>{{ member.author3 }}</i><br>
+            {% endif %}
+          {% endif %}
+          {% if member.author4 %}
+            {% if member.affiliation4 %}
+              <i>{{ member.author4 }}</i>, {{ member.affiliation4 }}<br>
+            {% else %}
+              <i>{{ member.author4 }}</i><br>
+            {% endif %}
+          {% endif %}
+          {% if member.presenter %}
+            Presented by {{ member.presenter }} 
+          {% endif %}
+          <br>
+        {% endif %}
+      {% endfor %}
+      <b></h4>Moderator</b>:
+      <a href=""><i>Name Surname</i></a>, Affiliation
+      <br><br>
+    </p>  
+       
+    <h3><b>Keynote Speech</b></h3>
+    <h4>November 4, 17:00 CET (UTC+1)</h4>
+    <hr class="primary">
+    <h4><b>Title</b></h4>
+    <a href="https://webusers.imj-prg.fr/~ricardo.perez-marco/"><i>Ricardo Pérez-Marco</i></a>, French National Centre for Scientific Research
+    <br><br>    
+
+    <h3><b>Quantitative Modelling</b></h3>
+    <h4>November 4, 17:30 CET (UTC+1)</h4>
+    <hr class="primary">
+    <p id="quantitative modelling">
+      {% for member in site.data.cal2021_papers %}
+        {% if member.stream == 'Quantitative Modelling' and member.approval == true %}
+          {% if member.slides %}
+            <a href="{{ member.link }}"><b>{{ member.paper }}</b></a>, (<a href="{{ site.baseurl }}/docs/cal2021/slides/{{ member.slides }}.pdf">slides</a>)<br>
+          {% else %}
+            {% if member.link %}
+            <a href="{{ member.link }}"><b>{{ member.paper }}</b></a><br>
+            {% else %}
+            <b>{{ member.paper }}</b><br>
+            {% endif %}
+          {% endif %}
+          {% if member.author1 %}
+            {% if member.affiliation1 %}
+              <i>{{ member.author1 }}</i>, {{ member.affiliation1 }}<br>
+            {% else %}
+              <i>{{ member.author1 }}</i><br>
+            {% endif %}
+          {% endif %}
+          {% if member.author2 %}
+            {% if member.affiliation2 %}
+              <i>{{ member.author2 }}</i>, {{ member.affiliation2 }}<br>
+            {% else %}
+              <i>{{ member.author2 }}</i><br>
+            {% endif %}
+          {% endif %}
+          {% if member.author3 %}
+            {% if member.affiliation3 %}
+              <i>{{ member.author3 }}</i>, {{ member.affiliation3 }}<br>
+            {% else %}
+              <i>{{ member.author3 }}</i><br>
+            {% endif %}
+          {% endif %}
+          {% if member.author4 %}
+            {% if member.affiliation4 %}
+              <i>{{ member.author4 }}</i>, {{ member.affiliation4 }}<br>
+            {% else %}
+              <i>{{ member.author4 }}</i><br>
+            {% endif %}
+          {% endif %}
+          {% if member.presenter %}
+            Presented by {{ member.presenter }} 
+          {% endif %}
+          <br>
+        {% endif %}
+      {% endfor %}
+      <b>Moderator</b>:
+      <a href=""><i>Name Surname</i></a>, Affiliation
+      <br><br>
+    </p>  
+  
+    <h3><b>Institutional Sponsor Session</b></h3>
+    <h4>November 4, 18:45 CET (UTC+1)</h4>
+    <hr class="primary">
+    <h4><b>Title</b></h4>
+    <a href=""><i>Name Surname</i></a>, Deloitte Italia
+    <br><br>
+
+    <h3><b>Conclusion of Work</b></h3>
+    <h4>November 4, 19:00 CET (UTC+1)</h4>
+    <hr class="primary">
+    <a href=""><i>Ferdinando Maria Ametrano</i></a>, Crypto Asset Lab
+    <br>
+  </div>
+
+  <div class="img-responsive" id="program-day2">
+    <h3><b>Day 2</h3>
+    <h3>Opening Session</b></h3>
+    <h4>November 5, 15:00 CET (UTC+1)</h4>
+    <hr class="primary">
+    <p id="Opening">
+      <h4><b>Introduction</b></h4>
+      <a href="http://linkedin.com/in/lucia-alessi-78961a5"><i>Lucia Alessi</i></a>, DG Joint Research Centre, European Commission
+      <br>
+      <a href="http://www.ametrano.net/"><i>Ferdinando M. Ametrano</i></a>, Digital Gold Institute and University of Milano-Bicocca
+      <br>
+      <a href="https://www.unimib.it/paola-agnese-bongini"><i>Paola A. Bongini</i></a>, University of Milano-Bicocca
+      <br><br>
+    </p>
+
+    <h3><b>Investments and Trading</b></h3>
+    <h4>November 5, 15:15 CET (UTC+1)</h4>
+    <hr class="primary">
+    <p id="investments-trading">
+      {% for member in site.data.cal2021_papers %}
+        {% if member.stream == 'Investments and Trading' and member.approval == true %}
+          {% if member.slides %}
+            <a href="{{ member.link }}"><b>{{ member.paper }}</b></a>, (<a href="{{ site.baseurl }}/docs/cal2021/slides/{{ member.slides }}.pdf">slides</a>)<br>
+          {% else %}
+            {% if member.link %}
+            <a href="{{ member.link }}"><b>{{ member.paper }}</b></a><br>
+            {% else %}
+            <b>{{ member.paper }}</b><br>
+            {% endif %}
+          {% endif %}
+          {% if member.author1 %}
+            {% if member.affiliation1 %}
+              <i>{{ member.author1 }}</i>, {{ member.affiliation1 }}<br>
+            {% else %}
+              <i>{{ member.author1 }}</i><br>
+            {% endif %}
+          {% endif %}
+          {% if member.author2 %}
+            {% if member.affiliation2 %}
+              <i>{{ member.author2 }}</i>, {{ member.affiliation2 }}<br>
+            {% else %}
+              <i>{{ member.author2 }}</i><br>
+            {% endif %}
+          {% endif %}
+          {% if member.author3 %}
+            {% if member.affiliation3 %}
+              <i>{{ member.author3 }}</i>, {{ member.affiliation3 }}<br>
+            {% else %}
+              <i>{{ member.author3 }}</i><br>
+            {% endif %}
+          {% endif %}
+          {% if member.author4 %}
+            {% if member.affiliation4 %}
+              <i>{{ member.author4 }}</i>, {{ member.affiliation4 }}<br>
+            {% else %}
+              <i>{{ member.author4 }}</i><br>
+            {% endif %}
+          {% endif %}
+          {% if member.presenter %}
+            Presented by {{ member.presenter }} 
+          {% endif %}
+          <br>
+        {% endif %}
+      {% endfor %}
+      <b></h4>Moderator</b>:
+      <a href=""><i>Name Surname</i></a>, Affiliation
+      <br><br>
+    </p>  
+       
+    <h3><b>Keynote Speech</b></h3>
+    <h4>November 5, 16:30 CET (UTC+1)</h4>
+    <hr class="primary">
+    <h4><b>Title</b></h4>
+    <a href=""><i>Name Surname</i></a>, Affiliation
+    <br><br>    
+
+    <h3><b>Business Services</b></h3>
+    <h4>November 5, 17:00 CET (UTC+1)</h4>
+    <hr class="primary">
+    <p id="business-services">
+      {% for member in site.data.cal2021_papers %}
+        {% if member.stream == 'Business Services' and member.approval == true %}
+          {% if member.slides %}
+            <a href="{{ member.link }}"><b>{{ member.paper }}</b></a>, (<a href="{{ site.baseurl }}/docs/cal2021/slides/{{ member.slides }}.pdf">slides</a>)<br>
+          {% else %}
+            {% if member.link %}
+            <a href="{{ member.link }}"><b>{{ member.paper }}</b></a><br>
+            {% else %}
+            <b>{{ member.paper }}</b><br>
+            {% endif %}
+          {% endif %}
+          {% if member.author1 %}
+            {% if member.affiliation1 %}
+              <i>{{ member.author1 }}</i>, {{ member.affiliation1 }}<br>
+            {% else %}
+              <i>{{ member.author1 }}</i><br>
+            {% endif %}
+          {% endif %}
+          {% if member.author2 %}
+            {% if member.affiliation2 %}
+              <i>{{ member.author2 }}</i>, {{ member.affiliation2 }}<br>
+            {% else %}
+              <i>{{ member.author2 }}</i><br>
+            {% endif %}
+          {% endif %}
+          {% if member.author3 %}
+            {% if member.affiliation3 %}
+              <i>{{ member.author3 }}</i>, {{ member.affiliation3 }}<br>
+            {% else %}
+              <i>{{ member.author3 }}</i><br>
+            {% endif %}
+          {% endif %}
+          {% if member.author4 %}
+            {% if member.affiliation4 %}
+              <i>{{ member.author4 }}</i>, {{ member.affiliation4 }}<br>
+            {% else %}
+              <i>{{ member.author4 }}</i><br>
+            {% endif %}
+          {% endif %}
+          {% if member.presenter %}
+            Presented by {{ member.presenter }} 
+          {% endif %}
+          <br>
+        {% endif %}
+      {% endfor %}
+      <b>Moderator</b>:
+      <a href=""><i>Name Surname</i></a>, Affiliation
+      <br><br>
+    </p>  
+  
+    <h3><b>Industrial Sponsor Session</b></h3>
+    <h4>November 5, 18:05 CET (UTC+1)</h4>
+    <hr class="primary">
+    <h4><b>Title</b></h4>
+    <a href=""><i>Name Surname</i></a>, Deloitte Italia
+    <br><br>
+    
+    <h3><b>Fungible and Non Fungible Tokens</b></h3>
+    <h4>November 5, 18:15 CET (UTC+1)</h4>
+    <hr class="primary">
+    <p id="nft">
+      {% for member in site.data.cal2021_papers %}
+        {% if member.stream == 'Fungible and NF Tokens' and member.approval == true %}
+          {% if member.slides %}
+            <a href="{{ member.link }}"><b>{{ member.paper }}</b></a>, (<a href="{{ site.baseurl }}/docs/cal2021/slides/{{ member.slides }}.pdf">slides</a>)<br>
+          {% else %}
+            {% if member.link %}
+            <a href="{{ member.link }}"><b>{{ member.paper }}</b></a><br>
+            {% else %}
+            <b>{{ member.paper }}</b><br>
+            {% endif %}
+          {% endif %}
+          {% if member.author1 %}
+            {% if member.affiliation1 %}
+              <i>{{ member.author1 }}</i>, {{ member.affiliation1 }}<br>
+            {% else %}
+              <i>{{ member.author1 }}</i><br>
+            {% endif %}
+          {% endif %}
+          {% if member.author2 %}
+            {% if member.affiliation2 %}
+              <i>{{ member.author2 }}</i>, {{ member.affiliation2 }}<br>
+            {% else %}
+              <i>{{ member.author2 }}</i><br>
+            {% endif %}
+          {% endif %}
+          {% if member.author3 %}
+            {% if member.affiliation3 %}
+              <i>{{ member.author3 }}</i>, {{ member.affiliation3 }}<br>
+            {% else %}
+              <i>{{ member.author3 }}</i><br>
+            {% endif %}
+          {% endif %}
+          {% if member.author4 %}
+            {% if member.affiliation4 %}
+              <i>{{ member.author4 }}</i>, {{ member.affiliation4 }}<br>
+            {% else %}
+              <i>{{ member.author4 }}</i><br>
+            {% endif %}
+          {% endif %}
+          {% if member.presenter %}
+            Presented by {{ member.presenter }} 
+          {% endif %}
+          <br>
+        {% endif %}
+      {% endfor %}
+      <b>Moderator</b>:
+      <a href=""><i>Name Surname</i></a>, Affiliation
+      <br><br>
+    </p>  
+
+    <h3><b>Closing Session</b></h3>
+    <h4>November 5, 18:45 CET (UTC+1)</h4>
+    <hr class="primary">
+    <a href="https://www.unimib.it/paola-agnese-bongini"><i>Paola A. Bongini</i></a>, University of Milano-Bicocca
+    <a href="http://linkedin.com/in/lucia-alessi-78961a5"><i>Lucia Alessi</i></a>, DG Joint Research Centre, European Commission
+    <br>
+
+    <h3><b>Conclusion of Work</b></h3>
+    <h4>November 5, 19:00 CET (UTC+1)</h4>
+    <hr class="primary">
+    <a href=""><i>Ferdinando Maria Ametrano</i></a>, Crypto Asset Lab
+    <br>
+  </div>
+
+  <!--div class="img-responsive" id="program-committee">
+    <br>
+    <h3><b>Organizing Committee</b></h3>
+    <hr class="primary">
+
+    <ul>
+      <li><b>Program Chairs</b>
+        <ul>
+          <li>Ferdinando M. Ametrano, Digital Gold Institute and University of Milano-Bicocca</li>
+          <li>Paola A. Bongini, University of Milano-Bicocca</li>
+        </ul>
+      </li>
+      <li><b>General Chair</b>
+        <ul>
+          <li>Lucia Mandelli, Digital Gold Institute</li>
+        </ul>
+      </li>
+      <li><b>Program Committee</b>
+        <ul>
+          <li>Lucia Alessi, DG Joint Research Centre - European Commission</li>
+          <li>Filippo Annunziata, Bocconi University</li>
+          <li>Gianna Figà-Talamanca, University of Perugia</li>
+          <li>Gianfranco Forte, University of Milano-Bicocca</li>
+          <li>Paolo Giudici, University of Pavia</li>
+          <li>Daniele Marazzina, Politecnico di Milano</li>
+          <li>Francesca Mattassoglio, University of Milano-Bicocca</li>
+          <li>Elaine Ou, Global Financial Access</li>
+          <li>Marco Petracco, DG Joint Research Centre - European Commission</li>
+          <li>Gina Pieters, University of Chicago</li>
+          <li>Carla Reyes, Southern Methodist University</li>
+          <li>Sandra Ro, Global Blockchain Business Council</li>
+          <li>Wim Schoutens, University of Leuven</li>
+          <li>Antonella Sciarrone Alibrandi, Università Cattolica del Sacro Cuore</li>
+          <li>Maarten van Oordt, Bank of Canada</li>
+          <li>Angela Walch, St. Mary's University School of Law</li>
+        </ul>
+      </li>
+    </ul>
+  </div-->
+
+  <div class="img-responsive" id="contact">
+    <br>
+    <h3><b>Enquires</b></h3>
+    <hr class="primary">
+    <h4>For information please visit the
+      <a href="{{ site.baseurl }}/calconf">CAL conference main page</a>
+      or contact us via
+      <a href="mailto:cryptoassetlab+conf2020@unimib.it">mail</a>.
+    </h4>
+  </div>
+
+</section>
