@@ -1,5 +1,5 @@
 - paper: "An Open Standard for Transparent Bitcoin Custody with Proof-of-Reserve"
-  link: 
+  link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2021/ 
   author1: Ametrano
   affiliation1: 
   author2: Giubertoni
@@ -8,13 +8,13 @@
   affiliation3:
   author4: 
   affiliation4:
-  presenter: 
+  presenter:
   stream: Business Services
   slides: 
   approval: true
 
 - paper: "Chaining up Time: Bitcoin and Long-Term Validity of PKI Timestamp Tokens"
-  link: 
+  link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2021/ 
   author1: Cisbani
   affiliation1: 
   author2: 
@@ -29,7 +29,7 @@
   approval: true
   
 - paper: "The Transition- Dynamics from Government Money only to Diversifed (Crypto-) Currency Competition"
-  link: 
+  link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2021/ 
   author1: Filip
   affiliation1: 
   author2: 
@@ -44,7 +44,7 @@
   approval: false
  
 - paper: "CBDCs, Financial Instability and Banks Panic In Overlapping Generation Model"
-  link: 
+  link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2021/ 
   author1: Souissi
   affiliation1: 
   author2: Nabi
@@ -59,7 +59,7 @@
   approval: false
 
 - paper: "Are Stablecoins stabilizing or destabilizing the crypto market?"
-  link: 
+  link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2021/ 
   author1: Lin
   affiliation1: 
   author2: Ji
@@ -74,7 +74,7 @@
   approval: false
  
 - paper: "Digital Currencies in Financial Networks"
-  link: 
+  link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2021/Digital%20currencies%20in%20financial%20networks%20-%20Castrén,%20Kavonius,%20Rancan.pdf
   author1: Castrén
   affiliation1: 
   author2: Kavonius
@@ -89,7 +89,7 @@
   approval: true
 
 - paper: "Best Before? Expiring Central Bank Digital Currency and Loss Recovery"
-  link: 
+  link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2021/ 
   author1: Kahn
   affiliation1: 
   author2: van Oordt
@@ -104,7 +104,7 @@
   approval: true
  
 - paper: "Monetary Policy Pass-Through with Central Bank Digital Currency"
-  link: 
+  link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2021/ 
   author1: Jiang
   affiliation1: 
   author2: Zhu
@@ -119,7 +119,7 @@
   approval: true
 
 - paper: "Vertically Disintegrated Platforms"
-  link: 
+  link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2021/Vertically%20Disintegrated%20Platforms%20-%20Aymann,%20Dewatripont,%20Roukny.pfd
   author1: Aymanns
   affiliation1: 
   author2: Dewatripont
@@ -134,7 +134,7 @@
   approval: true
  
 - paper: "A topic modelling analysis of the white paper in security token offerings: does technology matter"
-  link: 
+  link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2021/ 
   author1: Bongini
   affiliation1: 
   author2: Pedrazzoli
@@ -149,7 +149,7 @@
   approval: true
 
 - paper: "Non-fungible token markets on the Ethereum blockchain"
-  link: 
+  link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2021/ 
   author1: Ante
   affiliation1: 
   author2: 
@@ -164,7 +164,7 @@
   approval: true
  
 - paper: "Mechanism design with Tokens"
-  link: 
+  link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2021/ 
   author1: Canidio
   affiliation1: 
   author2: 
@@ -179,7 +179,7 @@
   approval: false
 
 - paper: "Auction Design Settings and Success Factors of Token Sales"
-  link: 
+  link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2021/ 
   author1: Güven
   affiliation1: 
   author2: Angerer
@@ -194,7 +194,7 @@
   approval: false
  
 - paper: "The Tokenisation of Real Estate: EU-US perspectives"
-  link: 
+  link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2021/ 
   author1: Poncibò
   affiliation1: 
   author2: 
@@ -209,7 +209,7 @@
   approval: false
 
 - paper: "Cryptocurrencies, exchanges, liquidity, order books, high-frequency data"
-  link: 
+  link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2021/ 
   author1: Angerer
   affiliation1: 
   author2: Gramlich
@@ -224,7 +224,7 @@
   approval: true
  
 - paper: "Intraday Herding and Attention Around the Clock"
-  link: 
+  link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2021/ 
   author1: Scharnowski
   affiliation1: 
   author2: Shi
@@ -239,7 +239,7 @@
   approval: true
  
 - paper: "Bitcoin and News Around the World in Twenty-Six Languages"
-  link: 
+  link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2021/ 
   author1: Alessi
   affiliation1: 
   author2: Ghysels
@@ -254,7 +254,7 @@
   approval: true
  
 - paper: "Towards total decentralisation through non-adjudicative methods"
-  link: 
+  link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2021/ 
   author1: Poncibò
   affiliation1: 
   author2: Barbàra
@@ -269,7 +269,7 @@
   approval: false
  
 - paper: "An analysis of Decentralised Autonomous Organisations Private Law"
-  link: 
+  link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2021/ 
   author1: Massella
   affiliation1: 
   author2: 
@@ -284,7 +284,7 @@
   approval: false
  
 - paper: "Crypto-asset taxonomy and its legal implications"
-  link: 
+  link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2021/ 
   author1: Yandyan
   affiliation1: 
   author2: 
@@ -299,7 +299,7 @@
   approval: false
  
 - paper: "Non-Fungible Tokens (NFTs).  Legal and economic considerations. A European perspective"
-  link: 
+  link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2021/ 
   author1: Agresti
   affiliation1: 
   author2: Kunschke
@@ -314,7 +314,7 @@
   approval: false
  
 - paper: "The impact of tokenisation on property law"
-  link: 
+  link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2021/ 
   author1: de Caria
   affiliation1: 
   author2: 
@@ -329,7 +329,7 @@
   approval: false
 
 - paper: "Behavioural clusters of cryptocurrency users"
-  link: 
+  link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2021/ 
   author1: Steinmetz
   affiliation1: 
   author2: 
@@ -345,7 +345,7 @@
 
 
 - paper: "CBDC, Money Demand Structure and Currency Markets in an Open Economy"
-  link: 
+  link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2021/ 
   author1: Fosu
   affiliation1: 
   author2: 
@@ -361,7 +361,7 @@
 
 
 - paper: "Cryptocurrency Price Prediction  Based on Twitter Sentiment Analysis"
-  link: 
+  link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2021/ 
   author1: Vakhitov
   affiliation1: 
   author2: 
@@ -376,7 +376,7 @@
   approval: false
 
 - paper: "Sentiment, Google Queries and Explosivity in the Cryptocurrency Market"
-  link: 
+  link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2021/Sentiment,%20Google%20Queries%20-%20Agosto,%20Cerchiello,%20Pagnottoni.pdf
   author1: Agosto
   affiliation1: 
   author2: Cerchiello
@@ -392,7 +392,7 @@
 
 
 - paper: "Common dynamic factors for cryptocurrencies and multiple pair-trading statistical arbitrages"
-  link: 
+  link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2021/Common%20dynamic%20factors%20-%20Figà%20Talamanca,%20Focardi,%20Patacca.pdf
   author1: Figá-Talamanca
   affiliation1: 
   author2: Focardi
@@ -407,7 +407,7 @@
   approval: true
 
 - paper: "Interdependence, Contagion and Speculative Bubbles in Cryptocurrency Markets"
-  link: 
+  link: https://cryptoassetlab.diseade.unimib.it/docs/CAL2021/ 
   author1: Bazán-Palomino
   affiliation1: 
   author2: 
