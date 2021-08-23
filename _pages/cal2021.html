@@ -10,8 +10,6 @@ permalink: /cal2021tentative/
   <div class="img-responsive" id="intro">
 
     <img src="/img/cal2021/cal2021.jpg" width="100%" class="img-responsive">
-
-
     <a href="https://twitter.com/CryptoAssetLab">
       <img src="/img/cal2020/twitter.png" width="30" height="30%">
     </a>
@@ -129,9 +127,9 @@ permalink: /cal2021tentative/
     <h3><b>Quantitative Modelling</b></h3>
     <h4>November 4, 17:30 CET (UTC+1)</h4>
     <hr class="primary">
-    <p id="quantitative modelling">
+    <p id="quantitative-modelling">
       {% for member in site.data.cal2021_papers %}
-        {% if member.stream == 'Quantitative Modelling' and member.approval == true %}
+        {% if member.stream == 'Quantitative-modelling' and member.approval == true %}
           {% if member.slides %}
             <a href="{{ site.baseurl }}/docs/CAL2021/{{ member.link }}.pdf"><b>{{ member.paper }}</b></a>, (<a href="{{ site.baseurl }}/docs/CAL2021/slides/{{ member.slides }}.pdf">slides</a>)<br>
           {% else %}
@@ -214,7 +212,7 @@ permalink: /cal2021tentative/
     <hr class="primary">
     <p id="investments-trading">
       {% for member in site.data.cal2021_papers %}
-        {% if member.stream == 'Investments and Trading' and member.approval == true %}
+        {% if member.stream == 'Investments-and-trading' and member.approval == true %}
           {% if member.slides %}
             <a href="{{ site.baseurl }}/docs/CAL2021/{{ member.link }}.pdf"><b>{{ member.paper }}</b></a>, (<a href="{{ site.baseurl }}/docs/CAL2021/slides/{{ member.slides }}.pdf">slides</a>)<br>
           {% else %}
@@ -275,7 +273,7 @@ permalink: /cal2021tentative/
     <hr class="primary">
     <p id="business-services">
       {% for member in site.data.cal2021_papers %}
-        {% if member.stream == 'Business Services' and member.approval == true %}
+        {% if member.stream == 'Business-services' and member.approval == true %}
           {% if member.slides %}
             <a href="{{ site.baseurl }}/docs/CAL2021/{{ member.link }}.pdf"><b>{{ member.paper }}</b></a>, (<a href="{{ site.baseurl }}/docs/CAL2021/slides/{{ member.slides }}.pdf">slides</a>)<br>
           {% else %}
@@ -336,7 +334,7 @@ permalink: /cal2021tentative/
     <hr class="primary">
     <p id="nft">
       {% for member in site.data.cal2021_papers %}
-        {% if member.stream == 'Fungible and Non-fungible Tokens' and member.approval == true %}
+        {% if member.stream == 'Fungible-and-NF-Tokens' and member.approval == true %}
           {% if member.slides %}
             <a href="{{ site.baseurl }}/docs/CAL2021/{{ member.link }}.pdf"><b>{{ member.paper }}</b></a>, (<a href="{{ site.baseurl }}/docs/CAL2021/slides/{{ member.slides }}.pdf">slides</a>)<br>
           {% else %}
