@@ -54,11 +54,11 @@
 - paper: "Digital Currencies in Financial Networks"
   link: "Digital currencies in financial networks - Castrén, Kavonius, Rancan"
   author1: Olli Castrén
-  affiliation1: 
+  affiliation1: European Banking Authority
   author2: Ilja Kavonius
-  affiliation2: 
+  affiliation2: University of Helsinki
   author3: Michela Rancan
-  affiliation3: 
+  affiliation3: Università Politecnica delle Marche
   presenter: 
   stream: Crypto-economics
   slides: 
@@ -91,11 +91,11 @@
 - paper: "Vertically Disintegrated Platforms"
   link: "Vertically Disintegrated Platforms - Aymann, Dewatripont, Roukny"
   author1: Christoph Aymanns
-  affiliation1: 
+  affiliation1: University of St. Gallen
   author2: Mathias Dewatripont
-  affiliation2: 
+  affiliation2: Université Libre de Bruxelles
   author3: Tarik Roukny
-  affiliation3:
+  affiliation3: KU Leuven
   presenter: 
   stream: Crypto-economics
   slides: 
@@ -115,9 +115,9 @@
   approval: true
 
 - paper: "Non-fungible token markets on the Ethereum blockchain"
-  link: 
+  link: "Non-fungible token (NFT) markets on the Ethereum blockchain - Ante"
   author1: Lennart Ante
-  affiliation1: 
+  affiliation1: Blockchain Research Lab
   stream: Fungible-and-NF-Tokens
   slides: 
   approval: true
@@ -269,11 +269,11 @@
 - paper: "Sentiment, Google Queries and Explosivity in the Cryptocurrency Market"
   link: "Sentiment, Google Queries - Agosto, Cerchiello, Pagnottoni"
   author1: Arianna Agosto
-  affiliation1: 
+  affiliation1: University of Pavia
   author2: Paola Cerchiello
-  affiliation2: 
+  affiliation2: University of Pavia
   author3: Paolo Pagnottoni
-  affiliation3:
+  affiliation3: University of Pavia
   presenter: 
   stream: Quantitative-modelling
   slides: 
@@ -282,11 +282,11 @@
 - paper: "Common dynamic factors for cryptocurrencies and multiple pair-trading statistical arbitrages"
   link: "Common dynamic factors - Figà Talamanca, Focardi, Patacca"
   author1: Gianna Figá-Talamanca
-  affiliation1: 
+  affiliation1: University of Perugia
   author2: Sergio Focardi
-  affiliation2: 
+  affiliation2: Léonard de Vinci Pôle Universitaire
   author3: Marco Patacca
-  affiliation3:
+  affiliation3: University of Verona
   presenter: 
   stream: Quantitative-modelling
   slides: 
