@@ -1,11 +1,11 @@
 - paper: "An Open Standard for Transparent Bitcoin Custody with Proof-of-Reserve"
   link: 
   author1: Ferdinando Ametrano
-  affiliation1: 
+  affiliation1: University of Milano-Bicocca
   author2: Diego Giubertoni
-  affiliation2: 
+  affiliation2: CheckSig
   author3: Paolo Mazzocchi
-  affiliation3:
+  affiliation3: Digital Gold Institute
   presenter: Paolo Mazzocchi
   stream: Business-services
   slides: 
@@ -14,7 +14,7 @@
 - paper: "Chaining up Time: Bitcoin and Long-Term Validity of PKI Timestamp Tokens"
   link: 
   author1: Emanuele Cisbani
-  affiliation1: 
+  affiliation1: Intesi Group
   stream: Business-services
   slides: 
   approval: true
