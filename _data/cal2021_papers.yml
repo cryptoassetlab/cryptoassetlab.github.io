@@ -15,7 +15,6 @@
   link: 
   author1: Emanuele Cisbani
   affiliation1: 
-  presenter: Emanuele Cisbani
   stream: Business-services
   slides: 
   approval: true
@@ -24,7 +23,6 @@
   link: 
   author1: Katharina Filip
   affiliation1: 
-  presenter: Katharina Filip
   stream: Crypto-economics
   slides: 
   approval: false
@@ -120,7 +118,6 @@
   link: 
   author1: Lennart Ante
   affiliation1: 
-  presenter: Lennart Ante
   stream: Fungible-and-NF-Tokens
   slides: 
   approval: true
@@ -129,7 +126,6 @@
   link: 
   author1: Andrea Canidio
   affiliation1: 
-  presenter: Andrea Canidio
   stream: Fungible-and-NF-Tokens
   slides: 
   approval: false
@@ -211,7 +207,6 @@
   link: 
   author1: Nicola Massella
   affiliation1: 
-  presenter: Nicola Massella
   stream: Legal-and-regulatory
   slides: 
   approval: false
@@ -220,7 +215,6 @@
   link: 
   author1: Yeranuhi Yandyan
   affiliation1: 
-  presenter: Yeranuhi Yandyan
   stream: Legal-and-regulatory
   slides: 
   approval: false
@@ -244,7 +238,6 @@
   link: 
   author1: Riccardo de Caria
   affiliation1: 
-  presenter: Riccardo de Caria
   stream: Legal-and-regulatory
   slides: 
   approval: false
@@ -253,7 +246,6 @@
   link: 
   author1: Fred Steinmetz
   affiliation1: 
-  presenter: Fred Steinmetz
   stream: Quantitative-modelling
   slides: 
   approval: false
@@ -262,7 +254,6 @@
   link: 
   author1: K. Yerfi Fosu
   affiliation1: 
-  presenter: K. Yerfi Fosu
   stream: Quantitative-modelling
   slides: 
   approval: false
@@ -271,7 +262,6 @@
   link: 
   author1: Bohdan Vakhitov
   affiliation1: 
-  presenter: Bohdan Vakhitov
   stream: Quantitative-modelling
   slides: 
   approval: false
@@ -306,7 +296,6 @@
   link: 
   author1: Walter Bazán-Palomino
   affiliation1: 
-  presenter: Walter Bazán-Palomino
   stream: Quantitative-modelling
   slides: 
   approval: true
