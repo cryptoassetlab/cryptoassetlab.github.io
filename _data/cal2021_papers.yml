@@ -1,301 +1,301 @@
 - paper: "An Open Standard for Transparent Bitcoin Custody with Proof-of-Reserve"
   link: 
-  author1: Ferdinando Ametrano
-  affiliation1: University of Milano-Bicocca
-  author2: Diego Giubertoni
-  affiliation2: CheckSig
-  author3: Paolo Mazzocchi
-  affiliation3: Digital Gold Institute
-  presenter: Paolo Mazzocchi
-  stream: Business-services
+  author1: "Ferdinando Ametrano"
+  affiliation1: "University of Milano-Bicocca"
+  author2: "Diego Giubertoni"
+  affiliation2: "CheckSig"
+  author3: "Paolo Mazzocchi"
+  affiliation3: "Digital Gold Institute"
+  presenter: "Paolo Mazzocchi"
+  stream: "Business-services"
   slides: 
   approval: true
   
 - paper: "Chaining up Time: Bitcoin and Long-Term Validity of PKI Timestamp Tokens"
   link: 
-  author1: Emanuele Cisbani
-  affiliation1: Intesi Group
-  stream: Business-services
+  author1: "Emanuele Cisbani"
+  affiliation1: "Intesi Group"
+  stream: "Business-services"
   slides: 
   approval: true
   
 - paper: "The Transition- Dynamics from Government Money only to Diversifed (Crypto-) Currency Competition"
   link: 
-  author1: Katharina Filip
+  author1: "Katharina Filip"
   affiliation1: 
-  stream: Crypto-economics
+  stream: "Crypto-economics"
   slides: 
   approval: false
  
 - paper: "CBDCs, Financial Instability and Banks Panic In Overlapping Generation Model"
   link: 
-  author1: Soraya Ben Souissi
+  author1: "Soraya Ben Souissi"
   affiliation1: 
-  author2: Mahmoud Sami Nabi
+  author2: "Mahmoud Sami Nabi"
   affiliation2: 
   presenter: 
-  stream: Crypto-economics
+  stream: "Crypto-economics"
   slides: 
   approval: false
 
 - paper: "Are Stablecoins stabilizing or destabilizing the crypto market?"
   link: 
-  author1: Juan Lin
+  author1: "Juan Lin"
   affiliation1: 
-  author2: Yang Ji
+  author2: "Yang Ji"
   affiliation2: 
-  author3: Peng Wang
+  author3: "Peng Wang"
   affiliation3: 
   presenter: 
-  stream: Crypto-economics
+  stream: "Crypto-economics"
   slides: 
   approval: false
  
 - paper: "Digital Currencies in Financial Networks"
   link: "Digital currencies in financial networks - Castrén, Kavonius, Rancan"
-  author1: Olli Castrén
-  affiliation1: European Banking Authority
-  author2: Ilja Kavonius
-  affiliation2: University of Helsinki
-  author3: Michela Rancan
-  affiliation3: Università Politecnica delle Marche
+  author1: "Olli Castrén"
+  affiliation1: "European Banking Authority"
+  author2: "Ilja Kavonius"
+  affiliation2: "University of Helsinki"
+  author3: "Michela Rancan"
+  affiliation3: "Università Politecnica delle Marche"
   presenter: 
-  stream: Crypto-economics
+  stream: "Crypto-economics"
   slides: 
   approval: true
 
 - paper: "Best Before? Expiring Central Bank Digital Currency and Loss Recovery"
   link: 
-  author1: Charles M. Kahn
+  author1: "Charles M. Kahn"
   affiliation1: 
-  author2: Maarten R.C. van Oordt
+  author2: "Maarten R.C. van Oordt"
   affiliation2: 
-  author3: Yu Zhu
+  author3: "Yu Zhu"
   affiliation3:
   presenter: 
-  stream: Crypto-economics
+  stream: "Crypto-economics"
   slides: 
   approval: true
  
 - paper: "Monetary Policy Pass-Through with Central Bank Digital Currency"
   link: 
-  author1: Janet Jiang
+  author1: "Janet Jiang"
   affiliation1: 
-  author2: Yu Zhu
+  author2: "Yu Zhu"
   affiliation2: 
   presenter: 
-  stream: Crypto-economics
+  stream: "Crypto-economics"
   slides: 
   approval: true
 
 - paper: "Vertically Disintegrated Platforms"
   link: "Vertically Disintegrated Platforms - Aymann, Dewatripont, Roukny"
-  author1: Christoph Aymanns
-  affiliation1: University of St. Gallen
-  author2: Mathias Dewatripont
-  affiliation2: Université Libre de Bruxelles
-  author3: Tarik Roukny
-  affiliation3: KU Leuven
+  author1: "Christoph Aymanns"
+  affiliation1: "University of St. Gallen"
+  author2: "Mathias Dewatripont"
+  affiliation2: "Université Libre de Bruxelles"
+  author3: "Tarik Roukny"
+  affiliation3: "KU Leuven"
   presenter: 
-  stream: Crypto-economics
+  stream: "Crypto-economics"
   slides: 
   approval: true
  
 - paper: "A topic modelling analysis of the white paper in security token offerings: does technology matter"
   link: 
-  author1: Paola Bongini
-  affiliation1: University of Milano-Bicocca
-  author2: Alessia Pedrazzoli
+  author1: "Paola Bongini"
+  affiliation1: "University of Milano-Bicocca"
+  author2: "Alessia Pedrazzoli"
   affiliation2: 
-  author3: Monica Rossolini
+  author3: "Monica Rossolini"
   affiliation3:
   presenter: 
-  stream: Fungible-and-NF-Tokens
+  stream: "Fungible-and-NF-Tokens"
   slides: 
   approval: true
 
 - paper: "Non-fungible token markets on the Ethereum blockchain"
   link: "Non-fungible token (NFT) markets on the Ethereum blockchain - Ante"
-  author1: Lennart Ante
-  affiliation1: Blockchain Research Lab
-  stream: Fungible-and-NF-Tokens
+  author1: "Lennart Ante"
+  affiliation1: "Blockchain Research Lab"
+  stream: "Fungible-and-NF-Tokens"
   slides: 
   approval: true
  
 - paper: "Mechanism design with Tokens"
   link: 
-  author1: Andrea Canidio
+  author1: "Andrea Canidio"
   affiliation1: 
-  stream: Fungible-and-NF-Tokens
+  stream: "Fungible-and-NF-Tokens"
   slides: 
   approval: false
 
 - paper: "Auction Design Settings and Success Factors of Token Sales"
   link: 
-  author1: Ömer Güven
+  author1: "Ömer Güven"
   affiliation1: 
-  author2: Martin Angerer
+  author2: "Martin Angerer"
   affiliation2: 
   presenter: 
-  stream: Fungible-and-NF-Tokens
+  stream: "Fungible-and-NF-Tokens"
   slides: 
   approval: false
  
 - paper: "The Tokenisation of Real Estate: EU-US perspectives"
   link: 
-  author1: Cristina Poncibò
+  author1: "Cristina Poncibò"
   affiliation1: 
-  presenter: Cristina Poncibò
-  stream: Fungible-and-NF-Tokens
+  presenter: "Cristina Poncibò"
+  stream: "Fungible-and-NF-Tokens"
   slides: 
   approval: false
 
 - paper: "Order-book liquidity on crypto exchanges"
   link: 
-  author1: Martin Angerer
+  author1: "Martin Angerer"
   affiliation1: 
-  author2: Marius Gramlich
+  author2: "Marius Gramlich"
   affiliation2: 
-  author3: Michael Hanke
+  author3: "Michael Hanke"
   affiliation3:
   presenter: 
-  stream: Investments-and-trading
+  stream: "Investments-and-trading"
   slides: 
   approval: true
  
 - paper: "Intraday Herding and Attention Around the Clock"
   link: 
-  author1: Stefan Scharnowski
+  author1: "Stefan Scharnowski"
   affiliation1: 
-  author2: Yanghua Shi
+  author2: "Yanghua Shi"
   presenter: 
-  stream: Investments-and-trading
+  stream: "Investments-and-trading"
   slides: 
   approval: true
  
 - paper: "Bitcoin and News Around the World in Twenty-Six Languages"
   link: 
-  author1: Lucia Alessi
+  author1: "Lucia Alessi"
   affiliation1: 
-  author2: Eric Ghysels
+  author2: "Eric Ghysels"
   affiliation2: 
-  author3: Marco Petracco
+  author3: "Marco Petracco"
   affiliation3:
-  author4: Zhe Wang
+  author4: "Zhe Wang"
   affiliation4:
   presenter: 
-  stream: Investments-and-trading
+  stream: "Investments-and-trading"
   slides: 
   approval: true
  
 - paper: "Towards total decentralisation through non-adjudicative methods"
   link: 
-  author1: Cristina Poncibò
+  author1: "Cristina Poncibò"
   affiliation1: 
-  author2: Fadi Barbàra
+  author2: "Fadi Barbàra"
   affiliation2: 
-  author3: Andrea Gangemi
+  author3: "Andrea Gangemi"
   affiliation3:
-  author4: Giulio Stefano Ravot
+  author4: "Giulio Stefano Ravot"
   affiliation4:
   presenter: 
-  stream: Legal-and-regulatory
+  stream: "Legal-and-regulatory"
   slides: 
   approval: false
  
 - paper: "An analysis of Decentralised Autonomous Organisations Private Law"
   link: 
-  author1: Nicola Massella
+  author1: "Nicola Massella"
   affiliation1: 
-  stream: Legal-and-regulatory
+  stream: "Legal-and-regulatory"
   slides: 
   approval: false
  
 - paper: "Crypto-asset taxonomy and its legal implications"
   link: 
-  author1: Yeranuhi Yandyan
+  author1: "Yeranuhi Yandyan"
   affiliation1: 
-  stream: Legal-and-regulatory
+  stream: "Legal-and-regulatory"
   slides: 
   approval: false
  
 - paper: "Non-Fungible Tokens (NFTs).  Legal and economic considerations. A European perspective"
   link: 
-  author1: Anna Maria Agresti
+  author1: "Anna Maria Agresti"
   affiliation1: 
-  author2: Dennis Kunschke
+  author2: "Dennis Kunschke"
   affiliation2: 
-  author3: Natalie-Dilan Yerlikaya
+  author3: "Natalie-Dilan Yerlikaya"
   affiliation3:
-  author4: Miray Kavruk
+  author4: "Miray Kavruk"
   affiliation4:
   presenter: 
-  stream: Legal-and-regulatory
+  stream: "Legal-and-regulatory"
   slides: 
   approval: false
  
 - paper: "The impact of tokenisation on property law"
   link: 
-  author1: Riccardo de Caria
+  author1: "Riccardo de Caria"
   affiliation1: 
-  stream: Legal-and-regulatory
+  stream: "Legal-and-regulatory"
   slides: 
   approval: false
 
 - paper: "Behavioural clusters of cryptocurrency users: frequencies of use in application domains beyond speculation"
   link: 
-  author1: Fred Steinmetz
+  author1: "Fred Steinmetz"
   affiliation1: 
-  stream: Quantitative-modelling
+  stream: "Quantitative-modelling"
   slides: 
   approval: false
 
 - paper: "CBDC, Money Demand Structure and Currency Markets in an Open Economy"
   link: 
-  author1: K. Yerfi Fosu
+  author1: "K. Yerfi Fosu"
   affiliation1: 
-  stream: Quantitative-modelling
+  stream: "Quantitative-modelling"
   slides: 
   approval: false
 
 - paper: "Cryptocurrency Price Prediction  Based on Twitter Sentiment Analysis"
   link: 
-  author1: Bohdan Vakhitov
+  author1: "Bohdan Vakhitov"
   affiliation1: 
-  stream: Quantitative-modelling
+  stream: "Quantitative-modelling"
   slides: 
   approval: false
 
 - paper: "Sentiment, Google Queries and Explosivity in the Cryptocurrency Market"
   link: "Sentiment, Google Queries - Agosto, Cerchiello, Pagnottoni"
-  author1: Arianna Agosto
-  affiliation1: University of Pavia
-  author2: Paola Cerchiello
-  affiliation2: University of Pavia
-  author3: Paolo Pagnottoni
-  affiliation3: University of Pavia
+  author1: "Arianna Agosto"
+  affiliation1: "University of Pavia"
+  author2: "Paola Cerchiello"
+  affiliation2: "University of Pavia"
+  author3: "Paolo Pagnottoni"
+  affiliation3: "University of Pavia"
   presenter: 
-  stream: Quantitative-modelling
+  stream: "Quantitative-modelling"
   slides: 
   approval: true
 
 - paper: "Common dynamic factors for cryptocurrencies and multiple pair-trading statistical arbitrages"
   link: "Common dynamic factors - Figà Talamanca, Focardi, Patacca"
-  author1: Gianna Figá-Talamanca
-  affiliation1: University of Perugia
-  author2: Sergio Focardi
-  affiliation2: Léonard de Vinci Pôle Universitaire
-  author3: Marco Patacca
-  affiliation3: University of Verona
+  author1: "Gianna Figá-Talamanca"
+  affiliation1: "University of Perugia"
+  author2: "Sergio Focardi"
+  affiliation2: "Léonard de Vinci Pôle Universitaire"
+  author3: "Marco Patacca"
+  affiliation3: "University of Verona"
   presenter: 
-  stream: Quantitative-modelling
+  stream: "Quantitative-modelling"
   slides: 
   approval: true
 
 - paper: "Interdependence, Contagion and Speculative Bubbles in Cryptocurrency Markets"
   link: "Interdependence, Contagion and Speculative Bubbles - Bazan Palomino"
-  author1: Walter Bazán-Palomino
-  affiliation1: Fordham University New York, Universidad del Pacco
-  stream: Quantitative-modelling
+  author1: "Walter Bazán-Palomino"
+  affiliation1: "Fordham University New York, Universidad del Pacifico"
+  stream: "Quantitative-modelling"
   slides: 
   approval: true
