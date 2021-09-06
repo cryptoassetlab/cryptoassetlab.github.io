@@ -52,7 +52,7 @@
   approval: false
  
 - paper: "Digital Currencies in Financial Networks"
-  link: "Digital currencies in financial networks - Castrén, Kavonius, Rancan"
+  link: "Digital currencies in financial networks - Castren, Kavonius, Rancan"
   author1: "Olli Castrén"
   affiliation1: "European Banking Authority"
   author2: "Ilja Kavonius"
@@ -280,7 +280,7 @@
   approval: true
 
 - paper: "Common dynamic factors for cryptocurrencies and multiple pair-trading statistical arbitrages"
-  link: "Common dynamic factors - Figà Talamanca, Focardi, Patacca"
+  link: "Common dynamic factors - Figa Talamanca, Focardi, Patacca"
   author1: "Gianna Figá-Talamanca"
   affiliation1: "University of Perugia"
   author2: "Sergio Focardi"
