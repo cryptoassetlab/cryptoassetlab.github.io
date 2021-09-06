@@ -3,11 +3,12 @@ layout: conference
 lang: en
 title: CAL2021 Program
 description: The 3rd Crypto Asset Lab Conference
-permalink: /cal2021tentative/
+permalink: /cal2021unofficial/
 ---
 <section id=cal2021>
 
-  <div class="img-responsive" id="intro">
+  <!--Day1-->
+  <div class="img-responsive" id="info">
 
     <img src="/img/cal2021/cal2021.jpg" width="100%" class="img-responsive">
     <a href="https://twitter.com/CryptoAssetLab">
@@ -25,388 +26,463 @@ permalink: /cal2021tentative/
     <a href="https://www.eventbrite.com/e/the-3nd-crypto-asset-lab-conference-registration-155774506743">
       <img src="/img/cal2020/eventbrite.png" width="30" height="30%">
     </a>
-    <a href="https://www.eventbrite.com/e/the-3nd-crypto-asset-lab-conference-registration-155774506743" class="btn btn-primary btn-xl" text-align="right">Free Registration</a>
-    <a href="{{ site.baseurl }}/calconf" class="btn btn-primary btn-xl" text-align="right">Conference Page</a>
+    <a href="https://www.eventbrite.com/e/the-3nd-crypto-asset-lab-conference-registration-155774506743" class="btn btn-primary btn-xl" text-align="right">Free Registration
+    </a>
+  </div>
+
+  <div class="img-responsive" id="program-day1">
 
     <h3><b>The 3rd Crypto Asset Lab Conference Program</b></h3>
     <h4>CAL2021 is a joint event with
       <a href="https://ec.europa.eu/knowledge4policy/organisation/jrc-joint-research-centre_en">DG Joint Research Centre, European Commission</a>
     </h4>
-    <h4><b>Milan (Italy) and web streaming, November 4-5, 2021</b></h3>
-    <hr class="primary">
-  </div>
+    <h3>November 4-5, 2021</h3>
+    <h4>See also the
+      <a href="{{ site.baseurl }}/calconf/">CAL conference main page</a>.
+    </h4>
 
-  <div>
-    <h3><b>Program:</b></h3>
-    <ul>
-      <li><a href="#program-day1"><h4>November 4, 15:00-19:00 CET</h4></a></li>
-      <li><a href="#program-day2"><h4>November 5, 15:00-19:00 CET</h4></a></li>
-    </ul>
-    <hr class="primary">
-  </div>
-
-  <div class="img-responsive" id="program-day1">
-    <h3><b>Day 1</h3>
-    <h3>Opening Session</b></h3>
+    <h3><b>Day 1 Opening Session</b></h3>
     <h4>November 4, 15:00 CET (UTC+1)</h4>
     <hr class="primary">
-    <p id="Opening">
-      <h4><b>Introduction</b></h4>
-      <a href="http://linkedin.com/in/lucia-alessi-78961a5"><i>Lucia Alessi</i></a>, DG Joint Research Centre, European Commission
-      <br>
-      <a href="http://www.ametrano.net/"><i>Ferdinando M. Ametrano</i></a>, Digital Gold Institute and University of Milano-Bicocca
-      <br>
-      <a href="https://www.unimib.it/paola-agnese-bongini"><i>Paola A. Bongini</i></a>, University of Milano-Bicocca
-      <br><br>
-      <h4><b>Welcome Address</b></h4>
-      <a href="https://www.unimib.it/giovanna-iannantuoni"><i>Giovanna Iannantuoni</i></a>, University of Milano-Bicocca
-      <br><br>
-    </p>
+    <table width="100%" id="plenary">
+      <tr>
+        <td width="15%" valign="top">
+          <a href="" class="btn btn-primary btn-xl">Watch on</br>YouTube</a>
+        </td>
+        <td width="85%">
+          <p id="Opening">
+            <h4><b>Introduction</b></h4>
+            <a href="http://linkedin.com/in/lucia-alessi-78961a5"><i>Lucia Alessi</i></a>, DG Joint Research Centre, European Commission
+            <br>
+            <a href="http://www.ametrano.net/"><i>Ferdinando M. Ametrano</i></a>, Digital Gold Institute and University of Milano-Bicocca
+            <br>
+            <a href="https://www.unimib.it/paola-agnese-bongini"><i>Paola A. Bongini</i></a>, University of Milano-Bicocca
+            <br><br>
+            <h4><b>Welcome Address</b></h4>
+            <a href="https://www.unimib.it/giovanna-iannantuoni"><i>Giovanna Iannantuoni</i></a>, University of Milano-Bicocca
+          </p>
+        </td>
+      </tr>
+      </tr>
+    </table>
 
     <h3><b>Crypto-Economics</b></h3>
     <h4>November 4, 15:30 CET (UTC+1)</h4>
     <hr class="primary">
-    <p id="crypto-economics">
-      {% for member in site.data.cal2021_papers %}
-        {% if member.stream == 'Crypto-economics' and member.approval == true %}
-          {% if member.slides %}
-            <a href="{{ site.baseurl }}/docs/CAL2021/{{ member.link }}.pdf"><b>{{ member.paper }}</b></a>, (<a href="{{ site.baseurl }}/docs/CAL2021/slides/{{ member.slides }}.pdf">slides</a>)<br>
-          {% else %}
-            {% if member.link %}
-            <a href="{{ site.baseurl }}/docs/CAL2021/{{ member.link }}.pdf"><b>{{ member.paper }}</b></a><br>
-            {% else %}
-            <b>{{ member.paper }}</b><br>
-            {% endif %}
-          {% endif %}
-          {% if member.author1 %}
-            {% if member.affiliation1 %}
-              <i>{{ member.author1 }}</i>, {{ member.affiliation1 }}<br>
-            {% else %}
-              <i>{{ member.author1 }}</i><br>
-            {% endif %}
-          {% endif %}
-          {% if member.author2 %}
-            {% if member.affiliation2 %}
-              <i>{{ member.author2 }}</i>, {{ member.affiliation2 }}<br>
-            {% else %}
-              <i>{{ member.author2 }}</i><br>
-            {% endif %}
-          {% endif %}
-          {% if member.author3 %}
-            {% if member.affiliation3 %}
-              <i>{{ member.author3 }}</i>, {{ member.affiliation3 }}<br>
-            {% else %}
-              <i>{{ member.author3 }}</i><br>
-            {% endif %}
-          {% endif %}
-          {% if member.author4 %}
-            {% if member.affiliation4 %}
-              <i>{{ member.author4 }}</i>, {{ member.affiliation4 }}<br>
-            {% else %}
-              <i>{{ member.author4 }}</i><br>
-            {% endif %}
-          {% endif %}
-          {% if member.presenter %}
-            Presented by {{ member.presenter }} 
-          {% endif %}
-          <br>
-        {% endif %}
-      {% endfor %}
-      <br>
-      <b>Moderator</b>:
-      <a href=""><i>Name Surname</i></a>, Affiliation
-      <br><br>
-    </p>  
-       
+    <table width="100%" id="plenary">
+      <tr>
+        <td width="15%" valign="top">
+          <a href="" class="btn btn-primary btn-xl">Watch on</br>YouTube</a>
+        </td>
+        <td width="85%">
+          <p id="crypto-economics">
+            {% for member in site.data.cal2021_papers %}
+              {% if member.stream == 'Crypto-economics' and member.approval == true %}
+                {% if member.slides %}
+                  <a href="{{ site.baseurl }}/docs/CAL2021/{{ member.link }}.pdf"><b>{{ member.paper }}</b></a>, (<a href="{{ site.baseurl }}/docs/CAL2021/slides/{{ member.slides }}.pdf">slides</a>)<br>
+                {% else %}
+                  {% if member.link %}
+                  <a href="{{ site.baseurl }}/docs/CAL2021/{{ member.link }}.pdf"><b>{{ member.paper }}</b></a><br>
+                  {% else %}
+                  <b>{{ member.paper }}</b><br>
+                  {% endif %}
+                {% endif %}
+                {% if member.author1 %}
+                  {% if member.affiliation1 %}
+                    <i>{{ member.author1 }}</i>, {{ member.affiliation1 }}<br>
+                  {% else %}
+                    <i>{{ member.author1 }}</i><br>
+                  {% endif %}
+                {% endif %}
+                {% if member.author2 %}
+                  {% if member.affiliation2 %}
+                    <i>{{ member.author2 }}</i>, {{ member.affiliation2 }}<br>
+                  {% else %}
+                    <i>{{ member.author2 }}</i><br>
+                  {% endif %}
+                {% endif %}
+                {% if member.author3 %}
+                  {% if member.affiliation3 %}
+                    <i>{{ member.author3 }}</i>, {{ member.affiliation3 }}<br>
+                  {% else %}
+                    <i>{{ member.author3 }}</i><br>
+                  {% endif %}
+                {% endif %}
+                {% if member.author4 %}
+                  {% if member.affiliation4 %}
+                    <i>{{ member.author4 }}</i>, {{ member.affiliation4 }}<br>
+                  {% else %}
+                    <i>{{ member.author4 }}</i><br>
+                  {% endif %}
+                {% endif %}
+                {% if member.presenter %}
+                  Presented by {{ member.presenter }} 
+                {% endif %}
+                <br>
+              {% endif %}
+            {% endfor %}
+            <b>Moderator</b>:
+            <a href=""><i>Name Surname</i></a>, Affiliation
+          </p>  
+        </td>
+      </tr>
+    </table>  
+    
     <h3><b>Keynote Speech</b></h3>
     <h4>November 4, 17:00 CET (UTC+1)</h4>
     <hr class="primary">
-    <h4><b>Title</b></h4>
-    <a href="https://webusers.imj-prg.fr/~ricardo.perez-marco/"><i>Ricardo Pérez-Marco</i></a>, French National Centre for Scientific Research
-    <br><br>    
+    <table width="100%" id="plenary">
+      <tr>
+        <td width="15%" valign="top">
+          <a href="" class="btn btn-primary btn-xl">Watch on</br>YouTube</a>
+        </td>
+        <td width="85%">
+          <h4><b>Title</b></h4>
+          <a href="https://webusers.imj-prg.fr/~ricardo.perez-marco/"><i>Ricardo Pérez-Marco</i></a>, French National Centre for Scientific Research
+        </td>
+      </tr>
+    </table>
 
     <h3><b>Quantitative Modelling</b></h3>
     <h4>November 4, 17:30 CET (UTC+1)</h4>
     <hr class="primary">
-    <p id="quantitative-modelling">
-      {% for member in site.data.cal2021_papers %}
-        {% if member.stream == 'Quantitative-modelling' and member.approval == true %}
-          {% if member.slides %}
-            <a href="{{ site.baseurl }}/docs/CAL2021/{{ member.link }}.pdf"><b>{{ member.paper }}</b></a>, (<a href="{{ site.baseurl }}/docs/CAL2021/slides/{{ member.slides }}.pdf">slides</a>)<br>
-          {% else %}
-            {% if member.link %}
-            <a href="{{ site.baseurl }}/docs/CAL2021/{{ member.link }}.pdf"><b>{{ member.paper }}</b></a><br>
-            {% else %}
-            <b>{{ member.paper }}</b><br>
-            {% endif %}
-          {% endif %}
-          {% if member.author1 %}
-            {% if member.affiliation1 %}
-              <i>{{ member.author1 }}</i>, {{ member.affiliation1 }}<br>
-            {% else %}
-              <i>{{ member.author1 }}</i><br>
-            {% endif %}
-          {% endif %}
-          {% if member.author2 %}
-            {% if member.affiliation2 %}
-              <i>{{ member.author2 }}</i>, {{ member.affiliation2 }}<br>
-            {% else %}
-              <i>{{ member.author2 }}</i><br>
-            {% endif %}
-          {% endif %}
-          {% if member.author3 %}
-            {% if member.affiliation3 %}
-              <i>{{ member.author3 }}</i>, {{ member.affiliation3 }}<br>
-            {% else %}
-              <i>{{ member.author3 }}</i><br>
-            {% endif %}
-          {% endif %}
-          {% if member.author4 %}
-            {% if member.affiliation4 %}
-              <i>{{ member.author4 }}</i>, {{ member.affiliation4 }}<br>
-            {% else %}
-              <i>{{ member.author4 }}</i><br>
-            {% endif %}
-          {% endif %}
-          {% if member.presenter %}
-            Presented by {{ member.presenter }} 
-          {% endif %}
-          <br>
-        {% endif %}
-      {% endfor %}
-      <br>
-      <b>Moderator</b>:
-      <a href=""><i>Name Surname</i></a>, Affiliation
-      <br><br>
-    </p>  
+    <table width="100%" id="plenary">
+      <tr>
+        <td width="15%" valign="top">
+          <a href="" class="btn btn-primary btn-xl">Watch on</br>YouTube</a>
+        </td>
+        <td width="85%">
+          <p id="quantitative-modelling">
+            {% for member in site.data.cal2021_papers %}
+              {% if member.stream == 'Quantitative-modelling' and member.approval == true %}
+                {% if member.slides %}
+                  <a href="{{ site.baseurl }}/docs/CAL2021/{{ member.link }}.pdf"><b>{{ member.paper }}</b></a>, (<a href="{{ site.baseurl }}/docs/CAL2021/slides/{{ member.slides }}.pdf">slides</a>)<br>
+                {% else %}
+                  {% if member.link %}
+                  <a href="{{ site.baseurl }}/docs/CAL2021/{{ member.link }}.pdf"><b>{{ member.paper }}</b></a><br>
+                  {% else %}
+                  <b>{{ member.paper }}</b><br>
+                  {% endif %}
+                {% endif %}
+                {% if member.author1 %}
+                  {% if member.affiliation1 %}
+                    <i>{{ member.author1 }}</i>, {{ member.affiliation1 }}<br>
+                  {% else %}
+                    <i>{{ member.author1 }}</i><br>
+                  {% endif %}
+                {% endif %}
+                {% if member.author2 %}
+                  {% if member.affiliation2 %}
+                    <i>{{ member.author2 }}</i>, {{ member.affiliation2 }}<br>
+                  {% else %}
+                    <i>{{ member.author2 }}</i><br>
+                  {% endif %}
+                {% endif %}
+                {% if member.author3 %}
+                  {% if member.affiliation3 %}
+                    <i>{{ member.author3 }}</i>, {{ member.affiliation3 }}<br>
+                  {% else %}
+                    <i>{{ member.author3 }}</i><br>
+                  {% endif %}
+                {% endif %}
+                {% if member.author4 %}
+                  {% if member.affiliation4 %}
+                    <i>{{ member.author4 }}</i>, {{ member.affiliation4 }}<br>
+                  {% else %}
+                    <i>{{ member.author4 }}</i><br>
+                  {% endif %}
+                {% endif %}
+                {% if member.presenter %}
+                  Presented by {{ member.presenter }} 
+                {% endif %}
+                <br>
+              {% endif %}
+            {% endfor %}
+            <b>Moderator</b>:
+            <a href=""><i>Name Surname</i></a>, Affiliation
+          </p>  
+        </td>
+      </tr>
+    </table>
   
     <h3><b>Institutional Sponsor Session</b></h3>
     <h4>November 4, 18:45 CET (UTC+1)</h4>
     <hr class="primary">
-    <h4><b>Title</b></h4>
-    <a href=""><i>Name Surname</i></a>, Deloitte Italia
-    <br><br>
-
-    <h3><b>Conclusion of Work</b></h3>
-    <h4>November 4, 19:00 CET (UTC+1)</h4>
-    <hr class="primary">
-    <a href=""><i>Ferdinando Maria Ametrano</i></a>, Crypto Asset Lab
-    <br>
+    <table width="100%" id="plenary">
+      <tr>
+        <td width="15%" valign="top">
+          <a href="" class="btn btn-primary btn-xl">Watch on</br>YouTube</a>
+        </td>
+        <td width="85%">
+          <h4><b>Title</b></h4>
+          <a href=""><i>Name Surname</i></a>, Deloitte Italia
+        </td>
+      </tr>
+    </table>
   </div>
 
+  <br>
+  <hr class="primary">
+  <!--Day2-->
   <div class="img-responsive" id="program-day2">
-    <h3><b>Day 2</h3>
-    <h3>Opening Session</b></h3>
+
+    <h3><b>Day 2 Opening Session</b></h3>
     <h4>November 5, 15:00 CET (UTC+1)</h4>
     <hr class="primary">
-    <p id="Opening">
-      <h4><b>Introduction</b></h4>
-      <a href="http://linkedin.com/in/lucia-alessi-78961a5"><i>Lucia Alessi</i></a>, DG Joint Research Centre, European Commission
-      <br>
-      <a href="http://www.ametrano.net/"><i>Ferdinando M. Ametrano</i></a>, Digital Gold Institute and University of Milano-Bicocca
-      <br>
-      <a href="https://www.unimib.it/paola-agnese-bongini"><i>Paola A. Bongini</i></a>, University of Milano-Bicocca
-      <br><br>
-    </p>
+    <table width="100%" id="plenary">
+      <tr>
+        <td width="15%" valign="top">
+          <a href="" class="btn btn-primary btn-xl">Watch on</br>YouTube</a>
+        </td>
+        <td width="85%">
+          <p id="Opening">
+            <h4><b>Introduction</b></h4>
+            <a href="http://linkedin.com/in/lucia-alessi-78961a5"><i>Lucia Alessi</i></a>, DG Joint Research Centre, European Commission
+            <br>
+            <a href="http://www.ametrano.net/"><i>Ferdinando M. Ametrano</i></a>, Digital Gold Institute and University of Milano-Bicocca
+            <br>
+            <a href="https://www.unimib.it/paola-agnese-bongini"><i>Paola A. Bongini</i></a>, University of Milano-Bicocca
+          </p>
+        </td>
+      </tr>
+    </table>
 
     <h3><b>Investments and Trading</b></h3>
     <h4>November 5, 15:15 CET (UTC+1)</h4>
     <hr class="primary">
-    <p id="investments-trading">
-      {% for member in site.data.cal2021_papers %}
-        {% if member.stream == 'Investments-and-trading' and member.approval == true %}
-          {% if member.slides %}
-            <a href="{{ site.baseurl }}/docs/CAL2021/{{ member.link }}.pdf"><b>{{ member.paper }}</b></a>, (<a href="{{ site.baseurl }}/docs/CAL2021/slides/{{ member.slides }}.pdf">slides</a>)<br>
-          {% else %}
-            {% if member.link %}
-            <a href="{{ site.baseurl }}/docs/CAL2021/{{ member.link }}.pdf"><b>{{ member.paper }}</b></a><br>
-            {% else %}
-            <b>{{ member.paper }}</b><br>
-            {% endif %}
-          {% endif %}
-          {% if member.author1 %}
-            {% if member.affiliation1 %}
-              <i>{{ member.author1 }}</i>, {{ member.affiliation1 }}<br>
-            {% else %}
-              <i>{{ member.author1 }}</i><br>
-            {% endif %}
-          {% endif %}
-          {% if member.author2 %}
-            {% if member.affiliation2 %}
-              <i>{{ member.author2 }}</i>, {{ member.affiliation2 }}<br>
-            {% else %}
-              <i>{{ member.author2 }}</i><br>
-            {% endif %}
-          {% endif %}
-          {% if member.author3 %}
-            {% if member.affiliation3 %}
-              <i>{{ member.author3 }}</i>, {{ member.affiliation3 }}<br>
-            {% else %}
-              <i>{{ member.author3 }}</i><br>
-            {% endif %}
-          {% endif %}
-          {% if member.author4 %}
-            {% if member.affiliation4 %}
-              <i>{{ member.author4 }}</i>, {{ member.affiliation4 }}<br>
-            {% else %}
-              <i>{{ member.author4 }}</i><br>
-            {% endif %}
-          {% endif %}
-          {% if member.presenter %}
-            Presented by {{ member.presenter }} 
-          {% endif %}
-          <br>
-        {% endif %}
-      {% endfor %}
-      <br>
-      <b>Moderator</b>:
-      <a href=""><i>Name Surname</i></a>, Affiliation
-      <br><br>
-    </p>  
-       
+    <table width="100%" id="plenary">
+      <tr>
+        <td width="15%" valign="top">
+          <a href="" class="btn btn-primary btn-xl">Watch on</br>YouTube</a>
+        </td>
+        <td width="85%">
+          <p id="investments-trading">
+            {% for member in site.data.cal2021_papers %}
+              {% if member.stream == 'Investments-and-trading' and member.approval == true %}
+                {% if member.slides %}
+                  <a href="{{ site.baseurl }}/docs/CAL2021/{{ member.link }}.pdf"><b>{{ member.paper }}</b></a>, (<a href="{{ site.baseurl }}/docs/CAL2021/slides/{{ member.slides }}.pdf">slides</a>)<br>
+                {% else %}
+                  {% if member.link %}
+                  <a href="{{ site.baseurl }}/docs/CAL2021/{{ member.link }}.pdf"><b>{{ member.paper }}</b></a><br>
+                  {% else %}
+                  <b>{{ member.paper }}</b><br>
+                  {% endif %}
+                {% endif %}
+                {% if member.author1 %}
+                  {% if member.affiliation1 %}
+                    <i>{{ member.author1 }}</i>, {{ member.affiliation1 }}<br>
+                  {% else %}
+                    <i>{{ member.author1 }}</i><br>
+                  {% endif %}
+                {% endif %}
+                {% if member.author2 %}
+                  {% if member.affiliation2 %}
+                    <i>{{ member.author2 }}</i>, {{ member.affiliation2 }}<br>
+                  {% else %}
+                    <i>{{ member.author2 }}</i><br>
+                  {% endif %}
+                {% endif %}
+                {% if member.author3 %}
+                  {% if member.affiliation3 %}
+                    <i>{{ member.author3 }}</i>, {{ member.affiliation3 }}<br>
+                  {% else %}
+                    <i>{{ member.author3 }}</i><br>
+                  {% endif %}
+                {% endif %}
+                {% if member.author4 %}
+                  {% if member.affiliation4 %}
+                    <i>{{ member.author4 }}</i>, {{ member.affiliation4 }}<br>
+                  {% else %}
+                    <i>{{ member.author4 }}</i><br>
+                  {% endif %}
+                {% endif %}
+                {% if member.presenter %}
+                  Presented by {{ member.presenter }} 
+                {% endif %}
+                <br>
+              {% endif %}
+            {% endfor %}
+            <b>Moderator</b>:
+            <a href=""><i>Name Surname</i></a>, Affiliation
+          </p> 
+        </td>
+      </tr>
+    </table>
+
     <h3><b>Keynote Speech</b></h3>
     <h4>November 5, 16:30 CET (UTC+1)</h4>
     <hr class="primary">
-    <h4><b>Title</b></h4>
-    <a href=""><i>Name Surname</i></a>, Affiliation
-    <br><br>    
+    <table width="100%" id="plenary">
+      <tr>
+        <td width="15%" valign="top">
+          <a href="" class="btn btn-primary btn-xl">Watch on</br>YouTube</a>
+        </td>
+        <td width="85%">
+          <h4><b>Title</b></h4>
+          <a href=""><i>Name Surname</i></a>, Affiliation
+        </td>
+      </tr>
+    </table>
 
     <h3><b>Business Services</b></h3>
     <h4>November 5, 17:00 CET (UTC+1)</h4>
     <hr class="primary">
-    <p id="business-services">
-      {% for member in site.data.cal2021_papers %}
-        {% if member.stream == 'Business-services' and member.approval == true %}
-          {% if member.slides %}
-            <a href="{{ site.baseurl }}/docs/CAL2021/{{ member.link }}.pdf"><b>{{ member.paper }}</b></a>, (<a href="{{ site.baseurl }}/docs/CAL2021/slides/{{ member.slides }}.pdf">slides</a>)<br>
-          {% else %}
-            {% if member.link %}
-            <a href="{{ site.baseurl }}/docs/CAL2021/{{ member.link }}.pdf"><b>{{ member.paper }}</b></a><br>
-            {% else %}
-            <b>{{ member.paper }}</b><br>
-            {% endif %}
-          {% endif %}
-          {% if member.author1 %}
-            {% if member.affiliation1 %}
-              <i>{{ member.author1 }}</i>, {{ member.affiliation1 }}<br>
-            {% else %}
-              <i>{{ member.author1 }}</i><br>
-            {% endif %}
-          {% endif %}
-          {% if member.author2 %}
-            {% if member.affiliation2 %}
-              <i>{{ member.author2 }}</i>, {{ member.affiliation2 }}<br>
-            {% else %}
-              <i>{{ member.author2 }}</i><br>
-            {% endif %}
-          {% endif %}
-          {% if member.author3 %}
-            {% if member.affiliation3 %}
-              <i>{{ member.author3 }}</i>, {{ member.affiliation3 }}<br>
-            {% else %}
-              <i>{{ member.author3 }}</i><br>
-            {% endif %}
-          {% endif %}
-          {% if member.author4 %}
-            {% if member.affiliation4 %}
-              <i>{{ member.author4 }}</i>, {{ member.affiliation4 }}<br>
-            {% else %}
-              <i>{{ member.author4 }}</i><br>
-            {% endif %}
-          {% endif %}
-          {% if member.presenter %}
-            Presented by {{ member.presenter }} 
-          {% endif %}
-          <br>
-        {% endif %}
-      {% endfor %}
-      <br>
-      <b>Moderator</b>:
-      <a href=""><i>Name Surname</i></a>, Affiliation
-      <br><br>
-    </p>  
+    <table width="100%" id="plenary">
+      <tr>
+        <td width="15%" valign="top">
+          <a href="" class="btn btn-primary btn-xl">Watch on</br>YouTube</a>
+        </td>
+        <td width="85%">
+          <p id="business-services">
+            {% for member in site.data.cal2021_papers %}
+              {% if member.stream == 'Business-services' and member.approval == true %}
+                {% if member.slides %}
+                  <a href="{{ site.baseurl }}/docs/CAL2021/{{ member.link }}.pdf"><b>{{ member.paper }}</b></a>, (<a href="{{ site.baseurl }}/docs/CAL2021/slides/{{ member.slides }}.pdf">slides</a>)<br>
+                {% else %}
+                  {% if member.link %}
+                  <a href="{{ site.baseurl }}/docs/CAL2021/{{ member.link }}.pdf"><b>{{ member.paper }}</b></a><br>
+                  {% else %}
+                  <b>{{ member.paper }}</b><br>
+                  {% endif %}
+                {% endif %}
+                {% if member.author1 %}
+                  {% if member.affiliation1 %}
+                    <i>{{ member.author1 }}</i>, {{ member.affiliation1 }}<br>
+                  {% else %}
+                    <i>{{ member.author1 }}</i><br>
+                  {% endif %}
+                {% endif %}
+                {% if member.author2 %}
+                  {% if member.affiliation2 %}
+                    <i>{{ member.author2 }}</i>, {{ member.affiliation2 }}<br>
+                  {% else %}
+                    <i>{{ member.author2 }}</i><br>
+                  {% endif %}
+                {% endif %}
+                {% if member.author3 %}
+                  {% if member.affiliation3 %}
+                    <i>{{ member.author3 }}</i>, {{ member.affiliation3 }}<br>
+                  {% else %}
+                    <i>{{ member.author3 }}</i><br>
+                  {% endif %}
+                {% endif %}
+                {% if member.author4 %}
+                  {% if member.affiliation4 %}
+                    <i>{{ member.author4 }}</i>, {{ member.affiliation4 }}<br>
+                  {% else %}
+                    <i>{{ member.author4 }}</i><br>
+                  {% endif %}
+                {% endif %}
+                {% if member.presenter %}
+                  Presented by {{ member.presenter }} 
+                {% endif %}
+                <br>
+              {% endif %}
+            {% endfor %}
+            <b>Moderator</b>:
+            <a href=""><i>Name Surname</i></a>, Affiliation
+          </p>
+        </td>
+      </tr>
+    </table>
   
     <h3><b>Industrial Sponsor Session</b></h3>
     <h4>November 5, 18:05 CET (UTC+1)</h4>
     <hr class="primary">
-    <h4><b>Title</b></h4>
-    <a href=""><i>Michele Mandelli</i></a>, CheckSig
-    <br><br>
+    <table width="100%" id="plenary">
+      <tr>
+        <td width="15%" valign="top">
+          <a href="" class="btn btn-primary btn-xl">Watch on</br>YouTube</a>
+        </td>
+        <td width="85%">
+          <h4><b>Title</b></h4>
+          <a href=""><i>Michele Mandelli</i></a>, CheckSig
+        </td>
+      </tr>
+    </table>
     
     <h3><b>Fungible and Non Fungible Tokens</b></h3>
     <h4>November 5, 18:15 CET (UTC+1)</h4>
     <hr class="primary">
-    <p id="nft">
-      {% for member in site.data.cal2021_papers %}
-        {% if member.stream == 'Fungible-and-NF-Tokens' and member.approval == true %}
-          {% if member.slides %}
-            <a href="{{ site.baseurl }}/docs/CAL2021/{{ member.link }}.pdf"><b>{{ member.paper }}</b></a>, (<a href="{{ site.baseurl }}/docs/CAL2021/slides/{{ member.slides }}.pdf">slides</a>)<br>
-          {% else %}
-            {% if member.link %}
-            <a href="{{ site.baseurl }}/docs/CAL2021/{{ member.link }}.pdf"><b>{{ member.paper }}</b></a><br>
-            {% else %}
-            <b>{{ member.paper }}</b><br>
-            {% endif %}
-          {% endif %}
-          {% if member.author1 %}
-            {% if member.affiliation1 %}
-              <i>{{ member.author1 }}</i>, {{ member.affiliation1 }}<br>
-            {% else %}
-              <i>{{ member.author1 }}</i><br>
-            {% endif %}
-          {% endif %}
-          {% if member.author2 %}
-            {% if member.affiliation2 %}
-              <i>{{ member.author2 }}</i>, {{ member.affiliation2 }}<br>
-            {% else %}
-              <i>{{ member.author2 }}</i><br>
-            {% endif %}
-          {% endif %}
-          {% if member.author3 %}
-            {% if member.affiliation3 %}
-              <i>{{ member.author3 }}</i>, {{ member.affiliation3 }}<br>
-            {% else %}
-              <i>{{ member.author3 }}</i><br>
-            {% endif %}
-          {% endif %}
-          {% if member.author4 %}
-            {% if member.affiliation4 %}
-              <i>{{ member.author4 }}</i>, {{ member.affiliation4 }}<br>
-            {% else %}
-              <i>{{ member.author4 }}</i><br>
-            {% endif %}
-          {% endif %}
-          {% if member.presenter %}
-            Presented by {{ member.presenter }} 
-          {% endif %}
-          <br>
-        {% endif %}
-      {% endfor %}
-      <br>
-      <b>Moderator</b>:
-      <a href=""><i>Name Surname</i></a>, Affiliation
-      <br><br>
-    </p>  
+    <table width="100%" id="plenary">
+      <tr>
+        <td width="15%" valign="top">
+          <a href="" class="btn btn-primary btn-xl">Watch on</br>YouTube</a>
+        </td>
+        <td width="85%">
+          <p id="nft">
+            {% for member in site.data.cal2021_papers %}
+              {% if member.stream == 'Fungible-and-NF-Tokens' and member.approval == true %}
+                {% if member.slides %}
+                  <a href="{{ site.baseurl }}/docs/CAL2021/{{ member.link }}.pdf"><b>{{ member.paper }}</b></a>, (<a href="{{ site.baseurl }}/docs/CAL2021/slides/{{ member.slides }}.pdf">slides</a>)<br>
+                {% else %}
+                  {% if member.link %}
+                  <a href="{{ site.baseurl }}/docs/CAL2021/{{ member.link }}.pdf"><b>{{ member.paper }}</b></a><br>
+                  {% else %}
+                  <b>{{ member.paper }}</b><br>
+                  {% endif %}
+                {% endif %}
+                {% if member.author1 %}
+                  {% if member.affiliation1 %}
+                    <i>{{ member.author1 }}</i>, {{ member.affiliation1 }}<br>
+                  {% else %}
+                    <i>{{ member.author1 }}</i><br>
+                  {% endif %}
+                {% endif %}
+                {% if member.author2 %}
+                  {% if member.affiliation2 %}
+                    <i>{{ member.author2 }}</i>, {{ member.affiliation2 }}<br>
+                  {% else %}
+                    <i>{{ member.author2 }}</i><br>
+                  {% endif %}
+                {% endif %}
+                {% if member.author3 %}
+                  {% if member.affiliation3 %}
+                    <i>{{ member.author3 }}</i>, {{ member.affiliation3 }}<br>
+                  {% else %}
+                    <i>{{ member.author3 }}</i><br>
+                  {% endif %}
+                {% endif %}
+                {% if member.author4 %}
+                  {% if member.affiliation4 %}
+                    <i>{{ member.author4 }}</i>, {{ member.affiliation4 }}<br>
+                  {% else %}
+                    <i>{{ member.author4 }}</i><br>
+                  {% endif %}
+                {% endif %}
+                {% if member.presenter %}
+                  Presented by {{ member.presenter }} 
+                {% endif %}
+                <br>
+              {% endif %}
+            {% endfor %}
+            <b>Moderator</b>:
+            <a href=""><i>Name Surname</i></a>, Affiliation
+          </p>
+        </td>
+      </tr>
+    </table>
 
     <h3><b>Closing Session</b></h3>
     <h4>November 5, 18:45 CET (UTC+1)</h4>
     <hr class="primary">
-    <a href="https://www.unimib.it/paola-agnese-bongini"><i>Paola A. Bongini</i></a>, University of Milano-Bicocca<br>
-    <a href="http://linkedin.com/in/lucia-alessi-78961a5"><i>Lucia Alessi</i></a>, DG Joint Research Centre, European Commission
-    <br>
-
-    <h3><b>Conclusion of Work</b></h3>
-    <h4>November 5, 19:00 CET (UTC+1)</h4>
-    <hr class="primary">
-    <a href=""><i>Ferdinando Maria Ametrano</i></a>, Crypto Asset Lab
-    <br>
+    <table width="100%" id="plenary">
+      <tr>
+        <td width="15%" valign="top">
+          <a href="" class="btn btn-primary btn-xl">Watch on</br>YouTube</a>
+        </td>
+        <td width="85%">
+          <a href="https://www.unimib.it/paola-agnese-bongini"><i>Paola A. Bongini</i></a>, University of Milano-Bicocca<br>
+          <a href="http://linkedin.com/in/lucia-alessi-78961a5"><i>Lucia Alessi</i></a>, DG Joint Research Centre, European Commission
+        </td>
+      </tr>
+    </table>
   </div>
 
-  <!--div class="img-responsive" id="program-committee">
+  <div class="img-responsive" id="program-committee">
     <br>
     <h3><b>Organizing Committee</b></h3>
     <hr class="primary">
-
     <ul>
       <li><b>Program Chairs</b>
         <ul>
@@ -440,7 +516,7 @@ permalink: /cal2021tentative/
         </ul>
       </li>
     </ul>
-  </div-->
+  </div>
 
   <div class="img-responsive" id="contact">
     <br>
