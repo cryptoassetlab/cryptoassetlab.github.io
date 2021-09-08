@@ -9,7 +9,7 @@
   presenter: "Paolo Mazzocchi"
   stream: "Business-services"
   slides: 
-  approval: true
+  approval: false
   
 - paper: "Chaining up Time: Bitcoin and Long-Term Validity of PKI Timestamp Tokens"
   link: 
@@ -17,7 +17,7 @@
   affiliation1: "Intesi Group"
   stream: "Business-services"
   slides: 
-  approval: true
+  approval: false
   
 - paper: "The Transition- Dynamics from Government Money only to Diversifed (Crypto-) Currency Competition"
   link: 
@@ -62,7 +62,7 @@
   presenter: 
   stream: "Crypto-economics"
   slides: 
-  approval: true
+  approval: false
 
 - paper: "Best Before? Expiring Central Bank Digital Currency and Loss Recovery"
   link: 
@@ -75,7 +75,7 @@
   presenter: 
   stream: "Crypto-economics"
   slides: 
-  approval: true
+  approval: false
  
 - paper: "Monetary Policy Pass-Through with Central Bank Digital Currency"
   link: 
@@ -86,7 +86,7 @@
   presenter: 
   stream: "Crypto-economics"
   slides: 
-  approval: true
+  approval: false
 
 - paper: "Vertically Disintegrated Platforms"
   link: "Vertically Disintegrated Platforms - Aymann, Dewatripont, Roukny"
@@ -99,7 +99,7 @@
   presenter: 
   stream: "Crypto-economics"
   slides: 
-  approval: true
+  approval: false
  
 - paper: "A topic modelling analysis of the white paper in security token offerings: does technology matter"
   link: 
@@ -112,7 +112,7 @@
   presenter: 
   stream: "Fungible-and-NF-Tokens"
   slides: 
-  approval: true
+  approval: false
 
 - paper: "Non-fungible token markets on the Ethereum blockchain"
   link: "Non-fungible token (NFT) markets on the Ethereum blockchain - Ante"
@@ -120,7 +120,7 @@
   affiliation1: "Blockchain Research Lab"
   stream: "Fungible-and-NF-Tokens"
   slides: 
-  approval: true
+  approval: false
  
 - paper: "Mechanism design with Tokens"
   link: 
@@ -161,7 +161,7 @@
   presenter: 
   stream: "Investments-and-trading"
   slides: 
-  approval: true
+  approval: false
  
 - paper: "Intraday Herding and Attention Around the Clock"
   link: 
@@ -171,7 +171,7 @@
   presenter: 
   stream: "Investments-and-trading"
   slides: 
-  approval: true
+  approval: false
  
 - paper: "Bitcoin and News Around the World in Twenty-Six Languages"
   link: 
@@ -186,7 +186,7 @@
   presenter: 
   stream: "Investments-and-trading"
   slides: 
-  approval: true
+  approval: false
  
 - paper: "Towards total decentralisation through non-adjudicative methods"
   link: 
@@ -277,7 +277,7 @@
   presenter: 
   stream: "Quantitative-modelling"
   slides: 
-  approval: true
+  approval: false
 
 - paper: "Common dynamic factors for cryptocurrencies and multiple pair-trading statistical arbitrages"
   link: "Common dynamic factors - Figa Talamanca, Focardi, Patacca"
@@ -290,7 +290,7 @@
   presenter: 
   stream: "Quantitative-modelling"
   slides: 
-  approval: true
+  approval: false
 
 - paper: "Interdependence, Contagion and Speculative Bubbles in Cryptocurrency Markets"
   link: "Interdependence, Contagion and Speculative Bubbles - Bazan Palomino"
@@ -298,4 +298,4 @@
   affiliation1: "Fordham University New York, Universidad del Pacifico"
   stream: "Quantitative-modelling"
   slides: 
-  approval: true
+  approval: false
