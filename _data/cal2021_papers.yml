@@ -16,7 +16,7 @@
   author1: "Emanuele Cisbani"
   affiliation1: "Intesi Group"
   stream: "Business-services"
-  slides: 
+  slides: "Chaining up Time - Cisbani"
   approval: false
   
 - paper: "The Transition- Dynamics from Government Money only to Diversifed (Crypto-) Currency Competition"
@@ -263,7 +263,7 @@
   author1: "Bohdan Vakhitov"
   affiliation1: 
   stream: "Quantitative-modelling"
-  slides: 
+  slides: "Cryptocurrency Price Prediction - Vakhitov"
   approval: false
 
 - paper: "Sentiment, Google Queries and Explosivity in the Cryptocurrency Market"
