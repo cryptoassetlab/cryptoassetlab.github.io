@@ -20,9 +20,9 @@
   approval: false
   
 - paper: "The Transition- Dynamics from Government Money only to Diversifed (Crypto-) Currency Competition"
-  link: 
+  link: "Filip (2021) Transition dynamics with (crypto-) currency competition"
   author1: "Katharina Filip"
-  affiliation1: 
+  affiliation1: "Vienna University of Economics and Business"
   stream: "Crypto-economics"
   slides: 
   approval: false
@@ -38,14 +38,14 @@
   slides: 
   approval: false
 
-- paper: "Are Stablecoins stabilizing or destabilizing the crypto market?"
-  link: 
-  author1: "Juan Lin"
-  affiliation1: 
-  author2: "Yang Ji"
-  affiliation2: 
+- paper: "Are Stablecoins Stabilizing or Destabilizing the Crypto Market?"
+  link: "Are Stablecoins Stabilizing or Destabilizing The Crypto"
+  author1: "Yang Ji"
+  affiliation1: "Associate professor, School of Economics, Xiamen University"
+  author2: "Juan Lin"
+  affiliation2: "Associate professor, School of Economics, Xiamen University"
   author3: "Peng Wang"
-  affiliation3: 
+  affiliation3: "PhD candidate, School of Economics, Xiamen University"
   presenter: 
   stream: "Crypto-economics"
   slides: 
@@ -78,11 +78,11 @@
   approval: false
  
 - paper: "Monetary Policy Pass-Through with Central Bank Digital Currency"
-  link: 
+  link: "CBDC_PassThrough Jiang and Zhu"
   author1: "Janet Jiang"
-  affiliation1: 
+  affiliation1: Bank of Canada
   author2: "Yu Zhu"
-  affiliation2: 
+  affiliation2: Bank of Canada
   presenter: 
   stream: "Crypto-economics"
   slides: 
@@ -259,11 +259,11 @@
   approval: false
 
 - paper: "Cryptocurrency Price Prediction  Based on Twitter Sentiment Analysis"
-  link: 
+  link: "Cryptocurrency Price Prediction - Vakhitov"
   author1: "Bohdan Vakhitov"
   affiliation1: 
   stream: "Quantitative-modelling"
-  slides: "Cryptocurrency Price Prediction - Vakhitov"
+  slides: 
   approval: false
 
 - paper: "Sentiment, Google Queries and Explosivity in the Cryptocurrency Market"
@@ -296,6 +296,16 @@
   link: "Interdependence, Contagion and Speculative Bubbles - Bazan Palomino"
   author1: "Walter Bazán-Palomino"
   affiliation1: "Fordham University New York, Universidad del Pacifico"
+  stream: "Quantitative-modelling"
+  slides: 
+  approval: false
+
+- paper: "A broad analysis of short-term overreactions in the market for cryptocurrencies"
+  link: "Article_Overreaction_Cryptomarket"
+  author1: "Tobias Kellner"
+  affiliation1: "Center for Empirical Research in Economics and Behavioral Sciences, University of Erfurt"
+  author2: "Dominik Maltritz"
+  affiliation2: "Faculty of Economics, Law and Social Sciences, University of Erfurt Nordhäuser"
   stream: "Quantitative-modelling"
   slides: 
   approval: false
