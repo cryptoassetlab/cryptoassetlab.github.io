@@ -122,10 +122,10 @@
   slides: 
   approval: false
  
-- paper: "Mechanism design with Tokens"
-  link: 
+- paper: "Auctions with Tokens"
+  link: "Auctions with Tokens - Canidio"
   author1: "Andrea Canidio"
-  affiliation1: 
+  affiliation1: "IMT school of advanced studies"
   stream: "Fungible-and-NF-Tokens"
   slides: 
   approval: false
