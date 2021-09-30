@@ -65,13 +65,13 @@
   approval: false
 
 - paper: "Best Before? Expiring Central Bank Digital Currency and Loss Recovery"
-  link: 
+  link: "Expiring_offline_money 210924"
   author1: "Charles M. Kahn"
-  affiliation1: 
+  affiliation1: "University of Illinois"
   author2: "Maarten R.C. van Oordt"
-  affiliation2: 
+  affiliation2: "Vrije Universiteit Amsterdam"
   author3: "Yu Zhu"
-  affiliation3:
+  affiliation3: "Bank of Canada"
   presenter: 
   stream: "Crypto-economics"
   slides: 
@@ -141,8 +141,8 @@
   slides: 
   approval: false
  
-- paper: "The Tokenisation of Real Estate: EU-US perspectives"
-  link: 
+- paper: "The Tokenisation of Real Estate Comparative Perspectives"
+  link: "The Tokenisation of Real Estate Comparative Perspectives"
   author1: "Cristina Poncibò"
   affiliation1: 
   presenter: "Cristina Poncibò"
@@ -164,11 +164,11 @@
   approval: false
  
 - paper: "Intraday Herding and Attention Around the Clock"
-  link: 
+  link: "Intraday Herding and Attention Around the Clock"
   author1: "Stefan Scharnowski"
-  affiliation1: 
+  affiliation1: University of Mannheim
   author2: "Yanghua Shi"
-  presenter: 
+  presenter: University of Mannheim
   stream: "Investments-and-trading"
   slides: 
   approval: false
