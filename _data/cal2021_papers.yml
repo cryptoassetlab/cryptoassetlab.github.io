@@ -101,14 +101,14 @@
   slides: 
   approval: false
  
-- paper: "A topic modelling analysis of the white paper in security token offerings: does technology matter"
-  link: 
+- paper: "A topic modelling analysis of white papers in security token offerings: which topic matters for funds?"
+  link: "A topic modelling analysis of white papers in security token offerings_which topic matters for funds"
   author1: "Paola Bongini"
-  affiliation1: "University of Milano-Bicocca"
+  affiliation1: "Full Professor, University of Milano-Bicocca""
   author2: "Alessia Pedrazzoli"
-  affiliation2: 
+  affiliation2: "Lecturer, University of Modena and Reggio Emilia"
   author3: "Monica Rossolini"
-  affiliation3:
+  affiliation3:"Associate Professor, University of Milano-Bicocca"
   presenter: 
   stream: "Fungible-and-NF-Tokens"
   slides: 
@@ -189,15 +189,15 @@
   approval: false
  
 - paper: "Towards total decentralisation through non-adjudicative methods"
-  link: 
+  link: "Towards total decentralisation through non-adjudicative methods"
   author1: "Cristina Poncibò"
-  affiliation1: 
-  author2: "Fadi Barbàra"
-  affiliation2: 
-  author3: "Andrea Gangemi"
-  affiliation3:
-  author4: "Giulio Stefano Ravot"
-  affiliation4:
+  affiliation1: "Professor of Comparative Private Law, University of Turin"
+  author2: "Andrea Gangemi"
+  affiliation2: "CDO Aspera Anonymous Dispute Resolution"
+  author3: "Giulio Stefano Ravot"
+  affiliation3: "CEO Aspera Anonymous Dispute Resolution"
+  author4: "Giacomo Corrias"
+  affiliation4: "CTO Aspera Anonymous Dispute Resolution"
   presenter: 
   stream: "Legal-and-regulatory"
   slides: 
