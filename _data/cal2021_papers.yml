@@ -110,7 +110,7 @@
   slides: 
   approval: false
   id: 9
- 
+  
 - paper: "A topic modelling analysis of white papers in security token offerings: which topic matters for funds?"
   link: "A topic modelling analysis of white papers in security token offerings_which topic matters for funds"
   author1: "Paola Bongini"
@@ -348,14 +348,14 @@
   affiliation1: "Imperial College London"
   author2: "Daniel Perez"
   affiliation2: "Imperial College London"
-  author2: "Lewis Gudgeon"
-  affiliation2: "Imperial College London"
-  author2: "Ariah Klages-Mundt"
-  affiliation2: "Cornell University"
-  author2: "Dominik Harz"
-  affiliation2: "Imperial College London"
-  author2: "William J. Knottenbelt"
-  affiliation2: "Imperial College London"
+  author3: "Lewis Gudgeon"
+  affiliation3: "Imperial College London"
+  author4: "Ariah Klages-Mundt"
+  affiliation4: "Cornell University"
+  author5: "Dominik Harz"
+  affiliation5: "Imperial College London"
+  author6: "William J. Knottenbelt"
+  affiliation6: "Imperial College London"
   presenter:
   stream: 
   slides: 

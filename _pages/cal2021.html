@@ -296,6 +296,20 @@ permalink: /cal2021unofficial/
                   {% else %}
                     <i>{{ member.author4 }}</i><br>
                   {% endif %}
+                {% endif %}      
+                {% if member.author5 %}
+                  {% if member.affiliation5 %}
+                    <i>{{ member.author5 }}</i>, {{ member.affiliation5 }}<br>
+                  {% else %}
+                    <i>{{ member.author5 }}</i><br>
+                  {% endif %}
+                {% endif %}
+                {% if member.author6 %}
+                  {% if member.affiliation6 %}
+                    <i>{{ member.author6 }}</i>, {{ member.affiliation6 }}<br>
+                  {% else %}
+                    <i>{{ member.author6 }}</i><br>
+                  {% endif %}
                 {% endif %}
                 {% if member.presenter %}
                   Presented by {{ member.presenter }} 
