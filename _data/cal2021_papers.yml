@@ -10,14 +10,17 @@
   stream: "Business-services"
   slides: 
   approval: false
+  id: 1
   
 - paper: "Chaining up Time: Bitcoin and Long-Term Validity of PKI Timestamp Tokens"
-  link: 
+  link: "Chaining up Time - Cisbani"
   author1: "Emanuele Cisbani"
   affiliation1: "Intesi Group"
   stream: "Business-services"
-  slides: "Chaining up Time - Cisbani"
+  presenter: "Emanuele Cisbani"
+  slides: 
   approval: false
+  id: 2
   
 - paper: "The Transition- Dynamics from Government Money only to Diversifed (Crypto-) Currency Competition"
   link: "Filip (2021) Transition dynamics with (crypto-) currency competition"
@@ -26,6 +29,7 @@
   stream: "Crypto-economics"
   slides: 
   approval: false
+  id: 3
  
 - paper: "The Effect of CBDCs on Banks Panics in an Overlapping Generation Model"
   link: "The effect of CBDCs on banks panics in an overlapping generation model"
@@ -37,6 +41,7 @@
   stream: "Crypto-economics"
   slides: 
   approval: false
+  id: 4
 
 - paper: "Are Stablecoins Stabilizing or Destabilizing the Crypto Market?"
   link: "Are Stablecoins Stabilizing or Destabilizing The Crypto"
@@ -49,7 +54,8 @@
   presenter: 
   stream: "Crypto-economics"
   slides: 
-  approval: false
+  approval: false  
+  id: 5
  
 - paper: "Digital Currencies in Financial Networks"
   link: "Digital currencies in financial networks - Castren, Kavonius, Rancan"
@@ -63,6 +69,7 @@
   stream: "Crypto-economics"
   slides: 
   approval: false
+  id: 6
 
 - paper: "Best Before? Expiring Central Bank Digital Currency and Loss Recovery"
   link: "Expiring_offline_money 210924"
@@ -76,17 +83,19 @@
   stream: "Crypto-economics"
   slides: 
   approval: false
+  id: 7
  
 - paper: "Monetary Policy Pass-Through with Central Bank Digital Currency"
   link: "CBDC_PassThrough Jiang and Zhu"
   author1: "Janet Jiang"
-  affiliation1: Bank of Canada
+  affiliation1: "Bank of Canada"
   author2: "Yu Zhu"
-  affiliation2: Bank of Canada
+  affiliation2: "Bank of Canada"
   presenter: 
   stream: "Crypto-economics"
   slides: 
   approval: false
+  id: 8
 
 - paper: "Vertically Disintegrated Platforms"
   link: "Vertically Disintegrated Platforms - Aymann, Dewatripont, Roukny"
@@ -100,6 +109,7 @@
   stream: "Crypto-economics"
   slides: 
   approval: false
+  id: 9
  
 - paper: "A topic modelling analysis of white papers in security token offerings: which topic matters for funds?"
   link: "A topic modelling analysis of white papers in security token offerings_which topic matters for funds"
@@ -110,24 +120,30 @@
   author3: "Monica Rossolini"
   affiliation3:"Associate Professor, University of Milano-Bicocca"
   stream: "Fungible-and-NF-Tokens"
+  presenter:
   slides: 
   approval: false
+  id: 10
 
 - paper: "Non-fungible token markets on the Ethereum blockchain"
   link: "Non-fungible token (NFT) markets on the Ethereum blockchain - Ante"
   author1: "Lennart Ante"
   affiliation1: "Blockchain Research Lab"
   stream: "Fungible-and-NF-Tokens"
+  presenter:
   slides: 
   approval: false
+  id: 11
  
 - paper: "Auctions with Tokens"
   link: "Auctions with Tokens - Canidio"
   author1: "Andrea Canidio"
   affiliation1: "IMT school of advanced studies"
   stream: "Fungible-and-NF-Tokens"
+  presenter:
   slides: 
   approval: false
+  id: 12
 
 - paper: "Auction Design Settings and Success Factors of Token Sales"
   link: 
@@ -139,6 +155,7 @@
   stream: "Fungible-and-NF-Tokens"
   slides: 
   approval: false
+  id: 13
  
 - paper: "The Tokenisation of Real Estate Comparative Perspectives"
   link: "The Tokenisation of Real Estate Comparative Perspectives"
@@ -148,29 +165,33 @@
   stream: "Fungible-and-NF-Tokens"
   slides: 
   approval: false
+  id: 14
 
 - paper: "Order-book liquidity on crypto exchanges"
-  link: 
+  link: "20210927_Order_Book_Liquidity"
   author1: "Martin Angerer"
-  affiliation1: 
+  affiliation1: "University of Liechtenstein"
   author2: "Marius Gramlich"
-  affiliation2: 
+  affiliation2: "University of Liechtenstein"
   author3: "Michael Hanke"
-  affiliation3:
+  affiliation3: "University of Liechtenstein"
   presenter: 
   stream: "Investments-and-trading"
-  slides: 
+  slides:  
   approval: false
+  id: 15
  
 - paper: "Intraday Herding and Attention Around the Clock"
   link: "Intraday Herding and Attention Around the Clock"
   author1: "Stefan Scharnowski"
-  affiliation1: University of Mannheim
+  affiliation1: "University of Mannheim"
   author2: "Yanghua Shi"
-  presenter: University of Mannheim
+  affiliation2: "University of Mannheim"
+  presenter:
   stream: "Investments-and-trading"
   slides: 
   approval: false
+  id: 16
  
 - paper: "Bitcoin and News Around the World in Twenty-Six Languages"
   link: "BitcoinNews_April_2021"
@@ -186,6 +207,7 @@
   stream: "Investments-and-trading"
   slides: 
   approval: false
+  id: 17
  
 - paper: "Towards total decentralisation through non-adjudicative methods"
   link: "Towards total decentralisation through non-adjudicative methods"
@@ -201,69 +223,73 @@
   stream: "Legal-and-regulatory"
   slides: 
   approval: false
- 
-- paper: "An analysis of Decentralised Autonomous Organisations Private Law"
-  link: 
-  author1: "Nicola Massella"
-  affiliation1: 
-  stream: "Legal-and-regulatory"
-  slides: 
-  approval: false
+  id: 18
  
 - paper: "Crypto-asset taxonomy and its legal implications"
   link: 
   author1: "Yeranuhi Yandyan"
   affiliation1: 
   stream: "Legal-and-regulatory"
+  presenter:
   slides: 
   approval: false
+  id: 19
  
 - paper: "Non-Fungible Tokens. Legal and Economic considerations - A European Perspective"
   link: "NFT Working Paper - final version"
   author1: "Anna Maria Agresti"
-  affiliation1: European Centra Bank
+  affiliation1: "European Centra Bank"
   author2: "Miray Kavruk"
-  affiliation2: DLA Piper LLP
+  affiliation2: "DLA Piper LLP"
   author3: "Dennis Kunschke"
-  affiliation3: DLA Piper LLP
+  affiliation3: "DLA Piper LLP"
   author4: "Natalie-Dilan Yerlikaya"
-  affiliation4: DLA Piper LLP
+  affiliation4: "DLA Piper LLP"
   presenter: 
   stream: "Legal-and-regulatory"
   slides: 
   approval: false
+  id: 20
  
 - paper: "The impact of tokenisation on property law"
   link: 
   author1: "Riccardo de Caria"
   affiliation1: 
   stream: "Legal-and-regulatory"
+  presenter:
   slides: 
   approval: false
+  id: 21
 
 - paper: "Behavioural clusters of cryptocurrency users: frequencies of use in application domains beyond speculation"
   link: 
   author1: "Fred Steinmetz"
   affiliation1: 
   stream: "Quantitative-modelling"
+  presenter:
   slides: 
   approval: false
+  id: 22
 
 - paper: "Modelling the Potential Effects of Digital Currencies on Financial Inclusion in the Economies in the European Union"
   link: "(FULL PAPER)-MODELLING THE POTENTIAL EFFECTS OF DIGITAL CURRENCIES ON FINANCIAL INCLUSION IN THE ECONOMIES IN THE EUROPEAN UNION"
   author1: "K. Yerfi Fosu"
   affiliation1: 
   stream: "Quantitative-modelling"
+  presenter:
   slides: 
   approval: false
+  id: 23
 
 - paper: "Cryptocurrency Price Prediction  Based on Twitter Sentiment Analysis"
   link: "Cryptocurrency Price Prediction - Vakhitov"
   author1: "Bohdan Vakhitov"
   affiliation1: 
   stream: "Quantitative-modelling"
+  presenter:
   slides: 
   approval: false
+  id: 24
 
 - paper: "Sentiment, Google Queries and Explosivity in the Cryptocurrency Market"
   link: "Sentiment, Google Queries - Agosto, Cerchiello, Pagnottoni"
@@ -277,6 +303,7 @@
   stream: "Quantitative-modelling"
   slides: 
   approval: false
+  id: 25
 
 - paper: "Common dynamic factors for cryptocurrencies and multiple pair-trading statistical arbitrages"
   link: "Common dynamic factors - Figa Talamanca, Focardi, Patacca"
@@ -290,6 +317,8 @@
   stream: "Quantitative-modelling"
   slides: 
   approval: false
+  presenter:
+  id: 26
 
 - paper: "Interdependence, Contagion and Speculative Bubbles in Cryptocurrency Markets"
   link: "Interdependence, Contagion and Speculative Bubbles - Bazan Palomino"
@@ -297,7 +326,9 @@
   affiliation1: "Fordham University New York, Universidad del Pacifico"
   stream: "Quantitative-modelling"
   slides: 
+  presenter:
   approval: false
+  id: 27
 
 - paper: "A broad analysis of short-term overreactions in the market for cryptocurrencies"
   link: "Article_Overreaction_Cryptomarket"
@@ -305,6 +336,44 @@
   affiliation1: "Center for Empirical Research in Economics and Behavioral Sciences, University of Erfurt"
   author2: "Dominik Maltritz"
   affiliation2: "Faculty of Economics, Law and Social Sciences, University of Erfurt Nordhäuser"
-  stream: "Quantitative-modelling"
+  presenter:
+  stream: 
   slides: 
   approval: false
+  id: 28
+
+- paper: "Systematization of Knowledge paper on Decentralized Finance (DeFi)"
+  link: "SoK_Decentralized Finance (DeFi)"
+  author1: "Sam M. Werner"
+  affiliation1: "Imperial College London"
+  author2: "Daniel Perez"
+  affiliation2: "Imperial College London"
+  author2: "Lewis Gudgeon"
+  affiliation2: "Imperial College London"
+  author2: "Ariah Klages-Mundt"
+  affiliation2: "Cornell University"
+  author2: "Dominik Harz"
+  affiliation2: "Imperial College London"
+  author2: "William J. Knottenbelt"
+  affiliation2: "Imperial College London"
+  presenter:
+  stream: 
+  slides: 
+  approval: false
+  id: 29
+
+- paper: "Financial Literacy and Attitudes to Cryptocurrencies"
+  link: "FinLit_Crypto020121"
+  author1: "Georgios A. Panos"
+  affiliation1: "Adam Smith Business School, University of Glasgow"
+  author2: "Tatja Karkkainen"
+  affiliation2:  "Adam Smith Business School, University of Glasgow"
+  author3: "Adele Atkinson"
+  affiliation2: "Adam Smith Business School, University of Glasgow"
+  presenter:
+  stream: 
+  slides: 
+  approval: false
+  id: 30
+  
+  
