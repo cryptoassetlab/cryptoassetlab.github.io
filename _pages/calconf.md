@@ -37,8 +37,8 @@ permalink: /calconf/
 
 * ~~Abstract submission: July 16, 2021~~ (40 abstracts received)
 * ~~Abstract acceptance: August 6, 2021~~ (29 abstracts accepted)
-* **Paper submission: September 30, 2021**
-* Paper acceptance: October 22, 2021
+* ~~Paper submission: September 30, 2021~~
+* **Paper acceptance: October 22, 2021**
 
 <!--
 ### Abstract Submission
