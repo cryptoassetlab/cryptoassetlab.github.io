@@ -27,18 +27,21 @@ permalink: /calconf/
 
 ## __The Crypto Asset Lab Conference__
 
+### Milan (Italy) and web streaming, November 4-5, 2021
+
 ### Investments, Economics, and Regulation for Bitcoin and Crypto-Assets
 
 ### A joint event with the [DG Joint Research Centre, European Commission](https://ec.europa.eu/knowledge4policy/organisation/jrc-joint-research-centre_en)
 
-### Milan (Italy) and web streaming, November 4-5, 2021
+### With the Patronage of [Regione Lombardia](https://www.en.regione.lombardia.it/wps/portal/site/en-regione-lombardia)
+
 
 ### Relevant dates
 
 * ~~Abstract submission: July 16, 2021~~ (40 abstracts received)
 * ~~Abstract acceptance: August 6, 2021~~ (29 abstracts accepted)
 * ~~Paper submission: September 30, 2021~~
-* **Paper acceptance: October 22, 2021**
+* ~~Paper acceptance: October 22, 2021~~
 
 <!--
 ### Abstract Submission
