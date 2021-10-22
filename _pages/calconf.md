@@ -27,9 +27,9 @@ permalink: /calconf/
 
 ## __The Crypto Asset Lab Conference__
 
-### Milan (Italy) and web streaming, November 4-5, 2021
-
 ### Investments, Economics, and Regulation for Bitcoin and Crypto-Assets
+
+### Milan (Italy) and web streaming, November 4-5, 2021
 
 ### A joint event with the [DG Joint Research Centre, European Commission](https://ec.europa.eu/knowledge4policy/organisation/jrc-joint-research-centre_en)
 
