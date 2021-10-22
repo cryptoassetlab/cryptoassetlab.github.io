@@ -112,8 +112,8 @@ Topics include, but are not limited to:
 
 ### Program
 
-* November 4, 15:00-19:00 CET  
-* November 5, 15:00-19:00 CET
+* November 4, 15:00-19:30 CET  
+* November 5, 15:00-19:30 CET
 
 The conference program will be available early October.
 
