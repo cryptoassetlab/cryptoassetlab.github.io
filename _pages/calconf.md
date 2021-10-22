@@ -35,13 +35,12 @@ permalink: /calconf/
 
 ### With the Patronage of [Regione Lombardia](https://www.en.regione.lombardia.it/wps/portal/site/en-regione-lombardia)
 
-
 ### Relevant dates
 
-* ~~Abstract submission: July 16, 2021~~ (40 abstracts received)
-* ~~Abstract acceptance: August 6, 2021~~ (29 abstracts accepted)
-* ~~Paper submission: September 30, 2021~~
-* ~~Paper acceptance: October 22, 2021~~
+* ~~Abstract submission: July 16, 2021~~ (43 abstracts received)
+* ~~Abstract acceptance: August 6, 2021~~ (32 abstracts accepted)
+* ~~Paper submission: September 30, 2021~~ (27 papers received)
+* ~~Paper acceptance: October 22, 2021~~ (21 papers accepted)
 
 <!--
 ### Abstract Submission
@@ -56,6 +55,7 @@ The program selection criteria include
 the nature of the research topic, the economic implications
 of the research, and the academic quality of the research design.
 -->
+
 ### Theme and Topics
 
 The conference focuses on all aspects of bitcoin and crypto-assets,
@@ -114,8 +114,8 @@ Topics include, but are not limited to:
 
 ### Program
 
-* November 4, 15:00-19:00 CET  
-* November 5, 15:00-19:00 CET
+* November 4, 15:00-19:30 CET  
+* November 5, 15:00-19:30 CET
 
 The conference program will be available early October.
 
