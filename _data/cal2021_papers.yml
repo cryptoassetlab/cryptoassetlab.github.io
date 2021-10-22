@@ -9,18 +9,7 @@
   presenter: "Paolo Mazzocchi"
   stream: "Business-services"
   slides: 
-  approval: false
-  id: 1
-  
-- paper: "Chaining up Time: Bitcoin and Long-Term Validity of PKI Timestamp Tokens"
-  link: "Chaining up Time - Cisbani"
-  author1: "Emanuele Cisbani"
-  affiliation1: "Intesi Group"
-  stream: "Business-services"
-  presenter: "Emanuele Cisbani"
-  slides: 
-  approval: false
-  id: 2
+  approval: true
   
 - paper: "The Transition- Dynamics from Government Money only to Diversifed (Crypto-) Currency Competition"
   link: "Filip (2021) Transition dynamics with (crypto-) currency competition"
@@ -28,20 +17,7 @@
   affiliation1: "Vienna University of Economics and Business"
   stream: "Crypto-economics"
   slides: 
-  approval: false
-  id: 3
- 
-- paper: "The Effect of CBDCs on Banks Panics in an Overlapping Generation Model"
-  link: "The effect of CBDCs on banks panics in an overlapping generation model"
-  author1: "Soraya Ben Souissi"
-  affiliation1: "LEGI-Tunisia Polytechnic School and FSEG Nabeul, University of Carthage"
-  author2: "Mahmoud Sami Nabi"
-  affiliation2:  "LEGI-Tunisia Polytechnic School and FSEG Nabeul, University of Carthage"
-  presenter: 
-  stream: "Crypto-economics"
-  slides: 
-  approval: false
-  id: 4
+  approval: true
 
 - paper: "Are Stablecoins Stabilizing or Destabilizing the Crypto Market?"
   link: "Are Stablecoins Stabilizing or Destabilizing The Crypto"
@@ -54,8 +30,7 @@
   presenter: 
   stream: "Crypto-economics"
   slides: 
-  approval: false  
-  id: 5
+  approval: true  
  
 - paper: "Digital Currencies in Financial Networks"
   link: "Digital currencies in financial networks - Castren, Kavonius, Rancan"
@@ -68,8 +43,7 @@
   presenter: 
   stream: "Crypto-economics"
   slides: 
-  approval: false
-  id: 6
+  approval: true
 
 - paper: "Best Before? Expiring Central Bank Digital Currency and Loss Recovery"
   link: "Expiring_offline_money 210924"
@@ -82,8 +56,7 @@
   presenter: 
   stream: "Crypto-economics"
   slides: 
-  approval: false
-  id: 7
+  approval: true
  
 - paper: "Monetary Policy Pass-Through with Central Bank Digital Currency"
   link: "CBDC_PassThrough Jiang and Zhu"
@@ -94,8 +67,7 @@
   presenter: 
   stream: "Crypto-economics"
   slides: 
-  approval: false
-  id: 8
+  approval: true
 
 - paper: "Vertically Disintegrated Platforms"
   link: "Vertically Disintegrated Platforms - Aymann, Dewatripont, Roukny"
@@ -108,8 +80,7 @@
   presenter: 
   stream: "Crypto-economics"
   slides: 
-  approval: false
-  id: 9
+  approval: true
   
 - paper: "A topic modelling analysis of white papers in security token offerings: which topic matters for funds?"
   link: "A topic modelling analysis of white papers in security token offerings_which topic matters for funds"
@@ -122,8 +93,7 @@
   stream: "Fungible-and-NF-Tokens"
   presenter:
   slides: 
-  approval: false
-  id: 10
+  approval: true
 
 - paper: "Non-fungible token markets on the Ethereum blockchain"
   link: "Non-fungible token (NFT) markets on the Ethereum blockchain - Ante"
@@ -132,8 +102,7 @@
   stream: "Fungible-and-NF-Tokens"
   presenter:
   slides: 
-  approval: false
-  id: 11
+  approval: true
  
 - paper: "Auctions with Tokens"
   link: "Auctions with Tokens - Canidio"
@@ -142,8 +111,7 @@
   stream: "Fungible-and-NF-Tokens"
   presenter:
   slides: 
-  approval: false
-  id: 12
+  approval: true
 
 - paper: "Auction Design Settings and Success Factors of Token Sales"
   link: 
@@ -154,18 +122,7 @@
   presenter: 
   stream: "Fungible-and-NF-Tokens"
   slides: 
-  approval: false
-  id: 13
- 
-- paper: "The Tokenisation of Real Estate Comparative Perspectives"
-  link: "The Tokenisation of Real Estate Comparative Perspectives"
-  author1: "Cristina Poncibò"
-  affiliation1: 
-  presenter: "Cristina Poncibò"
-  stream: "Fungible-and-NF-Tokens"
-  slides: 
-  approval: false
-  id: 14
+  approval: true
 
 - paper: "Order-book liquidity on crypto exchanges"
   link: "20210927_Order_Book_Liquidity"
@@ -178,8 +135,7 @@
   presenter: 
   stream: "Investments-and-trading"
   slides:  
-  approval: false
-  id: 15
+  approval: true
  
 - paper: "Intraday Herding and Attention Around the Clock"
   link: "Intraday Herding and Attention Around the Clock"
@@ -190,8 +146,7 @@
   presenter:
   stream: "Investments-and-trading"
   slides: 
-  approval: false
-  id: 16
+  approval: true
  
 - paper: "Bitcoin and News Around the World in Twenty-Six Languages"
   link: "BitcoinNews_April_2021"
@@ -206,8 +161,7 @@
   presenter: 
   stream: "Investments-and-trading"
   slides: 
-  approval: false
-  id: 17
+  approval: true
  
 - paper: "Towards total decentralisation through non-adjudicative methods"
   link: "Towards total decentralisation through non-adjudicative methods"
@@ -222,8 +176,7 @@
   presenter: 
   stream: "Legal-and-regulatory"
   slides: 
-  approval: false
-  id: 18
+  approval: true
  
 - paper: "Crypto-asset taxonomy and its legal implications"
   link: 
@@ -232,8 +185,7 @@
   stream: "Legal-and-regulatory"
   presenter:
   slides: 
-  approval: false
-  id: 19
+  approval: true
  
 - paper: "Non-Fungible Tokens. Legal and Economic considerations - A European Perspective"
   link: "NFT Working Paper - final version"
@@ -248,8 +200,7 @@
   presenter: 
   stream: "Legal-and-regulatory"
   slides: 
-  approval: false
-  id: 20
+  approval: true
  
 - paper: "The impact of tokenisation on property law"
   link: "R. de Caria, The impact of tokenisation on property law (CAL)"
@@ -258,38 +209,7 @@
   stream: "Legal-and-regulatory"
   presenter:
   slides: 
-  approval: false
-  id: 21
-
-- paper: "Behavioural clusters of cryptocurrency users: frequencies of use in application domains beyond speculation"
-  link: "CAL-2021-submission_Behavioural cluster of cryptocurrency users"
-  author1: "Fred Steinmetz"
-  affiliation1: " Faculty of Business, Economics & Social Sciences, Universität Hamburg"
-  stream: "Quantitative-modelling"
-  presenter:
-  slides: 
-  approval: false
-  id: 22
-
-- paper: "Modelling the Potential Effects of Digital Currencies on Financial Inclusion in the Economies in the European Union"
-  link: "(FULL PAPER)-MODELLING THE POTENTIAL EFFECTS OF DIGITAL CURRENCIES ON FINANCIAL INCLUSION IN THE ECONOMIES IN THE EUROPEAN UNION"
-  author1: "K. Yerfi Fosu"
-  affiliation1: 
-  stream: "Quantitative-modelling"
-  presenter:
-  slides: 
-  approval: false
-  id: 23
-
-- paper: "Cryptocurrency Price Prediction  Based on Twitter Sentiment Analysis"
-  link: "Cryptocurrency Price Prediction - Vakhitov"
-  author1: "Bohdan Vakhitov"
-  affiliation1: 
-  stream: "Quantitative-modelling"
-  presenter:
-  slides: 
-  approval: false
-  id: 24
+  approval: true
 
 - paper: "Sentiment, Google Queries and Explosivity in the Cryptocurrency Market"
   link: "Sentiment, Google Queries - Agosto, Cerchiello, Pagnottoni"
@@ -302,8 +222,7 @@
   presenter: 
   stream: "Quantitative-modelling"
   slides: 
-  approval: false
-  id: 25
+  approval: true
 
 - paper: "Common dynamic factors for cryptocurrencies and multiple pair-trading statistical arbitrages"
   link: "Common dynamic factors - Figa Talamanca, Focardi, Patacca"
@@ -316,9 +235,8 @@
   presenter: 
   stream: "Quantitative-modelling"
   slides: 
-  approval: false
+  approval: true
   presenter:
-  id: 26
 
 - paper: "Interdependence, Contagion and Speculative Bubbles in Cryptocurrency Markets"
   link: "Interdependence, Contagion and Speculative Bubbles - Bazan Palomino"
@@ -327,8 +245,7 @@
   stream: "Quantitative-modelling"
   slides: 
   presenter:
-  approval: false
-  id: 27
+  approval: true
 
 - paper: "A broad analysis of short-term overreactions in the market for cryptocurrencies"
   link: "Article_Overreaction_Cryptomarket"
@@ -339,8 +256,7 @@
   presenter:
   stream: 
   slides: 
-  approval: false
-  id: 28
+  approval: true
 
 - paper: "Systematization of Knowledge paper on Decentralized Finance (DeFi)"
   link: "SoK_Decentralized Finance (DeFi)"
@@ -359,8 +275,7 @@
   presenter:
   stream: 
   slides: 
-  approval: false
-  id: 29
+  approval: true
 
 - paper: "Financial Literacy and Attitudes to Cryptocurrencies"
   link: "FinLit_Crypto020121"
@@ -373,7 +288,6 @@
   presenter:
   stream: 
   slides: 
-  approval: false
-  id: 30
+  approval: true
   
   
