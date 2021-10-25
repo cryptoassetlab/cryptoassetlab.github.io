@@ -28,26 +28,37 @@ permalink: /cal2021unofficial/
     </a>
     <a href="https://www.eventbrite.com/e/the-3nd-crypto-asset-lab-conference-registration-155774506743" class="btn btn-primary btn-xl" text-align="right">Free Registration
     </a>
+    <h3><b>The 3rd Crypto Asset Lab Conference Program</b>
+    <h4>CAL2021 is a joint event with
+      <a href="https://ec.europa.eu/knowledge4policy/organisation/jrc-joint-research-centre_en">DG Joint Research Centre, European Commission.</a>
+    </h4>
+    <h4>With the Patronage of 
+      <a href="https://www.en.regione.lombardia.it/wps/portal/site/en-regione-lombardia">Regione Lombardia.</a>
+    </h4>
+    <h3>November 4-5, 2020</h3>
+    <h4>See also the
+      <a href="{{ site.baseurl }}/calconf/">conference main page</a>.
+    </h4>
+    <br>
   </div>
 
+  <!--Program Day1-->
   <div class="img-responsive" id="program-day1">
 
-    <h3><b>The 3rd Crypto Asset Lab Conference Program</b></h3>
-    <h4>CAL2021 is a joint event with
-      <a href="https://ec.europa.eu/knowledge4policy/organisation/jrc-joint-research-centre_en">DG Joint Research Centre, European Commission</a>
-    </h4>
-    <h3>November 4-5, 2021</h3>
-    <h4>See also the
-      <a href="{{ site.baseurl }}/calconf/">CAL conference main page</a>.
-    </h4>
-
-    <h3><b>Day 1 Opening Session</b></h3>
-    <h4>November 4, 15:00 CET (UTC+1)</h4>
-    <hr class="primary">
     <table width="100%" id="plenary">
       <tr>
         <td width="15%" valign="top">
+          <br>
           <a href="" class="btn btn-primary btn-xl">Watch on</br>YouTube</a>
+        </td>
+        <td width="85%">
+          <h3><b>November 4, 15:00 - 19:00 CET (UTC+1)</b></h3>
+          <hr class="primary">
+        </td>
+      </tr>
+      <tr>
+        <td width="15%" valign="top">
+          <h4><b>15:00</b></h4>
         </td>
         <td width="85%">
           <p id="Opening">
@@ -61,36 +72,16 @@ permalink: /cal2021unofficial/
             <h4><b>Welcome Address</b></h4>
             <a href="https://www.unimib.it/giovanna-iannantuoni"><i>Giovanna Iannantuoni</i></a>, University of Milano-Bicocca
           </p>
+          <hr class="primary">
         </td>
       </tr>
-      </tr>
-    </table>
-
-    <h3><b>Keynote Speech</b></h3>
-    <h4>November 4, 15:30 CET (UTC+1)</h4>
-    <hr class="primary">
-    <table width="100%" id="plenary">
       <tr>
         <td width="15%" valign="top">
-          <a href="" class="btn btn-primary btn-xl">Watch on</br>YouTube</a>
-        </td>
-        <td width="85%">
-          <h4><b>Title</b></h4>
-          <a href="https://webusers.imj-prg.fr/~ricardo.perez-marco/"><i>Ricardo Pérez-Marco</i></a>, French National Centre for Scientific Research
-        </td>
-      </tr>
-    </table>
-
-    <h3><b>Crypto-Economics</b></h3>
-    <h4>November 4, 16:00 CET (UTC+1)</h4>
-    <hr class="primary">
-    <table width="100%" id="plenary">
-      <tr>
-        <td width="15%" valign="top">
-          <a href="" class="btn btn-primary btn-xl">Watch on</br>YouTube</a>
+          <h4><b>15:30</b></h4>
         </td>
         <td width="85%">
           <p id="crypto-economics">
+            <h4><b>Crypto-Economics</b></h4>
             {% for member in site.data.cal2021_papers %}
               {% if member.stream == 'Crypto-economics' and member.approval == true %}
                 {% if member.slides %}
@@ -139,38 +130,30 @@ permalink: /cal2021unofficial/
             <b>Moderator</b>:
             <a href=""><i>Name Surname</i></a>, Affiliation
           </p>  
+          <hr class="primary">
         </td>
       </tr>
-    </table>  
-
-    <h3><b>Institutional Sponsor Session</b></h3>
-    <h4>November 4, 17:30 CET (UTC+1)</h4>
-    <hr class="primary">
-    <table width="100%" id="plenary">
       <tr>
         <td width="15%" valign="top">
-          <a href="" class="btn btn-primary btn-xl">Watch on</br>YouTube</a>
+          <h4><b>17:00</b></h4>
         </td>
         <td width="85%">
-          <h4><b>Title</b></h4>
-          <a href=""><i>Name Surname</i></a>, Deloitte Italia
+          <p id="sponsor1">
+            <h4><b>Title Sponsor Session 1</b></h4>            
+            <a href=""><i>Michele Mandelli</i></a>, CheckSig
+          </p>  
+          <hr class="primary">
         </td>
       </tr>
-    </table>
-  </div>
-
-  <h3><b>Quantitative Modelling</b></h3>
-    <h4>November 4, 18:30 CET (UTC+1)</h4>
-    <hr class="primary">
-    <table width="100%" id="plenary">
       <tr>
         <td width="15%" valign="top">
-          <a href="" class="btn btn-primary btn-xl">Watch on</br>YouTube</a>
+          <h4><b>17:30</b></h4>
         </td>
         <td width="85%">
-          <p id="quantitative-modelling">
+          <p id="investments">
+            <h4><b>Legal</b></h4>
             {% for member in site.data.cal2021_papers %}
-              {% if member.stream == 'Quantitative-modelling' and member.approval == true %}
+              {% if member.stream == 'Legal-and-regulatory' and member.approval == true %}
                 {% if member.slides %}
                   <a href="{{ site.baseurl }}/docs/CAL2021/{{ member.link }}.pdf"><b>{{ member.paper }}</b></a>, (<a href="{{ site.baseurl }}/docs/CAL2021/slides/{{ member.slides }}.pdf">slides</a>)<br>
                 {% else %}
@@ -207,6 +190,20 @@ permalink: /cal2021unofficial/
                   {% else %}
                     <i>{{ member.author4 }}</i><br>
                   {% endif %}
+                {% endif %}      
+                {% if member.author5 %}
+                  {% if member.affiliation5 %}
+                    <i>{{ member.author5 }}</i>, {{ member.affiliation5 }}<br>
+                  {% else %}
+                    <i>{{ member.author5 }}</i><br>
+                  {% endif %}
+                {% endif %}
+                {% if member.author6 %}
+                  {% if member.affiliation6 %}
+                    <i>{{ member.author6 }}</i>, {{ member.affiliation6 }}<br>
+                  {% else %}
+                    <i>{{ member.author6 }}</i><br>
+                  {% endif %}
                 {% endif %}
                 {% if member.presenter %}
                   Presented by {{ member.presenter }} 
@@ -216,47 +213,49 @@ permalink: /cal2021unofficial/
             {% endfor %}
             <b>Moderator</b>:
             <a href=""><i>Name Surname</i></a>, Affiliation
-          </p>  
-        </td>
-      </tr>
-    </table>
-  <br>
-  <hr class="primary">
-
-  <!--Day2-->
-  <div class="img-responsive" id="program-day2">
-
-    <h3><b>Day 2 Welcome Session</b></h3>
-    <h4>November 5, 15:00 CET (UTC+1)</h4>
-    <hr class="primary">
-    <table width="100%" id="plenary">
-      <tr>
-        <td width="15%" valign="top">
-          <a href="" class="btn btn-primary btn-xl">Watch on</br>YouTube</a>
-        </td>
-        <td width="85%">
-          <p id="Opening">
-            <h4><b>Introduction</b></h4>
-            <a href="http://linkedin.com/in/lucia-alessi-78961a5"><i>Lucia Alessi</i></a>, DG Joint Research Centre, European Commission
-            <br>
-            <a href="http://www.ametrano.net/"><i>Ferdinando M. Ametrano</i></a>, Digital Gold Institute and University of Milano-Bicocca
-            <br>
-            <a href="https://www.unimib.it/paola-agnese-bongini"><i>Paola A. Bongini</i></a>, University of Milano-Bicocca
           </p>
         </td>
       </tr>
     </table>
-
-    <h3><b>Investments and Trading</b></h3>
-    <h4>November 5, 15:15 CET (UTC+1)</h4>
     <hr class="primary">
+  </div>
+
+  <!--Program Day2-->
+
+  <div class="img-responsive" id="program-day1">
+
     <table width="100%" id="plenary">
       <tr>
         <td width="15%" valign="top">
+          <br>
           <a href="" class="btn btn-primary btn-xl">Watch on</br>YouTube</a>
         </td>
         <td width="85%">
-          <p id="investments-trading">
+          <h3><b>November 5, 15:00 - 19:00 CET (UTC+1)</b></h3>
+          <hr class="primary">
+        </td>
+      </tr>
+      <tr>
+        <td width="15%" valign="top">
+          <h4><b>15:00</b></h4>
+        </td>
+        <td width="85%">
+          <p id="Keynote">
+            <h4><b>Keynote Speech</b></h4>
+            <h4>Title</h4>
+            <a href="https://webusers.imj-prg.fr/~ricardo.perez-marco/"><i>Ricardo Pérez-Marco</i></a>, French National Centre for Scientific Research
+          </p>
+          <hr class="primary">
+        </td>
+      </tr>
+      
+      <tr>
+        <td width="15%" valign="top">
+          <h4><b>16:00</b></h4>
+        </td>
+        <td width="85%">
+          <p id="investments">
+            <h4><b>Investments and Trading</b></h4>
             {% for member in site.data.cal2021_papers %}
               {% if member.stream == 'Investments-and-trading' and member.approval == true %}
                 {% if member.slides %}
@@ -318,113 +317,17 @@ permalink: /cal2021unofficial/
             {% endfor %}
             <b>Moderator</b>:
             <a href=""><i>Name Surname</i></a>, Affiliation
-          </p> 
-        </td>
-      </tr>
-    </table>
-
-    <h3><b>Keynote Speech</b></h3>
-    <h4>November 5, 16:30 CET (UTC+1)</h4>
-    <hr class="primary">
-    <table width="100%" id="plenary">
-      <tr>
-        <td width="15%" valign="top">
-          <a href="" class="btn btn-primary btn-xl">Watch on</br>YouTube</a>
-        </td>
-        <td width="85%">
-          <h4><b>Title</b></h4>
-          <a href=""><i>Name Surname</i></a>, Affiliation
-        </td>
-      </tr>
-    </table>
-
-    <h3><b>Business Services</b></h3>
-    <h4>November 5, 17:00 CET (UTC+1)</h4>
-    <hr class="primary">
-    <table width="100%" id="plenary">
-      <tr>
-        <td width="15%" valign="top">
-          <a href="" class="btn btn-primary btn-xl">Watch on</br>YouTube</a>
-        </td>
-        <td width="85%">
-          <p id="business-services">
-            {% for member in site.data.cal2021_papers %}
-              {% if member.stream == 'Business-services' and member.approval == true %}
-                {% if member.slides %}
-                  <a href="{{ site.baseurl }}/docs/CAL2021/{{ member.link }}.pdf"><b>{{ member.paper }}</b></a>, (<a href="{{ site.baseurl }}/docs/CAL2021/slides/{{ member.slides }}.pdf">slides</a>)<br>
-                {% else %}
-                  {% if member.link %}
-                  <a href="{{ site.baseurl }}/docs/CAL2021/{{ member.link }}.pdf"><b>{{ member.paper }}</b></a><br>
-                  {% else %}
-                  <b>{{ member.paper }}</b><br>
-                  {% endif %}
-                {% endif %}
-                {% if member.author1 %}
-                  {% if member.affiliation1 %}
-                    <i>{{ member.author1 }}</i>, {{ member.affiliation1 }}<br>
-                  {% else %}
-                    <i>{{ member.author1 }}</i><br>
-                  {% endif %}
-                {% endif %}
-                {% if member.author2 %}
-                  {% if member.affiliation2 %}
-                    <i>{{ member.author2 }}</i>, {{ member.affiliation2 }}<br>
-                  {% else %}
-                    <i>{{ member.author2 }}</i><br>
-                  {% endif %}
-                {% endif %}
-                {% if member.author3 %}
-                  {% if member.affiliation3 %}
-                    <i>{{ member.author3 }}</i>, {{ member.affiliation3 }}<br>
-                  {% else %}
-                    <i>{{ member.author3 }}</i><br>
-                  {% endif %}
-                {% endif %}
-                {% if member.author4 %}
-                  {% if member.affiliation4 %}
-                    <i>{{ member.author4 }}</i>, {{ member.affiliation4 }}<br>
-                  {% else %}
-                    <i>{{ member.author4 }}</i><br>
-                  {% endif %}
-                {% endif %}
-                {% if member.presenter %}
-                  Presented by {{ member.presenter }} 
-                {% endif %}
-                <br>
-              {% endif %}
-            {% endfor %}
-            <b>Moderator</b>:
-            <a href=""><i>Name Surname</i></a>, Affiliation
           </p>
+          <hr class="primary">
         </td>
       </tr>
-    </table>
-  
-    <h3><b>Industrial Sponsor Session</b></h3>
-    <h4>November 5, 18:05 CET (UTC+1)</h4>
-    <hr class="primary">
-    <table width="100%" id="plenary">
       <tr>
         <td width="15%" valign="top">
-          <a href="" class="btn btn-primary btn-xl">Watch on</br>YouTube</a>
+          <h4><b>17:00</b></h4>
         </td>
         <td width="85%">
-          <h4><b>Title</b></h4>
-          <a href=""><i>Michele Mandelli</i></a>, CheckSig
-        </td>
-      </tr>
-    </table>
-    
-    <h3><b>Fungible and Non Fungible Tokens</b></h3>
-    <h4>November 5, 18:15 CET (UTC+1)</h4>
-    <hr class="primary">
-    <table width="100%" id="plenary">
-      <tr>
-        <td width="15%" valign="top">
-          <a href="" class="btn btn-primary btn-xl">Watch on</br>YouTube</a>
-        </td>
-        <td width="85%">
-          <p id="nft">
+          <p id="crypto-economics">
+            <h4><b>Fungible and Non-fungible Tokens</b></h4>
             {% for member in site.data.cal2021_papers %}
               {% if member.stream == 'Fungible-and-NF-Tokens' and member.approval == true %}
                 {% if member.slides %}
@@ -472,22 +375,19 @@ permalink: /cal2021unofficial/
             {% endfor %}
             <b>Moderator</b>:
             <a href=""><i>Name Surname</i></a>, Affiliation
-          </p>
+          </p>  
+          <hr class="primary">
         </td>
       </tr>
-    </table>
-
-    <h3><b>Closing Session</b></h3>
-    <h4>November 5, 18:45 CET (UTC+1)</h4>
-    <hr class="primary">
-    <table width="100%" id="plenary">
       <tr>
         <td width="15%" valign="top">
-          <a href="" class="btn btn-primary btn-xl">Watch on</br>YouTube</a>
+          <h4><b>18:00</b></h4>
         </td>
         <td width="85%">
-          <a href="https://www.unimib.it/paola-agnese-bongini"><i>Paola A. Bongini</i></a>, University of Milano-Bicocca<br>
-          <a href="http://linkedin.com/in/lucia-alessi-78961a5"><i>Lucia Alessi</i></a>, DG Joint Research Centre, European Commission
+          <p id="sponsor1">
+            <h4><b>Title Sponsor2 Session</b></h4>            
+            <a href=""><i>Paolo Gianturco</i></a>, Deloitte
+          </p>
         </td>
       </tr>
     </table>
@@ -495,6 +395,7 @@ permalink: /cal2021unofficial/
 
   <div class="img-responsive" id="program-committee">
     <br>
+    <hr class="primary">
     <h3><b>Organizing Committee</b></h3>
     <hr class="primary">
     <ul>
