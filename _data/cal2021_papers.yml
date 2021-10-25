@@ -1,16 +1,3 @@
-- paper: "An Open Standard for Transparent Bitcoin Custody with Proof-of-Reserve"
-  link: 
-  author1: "Ferdinando Ametrano"
-  affiliation1: "University of Milano-Bicocca"
-  author2: "Diego Giubertoni"
-  affiliation2: "CheckSig"
-  author3: "Paolo Mazzocchi"
-  affiliation3: "Digital Gold Institute"
-  presenter: "Paolo Mazzocchi"
-  stream: "Business-services"
-  slides: 
-  approval: true
-  
 - paper: "The Transition- Dynamics from Government Money only to Diversifed (Crypto-) Currency Competition"
   link: "Filip (2021) Transition dynamics with (crypto-) currency competition"
   author1: "Katharina Filip"
@@ -113,18 +100,7 @@
   slides: 
   approval: true
 
-- paper: "Auction Design Settings and Success Factors of Token Sales"
-  link: 
-  author1: "Ömer Güven"
-  affiliation1: 
-  author2: "Martin Angerer"
-  affiliation2: 
-  presenter: 
-  stream: "Fungible-and-NF-Tokens"
-  slides: 
-  approval: true
-
-- paper: "Order-book liquidity on crypto exchanges"
+  - paper: "Order-book liquidity on crypto exchanges"
   link: "20210927_Order_Book_Liquidity"
   author1: "Martin Angerer"
   affiliation1: "University of Liechtenstein"
@@ -177,17 +153,8 @@
   stream: "Legal-and-regulatory"
   slides: 
   approval: true
- 
-- paper: "Crypto-asset taxonomy and its legal implications"
-  link: 
-  author1: "Yeranuhi Yandyan"
-  affiliation1: 
-  stream: "Legal-and-regulatory"
-  presenter:
-  slides: 
-  approval: true
- 
-- paper: "Non-Fungible Tokens. Legal and Economic considerations - A European Perspective"
+
+  - paper: "Non-Fungible Tokens. Legal and Economic considerations - A European Perspective"
   link: "NFT Working Paper - final version"
   author1: "Anna Maria Agresti"
   affiliation1: "European Centra Bank"
