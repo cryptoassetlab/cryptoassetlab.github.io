@@ -451,64 +451,6 @@ permalink: /cal2021unofficial/
       
       <tr>
         <td width="15%" valign="top">
-          <h4><b>17:00</b></h4>
-        </td>
-        <td width="85%">
-          <p id="crypto-economics">
-            <h4><b>Miscellaneous</b></h4>
-            {% for member in site.data.cal2021_papers %}
-              {% if member.stream == 'Miscellaneous' and member.approval == true %}
-                {% if member.slides %}
-                  <a href="{{ site.baseurl }}/docs/CAL2021/{{ member.link }}.pdf"><b>{{ member.paper }}</b></a>, (<a href="{{ site.baseurl }}/docs/CAL2021/slides/{{ member.slides }}.pdf">slides</a>)<br>
-                {% else %}
-                  {% if member.link %}
-                  <a href="{{ site.baseurl }}/docs/CAL2021/{{ member.link }}.pdf"><b>{{ member.paper }}</b></a><br>
-                  {% else %}
-                  <b>{{ member.paper }}</b><br>
-                  {% endif %}
-                {% endif %}
-                {% if member.author1 %}
-                  {% if member.affiliation1 %}
-                    <i>{{ member.author1 }}</i>, {{ member.affiliation1 }}<br>
-                  {% else %}
-                    <i>{{ member.author1 }}</i><br>
-                  {% endif %}
-                {% endif %}
-                {% if member.author2 %}
-                  {% if member.affiliation2 %}
-                    <i>{{ member.author2 }}</i>, {{ member.affiliation2 }}<br>
-                  {% else %}
-                    <i>{{ member.author2 }}</i><br>
-                  {% endif %}
-                {% endif %}
-                {% if member.author3 %}
-                  {% if member.affiliation3 %}
-                    <i>{{ member.author3 }}</i>, {{ member.affiliation3 }}<br>
-                  {% else %}
-                    <i>{{ member.author3 }}</i><br>
-                  {% endif %}
-                {% endif %}
-                {% if member.author4 %}
-                  {% if member.affiliation4 %}
-                    <i>{{ member.author4 }}</i>, {{ member.affiliation4 }}<br>
-                  {% else %}
-                    <i>{{ member.author4 }}</i><br>
-                  {% endif %}
-                {% endif %}
-                {% if member.presenter %}
-                  Presented by {{ member.presenter }} 
-                {% endif %}
-                <br>
-              {% endif %}
-            {% endfor %}
-            <b>Moderator</b>:
-            <a href=""><i>Name Surname</i></a>, Affiliation
-          </p>  
-          <hr class="primary">
-        </td>
-      </tr>
-      <tr>
-        <td width="15%" valign="top">
           <h4><b>18:00</b></h4>
         </td>
         <td width="85%">
