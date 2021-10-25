@@ -90,7 +90,7 @@
   presenter:
   slides: 
   approval: true
- 
+
 - paper: "Auctions with Tokens"
   link: "Auctions with Tokens - Canidio"
   author1: "Andrea Canidio"
@@ -100,7 +100,7 @@
   slides: 
   approval: true
 
-  - paper: "Order-book liquidity on crypto exchanges"
+- paper: "Order-book liquidity on crypto exchanges"
   link: "20210927_Order_Book_Liquidity"
   author1: "Martin Angerer"
   affiliation1: "University of Liechtenstein"
@@ -154,7 +154,7 @@
   slides: 
   approval: true
 
-  - paper: "Non-Fungible Tokens. Legal and Economic considerations - A European Perspective"
+- paper: "Non-Fungible Tokens. Legal and Economic considerations - A European Perspective"
   link: "NFT Working Paper - final version"
   author1: "Anna Maria Agresti"
   affiliation1: "European Centra Bank"
