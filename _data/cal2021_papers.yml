@@ -41,7 +41,7 @@
   author3: "Yu Zhu"
   affiliation3: "Bank of Canada"
   presenter: 
-  stream: "Crypto-economics1"
+  stream: "Crypto-economics2"
   slides: 
   approval: true
  
@@ -52,7 +52,7 @@
   author2: "Yu Zhu"
   affiliation2: "Bank of Canada"
   presenter: 
-  stream: "Crypto-economics"
+  stream: "Crypto-economics2"
   slides: 
   approval: true
 
@@ -65,7 +65,7 @@
   author3: "Tarik Roukny"
   affiliation3: "KU Leuven"
   presenter: 
-  stream: "Crypto-economics"
+  stream: "Crypto-economics2"
   slides: 
   approval: true
   
@@ -240,7 +240,7 @@
   author6: "William J. Knottenbelt"
   affiliation6: "Imperial College London"
   presenter:
-  stream: "Crypto-economics"
+  stream: "Crypto-economics1"
   slides: 
   approval: true
 
@@ -253,7 +253,7 @@
   author3: "Adele Atkinson"
   affiliation2: "Adam Smith Business School, University of Glasgow"
   presenter:
-  stream: "Crypto-economics"
+  stream: "Crypto-economics2"
   slides: 
   approval: true
   
