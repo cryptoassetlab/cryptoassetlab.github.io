@@ -1,5 +1,5 @@
 - paper: "The Transition- Dynamics from Government Money only to Diversifed (Crypto-) Currency Competition"
-  link: "Filip (2021) Transition dynamics with (crypto-) currency competition"
+  link: Crypto-economics_Filip
   author1: "Katharina Filip"
   affiliation1: "Vienna University of Economics and Business"
   stream: "Crypto-economics1"
@@ -7,7 +7,7 @@
   approval: true
 
 - paper: "Are Stablecoins Stabilizing or Destabilizing the Crypto Market?"
-  link: "Are Stablecoins Stabilizing or Destabilizing The Crypto"
+  link: Crypto-economics_Ji_Lin_Wang
   author1: "Yang Ji"
   affiliation1: "Associate professor, School of Economics, Xiamen University"
   author2: "Juan Lin"
@@ -20,7 +20,7 @@
   approval: true  
  
 - paper: "Digital Currencies in Financial Networks"
-  link: "Digital currencies in financial networks - Castren, Kavonius, Rancan"
+  link: Crypto-economics_Castren_Kavonius_Rancan
   author1: "Olli Castrén"
   affiliation1: "European Banking Authority"
   author2: "Ilja Kavonius"
@@ -33,7 +33,7 @@
   approval: true
 
 - paper: "Best Before? Expiring Central Bank Digital Currency and Loss Recovery"
-  link: "Expiring_offline_money 210924"
+  link: Crypto-economics_Kahn_van-Oordt_Zhu
   author1: "Charles M. Kahn"
   affiliation1: "University of Illinois"
   author2: "Maarten R.C. van Oordt"
@@ -46,7 +46,7 @@
   approval: true
  
 - paper: "Monetary Policy Pass-Through with Central Bank Digital Currency"
-  link: "CBDC_PassThrough Jiang and Zhu"
+  link: Crypto-economics_Jiang_Zhu
   author1: "Janet Jiang"
   affiliation1: "Bank of Canada"
   author2: "Yu Zhu"
@@ -57,7 +57,7 @@
   approval: true
 
 - paper: "Vertically Disintegrated Platforms"
-  link: "Vertically Disintegrated Platforms - Aymann, Dewatripont, Roukny"
+  link: Crypto-economics_Aymann_Dewatripont_Roukny
   author1: "Christoph Aymanns"
   affiliation1: "University of St. Gallen"
   author2: "Mathias Dewatripont"
@@ -70,7 +70,7 @@
   approval: true
   
 - paper: "A topic modelling analysis of white papers in security token offerings: which topic matters for funds?"
-  link: "A topic modelling analysis of white papers in security token offerings_which topic matters for funds"
+  link: Fungible-and-NF-Tokens_Bongini_Pedrazzoli_Rossolini
   author1: "Paola Bongini"
   affiliation1: "Full Professor, University of Milano-Bicocca"
   author2: "Alessia Pedrazzoli"
@@ -83,7 +83,7 @@
   approval: true
 
 - paper: "Non-fungible token markets on the Ethereum blockchain"
-  link: "Non-fungible token (NFT) markets on the Ethereum blockchain - Ante"
+  link: Fungible-and-NF-Tokens_Ante
   author1: "Lennart Ante"
   affiliation1: "Blockchain Research Lab"
   stream: "Fungible-and-NF-Tokens"
@@ -92,7 +92,7 @@
   approval: true
 
 - paper: "Auctions with Tokens"
-  link: "Auctions with Tokens - Canidio"
+  link: Fungible-and-NF-Tokens_Canidio
   author1: "Andrea Canidio"
   affiliation1: "IMT school of advanced studies"
   stream: "Fungible-and-NF-Tokens"
@@ -101,7 +101,7 @@
   approval: true
 
 - paper: "Order-book liquidity on crypto exchanges"
-  link: "20210927_Order_Book_Liquidity"
+  link: Investments-and-trading_Angerer_Gramlich_Hanke
   author1: "Martin Angerer"
   affiliation1: "University of Liechtenstein"
   author2: "Marius Gramlich"
@@ -114,7 +114,7 @@
   approval: true
  
 - paper: "Intraday Herding and Attention Around the Clock"
-  link: "Intraday Herding and Attention Around the Clock"
+  link: Investments-and-trading_Scharnowski_Shi
   author1: "Stefan Scharnowski"
   affiliation1: "University of Mannheim"
   author2: "Yanghua Shi"
@@ -125,7 +125,7 @@
   approval: true
  
 - paper: "Bitcoin and News Around the World in Twenty-Six Languages"
-  link: "BitcoinNews_April_2021"
+  link: Investments-and-trading_Alessi_Ghysels_Petracco_Wang
   author1: "Lucia Alessi"
   affiliation1: "Joint Research Centre (JRC), Ispra"
   author2: "Eric Ghysels"
@@ -140,7 +140,7 @@
   approval: true
  
 - paper: "Towards total decentralisation through non-adjudicative methods"
-  link: "Towards total decentralisation through non-adjudicative methods"
+  link: Legal-and-regulatory_Poncibo_Gangemi_Ravot_Corrias
   author1: "Cristina Poncibò"
   affiliation1: "Professor of Comparative Private Law, University of Turin"
   author2: "Andrea Gangemi"
@@ -155,7 +155,7 @@
   approval: true
 
 - paper: "Non-Fungible Tokens. Legal and Economic considerations - A European Perspective"
-  link: "NFT Working Paper - final version"
+  link: Legal-and-regulatory_Agresti_Kavruk_Kunschke_Yerlikaya
   author1: "Anna Maria Agresti"
   affiliation1: "European Centra Bank"
   author2: "Miray Kavruk"
@@ -170,7 +170,7 @@
   approval: true
  
 - paper: "The impact of tokenisation on property law"
-  link: "R. de Caria, The impact of tokenisation on property law (CAL)"
+  link: Legal-and-regulatory_De-Caria
   author1: "Riccardo de Caria"
   affiliation1: 
   stream: "Legal-and-regulatory"
@@ -179,7 +179,7 @@
   approval: true
 
 - paper: "Sentiment, Google Queries and Explosivity in the Cryptocurrency Market"
-  link: "Sentiment, Google Queries - Agosto, Cerchiello, Pagnottoni"
+  link: Quantitative-modelling_Agosto_Cerchiello_Pagnottoni
   author1: "Arianna Agosto"
   affiliation1: "University of Pavia"
   author2: "Paola Cerchiello"
@@ -192,7 +192,7 @@
   approval: true
 
 - paper: "Common dynamic factors for cryptocurrencies and multiple pair-trading statistical arbitrages"
-  link: "Common dynamic factors - Figa Talamanca, Focardi, Patacca"
+  link: Quantitative-modelling_Figa-Talamanca_Focardi_Patacca
   author1: "Gianna Figá-Talamanca"
   affiliation1: "University of Perugia"
   author2: "Sergio Focardi"
@@ -206,7 +206,7 @@
   presenter:
 
 - paper: "Interdependence, Contagion and Speculative Bubbles in Cryptocurrency Markets"
-  link: "Interdependence, Contagion and Speculative Bubbles - Bazan Palomino"
+  link: Quantitative-modelling_Bacan-Palomino
   author1: "Walter Bazán-Palomino"
   affiliation1: "Fordham University New York, Universidad del Pacifico"
   stream: "Quantitative-modelling"
@@ -215,7 +215,7 @@
   approval: true
 
 - paper: "A broad analysis of short-term overreactions in the market for cryptocurrencies"
-  link: "Article_Overreaction_Cryptomarket"
+  link: Investments-and-trading_Kellner_Maltritz
   author1: "Tobias Kellner"
   affiliation1: "Center for Empirical Research in Economics and Behavioral Sciences, University of Erfurt"
   author2: "Dominik Maltritz"
@@ -226,7 +226,7 @@
   approval: true
 
 - paper: "Systematization of Knowledge paper on Decentralized Finance (DeFi)"
-  link: "SoK_Decentralized Finance (DeFi)"
+  link: Crypto-economics_Werner_Perez_Gudgeon_Klages-Mundt_Harz_Knottenbelt
   author1: "Sam M. Werner"
   affiliation1: "Imperial College London"
   author2: "Daniel Perez"
@@ -245,7 +245,7 @@
   approval: true
 
 - paper: "Financial Literacy and Attitudes to Cryptocurrencies"
-  link: "FinLit_Crypto020121"
+  link: Crypto-economics_Panos_Karkkainen_Atkinson
   author1: "Georgios A. Panos"
   affiliation1: "Adam Smith Business School, University of Glasgow"
   author2: "Tatja Karkkainen"
