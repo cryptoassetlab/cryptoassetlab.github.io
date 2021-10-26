@@ -30,7 +30,7 @@ Organizzato da [Istituto Bruno Leoni](http://www.brunoleoni.it/criptovalute-cosa
 [<img src="{{ site.url }}{{ site.baseurl }}/img/posts/Logo-IBL-claim-300.jpg" height="80">](http://www.brunoleoni.it/criptovalute-cosa-cambia-con-libra)
 [<img src="{{ site.url }}{{ site.baseurl }}/img/cal.png" height="75">](https://cryptoassetlab.diseade.unimib.it/2019/07/05/criptovalute-cosa-cambia-con-libra.html)
 
-- Partecipazione gratuita previa iscrizione: [eventbrite](https://www.eventbrite.it/e/biglietti-criptovalute-cosa-cambia-con-libra-64718684327)
+- Partecipazione gratuita previa iscrizione: [Eventbrite](https://www.eventbrite.it/e/biglietti-criptovalute-cosa-cambia-con-libra-64718684327)
 
 - Per informazioni: [cryptoassetlab@unimib.it](mailto:cryptoassetlab@unimib.it)
 
