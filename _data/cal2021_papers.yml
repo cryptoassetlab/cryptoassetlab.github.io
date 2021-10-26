@@ -80,19 +80,19 @@
   slides: 
   approval: true
 
-- paper: "Non-fungible token markets on the Ethereum blockchain"
-  link: Fungible-and-NF-Tokens_Ante
-  author1: "Lennart Ante"
-  affiliation1: "Blockchain Research Lab"
+- paper: "Auctions with Tokens"
+  link: Fungible-and-NF-Tokens_Canidio
+  author1: "Andrea Canidio"
+  affiliation1: "IMT school of advanced studies"
   stream: "Fungible-and-NF-Tokens"
   presenter:
   slides: 
   approval: true
 
-- paper: "Auctions with Tokens"
-  link: Fungible-and-NF-Tokens_Canidio
-  author1: "Andrea Canidio"
-  affiliation1: "IMT school of advanced studies"
+- paper: "Non-fungible token markets on the Ethereum blockchain"
+  link: Fungible-and-NF-Tokens_Ante
+  author1: "Lennart Ante"
+  affiliation1: "Blockchain Research Lab"
   stream: "Fungible-and-NF-Tokens"
   presenter:
   slides: 
@@ -137,21 +137,6 @@
   slides: 
   approval: true
  
-- paper: "Towards total decentralisation through non-adjudicative methods"
-  link: Legal-and-regulatory_Poncibo_Gangemi_Ravot_Corrias
-  author1: "Cristina Poncibò"
-  affiliation1: "Professor of Comparative Private Law, University of Turin"
-  author2: "Andrea Gangemi"
-  affiliation2: "CDO Aspera Anonymous Dispute Resolution"
-  author3: "Giulio Stefano Ravot"
-  affiliation3: "CEO Aspera Anonymous Dispute Resolution"
-  author4: "Giacomo Corrias"
-  affiliation4: "CTO Aspera Anonymous Dispute Resolution"
-  presenter: 
-  stream: "Legal-and-regulatory"
-  slides: 
-  approval: true
-
 - paper: "Non-Fungible Tokens. Legal and Economic considerations - A European Perspective"
   link: Legal-and-regulatory_Agresti_Kavruk_Kunschke_Yerlikaya
   author1: "Anna Maria Agresti"
@@ -173,6 +158,21 @@
   affiliation1: 
   stream: "Legal-and-regulatory"
   presenter:
+  slides: 
+  approval: true
+
+- paper: "Towards total decentralisation through non-adjudicative methods"
+  link: Legal-and-regulatory_Poncibo_Gangemi_Ravot_Corrias
+  author1: "Cristina Poncibò"
+  affiliation1: "Professor of Comparative Private Law, University of Turin"
+  author2: "Andrea Gangemi"
+  affiliation2: "CDO Aspera Anonymous Dispute Resolution"
+  author3: "Giulio Stefano Ravot"
+  affiliation3: "CEO Aspera Anonymous Dispute Resolution"
+  author4: "Giacomo Corrias"
+  affiliation4: "CTO Aspera Anonymous Dispute Resolution"
+  presenter: 
+  stream: "Legal-and-regulatory"
   slides: 
   approval: true
 
