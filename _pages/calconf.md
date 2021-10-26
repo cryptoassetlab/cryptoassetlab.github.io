@@ -29,26 +29,17 @@ permalink: /calconf/
 
 ### Investments, Economics, and Regulation for Bitcoin and Crypto-Assets
 
-### Milan (Italy) and web streaming, November 4-5, 2021
-
 ### A joint event with the [DG Joint Research Centre, European Commission](https://ec.europa.eu/knowledge4policy/organisation/jrc-joint-research-centre_en), with the Patronage of [Regione Lombardia](https://www.en.regione.lombardia.it)
 
-### [Program]({{ site.baseurl }}/cal2021/)
+### Milan (Italy) and web streaming, November 4-5, 2021, 15:00-19:30 CET  
 
-* November 4, 15:00-19:30 CET  
-* November 5, 15:00-19:30 CET
-
-**Keynote speaker**:
-
-[*Ricardo Pérez-Marco*](https://webusers.imj-prg.fr/~ricardo.perez-marco/), French National Centre for Scientific Research.
-
-#### CAL2021 full agenda is available at the [dedicated page]({{ site.baseurl }}/cal2021/).
+#### CAL2021 full agenda is available at the [dedicated page]({{ site.baseurl }}/cal2021/)
 
 ### Venue and Attendance
 
-The CAL 2021 conference is held online (web streaming) and in person  at the University of Milano-Bicocca.
+The CAL2021 conference is held online (web streaming) and in person at the University of Milano-Bicocca.
 
-**In person attendance is limited for sanitary restrictions: in person tickets would be published on Eventbrite registration page starting from  November 1.**
+**In person attendance is limited for sanitary restrictions: in person tickets would be published on Eventbrite registration page starting from November 1.**
 
 Attending the online conference is **free**, but **registration is required**.
 
@@ -151,5 +142,4 @@ Topics include, but are not limited to:
 **Silver sponsor**
 [<img src="/img/cal2021/Elidata.png" height="70">](https://elidata.it/)
 
-#### To sponsor the conference please contact the general chair at
-[cryptoassetlab+conf2021-chairs@unimib.it](mailto:cryptoassetlab+conf2021-chairs@unimib.it)
+#### To sponsor the conference please contact the general chair at [cryptoassetlab+conf2021-chairs@unimib.it](mailto:cryptoassetlab+conf2021-chairs@unimib.it)
