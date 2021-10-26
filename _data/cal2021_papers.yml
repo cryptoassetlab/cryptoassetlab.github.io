@@ -1,3 +1,25 @@
+- paper: "Monetary Policy Pass-Through with Central Bank Digital Currency"
+  link: Crypto-economics_Jiang_Zhu
+  author1: "Janet Jiang"
+  affiliation1: "Bank of Canada"
+  author2: "Yu Zhu"
+  affiliation2: "Bank of Canada"
+  presenter: 
+  stream: "Crypto-economics1"
+  slides: 
+  approval: true
+
+- paper: "Best Before? Expiring Central Bank Digital Currency and Loss Recovery"
+  link: Crypto-economics_Kahn_van-Oordt_Zhu
+  author1: "Charles M. Kahn"
+  affiliation1: "University of Illinois"
+  author2: "Maarten R.C. van Oordt"
+  affiliation2: "Vrije Universiteit Amsterdam"
+  presenter: 
+  stream: "Crypto-economics1"
+  slides: 
+  approval: true
+ 
 - paper: "The Transition- Dynamics from Government Money only to Diversifed (Crypto-) Currency Competition"
   link: Crypto-economics_Filip
   author1: "Katharina Filip"
@@ -32,28 +54,6 @@
   slides: 
   approval: true
 
-- paper: "Best Before? Expiring Central Bank Digital Currency and Loss Recovery"
-  link: Crypto-economics_Kahn_van-Oordt_Zhu
-  author1: "Charles M. Kahn"
-  affiliation1: "University of Illinois"
-  author2: "Maarten R.C. van Oordt"
-  affiliation2: "Vrije Universiteit Amsterdam"
-  presenter: 
-  stream: "Crypto-economics1"
-  slides: 
-  approval: true
- 
-- paper: "Monetary Policy Pass-Through with Central Bank Digital Currency"
-  link: Crypto-economics_Jiang_Zhu
-  author1: "Janet Jiang"
-  affiliation1: "Bank of Canada"
-  author2: "Yu Zhu"
-  affiliation2: "Bank of Canada"
-  presenter: 
-  stream: "Crypto-economics1"
-  slides: 
-  approval: true
-
 - paper: "Vertically Disintegrated Platforms"
   link: Crypto-economics_Aymann_Dewatripont_Roukny
   author1: "Christoph Aymanns"
@@ -67,35 +67,72 @@
   slides: 
   approval: true
   
-- paper: "A topic modelling analysis of white papers in security token offerings: which topic matters for funds?"
-  link: Fungible-and-NF-Tokens_Bongini_Pedrazzoli_Rossolini
-  author1: "Paola Bongini"
-  affiliation1: "Full Professor, University of Milano-Bicocca"
-  author2: "Alessia Pedrazzoli"
-  affiliation2: "Lecturer, University of Modena and Reggio Emilia"
-  author3: "Monica Rossolini"
-  affiliation3: "Associate Professor, University of Milano-Bicocca"
-  stream: "Fungible-and-NF-Tokens"
+- paper: "Systematization of Knowledge paper on Decentralized Finance (DeFi)"
+  link: Crypto-economics_Werner_Perez_Gudgeon_Klages-Mundt_Harz_Knottenbelt
+  author1: "Sam M. Werner"
+  affiliation1: "Imperial College London"
+  author2: "Daniel Perez"
+  affiliation2: "Imperial College London"
+  author3: "Lewis Gudgeon"
+  affiliation3: "Imperial College London"
+  author4: "Ariah Klages-Mundt"
+  affiliation4: "Cornell University"
+  author5: "Dominik Harz"
+  affiliation5: "Imperial College London"
+  author6: "William J. Knottenbelt"
+  affiliation6: "Imperial College London"
   presenter:
+  stream: "Crypto-economics2"
   slides: 
   approval: true
 
-- paper: "Auctions with Tokens"
-  link: Fungible-and-NF-Tokens_Canidio
-  author1: "Andrea Canidio"
-  affiliation1: "IMT school of advanced studies"
-  stream: "Fungible-and-NF-Tokens"
+- paper: "Financial Literacy and Attitudes to Cryptocurrencies"
+  link: Crypto-economics_Panos_Karkkainen_Atkinson
+  author1: "Georgios A. Panos"
+  affiliation1: "Adam Smith Business School, University of Glasgow"
+  author2: "Tatja Karkkainen"
+  affiliation2:  "Adam Smith Business School, University of Glasgow"
+  author3: "Adele Atkinson"
+  affiliation2: "Adam Smith Business School, University of Glasgow"
   presenter:
+  stream: "Crypto-economics2"
   slides: 
   approval: true
 
-- paper: "Non-fungible token markets on the Ethereum blockchain"
-  link: Fungible-and-NF-Tokens_Ante
-  author1: "Lennart Ante"
-  affiliation1: "Blockchain Research Lab"
-  stream: "Fungible-and-NF-Tokens"
-  presenter:
+- paper: "Sentiment, Google Queries and Explosivity in the Cryptocurrency Market"
+  link: Quantitative-modelling_Agosto_Cerchiello_Pagnottoni
+  author1: "Arianna Agosto"
+  affiliation1: "University of Pavia"
+  author2: "Paola Cerchiello"
+  affiliation2: "University of Pavia"
+  author3: "Paolo Pagnottoni"
+  affiliation3: "University of Pavia"
+  presenter: 
+  stream: "Quantitative-modelling"
   slides: 
+  approval: true
+
+- paper: "Common dynamic factors for cryptocurrencies and multiple pair-trading statistical arbitrages"
+  link: Quantitative-modelling_Figa-Talamanca_Focardi_Patacca
+  author1: "Gianna Figá-Talamanca"
+  affiliation1: "University of Perugia"
+  author2: "Sergio Focardi"
+  affiliation2: "Léonard de Vinci Pôle Universitaire"
+  author3: "Marco Patacca"
+  affiliation3: "University of Verona"
+  presenter: 
+  stream: "Quantitative-modelling"
+  slides: 
+  approval: true
+  presenter:
+
+- paper: "Interdependence, Contagion and Speculative Bubbles in Cryptocurrency Markets"
+  link: Quantitative-modelling_Bacan-Palomino
+  author1: "Walter Bazán-Palomino"
+  affiliation1: "Fordham University New York, Universidad del Pacifico"
+  stream: "Quantitative-modelling"
+  slides: 
+  presenter:
   approval: true
 
 - paper: "Order-book liquidity on crypto exchanges"
@@ -137,7 +174,49 @@
   slides: 
   approval: true
  
-- paper: "Non-Fungible Tokens. Legal and Economic considerations - A European Perspective"
+- paper: "A Broad Analysis of Short-term Overreactions in The Market For Cryptocurrencies"
+  link: Investments-and-trading_Kellner_Maltritz
+  author1: "Tobias Kellner"
+  affiliation1: "Center for Empirical Research in Economics and Behavioral Sciences, University of Erfurt"
+  author2: "Dominik Maltritz"
+  affiliation2: "Faculty of Economics, Law and Social Sciences, University of Erfurt Nordhäuser"
+  presenter:
+  stream: "Investments-and-trading"
+  slides: 
+  approval: true
+
+- paper: "A topic modelling analysis of white papers in security token offerings: which topic matters for funds?"
+  link: Fungible-and-NF-Tokens_Bongini_Pedrazzoli_Rossolini
+  author1: "Paola Bongini"
+  affiliation1: "Full Professor, University of Milano-Bicocca"
+  author2: "Alessia Pedrazzoli"
+  affiliation2: "Lecturer, University of Modena and Reggio Emilia"
+  author3: "Monica Rossolini"
+  affiliation3: "Associate Professor, University of Milano-Bicocca"
+  stream: "Fungible-and-NF-Tokens"
+  presenter:
+  slides: 
+  approval: true
+
+- paper: "Auctions with Tokens"
+  link: Fungible-and-NF-Tokens_Canidio
+  author1: "Andrea Canidio"
+  affiliation1: "IMT school of advanced studies"
+  stream: "Fungible-and-NF-Tokens"
+  presenter:
+  slides: 
+  approval: true
+
+- paper: "Non-fungible token markets on the Ethereum blockchain"
+  link: Fungible-and-NF-Tokens_Ante
+  author1: "Lennart Ante"
+  affiliation1: "Blockchain Research Lab"
+  stream: "Fungible-and-NF-Tokens"
+  presenter:
+  slides: 
+  approval: true
+
+- paper: "Non-Fungible Tokens. Legal and Economic Considerations - A European Perspective"
   link: Legal-and-regulatory_Agresti_Kavruk_Kunschke_Yerlikaya
   author1: "Anna Maria Agresti"
   affiliation1: "European Central Bank"
@@ -152,7 +231,7 @@
   slides: 
   approval: true
  
-- paper: "The impact of tokenisation on property law"
+- paper: "The Impact of Tokenisation on Property Law"
   link: Legal-and-regulatory_De-Caria
   author1: "Riccardo de Caria"
   affiliation1: 
@@ -161,7 +240,7 @@
   slides: 
   approval: true
 
-- paper: "Towards total decentralisation through non-adjudicative methods"
+- paper: "Towards Total Decentralisation Through Non-adjudicative Methods"
   link: Legal-and-regulatory_Poncibo_Gangemi_Ravot_Corrias
   author1: "Cristina Poncibò"
   affiliation1: "Professor of Comparative Private Law, University of Turin"
@@ -176,83 +255,3 @@
   slides: 
   approval: true
 
-- paper: "Sentiment, Google Queries and Explosivity in the Cryptocurrency Market"
-  link: Quantitative-modelling_Agosto_Cerchiello_Pagnottoni
-  author1: "Arianna Agosto"
-  affiliation1: "University of Pavia"
-  author2: "Paola Cerchiello"
-  affiliation2: "University of Pavia"
-  author3: "Paolo Pagnottoni"
-  affiliation3: "University of Pavia"
-  presenter: 
-  stream: "Quantitative-modelling"
-  slides: 
-  approval: true
-
-- paper: "Common dynamic factors for cryptocurrencies and multiple pair-trading statistical arbitrages"
-  link: Quantitative-modelling_Figa-Talamanca_Focardi_Patacca
-  author1: "Gianna Figá-Talamanca"
-  affiliation1: "University of Perugia"
-  author2: "Sergio Focardi"
-  affiliation2: "Léonard de Vinci Pôle Universitaire"
-  author3: "Marco Patacca"
-  affiliation3: "University of Verona"
-  presenter: 
-  stream: "Quantitative-modelling"
-  slides: 
-  approval: true
-  presenter:
-
-- paper: "Interdependence, Contagion and Speculative Bubbles in Cryptocurrency Markets"
-  link: Quantitative-modelling_Bacan-Palomino
-  author1: "Walter Bazán-Palomino"
-  affiliation1: "Fordham University New York, Universidad del Pacifico"
-  stream: "Quantitative-modelling"
-  slides: 
-  presenter:
-  approval: true
-
-- paper: "A broad analysis of short-term overreactions in the market for cryptocurrencies"
-  link: Investments-and-trading_Kellner_Maltritz
-  author1: "Tobias Kellner"
-  affiliation1: "Center for Empirical Research in Economics and Behavioral Sciences, University of Erfurt"
-  author2: "Dominik Maltritz"
-  affiliation2: "Faculty of Economics, Law and Social Sciences, University of Erfurt Nordhäuser"
-  presenter:
-  stream: "Investments-and-trading"
-  slides: 
-  approval: true
-
-- paper: "Systematization of Knowledge paper on Decentralized Finance (DeFi)"
-  link: Crypto-economics_Werner_Perez_Gudgeon_Klages-Mundt_Harz_Knottenbelt
-  author1: "Sam M. Werner"
-  affiliation1: "Imperial College London"
-  author2: "Daniel Perez"
-  affiliation2: "Imperial College London"
-  author3: "Lewis Gudgeon"
-  affiliation3: "Imperial College London"
-  author4: "Ariah Klages-Mundt"
-  affiliation4: "Cornell University"
-  author5: "Dominik Harz"
-  affiliation5: "Imperial College London"
-  author6: "William J. Knottenbelt"
-  affiliation6: "Imperial College London"
-  presenter:
-  stream: "Crypto-economics2"
-  slides: 
-  approval: true
-
-- paper: "Financial Literacy and Attitudes to Cryptocurrencies"
-  link: Crypto-economics_Panos_Karkkainen_Atkinson
-  author1: "Georgios A. Panos"
-  affiliation1: "Adam Smith Business School, University of Glasgow"
-  author2: "Tatja Karkkainen"
-  affiliation2:  "Adam Smith Business School, University of Glasgow"
-  author3: "Adele Atkinson"
-  affiliation2: "Adam Smith Business School, University of Glasgow"
-  presenter:
-  stream: "Crypto-economics2"
-  slides: 
-  approval: true
-  
-  
