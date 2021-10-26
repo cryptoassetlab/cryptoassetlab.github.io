@@ -35,6 +35,29 @@ permalink: /calconf/
 
 ### With the Patronage of [Regione Lombardia](https://www.en.regione.lombardia.it/wps/portal/site/en-regione-lombardia)
 
+### [Program]({{ site.baseurl }}/cal2021/)
+
+* November 4, 15:00-19:30 CET  
+* November 5, 15:00-19:30 CET
+
+**Keynote speaker**:
+
+[*Ricardo Pérez-Marco*](https://webusers.imj-prg.fr/~ricardo.perez-marco/), French National Centre for Scientific Research.
+
+#### CAL2021 full agenda is available at the [dedicated page]({{ site.baseurl }}/cal2021/).
+
+### Venue and Attendance
+
+The CAL 2021 conference will be held online (web streaming)
+and in person (with limited attendance)
+at the University of Milano-Bicocca.
+Attending the online conference is _free_, but registration is required.
+Details about in person attendance will be available in October.
+
+Registration and ticketing on
+[eventbrite's conference page](https://www.eventbrite.com/e/the-3nd-crypto-asset-lab-conference-registration-155774506743).
+
+<!--
 ### Relevant dates
 
 * ~~Abstract submission: July 16, 2021~~ (43 abstracts received)
@@ -42,7 +65,6 @@ permalink: /calconf/
 * ~~Paper submission: September 30, 2021~~ (27 papers received)
 * ~~Paper acceptance: October 22, 2021~~ (21 papers accepted)
 
-<!--
 ### Abstract Submission
 
 Abstracts must be submitted using the dedicated
@@ -112,33 +134,6 @@ Topics include, but are not limited to:
   * Maarten van Oordt, Bank of Canada
   * Angela Walch, St. Mary's University School of Law
 
-### Program
-
-* November 4, 15:00-19:30 CET  
-* November 5, 15:00-19:30 CET
-
-The conference program will be available early October.
-
-### Keynote speakers
-
-* Ricardo Pérez-Marco, French National Centre for Scientific Research
-* TBA
-
-<!--
-The CAL 2021 conference program is available at the [dedicated page]({{ site.baseurl }}/cal2021/)
--->
-
-### Venue and Attendance
-
-The CAL 2021 conference will be held online (web streaming)
-and in person (with limited attendance)
-at the University of Milano-Bicocca.
-Attending the online conference is _free_, but registration is required.
-Details about in person attendance will be available in October.
-
-Registration and ticketing on
-[eventbrite's conference page](https://www.eventbrite.com/e/the-3nd-crypto-asset-lab-conference-registration-155774506743).
-
 ### Previous Editions
 
 * [CAL2020]({{ site.baseurl }}/cal2020/)
@@ -149,15 +144,14 @@ Registration and ticketing on
 * [cryptoassetlab.diseade.unimib.it/calconf]({{ site.baseurl }}/calconf)
 * [cryptoassetlab+conf@unimib.it](mailto:cryptoassetlab+conf@unimib.it)
 
-### Conference Sponsors
+### CAL2021 Sponsors
 
-**Gold sponsor** [<img src="/img/cal2020/CheckSig-logo-transparent.png" height="75">](http://checksig.io)
+**Gold sponsors**
+[<img src="/img/cal2021/CheckSig-logo-transparent.png" height="50">](http://checksig.io)
+[<img src="/img/cal2021/deloitte-logo.png" height="60">](https://www2.deloitte.com/it/it.html)
 
-<!--
-**Silver sponsor** [<img src="/img/cal2020/trt-logo.png" height="50">](http://www.therocktrading.com/en/)
+**Silver sponsor**
+[<img src="/img/cal2021/Elidata.png" height="70">](https://elidata.it/)
 
-**Bronze sponsor** [<img src="/img/cal2020/deloitte-logo.png" height="25">](http://www2.deloitte.com/it)
--->
-
-To sponsor the conference please contact the general chair at
+#### To sponsor the conference please contact the general chair at
 [cryptoassetlab+conf2021-chairs@unimib.it](mailto:cryptoassetlab+conf2021-chairs@unimib.it)
