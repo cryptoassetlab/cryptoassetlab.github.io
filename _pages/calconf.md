@@ -137,11 +137,11 @@ Topics include, but are not limited to:
 
 ### CAL2021 Sponsors
 
-**Gold sponsors**
-[<img src="/img/cal2021/CheckSig-logo-transparent.png" height="50">](http://checksig.io)
+**Gold**
+[<img src="/img/cal2021/CheckSig-logo-transparent.png" height="50">](https://checksig.io)
 [<img src="/img/cal2021/deloitte-logo.png" height="60">](https://www2.deloitte.com/it/it.html)
 
-**Silver sponsor**
+**Silver**
 [<img src="/img/cal2021/Elidata.png" height="70">](https://elidata.it/)
 
 #### To sponsor the conference please contact the general chair at [cryptoassetlab+conf2021-chairs@unimib.it](mailto:cryptoassetlab+conf2021-chairs@unimib.it)
