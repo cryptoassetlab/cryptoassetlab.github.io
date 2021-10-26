@@ -41,8 +41,8 @@ The CAL2021 conference is held online (web streaming) and in person at the Unive
 
 Attending the online conference is **free**, but **registration is required**.
 
-Registration and ticketing on
-[eventbrite's conference page](https://www.eventbrite.com/e/the-3nd-crypto-asset-lab-conference-registration-155774506743).
+Registration and ticketing on the
+[Eventbrite conference page](https://www.eventbrite.com/e/the-3nd-crypto-asset-lab-conference-registration-155774506743).
 
 <!--
 ### Relevant dates
