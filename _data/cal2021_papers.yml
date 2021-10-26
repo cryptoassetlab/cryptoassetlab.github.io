@@ -28,7 +28,7 @@
   author3: "Michela Rancan"
   affiliation3: "Università Politecnica delle Marche"
   presenter: 
-  stream: "Crypto-economics1"
+  stream: "Crypto-economics2"
   slides: 
   approval: true
 
@@ -38,10 +38,8 @@
   affiliation1: "University of Illinois"
   author2: "Maarten R.C. van Oordt"
   affiliation2: "Vrije Universiteit Amsterdam"
-  author3: "Yu Zhu"
-  affiliation3: "Bank of Canada"
   presenter: 
-  stream: "Crypto-economics2"
+  stream: "Crypto-economics1"
   slides: 
   approval: true
  
@@ -52,7 +50,7 @@
   author2: "Yu Zhu"
   affiliation2: "Bank of Canada"
   presenter: 
-  stream: "Crypto-economics2"
+  stream: "Crypto-economics1"
   slides: 
   approval: true
 
@@ -240,7 +238,7 @@
   author6: "William J. Knottenbelt"
   affiliation6: "Imperial College London"
   presenter:
-  stream: "Crypto-economics1"
+  stream: "Crypto-economics2"
   slides: 
   approval: true
 
