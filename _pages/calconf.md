@@ -122,7 +122,7 @@ Topics include, but are not limited to:
   * Sandra Ro, Global Blockchain Business Council
   * Wim Schoutens, University of Leuven
   * Antonella Sciarrone Alibrandi, Università Cattolica del Sacro Cuore
-  * Maarten van Oordt, Bank of Canada
+  * Maarten van Oordt, Vrije Universiteit Amsterdam
   * Angela Walch, St. Mary's University School of Law
 
 ### Previous Editions
