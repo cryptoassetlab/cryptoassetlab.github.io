@@ -410,7 +410,7 @@ permalink: /cal2021/
           <br><br>
 
           {% for member in site.data.cal2021_papers %}
-          {% if member.stream == 'Legal-and-regulatory' and member.approval == true %}
+          {% if member.stream == 'Fungible-and-NF-Tokens' and member.approval == true %}
           {% if member.slides %}
           <a href="{{ site.baseurl }}/docs/CAL2021/{{ member.link }}.pdf"><b>{{ member.paper }}</b></a>, (<a
             href="{{ site.baseurl }}/docs/CAL2021/slides/{{ member.slides }}.pdf">slides</a>)<br>
@@ -499,7 +499,7 @@ permalink: /cal2021/
           <br><br>
 
           {% for member in site.data.cal2021_papers %}
-          {% if member.stream == 'Fungible-and-NF-Tokens' and member.approval == true %}
+          {% if member.stream == 'Legal-and-regulatory' and member.approval == true %}
           {% if member.slides %}
           <a href="{{ site.baseurl }}/docs/CAL2021/{{ member.link }}.pdf"><b>{{ member.paper }}</b></a>, (<a
             href="{{ site.baseurl }}/docs/CAL2021/slides/{{ member.slides }}.pdf">slides</a>)<br>
