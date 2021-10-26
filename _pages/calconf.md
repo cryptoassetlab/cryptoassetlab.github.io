@@ -31,9 +31,7 @@ permalink: /calconf/
 
 ### Milan (Italy) and web streaming, November 4-5, 2021
 
-### A joint event with the [DG Joint Research Centre, European Commission](https://ec.europa.eu/knowledge4policy/organisation/jrc-joint-research-centre_en)
-
-### With the Patronage of [Regione Lombardia](https://www.en.regione.lombardia.it/wps/portal/site/en-regione-lombardia)
+### A joint event with the [DG Joint Research Centre, European Commission](https://ec.europa.eu/knowledge4policy/organisation/jrc-joint-research-centre_en), with the Patronage of [Regione Lombardia](https://www.en.regione.lombardia.it)
 
 ### [Program]({{ site.baseurl }}/cal2021/)
 
