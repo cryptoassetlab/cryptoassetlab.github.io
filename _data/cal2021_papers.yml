@@ -20,13 +20,14 @@
   slides: 
   approval: true
  
-- paper: "The Transition- Dynamics from Government Money only to Diversifed (Crypto-) Currency Competition"
+- paper: "The Transition- Dynamics from Government Money only to Differentiated (Crypto-) Currency Competition"
   link: Crypto-economics_Filip
   author1: "Katharina Filip"
   affiliation1: "Vienna University of Economics and Business"
   stream: "Crypto-economics1"
   slides: 
   approval: true
+  remote: false
 
 - paper: "Are Stablecoins Stabilizing or Destabilizing the Crypto Market?"
   link: Crypto-economics_Ji_Lin_Wang
@@ -45,14 +46,15 @@
   link: Crypto-economics_Castren_Kavonius_Rancan
   author1: "Olli Castrén"
   affiliation1: "European Banking Authority"
-  author2: "Ilja Kavonius"
+  author2: "Ilja Kristian Kavonius"
   affiliation2: "University of Helsinki"
   author3: "Michela Rancan"
   affiliation3: "Università Politecnica delle Marche"
-  presenter: 
+  presenter: "Michela Rancan"
   stream: "Crypto-economics2"
   slides: 
   approval: true
+  remote: true
 
 - paper: "Vertically Disintegrated Platforms"
   link: Crypto-economics_Aymann_Dewatripont_Roukny
@@ -117,14 +119,14 @@
   author1: "Gianna Figá-Talamanca"
   affiliation1: "University of Perugia"
   author2: "Sergio Focardi"
-  affiliation2: "Léonard de Vinci Pôle Universitaire"
+  affiliation2: "Léonard de Vinci Pôle Universitaire, Paris"
   author3: "Marco Patacca"
   affiliation3: "University of Verona"
-  presenter: 
+  presenter: "Marco Patacca"
   stream: "Quantitative-modelling"
   slides: 
   approval: true
-  presenter:
+  remote: true
 
 - paper: "Interdependence, Contagion and Speculative Bubbles in Cryptocurrency Markets"
   link: Quantitative-modelling_Bacan-Palomino
@@ -143,21 +145,23 @@
   affiliation2: "University of Liechtenstein"
   author3: "Michael Hanke"
   affiliation3: "University of Liechtenstein"
-  presenter: 
+  presenter: "Marius Gramlich"
   stream: "Investments-and-trading"
   slides:  
   approval: true
+  remote: false
  
-- paper: "Intraday Herding and Attention Around the Clock"
+- paper: "Intraday Herding and Attention around the Clock"
   link: Investments-and-trading_Scharnowski_Shi
   author1: "Stefan Scharnowski"
   affiliation1: "University of Mannheim"
   author2: "Yanghua Shi"
   affiliation2: "University of Mannheim"
-  presenter:
+  presenter: "Stefan Scharnowski"
   stream: "Investments-and-trading"
   slides: 
   approval: true
+  remote: false
  
 - paper: "Bitcoin and News Around the World in Twenty-Six Languages"
   link: Investments-and-trading_Alessi_Ghysels_Petracco_Wang
@@ -198,16 +202,17 @@
   slides: 
   approval: true
 
-- paper: "Auctions with Tokens"
+- paper: "Auction with tokens"
   link: Fungible-and-NF-Tokens_Canidio
   author1: "Andrea Canidio"
-  affiliation1: "IMT school of advanced studies"
+  affiliation1: "IMT School for Advanced Studies, Lucca"
   stream: "Fungible-and-NF-Tokens"
   presenter:
   slides: 
   approval: true
+  remote: false
 
-- paper: "Non-fungible token markets on the Ethereum blockchain"
+- paper: "Non-fungible token (NFT) markets on the Ethereum blockchain: Temporal development, cointegration and interrelations"
   link: Fungible-and-NF-Tokens_Ante
   author1: "Lennart Ante"
   affiliation1: "Blockchain Research Lab"
@@ -215,21 +220,23 @@
   presenter:
   slides: 
   approval: true
+  remote: true
 
-- paper: "Non-Fungible Tokens. Legal and Economic Considerations - A European Perspective"
+- paper: "Non-Fungible Tokens: Legal and Economic considerations – A European Perspective"
   link: Legal-and-regulatory_Agresti_Kavruk_Kunschke_Yerlikaya
-  author1: "Anna Maria Agresti"
-  affiliation1: "European Central Bank"
+  author1: "Anna-Maria Agresti"
+  affiliation1: "European Central Bank, Frankfurt"
   author2: "Miray Kavruk"
-  affiliation2: "DLA Piper LLP"
+  affiliation2: "DLA Piper UK LLP, Frankfurt"
   author3: "Dennis Kunschke"
-  affiliation3: "DLA Piper LLP"
+  affiliation3: "DLA Piper UK LLP, Frankfurt"
   author4: "Natalie-Dilan Yerlikaya"
-  affiliation4: "DLA Piper LLP"
-  presenter: 
+  affiliation4: "DLA Piper UK LLP, Frankfurt"
+  presenter: Dennis Kunschke and Anna-Maria Agresti
   stream: "Legal-and-regulatory"
   slides: 
   approval: true
+  remote: true
  
 - paper: "The Impact of Tokenisation on Property Law"
   link: Legal-and-regulatory_De-Caria
@@ -240,18 +247,19 @@
   slides: 
   approval: true
 
-- paper: "Towards Total Decentralisation Through Non-adjudicative Methods"
+- paper: "Towards total decentralisation through non-adjudicative methods"
   link: Legal-and-regulatory_Poncibo_Gangemi_Ravot_Corrias
   author1: "Cristina Poncibò"
   affiliation1: "Professor of Comparative Private Law, University of Turin"
   author2: "Andrea Gangemi"
-  affiliation2: "CDO Aspera Anonymous Dispute Resolution"
+  affiliation2: "I3P (Incubatore Imprese Innovative Politecnico di Torino)"
   author3: "Giulio Stefano Ravot"
-  affiliation3: "CEO Aspera Anonymous Dispute Resolution"
+  affiliation3: "I3P (Incubatore Imprese Innovative Politecnico di Torino)"
   author4: "Giacomo Corrias"
-  affiliation4: "CTO Aspera Anonymous Dispute Resolution"
-  presenter: 
+  affiliation4: "I3P (Incubatore Imprese Innovative Politecnico di Torino)"
+  presenter: "Giulio Stefano Ravot"
   stream: "Legal-and-regulatory"
   slides: 
   approval: true
+  remote: false
 
