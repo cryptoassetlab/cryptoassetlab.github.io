@@ -41,7 +41,7 @@ permalink: /calconf/
 
 The CAL2021 conference is held online (web streaming) and in person at the University of Milano-Bicocca.
 
-**In person attendance is limited for sanitary restrictions: in person tickets would be published on Eventbrite registration page starting from November 1.**
+In person attendance is limited for sanitary restrictions: in person tickets would be published on Eventbrite registration page starting from November 1.
 
 Attending the online conference is **free**, but **registration is required**.
 
