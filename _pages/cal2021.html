@@ -222,13 +222,13 @@ permalink: /cal2021/
         </td>
         <td width="85%">
           <p id="investments">
-          <h4><b>Legal and Regulatory</b></h4>
+          <h4><b>Quantitative Modelling</b></h4>
           <b>Moderator</b>:
           <a href="https://www.unimib.it/francesca-mattassoglio"><i> Francesca Mattassoglio</i></a>, University of
           Milano-Bicocca
           <br><br>
           {% for member in site.data.cal2021_papers %}
-          {% if member.stream == 'Legal-and-regulatory' and member.approval == true %}
+          {% if member.stream == 'Quantitative-modelling' and member.approval == true %}
           {% if member.slides %}
           <a href="{{ site.baseurl }}/docs/CAL2021/{{ member.link }}.pdf"><b>{{ member.paper }}</b></a>, (<a
             href="{{ site.baseurl }}/docs/CAL2021/slides/{{ member.slides }}.pdf">slides</a>)<br>
@@ -403,12 +403,12 @@ permalink: /cal2021/
         </td>
         <td width="85%">
           <p id="quantitative-modelling">
-          <h4><b>Quantitative Modelling</b></h4>
+          <h4><b>Legal and Regulatory</b></h4>
           <b>Moderator</b>:
           <a href="http://dem-web.unipv.it/employe/personale.php?id=62"><i>Paolo Giudici</i></a>, University of Pavia
           <br><br>
           {% for member in site.data.cal2021_papers %}
-          {% if member.stream == 'Quantitative-modelling' and member.approval == true %}
+          {% if member.stream == 'Legal-and-regulatory' and member.approval == true %}
           {% if member.slides %}
           <a href="{{ site.baseurl }}/docs/CAL2021/{{ member.link }}.pdf"><b>{{ member.paper }}</b></a>, (<a
             href="{{ site.baseurl }}/docs/CAL2021/slides/{{ member.slides }}.pdf">slides</a>)<br>
