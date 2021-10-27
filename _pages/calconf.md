@@ -29,8 +29,6 @@ permalink: /calconf/
 
 ### Investments, Economics, and Regulation for Bitcoin and Crypto-Assets
 
-### A joint event with the [DG Joint Research Centre, European Commission](https://ec.europa.eu/knowledge4policy/organisation/jrc-joint-research-centre_en), with the Patronage of [Regione Lombardia](https://www.en.regione.lombardia.it)
-
 ### Milan (Italy) and web streaming
 
 ### November 4-5, 2021, 15:00-19:30 CET (UTC+1)
