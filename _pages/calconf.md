@@ -141,4 +141,4 @@ Topics include, but are not limited to:
 **Silver**
 [<img src="/img/cal2021/Elidata.png" height="70">](https://elidata.it/)
 
-#### To sponsor the conference please contact the general chair at [cryptoassetlab+conf2021-chairs@unimib.it](mailto:cryptoassetlab+conf2021-chairs@unimib.it)
+#### To sponsor the conference please contact [cryptoassetlab+conf@unimib.it](mailto:cryptoassetlab+conf2021@unimib.it)
