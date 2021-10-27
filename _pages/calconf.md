@@ -44,7 +44,8 @@ Attending the online conference is **free**, but **registration is required**.
 For registration and ticketing see the
 [Eventbrite conference page](https://www.eventbrite.com/e/the-3nd-crypto-asset-lab-conference-registration-155774506743).
 
-In person attendance is limited for sanitary restrictions: in person tickets will be available on the Eventbrite registration page starting from November 1.
+In person attendance is limited for sanitary restrictions: in person tickets will be available
+on the Eventbrite conference page starting from November 1.
 
 <!--
 ### Relevant dates
