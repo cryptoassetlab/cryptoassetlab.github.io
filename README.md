@@ -29,7 +29,7 @@ and practitioners to join us and help with
 research, development, training, teaching, and
 other experimental activities.
 
-We promote the [CAL yearly conference]({{ site.baseurl }}/calconf)
+We organize the [CAL yearly conference]({{ site.baseurl }}/calconf).
 
 ## About
 
@@ -41,16 +41,16 @@ Crypto Asset Lab is a joint initiative of
 the [Digital Gold Institute](http://www.dgi.io)
 and our academic and scientific community.
 
-[<img src="/img/cal.png" height="80">]({{ site.baseurl }})
-**==**
 [<img src="/img/bicocca-logo.png" height="80">](http://www.diseade.unimib.it/it)
 **+**
 [<img src="/img/dgi-logo.png" height="80">](http://dgi.io)
+**==**
+[<img src="/img/cal.png" height="80">]({{ site.baseurl }})
 
 ## Address
 
 Crypto Asset Lab - Università Milano-Bicocca  
-Di.SEA.DE, Building U7, Room 3010c  
+Di.SEA.DE, Building U7  
 Via Bicocca degli Arcimboldi 8  
 20126 Milano
 
