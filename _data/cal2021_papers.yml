@@ -15,10 +15,13 @@
   affiliation1: "University of Illinois"
   author2: "Maarten R.C. van Oordt"
   affiliation2: "Vrije Universiteit Amsterdam"
-  presenter: 
+  author3: "Yu Zhu"
+  affiliation3: "Bank of Canada"
+  presenter: "Yu Zhu"
   stream: "Crypto-economics1"
   slides: 
   approval: true
+  remote: true
  
 - paper: "The Transition- Dynamics from Government Money only to Differentiated (Crypto-) Currency Competition"
   link: Crypto-economics_Filip
@@ -56,19 +59,6 @@
   approval: true
   remote: true
 
-- paper: "Vertically Disintegrated Platforms"
-  link: Crypto-economics_Aymann_Dewatripont_Roukny
-  author1: "Christoph Aymanns"
-  affiliation1: "University of St. Gallen"
-  author2: "Mathias Dewatripont"
-  affiliation2: "Université Libre de Bruxelles"
-  author3: "Tarik Roukny"
-  affiliation3: "KU Leuven"
-  presenter: 
-  stream: "Crypto-economics2"
-  slides: 
-  approval: true
-  
 - paper: "Systematization of Knowledge paper on Decentralized Finance (DeFi)"
   link: Crypto-economics_Werner_Perez_Gudgeon_Klages-Mundt_Harz_Knottenbelt
   author1: "Sam M. Werner"
@@ -113,6 +103,7 @@
   stream: "Quantitative-modelling"
   slides: 
   approval: true
+  remote: true
 
 - paper: "Common dynamic factors for cryptocurrencies and multiple pair-trading statistical arbitrages"
   link: Quantitative-modelling_Figa-Talamanca_Focardi_Patacca
@@ -137,7 +128,7 @@
   presenter:
   approval: true
 
-- paper: "Order-book liquidity on crypto exchanges"
+- paper: "Order Book Liquidity on Crypto Exchanges"
   link: Investments-and-trading_Angerer_Gramlich_Hanke
   author1: "Martin Angerer"
   affiliation1: "University of Liechtenstein"
@@ -145,11 +136,11 @@
   affiliation2: "University of Liechtenstein"
   author3: "Michael Hanke"
   affiliation3: "University of Liechtenstein"
-  presenter: "Marius Gramlich"
+  presenter: "Martin Angerer"
   stream: "Investments-and-trading"
   slides:  
   approval: true
-  remote: false
+  remote: true
  
 - paper: "Intraday Herding and Attention around the Clock"
   link: Investments-and-trading_Scharnowski_Shi
@@ -241,11 +232,12 @@
 - paper: "The Impact of Tokenisation on Property Law"
   link: Legal-and-regulatory_De-Caria
   author1: "Riccardo de Caria"
-  affiliation1: 
+  affiliation1: "Università di Torino"
   stream: "Legal-and-regulatory"
   presenter:
   slides: 
   approval: true
+  remote: true
 
 - paper: "Towards total decentralisation through non-adjudicative methods"
   link: Legal-and-regulatory_Poncibo_Gangemi_Ravot_Corrias
