@@ -11,14 +11,17 @@
 
 - paper: "Best Before? Expiring Central Bank Digital Currency and Loss Recovery"
   link: Crypto-economics_Kahn_van-Oordt_Zhu
-  author1: "Charles M. Kahn"
-  affiliation1: "University of Illinois"
-  author2: "Maarten R.C. van Oordt"
-  affiliation2: "Vrije Universiteit Amsterdam"
-  presenter: 
+  author2: "Charles M. Kahn"
+  affiliation2: "University of Illinois"
+  author3: "Maarten R.C. van Oordt"
+  affiliation3: "Vrije Universiteit Amsterdam"
+  author1: "Yu Zhu"
+  affiliation1: "Bank of Canada"
+  presenter: "Yu Zhu"
   stream: "Crypto-economics1"
   slides: 
   approval: true
+  remote: true
  
 - paper: "The Transition- Dynamics from Government Money only to Differentiated (Crypto-) Currency Competition"
   link: Crypto-economics_Filip
@@ -134,7 +137,6 @@
   affiliation1: "Fordham University New York, Universidad del Pacifico"
   stream: "Quantitative-modelling"
   slides: 
-  presenter:
   approval: true
 
 - paper: "Order-book liquidity on crypto exchanges"
@@ -222,7 +224,7 @@
   approval: true
   remote: true
 
-- paper: "Non-Fungible Tokens: Legal and Economic considerations – A European Perspective"
+- paper: "Non-Fungible Tokens Legal and Economic considerations – A European PerspectivE"
   link: Legal-and-regulatory_Agresti_Kavruk_Kunschke_Yerlikaya
   author1: "Anna-Maria Agresti"
   affiliation1: "European Central Bank, Frankfurt"
@@ -230,8 +232,8 @@
   affiliation2: "DLA Piper UK LLP, Frankfurt"
   author3: "Dennis Kunschke"
   affiliation3: "DLA Piper UK LLP, Frankfurt"
-  author4: "Natalie-Dilan Yerlikaya"
-  affiliation4: "DLA Piper UK LLP, Frankfurt"
+  author1: "Natalie-Dilan Yerlikaya"
+  affiliation1: "DLA Piper UK LLP, Frankfurt"
   presenter: Dennis Kunschke and Anna-Maria Agresti
   stream: "Legal-and-regulatory"
   slides: 
