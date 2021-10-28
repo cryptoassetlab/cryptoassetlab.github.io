@@ -209,7 +209,6 @@
   author1: "Andrea Canidio"
   affiliation1: "IMT School for Advanced Studies, Lucca"
   stream: "Fungible-and-NF-Tokens"
-  presenter:
   slides: 
   approval: true
   remote: false
@@ -219,7 +218,6 @@
   author1: "Lennart Ante"
   affiliation1: "Blockchain Research Lab"
   stream: "Fungible-and-NF-Tokens"
-  presenter:
   slides: 
   approval: true
   remote: true
