@@ -4,10 +4,11 @@
   affiliation1: "Bank of Canada"
   author2: "Yu Zhu"
   affiliation2: "Bank of Canada"
-  presenter: 
+  presenter: "Janet Jiang"
   stream: "Crypto-economics1"
   slides: 
   approval: true
+  remote: true
 
 - paper: "Best Before? Expiring Central Bank Digital Currency and Loss Recovery"
   link: Crypto-economics_Kahn_van-Oordt_Zhu
@@ -199,7 +200,7 @@
   stream: "Fungible-and-NF-Tokens"
   slides: 
   approval: true
-  remote: false
+  remote: true
 
 - paper: "Non-fungible token (NFT) markets on the Ethereum blockchain: Temporal development, cointegration and interrelations"
   link: Fungible-and-NF-Tokens_Ante
@@ -210,7 +211,7 @@
   approval: true
   remote: true
 
-- paper: "Non-Fungible Tokens Legal and Economic considerations – A European PerspectivE"
+- paper: "Non-Fungible Tokens Legal and Economic considerations – A European Perspective"
   link: Legal-and-regulatory_Agresti_Kavruk_Kunschke_Yerlikaya
   author1: "Anna-Maria Agresti"
   affiliation1: "European Central Bank, Frankfurt"
