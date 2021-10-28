@@ -112,10 +112,11 @@
   affiliation2: "University of Pavia"
   author3: "Paolo Pagnottoni"
   affiliation3: "University of Pavia"
-  presenter: 
+  presenter: "Paolo Pagnottoni"
   stream: "Quantitative-modelling"
   slides: 
   approval: true
+  remote: true
 
 - paper: "Common dynamic factors for cryptocurrencies and multiple pair-trading statistical arbitrages"
   link: Quantitative-modelling_Figa-Talamanca_Focardi_Patacca
