@@ -151,7 +151,7 @@
   stream: "Investments-and-trading"
   slides:  
   approval: true
-  remote: false
+  remote: true
  
 - paper: "Intraday Herding and Attention around the Clock"
   link: Investments-and-trading_Scharnowski_Shi
