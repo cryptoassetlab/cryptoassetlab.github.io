@@ -247,6 +247,7 @@
   stream: "Legal-and-regulatory"
   slides: 
   approval: true
+  remote: true
 
 - paper: "Towards total decentralisation through non-adjudicative methods"
   link: Legal-and-regulatory_Poncibo_Gangemi_Ravot_Corrias
