@@ -33,18 +33,21 @@
   approval: true
   remote: false
 
-- paper: "Are Stablecoins Stabilizing or Destabilizing the Crypto Market?"
+- paper: "The crumbling wall between crypto and non-crypto market: risk spillovers through stablecoins"
   link: Crypto-economics_Ji_Lin_Wang
   author1: "Yang Ji"
   affiliation1: "Xiamen University"
-  author2: "Juan Lin"
-  affiliation2: "Xiamen University"
-  author3: "Peng Wang"
+  author2: "Yiping Huang"
+  affiliation2: "Peking University"
+  author3: "Juan Lin"
   affiliation3: "Xiamen University"
-  presenter: 
+  author4: "Peng Wang"
+  affiliation4: "Xiamen University"
+  presenter: "Peng Wang"
   stream: "Crypto-economics1"
   slides: 
-  approval: true  
+  approval: true
+  remote: true
  
 - paper: "Digital Currencies in Financial Networks"
   link: Crypto-economics_Castren_Kavonius_Rancan
