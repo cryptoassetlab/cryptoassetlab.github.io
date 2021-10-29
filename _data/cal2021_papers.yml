@@ -82,11 +82,11 @@
 - paper: "Financial Literacy and Attitudes to Cryptocurrencies"
   link: Crypto-economics_Panos_Karkkainen_Atkinson
   author1: "Georgios A. Panos"
-  affiliation1: "Adam Smith Business School, University of Glasgow"
+  affiliation1: "University of Glasgow"
   author2: "Tatja Karkkainen"
-  affiliation2:  "Adam Smith Business School, University of Glasgow"
+  affiliation2:  "University of Glasgow"
   author3: "Adele Atkinson"
-  affiliation2: "Adam Smith Business School, University of Glasgow"
+  affiliation2: "University of Glasgow"
   presenter:
   stream: "Crypto-economics2"
   slides: 
@@ -192,7 +192,7 @@
   author4: "Monica Rossolini"
   affiliation4: "University of Milano-Bicocca"
   stream: "Fungible-and-NF-Tokens"
-  presenter:
+  presenter: "Monica Rossolini"
   slides: 
   approval: true
   remote: true
@@ -243,7 +243,7 @@
 - paper: "Towards total decentralisation through non-adjudicative methods"
   link: Legal-and-regulatory_Poncibo_Gangemi_Ravot_Corrias
   author2: "Cristina Poncibò"
-  affiliation2: "Professor of Comparative Private Law, University of Turin"
+  affiliation2: "University of Turin"
   author3: "Andrea Gangemi"
   affiliation3: "I3P (Incubatore Imprese Innovative Politecnico di Torino)"
   author1: "Giulio Stefano Ravot"
