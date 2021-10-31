@@ -123,14 +123,6 @@
   approval: true
   remote: true
 
-- paper: "Interdependence, Contagion and Speculative Bubbles in Cryptocurrency Markets"
-  link: Quantitative-modelling_Bacan-Palomino
-  author1: "Walter Bazán-Palomino"
-  affiliation1: "Fordham University New York, Universidad del Pacifico"
-  stream: "Quantitative-modelling"
-  slides: 
-  approval: true
-
 - paper: "Order Book Liquidity on Crypto Exchanges"
   link: Investments-and-trading_Angerer_Gramlich_Hanke
   author1: "Martin Angerer"
