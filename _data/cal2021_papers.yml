@@ -77,10 +77,11 @@
   affiliation5: "Imperial College London"
   author6: "William J. Knottenbelt"
   affiliation6: "Imperial College London"
-  presenter:
+  presenter: "Sam M. Werner"
   stream: "Crypto-economics2"
   slides: 
   approval: true
+  remote: true
 
 - paper: "Financial literacy and attitudes to cryptocurrencies"
   link: Crypto-economics_Panos_Karkkainen_Atkinson
