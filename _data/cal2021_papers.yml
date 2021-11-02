@@ -35,10 +35,10 @@
 
 - paper: "The crumbling wall between crypto and non-crypto market: risk spillovers through stablecoins"
   link: Crypto-economics_Ji_Lin_Wang
-  author1: "Yang Ji"
-  affiliation1: "Xiamen University"
-  author2: "Yiping Huang"
-  affiliation2: "Peking University"
+  author1: "Yiping Huang"
+  affiliation1: "Peking University"
+  author2: "Yang Ji"
+  affiliation2: "Xiamen University"
   author3: "Juan Lin"
   affiliation3: "Xiamen University"
   author4: "Peng Wang"
@@ -201,7 +201,7 @@
   remote: true
 
 - paper: "Non-Fungible Tokens Legal and Economic considerations – A European Perspective"
-  link: Legal-and-regulatory_Agresti_Kavruk_Kunschke_Yerlikaya
+  link-no: Legal-and-regulatory_Agresti_Kavruk_Kunschke_Yerlikaya
   author1: "Anna-Maria Agresti"
   affiliation1: "European Central Bank, Frankfurt"
   author2: "Miray Kavruk"
