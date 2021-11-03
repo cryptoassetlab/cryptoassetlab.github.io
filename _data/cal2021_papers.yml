@@ -20,20 +20,18 @@
   affiliation3: "Bank of Canada"
   presenter: "Yu Zhu"
   stream: "Crypto-economics1"
-  slides: 
+  slides: Expiring_offline_money-18
   approval: true
   remote: true
-  slides: Expiring_offline_money-18
  
 - paper: "The Transition- Dynamics from Government Money only to Differentiated (Crypto-) Currency Competition"
   link: Crypto-economics_Filip
   author1: "Katharina Filip"
   affiliation1: "Vienna University of Economics and Business"
   stream: "Crypto-economics1"
-  slides: 
+  slides: 211103-CAL2021-FILIP
   approval: true
   remote: false
-  sildes: 211103-CAL2021-FILIP
 
 - paper: "The crumbling wall between crypto and non-crypto market: risk spillovers through stablecoins"
   link: Crypto-economics_Ji_Lin_Wang
@@ -47,10 +45,9 @@
   affiliation4: "Xiamen University"
   presenter: "Peng Wang"
   stream: "Crypto-economics1"
-  slides: 
+  slides: slides_stablecoinsV5
   approval: true
   remote: true
-  slides: slides_stablecoinsV5
  
 - paper: "Digital Currencies in Financial Networks"
   link: Crypto-economics_Castren_Kavonius_Rancan
@@ -96,10 +93,9 @@
   affiliation2: "Private consultant"
   presenter: "Georgios A. Panos"
   stream: "Crypto-economics2"
-  slides: 
+  slides: GPanos_Cryptoattitudes_031121
   approval: true
   remote: true
-  slides: GPanos_Cryptoattitudes_031121
 
 - paper: "Sentiment, Google Queries and Explosivity in the Cryptocurrency Market"
   link: Quantitative-modelling_Agosto_Cerchiello_Pagnottoni
@@ -245,4 +241,3 @@
   slides: 
   approval: true
   remote: false
-
