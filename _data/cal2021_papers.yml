@@ -50,7 +50,7 @@
   slides: 
   approval: true
   remote: true
-  slides: slides_stablecoinsV4
+  slides: slides_stablecoinsV5
  
 - paper: "Digital Currencies in Financial Networks"
   link: Crypto-economics_Castren_Kavonius_Rancan
