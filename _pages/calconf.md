@@ -113,7 +113,7 @@ Topics include, but are not limited to:
   * Daniele Marazzina, Politecnico di Milano
   * Francesca Mattassoglio, University of Milano-Bicocca
   * Elaine Ou, Global Financial Access
-  * Marco Petracco, DG Joint Research Centre - European Commission
+  * Marco Petracco Giudici, DG Joint Research Centre - European Commission
   * Gina Pieters, University of Chicago
   * Carla Reyes, Southern Methodist University
   * Sandra Ro, Global Blockchain Business Council
