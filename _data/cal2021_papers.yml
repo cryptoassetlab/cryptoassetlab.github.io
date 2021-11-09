@@ -1,15 +1,3 @@
-- paper: "Monetary Policy Pass-Through with Central Bank Digital Currency"
-  link: Crypto-economics_Jiang_Zhu
-  author1: "Janet Jiang"
-  affiliation1: "Bank of Canada"
-  author2: "Yu Zhu"
-  affiliation2: "Bank of Canada"
-  presenter: "Janet Jiang"
-  stream: "Crypto-economics1"
-  slides: JiangSlidesPassThroughandCBDC
-  approval: true
-  remote: true
-
 - paper: "Best Before? Expiring Central Bank Digital Currency and Loss Recovery"
   link: Crypto-economics_Kahn_van-Oordt_Zhu
   author1: "Charles M. Kahn"
@@ -24,6 +12,18 @@
   approval: true
   remote: true
  
+- paper: "Monetary Policy Pass-Through with Central Bank Digital Currency"
+  link: Crypto-economics_Jiang_Zhu
+  author1: "Janet Jiang"
+  affiliation1: "Bank of Canada"
+  author2: "Yu Zhu"
+  affiliation2: "Bank of Canada"
+  presenter: "Janet Jiang"
+  stream: "Crypto-economics1"
+  slides: JiangSlidesPassThroughandCBDC
+  approval: true
+  remote: true
+
 - paper: "The Transition- Dynamics from Government Money only to Differentiated (Crypto-) Currency Competition"
   link: Crypto-economics_Filip
   author1: "Katharina Filip"
