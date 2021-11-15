@@ -14,7 +14,7 @@
   affiliation1_role: "Project Leader – Financial stability and risks"
   affiliation1_role_link:
   affiliation1_company: "DG Joint Research Centre - European Commission"
-  affiliation1_company_link: "http://www.jrc.ec.europa.eu"
+  affiliation1_company_link: "https://ec.europa.eu/info/departments/joint-research-centre_en"
 
 - name: "Gregorio De Felice"
   name_link: "https://www.linkedin.com/in/gregorio-de-felice-734244/"
@@ -53,7 +53,7 @@
   affiliation1_company_link: "http://www.borsaitaliana.it/"
 
 - name: "Angelo Tantazzi"
-  name_link: "http://www.prometeia.it/en/team-angelo-tantazzi"
+  name_link: "https://www.prometeia.it/en/our-team"
   photo: "advisory_board/Tantazzi-200.jpg"
   affiliations: 1
   affiliation1_role: "Founder and President"
