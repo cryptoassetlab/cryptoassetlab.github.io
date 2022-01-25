@@ -17,7 +17,7 @@ Via Vizzola 5, 20126 Milano
 
 Superando l’hype su blockchain, diventa sempre più rilevante il tema dei crypto asset, bitcoin _in primis_, da indagare come strumenti di investimento, innovazione tecnologica, sicurezza crittografica, sfida regolamentare e per il loro ruolo nella storia della moneta. L’[*Università degli Studi di Milano-Bicocca*](https://www.unimib.it/eventi/crypto-asset-tecnologia-e-tentativi-regolazione) è sempre stata all’avanguardia in questo campo, offrendo ai propri studenti un corso seminariale sull’argomento di cui si è appena conclusa la quarta edizione. Per l’importanza scientifica e culturale del tema nasce oggi, da un'iniziativa congiunta con il *[Digital Gold Institute](http://dgi.io/)*, il *Crypto Asset Lab* (*CAL*), luogo di incontro tra accademia, industria e regolatori.
 
-**[Programma](http://cryptoassetlab.diseade.unimib.it/docs/20190605-presentazione-cal.pdf) della conferenza**
+**[Programma]({{ site.baseurl }}/docs/20190605-presentazione-cal.pdf) della conferenza**
 
 - **Paolo Cherubini**, Prorettore Vicario, Università di Milano-Bicocca.  
 *Saluto istituzionale.*

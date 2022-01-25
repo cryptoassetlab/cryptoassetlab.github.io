@@ -76,4 +76,4 @@ tramite _opt-in_. Le garanzie che dovrebbero essere fornite per qualificarsi inc
 - Sembra essenziale per la liquidità del secondario consentire la contrattazione anche
 su blockchain pubbliche _permissionless_, altrimenti sarebbe snaturata la caratteristica innovativa delle ICO, diminuendone l’appeal.
 
-Consulta qui la [risposta integrale](https://cryptoassetlab.diseade.unimib.it/docs/20190605/Risposta-Consob.pdf).
+Consulta qui la [risposta integrale]({{ site.baseurl }}/docs/20190605/Risposta-Consob.pdf).

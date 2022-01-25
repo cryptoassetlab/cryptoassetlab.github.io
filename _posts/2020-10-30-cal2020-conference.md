@@ -37,7 +37,7 @@ All of us at the Crypto Asset Lab of the Milano-Bicocca University, we have been
 
 Selected papers presented at the conference are invited for submission to the special issue of the Economic Notes (EN) journal on “Special issue on Crypto-assets in finance, law and regulation where do we stand?” and related topics, scheduled for publication in early 2022.
 
-Registrations of each session is available in the videos at [the conference program page](https://cryptoassetlab.diseade.unimib.it/cal2020/).
+Registrations of each session is available in the videos at [the conference program page]({{ site.baseurl }}/cal2020/).
 
 Last, but not least, we thank our sponsors: CheckSig, The Rock Trading, and Deloitte.
 

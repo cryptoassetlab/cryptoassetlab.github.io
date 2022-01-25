@@ -29,6 +29,6 @@ namely, it originated from CAL's
 [contribution paper](https://www.gdf.io/docsconsultations/part-viii-code-of-conduct-principles-for-know-your-customer-kyc-anti-money-laundering-aml/)
 (by *G. L. Aleo*, *V. Barbera* and *A. Castronuovo*)
 to the recent GDF consultation
-(see [here](https://cryptoassetlab.diseade.unimib.it/2019/09/30/Crypto-AML-landscape.html)).
+(see [here]({{ site.baseurl }}/2019/09/30/Crypto-AML-landscape.html)).
 
 With the seal of this partnership, CAL becomes GDF's first Italian partner.

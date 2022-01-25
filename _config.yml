@@ -1,10 +1,10 @@
 # Site settings
-title: Crypto Asset Lab
+title: "Crypto Asset Lab"
+name: "Crypto Asset Lab"
 email:
 description: Research initiative on bitcoin and crypto assets as investment opportunity, fintech innovation, and regulatory challenge.
 #baseurl: "" # the subpath of your site, e.g. /blog/
-baseurl: ""
-url: ""
+url: https://cryptoassetlab.org
 
 include:
   - .htaccess

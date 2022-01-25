@@ -1,12 +1,3 @@
-#- name: "To be announced soon"
-  #name_link: "https://cryptoassetlab.diseade.unimib.it/"
-  #photo: "advisory_board/unknown-200.jpg"
-  #affiliations: 1
-  #affiliation1_role: "Head of Economic Studies Department"
-  #affiliation1_role_link:
-  #affiliation1_company: "To be announced soon"
-  #affiliation1_company_link: "https://cryptoassetlab.diseade.unimib.it/advisory-board/"
-
 - name: "Lucia Alessi"
   name_link: "http://linkedin.com/in/lucia-alessi-78961a5"
   photo: "advisory_board/Alessi-200.jpg"
@@ -35,7 +26,7 @@
   affiliation1_company_link: "https://www2.deloitte.com/it/it/pages/financial-services/topics/fintech---deloitte-italy---financial-services.html?icid=nav2_fintech---deloitte-italy---financial-services"
 
 - name: "Antonella Sciarrone Alibrandi"
-  name_link: "http://cryptoassetlab.diseade.unimib.it/docs/2019-SCIARRONE-CV-SHORT-EN.pdf"
+  name_link: "{{ site.baseurl }}/docs/2019-SCIARRONE-CV-SHORT-EN.pdf"
   photo: "advisory_board/Sciarrone-200.jpg"
   affiliations: 1
   affiliation1_role: "Vice-rector, Full professor of Banking Law"

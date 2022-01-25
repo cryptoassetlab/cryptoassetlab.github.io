@@ -128,7 +128,7 @@ Topics include, but are not limited to:
 
 ### Enquires
 
-* [cryptoassetlab.diseade.unimib.it/calconf]({{ site.baseurl }}/calconf)
+* [cryptoassetlab.org/calconf]({{ site.baseurl }}/calconf)
 * [cryptoassetlab+conf@unimib.it](mailto:cryptoassetlab+conf@unimib.it)
 
 ### CAL2021 Sponsors

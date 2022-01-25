@@ -7,7 +7,7 @@ permalink: /
 
 ### Mission Statement
 
-The [Crypto Asset Lab](https://cryptoassetlab.diseade.unimib.it/) (CAL)
+The [Crypto Asset Lab]({{ site.baseurl }}) (CAL)
 is a research initiative
 on bitcoin and crypto assets
 as investment opportunity, fintech innovation,
