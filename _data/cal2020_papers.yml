@@ -1,5 +1,5 @@
 - paper: What makes private stablecoins stable?
-  link: {{ site.baseurl }}/docs/CAL2020/Crypto-Economics_1.pdf
+  link: cryptoassetlab.org/docs/CAL2020/Crypto-Economics_1.pdf
   author1: Mario Bellia
   affiliation1: DG Joint Research Centre - European Commission
   author2: Sebastian Schich
@@ -14,7 +14,7 @@
   slides: 
   
 - paper: Libra or Librae? Basket based stablecoins to mitigate foreign exchange volatility spillovers
-  link: {{ site.baseurl }}/docs/CAL2020/Crypto-Economics_2.pdf
+  link: cryptoassetlab.org/docs/CAL2020/Crypto-Economics_2.pdf
   author1: Paolo Pagnottoni
   affiliation1: Politecnico di Milano
   author2: Paolo Giudici
@@ -44,7 +44,7 @@
   slides: "Monetary Engineering"
   
 - paper: Crypto Covered Interest Parity Deviations
-  link: {{ site.baseurl }}/docs/CAL2020/Crypto-Economics_4.pdf
+  link: cryptoassetlab.org/docs/CAL2020/Crypto-Economics_4.pdf
   author1: Alexander Valentin
   affiliation1: Goethe University Frankfurt
   author2: Friedrich-Carl Franz
@@ -74,7 +74,7 @@
   slides: "Cal2020 slides"
 
 - paper: The classification of tokens and its regulatory implications
-  link: {{ site.baseurl }}/docs/CAL2020/Legal_1.pdf
+  link: cryptoassetlab.org/docs/CAL2020/Legal_1.pdf
   author1: Riccardo de Caria
   affiliation1: University of Turin
   author2: 
@@ -89,7 +89,7 @@
   slides: "R. de Caria, The classification of tokens"
   
 - paper: "Cryptocurrency Regulation in the EU AML Regime: the path towards effective harmonization?"
-  link: {{ site.baseurl }}/docs/CAL2020/Legal_2.pdf
+  link: cryptoassetlab.org/docs/CAL2020/Legal_2.pdf
   author1: Eduardo Silva de Freitas
   affiliation1: K.U. Leuven
   author2: 
@@ -104,7 +104,7 @@
   slides: "Cryptocurrency Regulation in the EU AML Regime_ the path towards effective harmonization"
 
 - paper: "Company Law during the Blockchain Revolution. The rise of “CorpTech”"
-  link: {{ site.baseurl }}/docs/CAL2020/Legal_3.pdf
+  link: cryptoassetlab.org/docs/CAL2020/Legal_3.pdf
   author1: Salvatore Luciano Furnari
   affiliation1: Università di Roma Tor Vergata, Studio Legale Lener & Partners
   author2: Raffaele Lener
@@ -119,7 +119,7 @@
   slides: "slide CAL Conference v3"
   
 - paper: "Financial risk management for cryptocurrencies: a quantitative analysis​"
-  link: {{ site.baseurl }}/docs/CAL2020/Quantitative_Modelling_1.pdf
+  link: cryptoassetlab.org/docs/CAL2020/Quantitative_Modelling_1.pdf
   author1: Eline Van der Auwera
   affiliation1: K.U. Leuven
   author2: Wim Schoutens
@@ -134,7 +134,7 @@
   slides: "presentation conferencecal_eline_pres1"
   
 - paper: The changing nature of cryptocurrencies. An analysis of Bitcoin and its copies during their clonings
-  link: {{ site.baseurl }}/docs/CAL2020/Quantitative_Modelling_2.pdf
+  link: cryptoassetlab.org/docs/CAL2020/Quantitative_Modelling_2.pdf
   author1: Thomas H. A. Joubert
   affiliation1: LEMMA, University Paris II Panthéon-Assas
   author2: 
@@ -149,7 +149,7 @@
   slides: "cal 2020 pres. tj_pres2"
 
 - paper: Multivariate hidden Markov model for cryptocurrency
-  link: {{ site.baseurl }}/docs/CAL2020/Quantitative_Modelling_3.pdf
+  link: cryptoassetlab.org/docs/CAL2020/Quantitative_Modelling_3.pdf
   author1: Fulvia Pennoni
   affiliation1: University of Milano-Bicocca
   author2: Francesco Bartolucci
@@ -164,7 +164,7 @@
   slides: "Crypto_2020FP2"
 
 - paper: Coexistence of Physical and Crypto Assets in a Stochastic Endogenous Growth Model
-  link: {{ site.baseurl }}/docs/CAL2020/Quantitative_Modelling_4.pdf
+  link: cryptoassetlab.org/docs/CAL2020/Quantitative_Modelling_4.pdf
   author1: Alexis Derviz
   affiliation1: Monetary Dept., Czech National Bank
   author2: 
@@ -179,7 +179,7 @@
   slides: "derviz-cal2020pres_4"
 
 - paper: "Monetary flows and feedback trading in cryptocurrency markets: Effects of stablecoin transfers on Bitcoin returns and trading volume"
-  link: {{ site.baseurl }}/docs/CAL2020/Investments_1.pdf
+  link: cryptoassetlab.org/docs/CAL2020/Investments_1.pdf
   author1: Lennart Ante
   affiliation1: Blockchain Research Lab, University of Hamburg
   author2: Ingo Fiedler
@@ -194,7 +194,7 @@
   slides: "CAL2020 - Presentation"
   
 - paper: On the performance of cryptocurrency funds
-  link: {{ site.baseurl }}/docs/CAL2020/Investments_2.pdf
+  link: cryptoassetlab.org/docs/CAL2020/Investments_2.pdf
   author1: Daniele Bianchi
   affiliation1: School of Economics and Finance, Queen Mary, University of London
   author2: Mykola Babiak
@@ -209,7 +209,7 @@
   slides: "PresentationCAL_2020"
    
 - paper: Herding behaviour in cryptocurrency markets
-  link: {{ site.baseurl }}/docs/CAL2020/Investments_3.pdf
+  link: cryptoassetlab.org/docs/CAL2020/Investments_3.pdf
   author1: Nikolaos A. Kyriazis
   affiliation1: Department of Economics, University of Thessaly
   author2: 
@@ -224,7 +224,7 @@
   slides: "Kyriazis_2nd Crypto Asset Lab"
 
 - paper: Does mining fuel bubbles? An experimental study on cryptocurrency markets
-  link: {{ site.baseurl }}/docs/CAL2020/Investments_4.pdf
+  link: cryptoassetlab.org/docs/CAL2020/Investments_4.pdf
   author1: Marco Lambrecht
   affiliation1: University of Heidelberg and Hanken School of Economics (Helsinki)
   author2: Andis Sofianos
