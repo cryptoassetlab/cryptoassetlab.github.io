@@ -11,7 +11,7 @@
   link: http://github.com/cryptoassetlab
 
 - social: fas fa-rss
-  link: '{{ site.baseurl }}/feed.xml'
+  link: 'feed.xml'
 
 - social: fas fa-envelope
   link: 'mailto:cryptoassetlab@unimib.it'
