@@ -134,7 +134,7 @@ Topics include, but are not limited to:
 ### CAL2021 Sponsors
 
 **Gold**
-[<img src="/img/cal2021/CheckSig-logo-transparent.png" height="50">](https://checksig.io)
+[<img src="/img/cal2021/CheckSig - _Logo Colore Nero.png" height="50">](https://checksig.com)
 [<img src="/img/cal2021/deloitte-logo.png" height="60">](https://www2.deloitte.com/it/it.html)
 
 **Silver**
