@@ -20,7 +20,7 @@ given their relevance for privacy,
 security, and other applications
 (e.g. [timestamping](http://dgi.io/ots/), see
 [OpenTimestamps](http://opentimestamps.org/))
-but we do not subscribe to the widespread hype
+but we do not subscribe to the unsubstantiated hype
 about blockchain potential beyond crypto assets.
 
 We are a meeting point between academia, industry,
@@ -37,9 +37,9 @@ We organize the [CAL yearly conference]({{ site.baseurl }}/calconf).
 has been offering a
 "[Bitcoin and Blockchain Technology](http://www.ametrano.net/bbt/)"
 course since the 2015/2016 academic year.
-Crypto Asset Lab is a joint initiative of
-the [Digital Gold Institute](http://www.dgi.io)
-and our academic and scientific community.
+[DGI](http://dgi.io)
+is a research and development center of excellence about “scarcity in the digital realm”: Bitcoin, crypto-assets, and the underlying blockchain technology.
+Crypto Asset Lab is a joint initiative of Milano-Bicocca and DGI.
 
 [<img src="/img/bicocca-logo.png" height="80">](http://www.diseade.unimib.it/it)
 **+**

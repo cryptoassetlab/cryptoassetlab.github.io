@@ -123,7 +123,7 @@ Topics include, but are not limited to:
 
 ### Previous Editions
 
-* [CAL2020]({{ site.baseurl }}/cal2020/)
+* [CAL2020]({{ site.baseurl }}/cal2020)
 * [CAL2019]({{ site.baseurl }}/2019/06/12/conference.html)
 
 ### Enquires
