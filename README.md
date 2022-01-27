@@ -14,22 +14,23 @@ as investment opportunity, fintech innovation,
 and regulatory challenge,
 with special regard for their disruptive role
 in the future of money and finance.
-We also pay attention to the innovations
+
+We do not subscribe to the unsubstantiated hype
+about blockchain potential beyond crypto assets.
+Anyway, we pay attention to the innovations
 in cryptography and blockchain technology,
 given their relevance for privacy,
 security, and other applications
 (e.g. [timestamping](http://dgi.io/ots/), see
-[OpenTimestamps](http://opentimestamps.org/))
-but we do not subscribe to the unsubstantiated hype
-about blockchain potential beyond crypto assets.
+[OpenTimestamps](http://opentimestamps.org/)).
 
-We are a meeting point between academia, industry,
+CAL is a meeting point between academia, industry,
 institutions, and regulators; we encourage students, researchers,
 and practitioners to join us and help with
 research, development, training, teaching, and
 other experimental activities.
 
-We organize the [CAL yearly conference]({{ site.baseurl }}/calconf).
+Check out our [yearly conference]({{ site.baseurl }}/calconf).
 
 ## About
 
