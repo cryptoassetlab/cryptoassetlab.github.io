@@ -9,7 +9,7 @@ permalink: /calconf/
 ### CAL2022 Agenda is available at the [dedicated page]({{ site.baseurl }}/cal2022/)
 -->
 
-### Relevant dates
+### Relevant Dates
 
 * __July 16, 2022: paper submission__ to [papers@cryptoassetlab.org](mailto:papers@cryptoassetlab.org)
 * August 6, 2022: paper acceptance
