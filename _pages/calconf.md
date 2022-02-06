@@ -43,6 +43,7 @@ permalink: /calconf/
 ### Venue and Attendance
 
 The CAL2022 conference is held online (web streaming) and in person at the University of Milano-Bicocca.
+
 <!--
 Attending the online conference is __free__, but __registration is required__.
 For registration and ticketing see the
@@ -108,6 +109,7 @@ Topics include, but are not limited to:
   * Gina Pieters, University of Chicago
   * Carla Reyes, Southern Methodist University
   * Sandra Ro, Global Blockchain Business Council
+  * Stefan Scharnowski, University of Mannheim
   * Antonella Sciarrone Alibrandi, Università Cattolica del Sacro Cuore
   * Andreas Thiemann, DG Joint Research Centre - European Commission
   * Maarten van Oordt, Vrije Universiteit Amsterdam
@@ -129,4 +131,4 @@ Topics include, but are not limited to:
 __Gold__
 [<img src="/img/cal2021/CheckSig - _Logo Colore Nero.png" height="35">](https://checksig.com)
 
-#### To sponsor the conference please contact [sponsorships@cryptoassetlab.org](mailto:sponsorships@cryptoassetlab.org)
+To sponsor the conference please contact [sponsorships@cryptoassetlab.org](mailto:sponsorships@cryptoassetlab.org)
