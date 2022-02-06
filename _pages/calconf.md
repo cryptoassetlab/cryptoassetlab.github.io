@@ -5,6 +5,7 @@ layout: conference
 permalink: /calconf/
 ---
 
+<!--
 
 ![CAL2021](/img/cal2021/cal2021.jpg){:class="img-responsive"}
 
@@ -25,53 +26,41 @@ permalink: /calconf/
 </a>
 <a href="https://www.eventbrite.com/e/the-3nd-crypto-asset-lab-conference-registration-155774506743" class="btn btn-primary btn-xl" text-align="right">Free Registration</a>
 
+-->
+
 ## __The Crypto Asset Lab Conference__
 
 ### Investments, Economics, and Regulation for Bitcoin and Crypto-Assets
 
 ### Milan (Italy) and web streaming
 
-### November 4-5, 2021, 15:00-19:30 CET (UTC+1)
+### September 29-30, 2022
 
+<!--
 ### Agenda is available at the [dedicated page]({{ site.baseurl }}/cal2021/)
+-->
 
 ### Venue and Attendance
 
-The CAL2021 conference is held online (web streaming) and in person at the University of Milano-Bicocca.
+The CAL2022 conference is held online (web streaming) and in person at the University of Milano-Bicocca.
+<!--
 Attending the online conference is __free__, but __registration is required__.
 For registration and ticketing see the
 [Eventbrite conference page](https://www.eventbrite.com/e/the-3nd-crypto-asset-lab-conference-registration-155774506743).
 
 In person attendance is limited for sanitary restrictions: in person tickets will be available
 on the Eventbrite conference page starting from November 1.
+-->
 
-<!--
 ### Relevant dates
 
-* ~~Abstract submission: July 16, 2021~~ (43 abstracts received)
-* ~~Abstract acceptance: August 6, 2021~~ (32 abstracts accepted)
-* ~~Paper submission: September 30, 2021~~ (27 papers received)
-* ~~Paper acceptance: October 22, 2021~~ (21 papers accepted)
-
-### Abstract Submission
-
-Abstracts must be submitted using the dedicated
-[web form](https://forms.gle/r8GFncNuSgjqWbEn7).
-
-Abstract submissions must include titles, authors, abstracts,
-topics, etc.
-(everything except the final PDF of the paper).
-The program selection criteria include
-the nature of the research topic, the economic implications
-of the research, and the academic quality of the research design.
--->
+* July 16, 2022: paper submission to [papers@cryptoassetlab.org](mailto:papers@cryptoassetlab.org)
+* August 6, 2022: paper acceptance
 
 ### Theme and Topics
 
 The conference focuses on all aspects of bitcoin and crypto-assets,
 with a special interest in investment, banking, finance, financial services, monetary theory, and regulation.
-
-<!--Empirical works, fundamental theory approaches, and real-world case studies are all encouraged, with interdisciplinary efforts being particularly appreciated.-->
 
 Topics include, but are not limited to:
 
@@ -84,7 +73,9 @@ Topics include, but are not limited to:
 * The Bitcoin protocol and extensions
 * Proof-of-work, -stake, -burn
 * Second layer application
+* Smart contracts and financial instruments
 * Decentralized Finance (DeFi)
+* Non-fungible tokens (NFT)
 * Distributed consensus protocols
 * Permissioned and permissionless distributed ledgers
 * Blockchain and cryptography applications
@@ -93,7 +84,6 @@ Topics include, but are not limited to:
 * Legal and regulatory issues
 * Legal, ethical, and societal aspects of (decentralized) cryptocurrencies
 * Security and utility tokens
-* Smart contracts and financial instruments
 * Forensics and monitoring
 * Financial services for crypto-assets
 
@@ -103,7 +93,7 @@ Topics include, but are not limited to:
   * Ferdinando M. Ametrano, Digital Gold Institute
   * Paola A. Bongini, University of Milano-Bicocca
 * __General Chair__
-  * Lucia Mandelli, Digital Gold Institute
+  * Paolo Mazzocchi, Digital Gold Institute
 * __Program Committee__
   * Lucia Alessi, DG Joint Research Centre - European Commission
   * Filippo Annunziata, Bocconi University
@@ -113,31 +103,30 @@ Topics include, but are not limited to:
   * Daniele Marazzina, Politecnico di Milano
   * Francesca Mattassoglio, University of Milano-Bicocca
   * Elaine Ou, Global Financial Access
+  * Ricardo Pérez-Marco, CNRS, Université de Paris
   * Marco Petracco Giudici, DG Joint Research Centre - European Commission
   * Gina Pieters, University of Chicago
   * Carla Reyes, Southern Methodist University
   * Sandra Ro, Global Blockchain Business Council
   * Antonella Sciarrone Alibrandi, Università Cattolica del Sacro Cuore
+  * Andreas Thiemann, DG Joint Research Centre - European Commission
   * Maarten van Oordt, Vrije Universiteit Amsterdam
   * Angela Walch, St. Mary's University School of Law
 
 ### Previous Editions
 
+* [CAL2021]({{ site.baseurl }}/cal2021)
 * [CAL2020]({{ site.baseurl }}/cal2020)
 * [CAL2019]({{ site.baseurl }}/2019/06/12/conference.html)
 
 ### Enquires
 
 * [cryptoassetlab.org/calconf]({{ site.baseurl }}/calconf)
-* [cal2021@cryptoassetlab.org](mailto:cal2021@cryptoassetlab.org)
+* [cal2022@cryptoassetlab.org](mailto:cal2022@cryptoassetlab.org)
 
-### CAL2021 Sponsors
+### CAL2022 Sponsors
 
 __Gold__
 [<img src="/img/cal2021/CheckSig - _Logo Colore Nero.png" height="35">](https://checksig.com)
-[<img src="/img/cal2021/deloitte-logo.png" height="60">](https://www2.deloitte.com/it/it.html)
 
-__Silver__
-[<img src="/img/cal2021/Elidata.png" height="70">](https://elidata.it/)
-
-#### To sponsor the conference please contact [sponsorship@cryptoassetlab.org](mailto:sponsorship@cryptoassetlab.org)
+#### To sponsor the conference please contact [sponsorships@cryptoassetlab.org](mailto:sponsorships@cryptoassetlab.org)
