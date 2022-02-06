@@ -1,3 +1,11 @@
+- name: "Lucia Alessi"
+  name_link: "http://linkedin.com/in/lucia-alessi-78961a5"
+  photo: "advisory_board/Alessi-200.jpg"
+  affiliations: 1
+  affiliation1_role: "Project Leader – Financial stability and risks"
+  affiliation1_role_link:
+  affiliation1_company: "DG Joint Research Centre - European Commission"
+  affiliation1_company_link: "https://ec.europa.eu/info/departments/joint-research-centre_en"
 
 - name: Ferdinando M. Ametrano
   name_link: http://ametrano.net/about
@@ -62,3 +70,12 @@
   affiliation1_role_link:
   affiliation1_company: French National Centre for Scientific Research - CNRS
   affiliation1_company_link: https://webusers.imj-prg.fr/~ricardo.perez-marco/
+
+- name: "Antonella Sciarrone Alibrandi"
+  name_link: "{{ site.baseurl }}/docs/2019-SCIARRONE-CV-SHORT-EN.pdf"
+  photo: "advisory_board/Sciarrone-200.jpg"
+  affiliations: 1
+  affiliation1_role: "Vice-rector, Full professor of Banking Law"
+  affiliation1_role_link:
+  affiliation1_company: "Università Cattolica del Sacro Cuore"
+  affiliation1_company_link: "https://www.unicatt.it/"

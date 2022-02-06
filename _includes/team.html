@@ -1,7 +1,5 @@
 {% if page.title == 'About Us' %}
-{% assign data = site.data.team_members %}
-{% else if page.title == 'Advisory Board' %}
-{% assign data = site.data.advisory_board %}
+{% assign data = site.data.faculty %}
 {% endif %}
 
 {% for member in data %}
@@ -9,8 +7,13 @@
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/img/{{ member.photo }}" class="img-responsive" width="25%"
     style="float: left" />
-  <h4><a href="{{ member.name_link }}">{{ member.name }}</a>{% if member.role %}<br>(<i>{{ member.role }}</i>){% endif %}</h4>
-  <p>{% if member.affiliations >= 1 %}{% if member.affiliation1_role_link %}<a href="{{ member.affiliation1_role_link }}"><i>{{ member.affiliation1_role }}</i></a>{% else %}<i>{{ member.affiliation1_role }}</i>{% endif %}{% if member.affiliation1_company_link %}, <a href="{{ member.affiliation1_company_link }}"><i>{{ member.affiliation1_company }}</i></a>{% else %}, <i>{{ member.affiliation1_company }}</i>{% endif %}{% endif %}</p>
+  <h4><a href="{{ member.name_link }}">{{ member.name }}</a>{% if member.role %}<br>(<i>{{ member.role }}</i>){% endif
+    %}</h4>
+  <p>{% if member.affiliations >= 1 %}{% if member.affiliation1_role_link %}<a
+      href="{{ member.affiliation1_role_link }}"><i>{{ member.affiliation1_role }}</i></a>{% else %}<i>{{
+      member.affiliation1_role }}</i>{% endif %}{% if member.affiliation1_company_link %}, <a
+      href="{{ member.affiliation1_company_link }}"><i>{{ member.affiliation1_company }}</i></a>{% else %}, <i>{{
+      member.affiliation1_company }}</i>{% endif %}{% endif %}</p>
 </div>
 
 {% endfor %}
