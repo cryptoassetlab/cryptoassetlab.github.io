@@ -50,4 +50,4 @@ your own conclusions regarding the adequacy of these practices.
 ## How to contact us
 
 If you have questions or comments about this Privacy Statement, please
-[email us](mailto:cryptoassetlab+info@unimib.it).
+[email us](mailto:info@cryptoassetlab.org).

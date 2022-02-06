@@ -38,7 +38,7 @@ permalink: /calconf/
 ### Venue and Attendance
 
 The CAL2021 conference is held online (web streaming) and in person at the University of Milano-Bicocca.
-Attending the online conference is **free**, but **registration is required**.
+Attending the online conference is __free__, but __registration is required__.
 For registration and ticketing see the
 [Eventbrite conference page](https://www.eventbrite.com/e/the-3nd-crypto-asset-lab-conference-registration-155774506743).
 
@@ -129,15 +129,15 @@ Topics include, but are not limited to:
 ### Enquires
 
 * [cryptoassetlab.org/calconf]({{ site.baseurl }}/calconf)
-* [cryptoassetlab+conf@unimib.it](mailto:cryptoassetlab+conf@unimib.it)
+* [cal2021@cryptoassetlab.org](mailto:cal2021@cryptoassetlab.org)
 
 ### CAL2021 Sponsors
 
-**Gold**
+__Gold__
 [<img src="/img/cal2021/CheckSig - _Logo Colore Nero.png" height="35">](https://checksig.com)
 [<img src="/img/cal2021/deloitte-logo.png" height="60">](https://www2.deloitte.com/it/it.html)
 
-**Silver**
+__Silver__
 [<img src="/img/cal2021/Elidata.png" height="70">](https://elidata.it/)
 
-#### To sponsor the conference please contact [cryptoassetlab+conf@unimib.it](mailto:cryptoassetlab+conf2021@unimib.it)
+#### To sponsor the conference please contact [sponsorship@cryptoassetlab.org](mailto:sponsorship@cryptoassetlab.org)
