@@ -13,8 +13,8 @@ permalink: /calconf/
 ### Theme and Topics
 
 The conference focuses on all aspects of bitcoin and crypto-assets,
-with a special interest in investment, banking, finance, financial services, monetary theory, and regulation.
-
+with a special interest in
+investment, banking, finance, financial services, monetary theory, and regulation.
 Topics include, but are not limited to:
 
 * Cryptocurrencies
@@ -46,6 +46,6 @@ Topics include, but are not limited to:
 
 ### Previous Editions
 
-* [cal2022]({{ site.baseurl }}/cal2022)
+* [CAL2021]({{ site.baseurl }}/cal2021)
 * [CAL2020]({{ site.baseurl }}/cal2020)
 * [CAL2019]({{ site.baseurl }}/2019/06/12/conference.html)
