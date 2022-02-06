@@ -32,9 +32,9 @@ permalink: /calconf/
 
 ### Investments, Economics, and Regulation for Bitcoin and Crypto-Assets
 
-### Milan (Italy) and web streaming
+Milan (Italy) and web streaming
 
-### September 29-30, 2022
+September 29-30, 2022
 
 <!--
 ### Agenda is available at the [dedicated page]({{ site.baseurl }}/cal2021/)
