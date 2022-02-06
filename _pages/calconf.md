@@ -28,21 +28,13 @@ permalink: /calconf/
 
 -->
 
-## __The Crypto Asset Lab Conference__
+## __CAL2022: The 4th Crypto Asset Lab Conference__
 
 ### Investments, Economics, and Regulation for Bitcoin and Crypto-Assets
 
-Milan (Italy) and web streaming
+September 29-30, 2022 - Milan (Italy) and web streaming
 
-September 29-30, 2022
-
-<!--
-### Agenda is available at the [dedicated page]({{ site.baseurl }}/cal2021/)
--->
-
-### Venue and Attendance
-
-The CAL2022 conference is held online (web streaming) and in person at the University of Milano-Bicocca.
+The conference is online (web streaming) and in person at the University of Milano-Bicocca.
 
 <!--
 Attending the online conference is __free__, but __registration is required__.
@@ -51,6 +43,13 @@ For registration and ticketing see the
 
 In person attendance is limited for sanitary restrictions: in person tickets will be available
 on the Eventbrite conference page starting from November 1.
+-->
+
+For general enquires please contact [cal2022@cryptoassetlab.org](mailto:cal2022@cryptoassetlab.org),
+to sponsor the conference please contact [sponsorships@cryptoassetlab.org](mailto:sponsorships@cryptoassetlab.org).
+
+<!--
+### Agenda is available at the [dedicated page]({{ site.baseurl }}/cal2022/)
 -->
 
 ### Relevant dates
@@ -121,14 +120,6 @@ Topics include, but are not limited to:
 * [CAL2020]({{ site.baseurl }}/cal2020)
 * [CAL2019]({{ site.baseurl }}/2019/06/12/conference.html)
 
-### Enquires
+### CAL2022 _Gold_ Sponsors
 
-* [cryptoassetlab.org/calconf]({{ site.baseurl }}/calconf)
-* [cal2022@cryptoassetlab.org](mailto:cal2022@cryptoassetlab.org)
-
-### CAL2022 Sponsors
-
-__Gold__
 [<img src="/img/cal2021/CheckSig - _Logo Colore Nero.png" height="35">](https://checksig.com)
-
-To sponsor the conference please contact [sponsorships@cryptoassetlab.org](mailto:sponsorships@cryptoassetlab.org)
