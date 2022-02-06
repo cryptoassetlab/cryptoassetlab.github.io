@@ -5,12 +5,16 @@ excerpt: The Crypto Asset Lab Conference
 permalink: /calconf/
 ---
 
-### Relevant dates and contact info
+<!--
+### CAL2022 Agenda is available at the [dedicated page]({{ site.baseurl }}/cal2022/)
+-->
 
-* July 16, 2022: paper submission to [papers@cryptoassetlab.org](mailto:papers@cryptoassetlab.org)
+### Relevant dates
+
+* __July 16, 2022: paper submission__ to [papers@cryptoassetlab.org](mailto:papers@cryptoassetlab.org)
 * August 6, 2022: paper acceptance
 
-### Theme and Topics
+### Conference Theme and Topics
 
 The conference focuses on all aspects of bitcoin and crypto-assets,
 with a special interest in
@@ -40,11 +44,7 @@ Topics include, but are not limited to:
 * Forensics and monitoring
 * Financial services for crypto-assets
 
-<!--
-### Agenda is available at the [dedicated page]({{ site.baseurl }}/cal2022/)
--->
-
-### Previous Editions
+Previous conference editions:
 
 * [CAL2021]({{ site.baseurl }}/cal2021)
 * [CAL2020]({{ site.baseurl }}/cal2020)
