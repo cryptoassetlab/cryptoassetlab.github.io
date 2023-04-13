@@ -1,18 +1,18 @@
 ---
-layout: conference2022
+layout: conference2023
 title: "CAL Conference"
 excerpt: The Crypto Asset Lab Conference
 permalink: /calconf/
 ---
 
 <!--
-### CAL2022 Agenda is available at the [dedicated page]({{ site.baseurl }}/cal2022/)
+### CAL2023 Agenda is available at the [dedicated page]({{ site.baseurl }}/cal2023/)
 -->
 
 ### Relevant Dates
 
-* __September 30, 2023: paper submission__ to [papers@cryptoassetlab.org](mailto:papers@cryptoassetlab.org)
-* October 10, 2023: paper acceptance
+* __July 10, 2023: paper submission__ to [papers@cryptoassetlab.org](mailto:papers@cryptoassetlab.org)
+* August 10, 2023: paper acceptance
 
 ### Conference Theme and Topics
 
