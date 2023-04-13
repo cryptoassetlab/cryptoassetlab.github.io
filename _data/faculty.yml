@@ -25,7 +25,7 @@
   affiliation1_role_link:
   affiliation1_company: University of Milano-Bicocca
   affiliation1_company_link: http://www.unimib.it/paola-agnese-bongini
- 
+
 - name: Gianna Figà-Talamanca
   name_link: http://linkedin.com/in/gianna-fig%C3%A0-talamanca-282a71104
   photo: team/FigaTalamanca.jpg
@@ -52,20 +52,11 @@
   affiliation1_role_link:
   affiliation1_company: University of Milano-Bicocca
   affiliation1_company_link: http://www.unimib.it/francesca-mattassoglio
- 
-- name: Paolo Mazzocchi
-  name_link: http://linkedin.com/in/paolomazzocchi
-  photo: team/Mazzocchi.jpg
-  affiliations: 1 
-  affiliation1_role: Executive Director
-  affiliation1_role_link:
-  affiliation1_company: Digital Gold Institute
-  affiliation1_company_link: http://dgi.io/full-team 
 
 - name: Ricardo Pérez-Marco
   name_link: http://linkedin.com/in/ricardo-p%C3%A9rez-marco-67b9a2149
   photo: team/Perez-Marco.jpg
-  affiliations: 1 
+  affiliations: 1
   affiliation1_role: Research Director
   affiliation1_role_link:
   affiliation1_company: French National Centre for Scientific Research - CNRS
