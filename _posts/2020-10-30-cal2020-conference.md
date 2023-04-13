@@ -35,7 +35,7 @@ The conference registered 232 attendees and each of the different sessions were 
 
 All of us at the Crypto Asset Lab of the Milano-Bicocca University, we have been proud to have the DG JRC of the European Commission as conference co-organizer, have appreciated the amazing work of the Program Committee, and have enjoyed all presentations.
 
-Selected papers presented at the conference are invited for submission to the special issue of the Economic Notes (EN) journal on “Special issue on Crypto-assets in finance, law and regulation where do we stand?” and related topics, scheduled for publication in early 2022.
+Selected papers presented at the conference are invited for submission to the special issue of the Economic Notes (EN) journal on “Special issue on Crypto-assets in finance, law and regulation where do we stand?” and related topics, scheduled for publication in early 2023.
 
 Registrations of each session is available in the videos at [the conference program page]({{ site.baseurl }}/cal2020/).
 
