@@ -11,8 +11,8 @@ permalink: /calconf/
 
 ### Relevant Dates
 
-* __July 10, 2023: paper submission__ to [papers@cryptoassetlab.org](mailto:papers@cryptoassetlab.org)
-* August 10, 2023: paper acceptance
+* __September 1, 2023: paper submission__ to [papers@cryptoassetlab.org](mailto:papers@cryptoassetlab.org)
+* October 2, 2023: paper acceptance
 
 ### Conference Theme and Topics
 
