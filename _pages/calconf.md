@@ -24,30 +24,29 @@ monetary theory, and regulation.
 Topics include, but are not limited to:
 
 * Regulatory approaches for crypto-assets and CBDCs
+* The impact of crypto-assets and CBDCs for cross-border payments and settlement
 * RegTech for crypto-asset supervision
-* Legal, ethical, and societal aspects of decentralized finance
 * Crypto-asset service providers: regulation and management
 * Monetary policy implications of crypto-assets and CBDCs
+* Stablecoins
 * Online/offline uses of stablecoins and CBDCs
-* Economics and/or game theoretic analysis of crypto-asset protocols
-* Economic and monetary aspects of cryptocurrencies
-* Smart contracts and distributed ledgers
-* Decentralized Finance (DeFi)
-* Non-fungible tokens (NFT)
 * The accounting treatment of crypto-assets and CBDCs
 * Balance sheet effect and liquidity implications on financial institutions
 * The use of crypto-assets in capital raise
-* Security and utility tokens
-* Stablecoins
 * Risk management frameworks and practice for crypto-assets, stablecoins, and CBDCs
-* The impact of crypto-assets and CBDCs for cross-border payments and settlement
+* Smart contracts and distributed ledgers
+* Permissioned and permissionless distributed ledgers
+* Decentralized Finance (DeFi)
+* Legal, ethical, and societal aspects of decentralized finance
+* Non-fungible tokens (NFT)
+* Security and utility tokens
 * DAOs: accountability and governance
 * The Bitcoin protocol and extensions
 * Proof-of-work, -stake, -burn, -authority
 * Distributed consensus protocols
+* Economics and/or game theoretic analysis of crypto-asset protocols
 * Second layer application
 * Blockchain and cryptography applications
-* Permissioned and permissionless distributed ledgers
 * Security and privacy challenges
 * Forensics and monitoring
 
