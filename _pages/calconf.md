@@ -6,7 +6,7 @@ permalink: /calconf/
 ---
 
 <!--
-### CAL2023 Agenda is available at the [dedicated page]({{ site.baseurl }}/cal2023/)
+### CAL2024 Agenda is available at the [dedicated page]({{ site.baseurl }}/cal2024/)
 -->
 
 ### Relevant Dates

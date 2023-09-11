@@ -26,6 +26,15 @@
   affiliation1_company: University of Milano-Bicocca
   affiliation1_company_link: http://www.unimib.it/paola-agnese-bongini
 
+- name: Simone Cortese
+  name_link:
+  photo:
+  affiliations: 1
+  affiliation1_role:
+  affiliation1_role_link:
+  affiliation1_company: UCL Centre for Blockchain Technologies
+  affiliation1_company_link:
+
 - name: Gianna Figà-Talamanca
   name_link: http://linkedin.com/in/gianna-fig%C3%A0-talamanca-282a71104
   photo: team/FigaTalamanca.jpg
@@ -61,6 +70,15 @@
   affiliation1_role_link:
   affiliation1_company: French National Centre for Scientific Research - CNRS
   affiliation1_company_link: https://webusers.imj-prg.fr/~ricardo.perez-marco/
+
+- name: Monica Rossolini
+  name_link:
+  photo:
+  affiliations: 1
+  affiliation1_role:
+  affiliation1_role_link:
+  affiliation1_company: University of Milano-Bicocca
+  affiliation1_company_link: http://www.unimib.it/monica-rossolini
 
 - name: "Antonella Sciarrone Alibrandi"
   name_link: "{{ site.baseurl }}/docs/2019-SCIARRONE-CV-SHORT-EN.pdf"
