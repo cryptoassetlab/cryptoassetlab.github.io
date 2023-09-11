@@ -11,38 +11,45 @@ permalink: /calconf/
 
 ### Relevant Dates
 
-* __September 1, 2024: paper submission__ to [papers@cryptoassetlab.org](mailto:papers@cryptoassetlab.org)
-* October 2, 2024: paper acceptance
+* __November 2, 2023: paper submission__ to [papers@cryptoassetlab.org](mailto:papers@cryptoassetlab.org)
+* December 2, 2023: paper acceptance
 
 ### Conference Theme and Topics
 
-The conference focuses on all aspects of bitcoin and crypto-assets,
+The conference focuses on bitcoin, crypto-asset, and CBDC,
 with a special interest in
-investment, banking, finance, financial services, monetary theory, and regulation.
+liquidity management, investment, banking, finance, financial services,
+monetary theory, and regulation.
+
 Topics include, but are not limited to:
 
-* Cryptocurrencies
-* Cryptocurrency adoption and transition dynamics
-* Relation of cryptocurrencies to other payment systems
-* Digital cash and payment systems
-* Stablecoins
-* Central Bank Digital Currencies
-* The Bitcoin protocol and extensions
-* Proof-of-work, -stake, -burn
-* Second layer application
-* Smart contracts and financial instruments
+* Regulatory approaches for crypto-assets and CBDCs
+* RegTech for crypto-asset supervision
+* Legal, ethical, and societal aspects of decentralized finance
+* Crypto-asset service providers: regulation and management
+* Monetary policy implications of crypto-assets and CBDCs
+* Online/offline uses of stablecoins and CBDCs
+* Economics and/or game theoretic analysis of crypto-asset protocols
+* Economic and monetary aspects of cryptocurrencies
+* Smart contracts and distributed ledgers
 * Decentralized Finance (DeFi)
 * Non-fungible tokens (NFT)
-* Distributed consensus protocols
-* Permissioned and permissionless distributed ledgers
-* Blockchain and cryptography applications
-* Economics and/or game theoretic analysis of cryptocurrency protocols
-* Economic and monetary aspects of cryptocurrencies
-* Legal and regulatory issues
-* Legal, ethical, and societal aspects of (decentralized) cryptocurrencies
+* The accounting treatment of crypto-assets and CBDCs
+* Balance sheet effect and liquidity implications on financial institutions
+* The use of crypto-assets in capital raise
 * Security and utility tokens
+* Stablecoins
+* Risk management frameworks and practice for crypto-assets, stablecoins, and CBDCs
+* The impact of crypto-assets and CBDCs for cross-border payments and settlement
+* DAOs: accountability and governance
+* The Bitcoin protocol and extensions
+* Proof-of-work, -stake, -burn, -authority
+* Distributed consensus protocols
+* Second layer application
+* Blockchain and cryptography applications
+* Permissioned and permissionless distributed ledgers
+* Security and privacy challenges
 * Forensics and monitoring
-* Financial services for crypto-assets
 
 Previous conference editions:
 
