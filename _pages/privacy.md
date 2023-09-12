@@ -20,10 +20,10 @@ we *DO NOT* collect any personal information
 about you when you visit this web site.
 
 This Privacy Statement does not apply to the other
-University of Milano-Bicocca
+Università Milano-Bicocca
 web sites.
 You should review the privacy statement posted on other
-University of Milano-Bicocca
+Università Milano-Bicocca
 web sites when you visit them.
 
 ## Privacy statement changes

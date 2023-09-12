@@ -19,15 +19,15 @@ CAL2020 focused on all aspects of bitcoin and crypto assets, especially those pe
 
 The work of the conference was open by the rapresentatives of the organizing committee: **Ferdinando Ametrano**, scientific director of the Crypto Asset Lab, **Paola Bongini**, full professor of Banking and Finance at Milano-Bicocca University and [faculty](/faculty/) member, and **Lucia Alessi**, DG Joint Research Centre of the European Commission.
 
-**Giovanna Iannantuoni**, Rector of *University of Milano-Bicocca*,  had given the institutional greeting University of Milano-Bicocca.
+**Giovanna Iannantuoni**, Rector of *Università Milano-Bicocca*,  had given the institutional greeting Università Milano-Bicocca.
 
 The opening session was concluded with the keynote speech "Bloggers and Bitcoin Prices: A Textual Machine Learning Analysis" by **Eric Ghysels**, University of North Carolina at Chapel Hill.
 
 It was then the turn of the papers' presentation. Based on the numerous high-quality papers accepted, the session was organized in different streams, each of which was a specific core-topic:
-- Crypto-economics, moderated by  **Paola Bongini**, University of Milano-Bicocca;
-- Legal and regulatory, moderated by **Francesca Mattassoglio**, University of Milano-Bicocca and [faculty](/faculty/) member;
+- Crypto-economics, moderated by  **Paola Bongini**, Università Milano-Bicocca;
+- Legal and regulatory, moderated by **Francesca Mattassoglio**, Università Milano-Bicocca and [faculty](/faculty/) member;
 - Quantitative modelling, moderated by **Gianna Figà-Talamanca**, University of Perugia;
-- Investments, moderated by  **Gianfranco Forte**, University of Milano-Bicocca and [faculty](/faculty/) member,
+- Investments, moderated by  **Gianfranco Forte**, Università Milano-Bicocca and [faculty](/faculty/) member,
 
 A round table on the developments in crypto-assets policy and regulation was then held, coordinated by **Antonella Sciarrone Alibrandi**, Università Cattolica del Sacro Cuore. The panel has seen the interventions of **Marco Petracco Giudici**, DG Joint Research Centre of the European Commission, **Dirk Andreas Zetzsche**, University of Luxembourg, **Filippo Annunziata**, Bocconi University, and **Maria Teresa Chimienti**, European Central Bank.
 

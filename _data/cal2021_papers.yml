@@ -11,7 +11,7 @@
   slides: Expiring_offline_money-18
   approval: true
   remote: true
- 
+
 - paper: "Monetary Policy Pass-Through with Central Bank Digital Currency"
   link: Crypto-economics_Jiang_Zhu
   author1: "Janet Jiang"
@@ -48,7 +48,7 @@
   slides: slides_stablecoinsV5
   approval: true
   remote: true
- 
+
 - paper: "Digital Currencies in Financial Networks"
   link: Crypto-economics_Castren_Kavonius_Rancan
   author1: "Olli Castrén"
@@ -88,7 +88,7 @@
   author1: "Georgios A. Panos"
   affiliation1: "University of Glasgow"
   author2: "Tatja Karkkainen"
-  affiliation2:  "University of Glasgow"
+  affiliation2: "University of Glasgow"
   author3: "Adele Atkinson"
   affiliation3: "Private consultant"
   presenter: "Georgios A. Panos"
@@ -138,7 +138,7 @@
   slides: "CAL_Order Book Liquidity on Crypto Exchanges_Gramlich"
   approval: true
   remote: false
- 
+
 - paper: "Intraday Herding and Attention around the Clock"
   link: Investments-and-trading_Scharnowski_Shi
   author1: "Stefan Scharnowski"
@@ -150,7 +150,7 @@
   slides: "Slides_Intraday Herding and Attention around the Clock"
   approval: true
   remote: false
- 
+
 - paper: "Bitcoin and News Around the World in Twenty-Six Languages"
   link: Investments-and-trading_Alessi_Ghysels_Petracco_Wang
   author1: "Lucia Alessi"
@@ -166,17 +166,17 @@
   slides: "BTC26_petracco_CAL21"
   approval: true
   remote: false
- 
+
 - paper: "A topic modelling analysis of white papers in security token offerings: which topic matters for funds?"
   link-no: Fungible-and-NF-Tokens_Bongini_Pedrazzoli_Rossolini
   author1: "Paola Bongini"
-  affiliation1: "University of Milano-Bicocca"
+  affiliation1: "Università Milano-Bicocca"
   author2: "Francesco Osborne"
   affiliation2: "The Open University"
   author3: "Alessia Pedrazzoli"
   affiliation3: "University of Modena and Reggio Emilia"
   author4: "Monica Rossolini"
-  affiliation4: "University of Milano-Bicocca"
+  affiliation4: "Università Milano-Bicocca"
   stream: "Fungible-and-NF-Tokens"
   presenter: "Monica Rossolini"
   slides: "Rossolini_CAL2021_Final"
@@ -216,7 +216,7 @@
   slides: "Non-FungibleTokens"
   approval: true
   remote: true
- 
+
 - paper: "The Impact of Tokenisation on Property Law"
   link: Legal-and-regulatory_De-Caria
   author1: "Riccardo de Caria"

@@ -34,7 +34,7 @@ Check out our [yearly conference]({{ site.baseurl }}/calconf).
 
 ## About
 
-[University of Milano-Bicocca](http://www.unimib.it)
+[Università Milano-Bicocca](http://www.unimib.it)
 has been offering a
 "[Bitcoin and Blockchain Technology](http://www.ametrano.net/bbt/)"
 course since the 2015/2016 academic year.
