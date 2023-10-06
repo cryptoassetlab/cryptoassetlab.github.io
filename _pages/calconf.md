@@ -18,7 +18,7 @@ permalink: /calconf/
 
 To complement the scientific program of the conference
 and increase the engagement of innovative market players with the academic community,
-DGI will award the best solution for the responsible adoption of crypto-assets
+DGI will select the best solution for the responsible adoption of crypto-assets
 by private and institutional investors.
 
 See the
