@@ -9,10 +9,21 @@ permalink: /calconf/
 ### CAL2024 Agenda is available at the [dedicated page]({{ site.baseurl }}/cal2024/)
 -->
 
-### Relevant Dates
+### Call for papers: relevant dates
 
 * __November 2, 2023: paper submission__ to [papers@cryptoassetlab.org](mailto:papers@cryptoassetlab.org)
 * December 2, 2023: paper acceptance
+
+### Call for proposals
+
+To complement the scientific program of the conference
+and increase the engagement of innovative market players with the academic community,
+DGI will award the best solution for the responsible adoption of crypto-assets
+by private and institutional investors.
+
+See the
+[call for proposals](https://docs.google.com/document/d/1DnvQI9fPWi8HjNNNY9UcX7xcMBDQhx-mXiVxgppfbdA)
+and apply by December 2, 2023.
 
 ### Conference Theme and Topics
 
