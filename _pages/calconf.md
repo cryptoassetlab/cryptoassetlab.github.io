@@ -60,9 +60,3 @@ Topics include, but are not limited to:
 * Blockchain and cryptography applications
 * Security and privacy challenges
 * Forensics and monitoring
-
-Previous conference editions:
-
-* [CAL2021]({{ site.baseurl }}/cal2021)
-* [CAL2020]({{ site.baseurl }}/cal2020)
-* [CAL2019]({{ site.baseurl }}/2019/06/12/conference.html)
