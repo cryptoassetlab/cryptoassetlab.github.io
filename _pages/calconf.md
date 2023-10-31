@@ -11,7 +11,7 @@ permalink: /calconf/
 
 ### Call for papers: relevant dates
 
-* __November 17, 2023: paper submission__ to [papers@cryptoassetlab.org](mailto:papers@cryptoassetlab.org)
+* __November 17, 2023: full paper submission__ to [papers@cryptoassetlab.org](mailto:papers@cryptoassetlab.org)
 * December 2, 2023: paper acceptance
 
 ### Call for proposals
