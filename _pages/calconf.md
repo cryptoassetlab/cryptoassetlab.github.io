@@ -14,6 +14,8 @@ permalink: /calconf/
 * __November 17, 2023: full paper submission__ to [papers@cryptoassetlab.org](mailto:papers@cryptoassetlab.org)
 * December 2, 2023: paper acceptance
 
+Palgrave will publish the conference proceedings (if authors opt-in).
+
 ### Call for proposals
 
 To complement the scientific program of the conference
