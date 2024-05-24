@@ -15,9 +15,7 @@ and regulatory challenge,
 with special regard for their disruptive role
 in the future of money and finance.
 
-We do not subscribe to the generic unsubstantiated hype
-about blockchain, focusing instead on crypto assets.
-Anyway, we pay attention to the innovations
+We, also, pay attention to the innovations
 in cryptography and blockchain technology,
 given their relevance for privacy,
 security, and other applications
