@@ -15,7 +15,7 @@ and regulatory challenge,
 with special regard for their disruptive role
 in the future of money and finance.
 
-We, also, pay attention to the innovations
+Also, we pay attention to the innovations
 in cryptography and blockchain technology,
 given their relevance for privacy,
 security, and other applications
