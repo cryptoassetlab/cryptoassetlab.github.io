@@ -1,15 +1,15 @@
 ---
-layout: conference2024
+layout: conference2025
 lang: en
-title: CAL2024
-description: The 4th Crypto Asset Lab Conference
+title: CAL2025
+description: The 5th Crypto Asset Lab Conference
 permalink: /calconf/
 ---
 
 ### Call for papers: relevant dates
 
-* __November 17, 2023: full paper submission__ to [papers@cryptoassetlab.org](mailto:papers@cryptoassetlab.org)
-* December 2, 2023: paper acceptance
+* __November 15, 2024: full paper submission__ to [papers@cryptoassetlab.org](mailto:papers@cryptoassetlab.org)
+* December 2, 2024: paper acceptance
 
 ### Conference Theme and Topics
 
