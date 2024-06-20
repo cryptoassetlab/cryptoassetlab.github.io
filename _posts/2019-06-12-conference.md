@@ -14,7 +14,7 @@ iniziativa di ricerca congiunta sul tema dei crypto asset tra
 l’[Università degli Studi di Milano-Bicocca](https://www.unimib.it/) e
 il [Digital Gold Institute](http://dgi.io/).
 
-**Arturo Patarnello**, direttore del *[Dipartimento di Scienze Economico-Aziendali e Diritto per l'Economia](https://www.diseade.unimib.it/it)*, ha aperto i lavori con il saluto istituzionale
+**Arturo Patarnello**, direttore del *[Dipartimento di Scienze Economico-Aziendali e Diritto per l'Economia](https://www.diseade.unimib.it)*, ha aperto i lavori con il saluto istituzionale
 dell'Università di Milano-Bicocca.
 
 **Ferdinando Ametrano**, direttore scientifico del Lab, ne ha presentato i criteri di ispirazione ed orientamento: già dal nome è il fenomeno crypto assets
