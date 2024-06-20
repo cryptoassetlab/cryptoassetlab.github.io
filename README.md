@@ -19,8 +19,8 @@ Also, we pay attention to the innovations
 in cryptography and blockchain technology,
 given their relevance for privacy,
 security, and other applications
-(e.g. [timestamping](http://dgi.io/ots/), see
-[OpenTimestamps](http://opentimestamps.org/)).
+(e.g. [timestamping](https://dgi.io/ots/), see
+[OpenTimestamps](https://opentimestamps.org/)).
 
 CAL is a meeting point between academia, industry,
 institutions, and regulators; we encourage students, researchers,
@@ -32,17 +32,17 @@ Check out our [yearly conference]({{ site.baseurl }}/calconf).
 
 ## About
 
-[Università Milano-Bicocca](http://www.unimib.it)
+[Università Milano-Bicocca](https://www.unimib.it)
 has been offering a
-"[Bitcoin and Blockchain Technology](http://www.ametrano.net/bbt/)"
+"[Bitcoin and Blockchain Technology](https://www.ametrano.net/bbt/)"
 course since the 2015/2016 academic year.
-[DGI](http://dgi.io)
+[DGI](https://dgi.io)
 is a research and development center of excellence about “scarcity in the digital realm”: Bitcoin, crypto-assets, and the underlying blockchain technology.
 Crypto Asset Lab is a joint initiative of Milano-Bicocca and DGI.
 
-[<img src="/img/diseade.png" height="80">](http://www.diseade.unimib.it/it)
+[<img src="/img/diseade.png" height="80">](https://www.diseade.unimib.it/it)
 **+**
-[<img src="/img/dgi-logo.jpg" height="80">](http://dgi.io)
+[<img src="/img/dgi-logo.jpg" height="80">](https://dgi.io)
 **==**
 [<img src="/img/cal.png" height="80">]({{ site.baseurl }})
 

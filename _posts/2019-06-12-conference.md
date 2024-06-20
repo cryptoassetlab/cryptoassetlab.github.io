@@ -12,7 +12,7 @@ published: true
 Si è tenuto il 5 giugno la conferenza di presentazione del *Crypto Asset Lab* (*CAL*),
 iniziativa di ricerca congiunta sul tema dei crypto asset tra
 l’[Università degli Studi di Milano-Bicocca](https://www.unimib.it/) e
-il [Digital Gold Institute](http://dgi.io/).
+il [Digital Gold Institute](https://dgi.io/).
 
 **Arturo Patarnello**, direttore del *[Dipartimento di Scienze Economico-Aziendali e Diritto per l'Economia](https://www.diseade.unimib.it)*, ha aperto i lavori con il saluto istituzionale
 dell'Università di Milano-Bicocca.
@@ -25,7 +25,7 @@ alla tecnologia blockchain sottostante è importante specialmente per i processi
 temporale, ma non è accreditata di particolare significatività generale. Sono disponibili online le [slide del suo intervento]({{ site.baseurl }}/docs/20190605/01-Ametrano.pdf).
 
 È stato poi il turno di **Francesca Mattassoglio**, ricercatore di Diritto dell’Economia dell'Università di Milano-Bicocca e membro della [faculty](/faculty/) del Crypto Asset Lab, che ha presentato la risposta del Lab alla
-[consultazione di Consob](http://www.consob.it/documents/46180/46181/doc_disc_20190319.pdf/64251cef-d363-4442-9685-e9ff665323cf)
+[consultazione di Consob](https://www.consob.it/documents/46180/46181/doc_disc_20190319.pdf/64251cef-d363-4442-9685-e9ff665323cf)
 su “Le offerte iniziali e gli scambi di cripto-attività”. Sempre online anche le sue [slide]({{ site.baseurl }}/docs/20190605/02-Mattassoglio.pdf) oltre che il
 [testo della risposta a Consob]({{ site.baseurl }}/docs/20190605/Risposta-Consob.pdf).
 

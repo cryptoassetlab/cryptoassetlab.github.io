@@ -13,7 +13,7 @@ published: true
 
 The 2nd Crypto Asset Lab Conference was held online on October 27th.
 
-The conference, also known as CAL2020, was co-organized and promoted by [Università degli Studi di Milano-Bicocca](https://www.unimib.it/), [Digital Gold Institute](http://dgi.io/) and [European Commission-Joint Research Centre](https://ec.europa.eu/knowledge4policy/organisation/jrc-joint-research-centre_en)
+The conference, also known as CAL2020, was co-organized and promoted by [Università degli Studi di Milano-Bicocca](https://www.unimib.it/), [Digital Gold Institute](https://dgi.io/) and [European Commission-Joint Research Centre](https://ec.europa.eu/knowledge4policy/organisation/jrc-joint-research-centre_en)
 
 CAL2020 focused on all aspects of bitcoin and crypto assets, especially those pertaining to investment, banking, finance, monetary economics, and regulation.
 

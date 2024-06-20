@@ -9,7 +9,7 @@ author: Staff
 published: true
 ---
 
-Consob ha lanciato a marzo una [consultazione pubblica](http://www.consob.it/documents/46180/46181/doc_disc_20190319.pdf/64251cef-d363-4442-9685-e9ff665323cf) sulle ICO. Crypto Asset Lab ha risposto a questa consultazione: riportiamo una sintesi per punti
+Consob ha lanciato a marzo una [consultazione pubblica](https://www.consob.it/documents/46180/46181/doc_disc_20190319.pdf/64251cef-d363-4442-9685-e9ff665323cf) sulle ICO. Crypto Asset Lab ha risposto a questa consultazione: riportiamo una sintesi per punti
 salienti:
 
 - Il fenomeno delle ICO ha avuto successo perché ha permesso a una significativa liquidità,

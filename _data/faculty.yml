@@ -1,5 +1,5 @@
 - name: "Lucia Alessi"
-  name_link: "http://linkedin.com/in/lucia-alessi-78961a5"
+  name_link: "https://linkedin.com/in/lucia-alessi-78961a5"
   photo: "advisory_board/Alessi-200.jpg"
   affiliations: 1
   affiliation1_role: "Project Leader – Financial stability and risks"
@@ -8,23 +8,23 @@
   affiliation1_company_link: "https://ec.europa.eu/info/departments/joint-research-centre_en"
 
 - name: Ferdinando M. Ametrano
-  name_link: http://ametrano.net/about
+  name_link: https://ametrano.net/about
   photo: team/Ametrano.jpg
   role: Scientific Director
   affiliations: 1
   affiliation1_role: Founder
   affiliation1_role_link:
   affiliation1_company: Digital Gold Institute
-  affiliation1_company_link: http://dgi.io/full-team/
+  affiliation1_company_link: https://dgi.io/full-team/
 
 - name: Paola A. Bongini
-  name_link: http://linkedin.com/in/paola-bongini-7618606
+  name_link: https://linkedin.com/in/paola-bongini-7618606
   photo: team/Bongini.jpg
   affiliations: 1
   affiliation1_role: Full Professor of Banking and Finance, Department of Business and Law
   affiliation1_role_link:
   affiliation1_company: Università Milano-Bicocca
-  affiliation1_company_link: http://www.unimib.it/paola-agnese-bongini
+  affiliation1_company_link: https://www.unimib.it/paola-agnese-bongini
 
 - name: Simone Cortese
   name_link:
@@ -36,34 +36,34 @@
   affiliation1_company_link:
 
 - name: Gianna Figà-Talamanca
-  name_link: http://linkedin.com/in/gianna-fig%C3%A0-talamanca-282a71104
+  name_link: https://linkedin.com/in/gianna-fig%C3%A0-talamanca-282a71104
   photo: team/FigaTalamanca.jpg
   affiliations: 1
   affiliation1_role: Associate Professor of Financial Mathematics, Department of Economics
   affiliation1_role_link:
   affiliation1_company: University of Perugia
-  affiliation1_company_link: http://unipg.it/personale/gianna.figatalamanca
+  affiliation1_company_link: https://unipg.it/personale/gianna.figatalamanca
 
 - name: Gianfranco Forte
-  name_link: http://linkedin.com/in/gianfranco-forte-74968128
+  name_link: https://linkedin.com/in/gianfranco-forte-74968128
   photo: team/Forte.jpg
   affiliations: 1
   affiliation1_role: Assistant Professor of Banking and Finance, Department of Business and Law
   affiliation1_role_link:
   affiliation1_company: Università Milano-Bicocca
-  affiliation1_company_link: http://www.unimib.it/gianfranco-forte
+  affiliation1_company_link: https://www.unimib.it/gianfranco-forte
 
 - name: Francesca Mattassoglio
-  name_link: http://linkedin.com/in/francesca-mattassoglio-93042697
+  name_link: https://linkedin.com/in/francesca-mattassoglio-93042697
   photo: team/Mattassoglio.jpg
   affiliations: 1
   affiliation1_role: Associate Professor of Economic Law, Department of Business and Law
   affiliation1_role_link:
   affiliation1_company: Università Milano-Bicocca
-  affiliation1_company_link: http://www.unimib.it/francesca-mattassoglio
+  affiliation1_company_link: https://www.unimib.it/francesca-mattassoglio
 
 - name: Ricardo Pérez-Marco
-  name_link: http://linkedin.com/in/ricardo-p%C3%A9rez-marco-67b9a2149
+  name_link: https://linkedin.com/in/ricardo-p%C3%A9rez-marco-67b9a2149
   photo: team/Perez-Marco.jpg
   affiliations: 1
   affiliation1_role: Research Director
@@ -78,7 +78,7 @@
   affiliation1_role:
   affiliation1_role_link:
   affiliation1_company: Università Milano-Bicocca
-  affiliation1_company_link: http://www.unimib.it/monica-rossolini
+  affiliation1_company_link: https://www.unimib.it/monica-rossolini
 
 - name: "Antonella Sciarrone Alibrandi"
   name_link: "{{ site.baseurl }}/docs/2019-SCIARRONE-CV-SHORT-EN.pdf"

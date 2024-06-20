@@ -25,9 +25,9 @@ Intervengono:
 
 - **Diego Zuluaga**, Policy Analyst, Center for Monetary and Financial Alternatives, Cato Institute [in collegamento]
 
-Organizzato da [Istituto Bruno Leoni](http://www.brunoleoni.it/criptovalute-cosa-cambia-con-libra) e da [Crypto Asset Lab]({{ site.baseurl }}/2019/07/05/criptovalute-cosa-cambia-con-libra.html)
+Organizzato da [Istituto Bruno Leoni](https://www.brunoleoni.it/criptovalute-cosa-cambia-con-libra) e da [Crypto Asset Lab]({{ site.baseurl }}/2019/07/05/criptovalute-cosa-cambia-con-libra.html)
 
-[<img src="{{ site.url }}{{ site.baseurl }}/img/posts/Logo-IBL-claim-300.jpg" height="80">](http://www.brunoleoni.it/criptovalute-cosa-cambia-con-libra)
+[<img src="{{ site.url }}{{ site.baseurl }}/img/posts/Logo-IBL-claim-300.jpg" height="80">](https://www.brunoleoni.it/criptovalute-cosa-cambia-con-libra)
 [<img src="{{ site.url }}{{ site.baseurl }}/img/cal.png" height="75">]({{ site.baseurl }}/2019/07/05/criptovalute-cosa-cambia-con-libra.html)
 
 - Partecipazione gratuita previa iscrizione: [Eventbrite](https://www.eventbrite.it/e/biglietti-criptovalute-cosa-cambia-con-libra-64718684327)
