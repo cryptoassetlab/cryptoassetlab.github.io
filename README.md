@@ -40,7 +40,7 @@ course since the 2015/2016 academic year.
 is a research and development center of excellence about “scarcity in the digital realm”: Bitcoin, crypto-assets, and the underlying blockchain technology.
 Crypto Asset Lab is a joint initiative of Milano-Bicocca and DGI.
 
-[<img src="/img/bicocca-logo.png" height="80">](http://www.diseade.unimib.it/it)
+[<img src="/img/diseade.png" height="80">](http://www.diseade.unimib.it/it)
 **+**
 [<img src="/img/dgi-logo.png" height="80">](http://dgi.io)
 **==**
