@@ -42,7 +42,7 @@ Crypto Asset Lab is a joint initiative of Milano-Bicocca and DGI.
 
 [<img src="/img/diseade.png" height="80">](http://www.diseade.unimib.it/it)
 **+**
-[<img src="/img/dgi-logo.png" height="80">](http://dgi.io)
+[<img src="/img/dgi-logo.jpg" height="80">](http://dgi.io)
 **==**
 [<img src="/img/cal.png" height="80">]({{ site.baseurl }})
 
