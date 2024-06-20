@@ -48,8 +48,6 @@ Crypto Asset Lab is a joint initiative of Milano-Bicocca and DGI.
 
 ## Social Networks
 
-[<img src="/img/twitter_x.png" height="80">](https://x.com/CryptoAssetLab)
-
-[<img src="/img/linkedin.png" height="80">](https://www.linkedin.com/company/cryptoassetlab)
-
-[<img src="/img/facebook.png" height="80">](https://www.facebook.com/CryptoAssetLab)
+[<img src="/img/twitter_x.png" height="40">](https://x.com/CryptoAssetLab)
+[<img src="/img/linkedin.png" height="40">](https://www.linkedin.com/company/cryptoassetlab)
+[<img src="/img/facebook.png" height="40">](https://www.facebook.com/CryptoAssetLab)
