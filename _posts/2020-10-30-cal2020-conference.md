@@ -40,6 +40,6 @@ Selected papers presented at the conference are invited for submission to the sp
 
 Registrations of each session is available in the videos at [the conference program page]({{ site.baseurl }}/cal2020/).
 
-Last, but not least, we thank our sponsors: CheckSig, The Rock Trading, and Deloitte.
+Last, but not least, we thank our partners: CheckSig, The Rock Trading, and Deloitte.
 
 We look forward to a continued engagement with you all, on all topics concerning crypto assets, hopefully leading to CAL2021, the 3rd Crypto Asset Lab conference in 2021.
