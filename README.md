@@ -8,10 +8,15 @@ permalink: /
 ### Mission Statement
 
 The [Crypto Asset Lab]({{ site.baseurl }}) (CAL)
-is a research initiative
-on bitcoin and crypto assets
-as investment opportunity, fintech innovation,
-and regulatory challenge,
+is a joint research initiative by the
+[Department of Business and Law of Università di Milano-Bicocca](https://www.diseade.unimib.it/en)
+and the
+[Digital Gold Institute](https://www.dgi.io).
+
+Our focus is on
+bitcoin and crypto assets as investment opportunity,
+fintech innovation,
+and regulatory challenges,
 with special regard for their disruptive role
 in the future of money and finance.
 
@@ -29,16 +34,6 @@ research, development, training, teaching, and
 other experimental activities.
 
 Check out our [yearly conference]({{ site.baseurl }}/calconf).
-
-## About
-
-[Università Milano-Bicocca](https://www.unimib.it)
-has been offering a
-"[Bitcoin and Blockchain Technology](https://www.ametrano.net/bbt/)"
-course since the 2015/2016 academic year.
-[DGI](https://dgi.io)
-is a research and development center of excellence about “scarcity in the digital realm”: Bitcoin, crypto-assets, and the underlying blockchain technology.
-Crypto Asset Lab is a joint initiative of Milano-Bicocca and DGI.
 
 [<img src="/img/diseade.png" height="80">](https://www.diseade.unimib.it/it)
 **+**
