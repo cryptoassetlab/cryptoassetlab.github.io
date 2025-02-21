@@ -126,7 +126,6 @@
   remote: true
 
 - paper: "Order Book Liquidity on Crypto Exchanges"
-  link: Investments-and-trading_Angerer_Gramlich_Hanke
   author1: "Martin Angerer"
   affiliation1: "University of Liechtenstein"
   author2: "Marius Gramlich"
@@ -140,7 +139,6 @@
   remote: false
 
 - paper: "Intraday Herding and Attention around the Clock"
-  link: Investments-and-trading_Scharnowski_Shi
   author1: "Stefan Scharnowski"
   affiliation1: "University of Mannheim"
   author2: "Yanghua Shi"
